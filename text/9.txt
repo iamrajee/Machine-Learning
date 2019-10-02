@@ -1,0 +1,1867 @@
+This article was downloaded by: [143.169.185.95] On: 29 March 2018, At: 14:00
+Publisher: Institute for Operations Research and the Management Sciences (INFORMS)
+INFORMS is located in Maryland, USA
+Organization Science
+Publication details, including instructions for authors and subscription information:
+http://pubsonline.informs.org
+Adverse Effects of CEO Family-to-Work Conflict on Firm
+Performance
+Christopher S. Reina, Suzanne J. Peterson, Zhen Zhang
+To cite this article:
+Christopher S. Reina, Suzanne J. Peterson, Zhen Zhang (2017) Adverse Effects of CEO Family-to-Work Conflict on Firm
+Performance. Organization Science 28(2):228-243. https://doi.org/10.1287/orsc.2017.1114
+Full terms and conditions of use: http://pubsonline.informs.org/page/terms-and-conditions
+This article may be used only for the purposes of research, teaching, and/or private study. Commercial use
+or systematic downloading (by robots or other automatic processes) is prohibited without explicit Publisher
+approval, unless otherwise noted. For more information, contact permissions@informs.org.
+The Publisher does not warrant or guarantee the article’s accuracy, completeness, merchantability, fitness
+for a particular purpose, or non-infringement. Descriptions of, or references to, products or publications, or
+inclusion of an advertisement in this article, neither constitutes nor implies a guarantee, endorsement, or
+support of claims made of that product, publication, or service.
+Copyright © 2017, INFORMS
+Please scroll down for article—it is on subsequent pages
+INFORMS is the largest professional society in the world for professionals in the fields of operations research, management
+science, and analytics.
+For more information on INFORMS, its publications, membership, or meetings visit http://www.informs.orgORGANIZATION SCIENCE
+Vol. 28, No. 2, March–April 2017, pp. 228–243
+ISSN 1047-7039 (print), ISSN 1526-5455 (online)
+http://pubsonline.informs.org/journal/orsc/
+Adverse Effects of CEO Family-to-Work Conflict on
+Firm Performance
+Christopher S. Reina, a Suzanne J. Peterson, b Zhen Zhang c
+a Department
+of Management, School of Business, Virginia Commonwealth University, Richmond, Virginia 23284; b Thunderbird School of
+Global Management, Arizona State University, Glendale, Arizona 85306; c Department of Management and Entrepreneurship, W. P. Carey
+School of Business, Arizona State University, Tempe, Arizona 85287
+Contact: csreina@vcu.edu (CSR); suzanne.peterson@thunderbird.asu.edu (SJP); zhen.zhang@asu.edu (ZZ)
+Received: February 13, 2016
+Revised: June 29, 2016; October 31, 2016
+Accepted: December 15, 2016
+Published Online in Articles in Advance:
+March 20, 2017
+https://doi.org/10.1287/orsc.2017.1114
+Copyright: © 2017 INFORMS
+Abstract. We examine whether chief executive officers’ (CEOs’) experiences occurring
+outside the work domain influence the performance of their respective firms. We suggest
+that the family-to-work conflict (FWC) that CEOs experience depletes their ability to self-
+regulate, thereby reducing their ability to make appropriately comprehensive decisions for
+their firms. This reduced decision-making comprehensiveness, in turn, has negative impli-
+cations for firm performance. We further propose that CEOs’ levels of job engagement,
+or the extent to which they invest themselves in their work, can expand their capacity to
+withstand the negative effects of self-regulatory depletion. We test our hypotheses using
+a sample of 98 CEOs from the United States computer software and hardware industry.
+Findings confirm that reduced decision-making comprehensiveness represents one mech-
+anism by which the experience of FWC in CEOs harms the performance of their firms.
+Moreover, CEO job engagement buffers both the negative effect of CEO FWC on decision-
+making comprehensiveness and the strength of the indirect relationship between FWC
+and firm performance via decision-making comprehensiveness.
+Keywords: CEO family-to-work conflict • CEO decision making • firm performance • CEO job engagement
+Introduction
+1997, Konrad and Mangel 2000). Our study combines
+both micro and macro perspectives to consider the role
+that CEOs’ home lives play in bringing about compet-
+itive advantage and, as such, links FWC to firm per-
+formance and specifies the mechanism by which this
+relationship operates. This is an important relationship
+to study given the societal tendency to see top execu-
+tives as larger than life (Khurana 2002) and uniformly
+highly motivated and able to achieve high levels of suc-
+cess (Donaldson and Lorsch 1983). The executive-job-
+demands literature states that CEOs differ from one
+another in the demands placed on them (Hambrick
+et al. 2005), and we extend this line of thinking by sug-
+gesting that nonwork demands on CEOs are similarly
+important to what ultimately occurs at work. Specif-
+ically, the present study investigates whether FWC
+negatively affects CEOs by diminishing their strategic
+decision-making abilities, which will be particularly
+detrimental for the performance of their firms. Such an
+examination is significant given that there has been a
+limited discussion of the mechanisms by which FWC
+affects business-level outcomes such as firm perfor-
+mance (Kelly et al. 2008). In short, although it makes
+sense that FWC would affect the CEO and their firms
+in some way, we do not yet understand why or how
+this is the case.
+To better answer this question, we draw on the
+self-regulation (Bandura 1991, Baumeister et al. 1994,
+Upper-echelons research suggests that chief executive
+officers’ (CEOs’) attributes and personality traits influ-
+ence strategic decision processes and actions (Miller
+and Toulouse 1986, Nadkarni and Herrmann 2010,
+Peterson et al. 2003, Resick et al. 2009), and have impli-
+cations for firm performance (Hambrick and Mason
+1984, Hambrick 2007). The research stream in upper
+echelons is well developed when it comes to the per-
+sonality traits that drive CEO behavior, but other fac-
+tors such as personal experiences occurring outside of
+the work domain have been explored far less. However,
+recent work has suggested that the events that hap-
+pen to CEOs outside of work have important firm-level
+implications (Bennedsen et al. 2007, Dahl et al. 2012,
+Liu and Yermack 2012). Motivated by this growing lit-
+erature, we leverage work on executive job demands
+(Hambrick et al. 2005), proposing that CEOs differ in
+the levels of personal conflict they experience at home
+which influence work behavior and can explain vari-
+ance in firm outcomes.
+There are a growing number of studies that demon-
+strate the detrimental effects that family-to-work con-
+flict (FWC) has on employees in general (see Amstad
+et al. 2011 for a meta-analysis) and on followers of lead-
+ers who experience FWC specifically (ten Brummelhuis
+et al. 2013). Additionally, researchers have proposed
+that effectively managing work–family issues at a firm
+level can be a source of competitive advantage (Coff
+228Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+Carver and Scheier 1981, Ryan et al. 1997) and resource-
+depletion (Edwards and Rothbard 2000, Rothbard
+2001) literatures to examine the cognitive process
+through which the negative effects of FWC among
+CEOs occurs. According to these literatures, individu-
+als have a finite pool of resources which can be used up
+such that they are no longer available (Eckenrode and
+Gore 1990) leaving them with a limited set of resources
+to cope with the demands they face (Baumeister et al.
+1998, Baumeister and Vohs 2007. We theorize that FWC
+reduces a CEO’s ability to self-regulate by depleting
+the cognitive resources required to seek out and pro-
+cess information to make informed strategic decisions.
+In other words, it limits CEOs’ ability to make compre-
+hensive decisions which, in turn, negatively impacts
+firm performance.
+We further propose that CEOs have differing
+amounts of resource pools to call upon in order to ef-
+fectively cope with the negative effects of FWC and
+that the amount of these resources available depends
+on the extent to which CEOs are fully immersed in
+their work. Rothbard (2001) proposed that individuals
+who experience depleting effects in the family domain
+may engage more fully at work as a way of compen-
+sating for the resource depletion occurring at home.
+In short, we suggest that CEOs who fully engage—
+that is, direct their full set of resources toward their
+work role (Kahn 1990)—will be better able to function
+effectively from a decision-making perspective despite
+facing high amounts of FWC.
+Our research makes several contributions to the lit-
+erature. First, we introduce self-regulation (Carver and
+Scheier 1981, Ryan et al. 1997) as an overarching frame-
+work to complement our understanding of upper ech-
+elons theory (Hambrick and Mason 1984, Hambrick
+2007) which has traditionally been used to explain
+CEO strategic action. More specifically, we introduce
+the personal conflict that occurs outside of work as
+one factor that can affect relevant behavior of those
+within a firm’s upper echelons. We additionally build
+off recent research which uses a self-regulation frame-
+work to suggest that individuals opt to perform tasks
+which require fewer self-regulatory resources when
+they experience the depleting effects of work interfer-
+ing with their home lives (i.e., work-to-family conflict,
+Dahm et al. 2015). We expect similar depletion to occur
+when family interferes with work responsibilities (i.e.,
+family-to-work conflict). Second, we explicitly exam-
+ine decision-making comprehensiveness as a cognitive
+mechanism by which FWC reduces effective decision
+making due to its resource depleting effects (Edwards
+and Rothbard 2000). Previously, resource depletion has
+been shown to reduce subsequent performance on cog-
+nitive tasks (Pocheptsova et al. 2009, Vohs et al. 2005),
+and further empirical tests of cognitive mechanisms
+229
+within the family–work literature represent an impor-
+tant area for future research (e.g., Shockley and Allen
+2014). We propose that an understanding of the cog-
+nitive implications of FWC are particularly important
+when considering senior executives. This is because
+the notable and often daily decisions CEOs make have
+far-reaching implications for the entire firm. Third, we
+investigate whether the level of CEO job engagement
+interacts with their level of FWC to ultimately pre-
+dict how cognitively depleted CEOs become. CEOs
+who have more work resources available due to high
+engagement at work, will be better able to absorb the
+negative effects of FWC and thus will become less
+depleted than those CEOs who devote fewer resources
+to work via low job engagement.
+Theoretical Background
+Decision-Making Comprehensiveness
+Although multiple mechanisms exist that link work
+and family domains (e.g., Rothbard 2001), we focus
+primarily on the cognitive mechanism of decision mak-
+ing in this study as an important determinant of firm
+performance. Given that the strategy of an organi-
+zation and ultimately its performance is determined
+by the decisions made by top organizational lead-
+ers (Fredrickson and Mitchell 1984), a focus on the
+cognitive implications of CEOs experiencing FWC is
+important. Strategic decision-making comprehensive-
+ness refers to the extent to which firm leaders seek
+out and process information from the external environ-
+ment in order to make high-quality, informed strategic
+decisions (Fredrickson 1984, Fredrickson and Mitchell
+1984, Ireland and Miller 2004, Miller et al. 1998). It
+pertains to the amount of exhaustiveness and inclu-
+sivity in searching for information using “multiple
+approaches, multiple courses of action, and multiple
+decision criteria in evaluating and selecting alternative
+courses of action” (Atuahene-Gima and Li 2004, p. 584).
+In general, research on strategic decision making has
+demonstrated that the more information sought out
+by members of the top management team (TMT), the
+more effective a firm is in staying ahead of the innova-
+tion curve by realizing potential opportunities to create
+new products and services (Alexiev et al. 2010).
+Importantly, decision-making comprehensiveness
+should not be confused with collecting information in-
+definitely. In other words, decision-making speed and
+quality do not represent an inevitable trade-off. In fact,
+previous research has shown that fast decision mak-
+ers use more, not less, information than slow deci-
+sion makers and develop more, not fewer, alternatives,
+thereby increasing decision quality (Eisenhardt 1989).
+Therefore, it is not necessarily the case that fast decision
+makers forgo information in favor of speed. Rather,
+they move through the information-gathering process
+faster than their slower decision-making counterparts.230
+Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+The result is that comprehensive decision makers are
+known for seeking out the optimal amount of informa-
+tion (regardless of speed) before making a decision to
+avoid major decision failures (Nutt 2004). This is con-
+sistent with theorizing that differentiates individuals
+according to whether they choose the option that max-
+imizes utility or the option that is simply good enough
+(Parker et al. 2007, Schwartz et al. 2002). We suggest
+that decision-making comprehensiveness is similar to
+behavior that maximizes utility. Maximizing utility has
+been linked to positive outcomes in contexts where the
+information matters a great deal in determining ulti-
+mate success or failure (Schwartz et al. 2002), such as
+the high-stakes decision-making situations CEOs find
+themselves in daily.
+Integrating Self-Regulation and CEO Psychology
+with Upper Echelons
+To date, the literature on CEO psychology stems from
+the upper-echelons perspective, which purports that
+psychological characteristics of CEOs influence impor-
+tant organizational outcomes by filtering how CEOs
+construe the reality of strategic situations, thus dis-
+posing them toward certain choices (Finkelstein and
+Hambrick 1996). Previous research has found that
+CEOs differ in the amount of job demands placed on
+them, which has implications for their work perfor-
+mance (Hambrick et al. 2005). We extend this line of
+thinking by suggesting that CEOs also differ in the
+amount of personal demands placed on them from
+the home domain, and that this may also have impor-
+tant implications for their work performance. In doing
+so, we integrate work on self-regulation and resource
+drain to account for the effects of CEOs’ FWC in pre-
+dicting strategic outcomes.
+Self-regulation refers to individuals’ capacity to con-
+trol their behaviors and to adapt these behaviors based
+on a wide variety of demands (Baumeister and Vohs
+2007). The self-regulatory resource approach likens the
+capacity for self-regulation to a strength or energy-
+based model in which individuals have limited sup-
+plies of resources that can become depleted (Baumeis-
+ter and Heatherton 1996). Individuals use similar
+cognitive and emotional regulation resources across a
+variety of tasks (Baumeister et al. 2001, Muraven et al.
+1998), which means that these resources can become
+depleted and thus unavailable for subsequent use. The
+ability to self-regulate has been linked to positive out-
+comes such as higher adjustment, interpersonal suc-
+cess, and a wide variety of performance outcomes
+(VandeWalle et al. 1999, see Cellar et al. 2011 for meta-
+analysis). We suggest that self-regulation theory is an
+especially relevant and complementary theoretical per-
+spective for the upper-echelons literature to take into
+account because it provides an explanatory mechanism
+to understand how characteristics of CEOs beyond
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+their personality (e.g., Big 5 personality and narcis-
+sism) can impact organizational outcomes. That is, self-
+regulation theory offers a perspective on how other
+personal factors in CEOs (e.g., nonwork demands) can
+influence firm performance.
+Self-regulation theory also includes a theoretical
+explanation for how individuals can reduce the detri-
+mental effects of cognitive depletion. First, individu-
+als who are highly engaged in their jobs when ex-
+periencing FWC will start from a place of having
+more resources available to them to use in the work
+domain even if they experience the depleting effects
+of FWC. This is similar to the enrichment perspec-
+tive on resources that suggests that individuals who
+invest resources via engagement toward a specific
+domain will experience increased resources in that do-
+main, effectively building up the resource pool and
+building up capacity against resource loss (Edwards
+and Rothbard 2000, Rothbard 2001). In other words,
+those individuals who have higher resources invested
+toward work effectively expand their capacity to with-
+stand the negative effects of self-regulatory depletion.
+Thus, how depleted an individual becomes is a func-
+tion of both how many resources the individual starts
+with and the degree to which FWC drains these exist-
+ing resources.
+CEO Family-to-Work Conflict
+Defined as the extent to which one’s work responsi-
+bilities are made more difficult by family responsibili-
+ties (Frone et al. 1997), FWC can refer to any situation,
+positive or negative, that distracts a person from his or
+her job that occurs away from work, such as care for a
+sick parent, a divorce, the purchase of a home, or the
+birth of a child. Given that we are explicitly interested
+in understanding how CEOs’ nonwork lives affect their
+work lives (and not how CEO’s work lives affect their
+nonwork lives), we study FWC rather than work-to-
+family conflict (Frone et al. 1997). Although there exists
+some empirical work linking work–family initiatives
+with firm financial performance (see Kelly et al. 2008 for
+a review), research linking employees’ levels of conflict
+experienced at home to firm-level outcomes is sparse,
+as is discussion of the specific mediating mechanisms
+that transmit these negative effects. Evidence suggests
+that the events in the private lives of CEOs have impli-
+cations for the firms they lead. For example, research
+has demonstrated that future company performance
+deteriorated after CEOs purchased mega-mansions or
+extremely lavish homes (Liu and Yermack 2012), that
+the death of a CEO’s family member can affect the prof-
+itability of the firm by up to 21.7% (Bennedsen et al.
+2007), and changes in relationship status correspond
+with higher levels of overall firm riskiness (Nicolosi
+and Yore 2015). Research also demonstrates that the
+FWC experienced by leaders spills over to the work-
+place and predicts both leader and follower burnoutReina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+(ten Brummelhuis et al. 2013). Previous research has
+also found that FWC results in negative, emotionally
+laden outcomes such as higher burnout/exhaustion,
+higher hostility, lower satisfaction, and lower subjec-
+tive well-being (ten Brummelhuis et al. 2011; see Eby
+et al. 2005 for an overview). Individuals who expend
+resources in the family domain experience drain and
+depletion, which reduces the self-regulatory resources
+that can then be used in the work domain and may lead
+to energy loss and fatigue (Edwards and Rothbard 2000,
+Rothbard 2001).
+Hypothesis Development
+CEO Family-to-Work Conflict and Decision-Making
+Comprehensiveness
+According to self-regulation theory, resource depletion
+occurs when an individual experiences a reduction in
+the amount of resources available (Baumeister et al.
+1998, Baumeister and Vohs 2007, Vohs et al. 2005).
+Given that time and strain-based stressors occur in the
+family domain and require cognitive and emotional
+self-regulatory resources to ensure that individuals can
+successfully navigate these challenges, it follows that
+these individuals will have fewer resources left for sub-
+sequent self-regulation in the work domain. In other
+words, since “self-regulation presumably consumes
+resources because the self must override one response
+and then substitute a different response, and energy
+is needed to perform these interrupt and initiate func-
+tions” (Vohs et al. 2008, p. 854), dealing with issues
+in the family domain has depleting effects for indi-
+viduals in the workplace. Extending this logic to our
+study, we theorize that for CEOs experiencing FWC,
+resources will be depleted as their cognitive and emo-
+tional resources are spent in the family domain, which
+has detrimental effects for work-related process such as
+decision making.
+Recent research has explicated the need to delve
+deeper into the determinants of decision making
+(Reynolds 2006). From the perspective of self-regulation
+theory, decision making requires that individuals uti-
+lize high-level cognitive processing to take into account
+multidimensional information that is laden with ambi-
+guities (Bandura and Jourden 1991). Emotional pro-
+cessing similarly plays a prominent role in the deci-
+sion-making process (Schwarz 2000) as well as the
+process of self-regulation (Carver and Scheier 1990),
+such that individuals who are emotionally or cog-
+nitively depleted due to prior self-regulation will
+have fewer resources available for subsequent self-
+regulation (Vohs et al. 2005). Indeed, recent research
+found that individuals who expend resources at home
+during the evening experience depletion at work the
+next day, which importantly suggests the longevity
+of depletion effects (Lanaj et al. 2014). As a result of
+this prior self-regulation in the family domain, CEOs
+231
+will have fewer resources to devote to decision mak-
+ing such that they are likely to search less intensely
+for information, rely on unidimensional logic, and
+be less likely to compromise, all of which have been
+shown to result in less comprehensive decisions being
+made (Baumeister et al. 2008). This is also consistent
+with research on resource drain and depletion such
+that when finite resources are used up, they become
+unavailable for future use, leading to diminished per-
+formance (Eckenrode and Gore 1990, Edwards and
+Rothbard 2000, Rothbard 2001) even for tasks that
+occur across domains that may be separated by several
+hours (Barnes et al. 2012, Lanaj et al. 2014).
+These predictions are consistent with experimen-
+tal research that has demonstrated that partici-
+pants with depleted self-regulatory resources are less
+likely than those in the control condition to think
+through an issue comprehensively and instead tend
+to rely on simpler, less-involved information process-
+ing (Pocheptsova et al. 2009). These findings are also
+aligned with the strategic-decision-making literature
+which suggests that organizational decision making
+is characterized by the limited cognitive capacities of
+decision makers (Eisenhardt and Zbaracki 1992) and
+that this bounded rationality becomes more salient
+when demands on executives are high (Hambrick
+et al. 2005). Bounded rationality refers to individuals’
+attempts to be comprehensive in their decision making
+but undoubtedly falling short due to their cognitive
+limitations (Cyert and March 1963, Simon 1945). Thus,
+CEOs who are experiencing high levels of demands
+at home “take mental shortcuts and engage in limited
+search to arrive at their choices” at work, and as more
+demands are placed on executives, the “more remote
+strategic rationality becomes” (Hambrick et al. 2005,
+p. 478). Given that CEOs must work closely with other
+TMT members to make strategic decisions for the firm
+(Hambrick 2007) and that the experiences and charac-
+teristics of the TMT impact strategic decision making
+(Clark and Maggitti 2012), a failure to seek out infor-
+mation from a variety of sources and/or an inability
+to compromise due to self-regulatory depletion and
+increased bounded rationality will ultimately lead to a
+CEO making less comprehensive decisions. Based on
+this line of reasoning, we predict the following:
+Hypothesis 1. CEO family-to-work conflict is negatively
+related to CEO decision-making comprehensiveness.
+CEO Decision-Making Comprehensiveness and
+Firm Performance
+Previous research has supported a positive relation-
+ship between decision-making comprehensiveness and
+firm performance, rationalizing that leaders who seek
+out more information and consider this information
+carefully before making a decision will ultimately
+make better decisions for the firms (Miller et al. 1998,232
+Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Priem et al. 1995). Other research has demonstrated
+that the seeking out of information on behalf of TMT
+members has positive implications for firm-level inno-
+vation (Alexiev et al. 2010). Despite these main-effect
+findings, other research has identified potential mod-
+erators of the relationship between these two variables.
+For example, research has shown a negative relation-
+ship between these two variables when firms are in
+unstable environments characterized by high uncer-
+tainty (Fredrickson and Mitchell 1984) but a positive
+relationship in stable environments (Fredrickson 1984).
+The rationale for these moderation findings was that
+for firms that must make decisions quickly, too much
+comprehensiveness significantly slowed down deci-
+sion speed, which ultimately compromised a firm’s
+ability to keep up with competitors (Forbes 2007).
+In the context of this study, the components man-
+ufacturing (CM) segment of the computer hardware
+industry, the environment can be characterized as rela-
+tively more stable compared to the computer software
+industry and to its industry counterpart, the origi-
+nal equipment manufacturers (OEMs). OEMs produce
+personal computers, servers, and workstations. Com-
+petition is considerably more fierce on the OEMs side
+of the industry compared to the companies in our sam-
+ple, which are the component companies who supply
+parts to the OEMs. The environment for our sampled
+companies is more stable than for the OEMs because
+OEMs tend to stick with one component supplier for
+longer lengths of time due to long sales cycles and high
+switching costs. Based on our current context, we argue
+that the extent to which these firms’ CEOs seek out and
+carefully analyze as much information as possible pro-
+vides a critical competitive advantage over other CEOs
+that take less information into account when making
+important organizational decisions. These CEOs will
+get very few chances to make the right decision on
+how to position themselves relationally with the larger
+OEMs and so they must take advantage of the infor-
+mation available about their markets and customers
+to be seen as credible when selling themselves and
+their products. This reasoning is in line with previous
+empirical and theoretical research that has argued that
+in situations where analyzable information is available,
+CEOs who make decisions characterized by compre-
+hensiveness will achieve better performance outcomes
+(Atuahene-Gima and Li 2004, Forbes 2007). This is
+because analyzable information left on the table will
+confer a competitive advantage to other firms who
+do take advantage of this information. This is simi-
+lar to the argument made within the maximizing and
+satisficing literature that “searching for information,
+asking questions, and striving to attain the best [deci-
+sion] available” (a maximizing approach) is superior
+to selecting a “good enough” decision based on less
+information (a satisficing approach), especially when
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+the outcome matters a great deal (Schwartz et al. 2002,
+p. 1194). Following this logic, we suggest that the deci-
+sion making of CEOs matters a great deal in affect-
+ing the future trajectory of their firms and that those
+firms whose CEOs aggressively seek out and make use
+of available information will outperform those firms
+whose CEOs who do not pursue comprehensive deci-
+sion making. Thus, we predict the following:
+Hypothesis 2. CEO decision-making comprehensiveness
+is positively related to firm performance.
+The Mediating Role of Decision-Making
+Comprehensiveness
+Our Hypothesis 1 predicts a negative relationship
+between CEOs’ FWC and decision-making compre-
+hensiveness, and Hypothesis 2 predicts a positive
+relationship between CEOs’ decision-making compre-
+hensiveness and firm performance. Taken together,
+these hypotheses specify a model in which CEO FWC
+affects firm performance through influencing of the
+CEOs’ strategic decision-making process. This notion
+is in line with self-regulation theory (Bandura 1991,
+Baumeister et al. 1994, Carver and Scheier 1981).
+Specifically, when individuals invest valuable cog-
+nitive and psychological resources in self-regulation
+activities in the family domain, these resources are
+not available for self-regulation activities in the work
+domain. At the level of CEOs, decreased ability to
+self-regulate is detrimental for decision-making com-
+prehensiveness; in turn, this detriment ultimately con-
+tributes to decreased firm performance (Eisenhardt
+1989, Priem et al. 1995). Accordingly, we anticipate that
+CEO decision-making comprehensiveness carries the
+effect of CEO FWC on firm performance. Following
+Mathieu and Taylor (2006), we thus predict an indirect
+relationship:
+Hypothesis 3. CEO family-to-work conflict has a negative
+indirect effect on firm performance via the mediating effect of
+CEO decision-making comprehensiveness.
+The Moderating Role of CEO Job Engagement
+Job engagement represents a “relatively enduring state
+of mind referring to the simultaneous investment of
+personal energies in the experience of performance
+of work” (Christian et al. 2011, p. 95) and holistically
+accounts for individuals’ simultaneous investment of
+cognitive, emotional, and physical energy into their
+work roles (May et al. 2004, Kahn 1990, Rich et al. 2010).
+According to the strength or capacity model of self-
+regulation (Baumeister and Heatherton 1996), indi-
+viduals have a limited amount of resources available
+to utilize throughout the day, and these can become
+depleted (Eckenrode and Gore 1990, Edwards and
+Rothbard 2000). This is similar to the analogy of a
+battery—the capacity of the battery at a given timeReina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+represents the amount of resources available to be har-
+nessed. Extending the battery analogy to the realm
+of the CEO, we suggest that CEOs who commit high
+amounts of resources to work via engagement effec-
+tively have higher-capacity batteries to harness at work.
+Conservation of resource (COR) (Hobfoll 1989, 2002)
+theory posits that individuals utilize the resources they
+have to further guard against the loss of resources. In
+this study, we hypothesize that job engagement repre-
+sents an important resource which CEOs can harness
+to protect or buffer themselves from the further loss
+of resources. The self-regulatory depletion or “load”
+that high levels of FWC puts on the battery will then
+not result in the battery running down as quickly as
+it would if the amount of work resources stemming
+from fully engaging at work were less (i.e., CEOs who
+engage less fully at work have lower-capacity batter-
+ies to draw from at work). We thus propose that job
+engagement at work increases total available resources
+rather than serving to further deplete resources, con-
+sistent with theoretical (Hobfoll 1989, 2002) and empir-
+ical work which has found that job engagement can act
+as a resource to buffer against the depletive effects of
+working long hours (ten Brummelhuis et al. 2016). In
+other words, although FWC may deplete resources and
+negatively affect CEOs, those CEOs who have ample
+resources available at work due to their high level of job
+engagement will not become as depleted as quickly—
+similar to how a fully charged battery will not run
+down as quickly as a half-charged battery.
+Research on executive job demands proposes that
+despite the commonly held idea that CEOs are all sim-
+ilar in their motivation to perform and in their aspi-
+rations for high levels of success, this is not the case
+(Hambrick et al. 2005). Conversely, CEOs may be moti-
+vated simply to maintain their organizations or to per-
+form “merely credibly” rather than to deliver maxi-
+mum organizational performance. This is an important
+point, because it suggests that CEOs, like all workers,
+may differ in the ultimate level of engagement they
+bring to work and the capacity they have to draw from
+due to how they have invested their energy. When it
+comes to strategic decision making, CEOs who expe-
+rience significant demands placed on them (such as
+high levels of FWC) will rely on the resources they
+have available to them, and those CEOs who already
+have an expanded pool of energy resources via engage-
+ment will be better able to combat the draining effects
+of these high demands. In other words, what hap-
+pens at home may deplete a CEO’s resources and affect
+his or her work performance, but the net depletion of
+cognitive resources at work is a function of both the
+total resources invested at work (capacity of the bat-
+tery represented by job engagement) and the level of
+drain put on the battery (represented by FWC). Sup-
+porting the enriching (rather than depleting) effect of
+233
+resources, previous research has demonstrated that it
+is possible for individuals to both experience high lev-
+els of negative emotions from the family domain and
+simultaneously maintain high levels of absorption or
+engagement in work (Rothbard 2001), and that high
+levels of job engagement can ultimately buffer individ-
+uals from the negative health effects of workaholism
+(ten Brummelhuis et al. 2016).
+CEOs who have high job engagement have ample
+reservoirs of cognitive, emotional, and physical capac-
+ity to harness. Engaging physically is akin to CEOs
+consciously putting increased time and effort into their
+work. When engaging cognitively, CEOs are attentive,
+vigilant, and focused. By engaging emotionally, CEOs
+focus their feelings and emotional energy toward their
+work. When all three facets work together synergisti-
+cally, CEOs are fully engaged and have more capacity
+to protect against the resource drain so that they do not
+reach a level of critical depletion as quickly. In other
+words, the level of CEO job engagement represents
+the size of the battery CEOs have available to use for
+their daily tasks as a CEO and thus buffers them from
+the negative effects of resource depletion. If CEOs are
+highly engaged and thus have high levels of cognitive,
+emotional, and physical resources available through-
+out the day (i.e., a large capacity), the net negative
+effect of FWC as a resource drain will be less, and they
+will be less likely to have their battery reach a critically
+low level where their decision-making comprehensive-
+ness would suffer. Further, we build off of research
+demonstrating that engagement at work can lead to
+more resources being created (such as positive affect),
+which can then have important implications for indi-
+viduals’ home lives (Rothbard 2001). In other words,
+work engagement expands total resources available for
+subsequent use, supporting an enriching (rather than
+depleting) effect of engagement on resource reserves.
+In sum, we hypothesize the following:
+Hypothesis 4. The relationship between CEO family-to-
+work conflict and decision-making comprehensiveness is
+moderated by CEO job engagement. Specifically, the nega-
+tive relationship between family-to-work conflict and deci-
+sion-making comprehensiveness is stronger for CEOs who
+have low job engagement than for CEOs who have high job
+engagement.
+We have hypothesized an indirect relationship be-
+tween CEO FWC and firm performance via decision-
+making comprehensiveness (Hypotheses 1–3). We then
+hypothesized that CEO job engagement will moder-
+ate the relationship between CEO FWC and decision-
+making comprehensiveness (Hypothesis 4). Taken
+together, we expect that CEO job engagement will mod-
+erate the indirect relationship between CEO FWC and
+firm performance via decision-making comprehensive-
+ness, thereby demonstrating a pattern of first-stage234
+Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+moderated mediation Edwards and Lambert (2007).
+We expect that CEO FWC is more likely to negatively
+and indirectly relate to firm performance (via decision-
+making comprehensiveness) in situations when the
+first-stage relationship is more negative (i.e., when CEO
+job engagement is low). We thus expect the following:
+Hypothesis 5. CEO job engagement moderates the strength
+of the indirect relationship between CEO family-to-work con-
+flict and firm performance (via decision-making comprehen-
+siveness). Specifically, the indirect effect of family-to-work
+conflict on firm performance is more negative when CEOs’
+job engagement is lower rather than higher.
+Method
+Sample and Procedure
+We collected data from both CEOs and their chief
+financial officers (CFOs) from 98 computer software
+and hardware companies based across a three-state
+region of the western United States. Seventy-nine per-
+cent of the firms were privately held with a mean
+firm age of 12.1 years. A majority of the firms were
+small- to medium-sized enterprises (SMEs), and their
+sizes ranged from fewer than 50 employees to more
+than 1,000 employees. Among the 98 CEOs, 26% were
+founders of their respective companies. This sample
+was part of a broader data-collection effort which took
+place over a three-year period and examined executive
+leadership. Each financial quarter, CEOs were invited
+to attend an industry consortium held by a network-
+ing organization and sponsored by a large technology
+firm. The purpose of the consortium was to provide
+a forum for peer networking, innovation, and topical-
+information sharing. Each firm’s CFO also attended
+one meeting per year, primarily for discussions around
+best practices in the financial realm. Based on an exist-
+ing relationship with a member of the sponsoring orga-
+nization, one of the authors was invited to present a
+short speech to kick off each quarterly event and then
+allowed to distribute surveys.
+We collected data on-site during three consecu-
+tive quarterly conferences. During each time period,
+a member of the research team personally adminis-
+tered a survey to the participants. The researcher ver-
+bally encouraged voluntary participation, assured con-
+fidentiality, and promised to supply a complementary
+executive summary of the findings. During this ini-
+tial time period (Time 1), CEOs responded to survey
+items measuring their job engagement, their own sub-
+jective assessment of how their firm was performing
+as of the date of the survey, and demographic char-
+acteristics, such as tenure as CEO, gender, age, marital
+status, and number of children. The second wave of data
+collection occurred three months later (Time 2). Dur-
+ing this time period, CEOs responded to survey items
+measuring the degree to which they experienced FWC.
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+Three months after the second data collection (Time 3),
+the CFOs responded to survey items evaluating their
+CEOs’ decision-making comprehensiveness and their own
+demographic information. Finally, with the permission
+of the CEOs, we obtained objective firm performance data
+for the two quarters after data collection (Time 4). Con-
+sortium organizers had this information on file and
+provided this data to us upon request and with guar-
+antees of confidentiality.
+Our initial pool consisted of a total of 308 CEOs who
+were initially invited to attend these meetings; how-
+ever, some CEOs did not attend or attended some meet-
+ings but not others. We dropped CEOs from the sample
+if they did not complete either the Time 1 or Time 2
+surveys, or if their CFOs did not complete the Time 3
+survey. Although 215 CEOs completed the Time 1 and
+Time 2 surveys, we were left with a total of 98 CEOs
+and their respective CFOs who completed all aspects
+of the data-collection process (an overall response rate
+of 32%). Subsequent analyses revealed no significant
+differences in terms of any of the gathered study vari-
+ables between the CEOs who were dropped from the
+sample and those who remained. In our sample of
+98 CEOs, approximately 89.8% were male and 76.5%
+were Caucasian, and they ranged in age from 32 to 63
+years, with a mean age of 46.36 years. Of the CFOs,
+93.9% were male and 54.5% were Caucasian, and they
+ranged in age from 32 to 58 years, with a mean age of
+43.7 years.
+Measures
+Family-to-Work Conflict. We asked the CEOs to report
+their own FWC over the past year by using six items
+from the measure of FWC of Carlson et al. (2000). This
+measure assesses three distinct dimensions of FWC:
+time-based, strain-based, and behavior-based conflict
+using nine items. Sample items include “The time I
+spent on family responsibilities often interfered with
+my work responsibilities” (time-based) and “Because I
+was often stressed from family responsibilities, I had
+a hard time concentrating on my work” (strain-based).
+We limited the items to the six items that assess the
+time and strain forms of FWC and excluded the three
+behavior-based items based on feedback from the con-
+ference planning committee (who were also CEOs) that
+these items lacked relevance to our CEO sample (sam-
+ple item: “The behaviors I use to respond to inter-
+personal problems at work perform better at home
+than at work”). The six items were on a five-point Lik-
+ert scale ranging from 1  “strongly disagree” to 5 
+“strongly agree.” We computed the FWC score as the
+mean across items (α  0.98).
+Decision-Making Comprehensiveness. It is widely
+recognized that the CEO and CFO relationship is one
+of the most important in any company because the
+CEO and CFO must work in concert to make decisionsReina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+and implement strategy. Research from the finance
+and accounting literatures concurs with this view and
+has suggested that the CEO and the CFO are inex-
+tricably linked (Hennes et al. 2008, Jiang et al. 2010)
+such that “CFOs have now been legislatively elevated
+to the same level of financial oversight responsibility
+as was formerly viewed as the responsibility of the
+CEO” (Geiger and North 2006, p. 782). We thus asked
+the CFO to evaluate the CEO’s decision-making compre-
+hensiveness due to the extent to which the CFO has
+insight into the daily operations of the organization
+and is often seen at their confidant (Katz 2011). Given
+that our goal was to capture the between-CEO differ-
+ences in overall decision-making comprehensiveness, we
+asked the CFO to evaluate the CEOs decision-making
+comprehensiveness over the past year using the five-item
+scale of Miller et al. (1998), which was recently used
+and validated by Souitaris and Maestro (2010). Sample
+items include “When faced with an immediate, impor-
+tant, non-routine threat or opportunity, the CEO usu-
+ally develops many alternative responses” and “The
+CEO considers many different criteria and issues when
+deciding the course of action to take.” These items were
+on a five-point Likert scale ranging from 1  “strongly
+disagree” to 5  “strongly agree.” We computed the
+decision-making comprehensiveness score as the mean
+across items (α  0.89).
+Job Engagement. We asked CEOs to rate their level
+of job engagement over the past year using the 18-item
+scale of Rich et al. (2010). Using a one-year refer-
+ence window is consistent with capturing engagement
+as a relatively enduring, stable trait (Christian et al.
+2011). CEOs responded on a five-point Likert scale
+(1  “strongly disagree,” 5  “strongly agree”). Exam-
+ple items include, over the past year: “I have felt ener-
+getic in my job” and “I have been interested in my job”
+(emotional engagement), “At work, I have focused a
+great deal of attention on my job” and “At work, I have
+concentrated on my job” (cognitive engagement), and
+“I have exerted my full effort to my job” and “I have
+tried my hardest to perform well on my job” (physical
+engagement). We averaged the 18 items to obtain the
+score for job engagement (α  0.97).
+Firm Performance. Objective data on firm financial
+performance was obtained from the consortium in the
+form of a standard accounting-based measure—return
+on assets (ROA). In line with prior recommendations,
+we calculated an average ROA over two quarters after
+survey data collection to reduce bias caused by single-
+quarter outliers (Agle et al. 1999, Cannella et al. 2008).
+Control Variables. To rule out alternative explana-
+tions, we controlled for several CEO demographic vari-
+ables such as gender (1  female and 0  male), age,
+marital status (1  married and 0  other), and number
+of children. We selected these variables because prior
+235
+research has shown that they significantly relate to con-
+flict between the work and family domains (Michel
+et al. 2010). Additionally, we controlled for founder sta-
+tus (1  founder and 0  nonfounder) and tenure as
+CEO because past research has demonstrated a positive
+relationship between CEO tenure and firm performance
+(Waldman et al. 2001). CEO tenure was measured as the
+number of years a CEO had held the position up to the
+time of data collection (Herrmann and Datta 2002).
+Following previous researchers (Ling et al. 2008,
+Waldman et al. 2001), we also included prior firm per-
+formance and firm size as control variables. Prior firm
+performance has been shown to affect subsequent per-
+formance (Chen et al. 2009). Due to the unavailability
+of objective firm performance information for quarters
+prior to measuring FWC, we measured prior firm per-
+formance in the Time 1 survey using CEO subjective
+ratings. The use of subjective performance measures is
+relatively common, with some recent estimations that
+approximately one-quarter of the studies in top man-
+agement journals during a two-year period utilized a
+measure of subjective organizational performance (see
+Richard et al. 2009). Additionally, researchers suggest
+that there is some level of equivalence between the
+findings for subjective and objective firm performance
+measures (Dess and Robinson 1984, Wall et al. 2004).
+CEOs responded to the following question “Com-
+pared to peers how well do you think your com-
+pany is performing?” on a five-point Likert scale (1 
+“Somewhat worse than peers” to 5  “Somewhat better
+than peers”). Firm size was a categorical variable mea-
+suring the total number of employees (1  less than 10,
+2  10 to 49, 3  50 to 99, 4  100 to 250, and 5  greater
+than 500).
+Analytic Strategy
+We conducted confirmatory factor analyses (CFAs) to
+examine the discriminant validity of the two CEO-
+reported variables (i.e., FWC and job engagement). Hier-
+archical regressions were used to test our hypotheses.
+We grand-mean centered the predictor and the mod-
+erator when testing our moderation hypotheses. We
+tested for first-stage moderated mediation by exam-
+ining the indirect effects at high versus low levels of
+the moderator (Edwards and Lambert 2007) and their
+95% Monte Carlo bootstrapped confidence intervals
+(Preacher and Selig 2012).
+Results
+The descriptive statistics and correlations of all study
+variables are shown in Table 1. Married CEOs tend to
+have greater FWC (r  0.28, p < 0.01) that, in turn, is
+negatively related to decision-making comprehensiveness
+(r  −0.36, p < 0.001) and firm performance (r  −0.53,
+p < 0.001). Both FWC (SD  1.67) and job engagement
+(SD  0.95) show substantial variations in the sample.Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+236
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+Table 1. Means, Standard Deviations, and Correlations Among Study Variables
+Variable
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+Mean
+CEO gender a
+0.10
+Age
+46.36
+Marital status b
+0.58
+Number of children
+2.08
+CEO tenure
+5.43
+Founder status c
+0.26
+Firm size
+3.07
+Prior firm performance
+4.05
+Family-to-work conflict (FWC)
+3.60
+Job engagement
+3.31
+Decision-making comprehensiveness 3.34
+Firm performance
+10.14
+SD 1 2 3 4
+0.30
+6.11
+0.50
+1.03
+3.17
+0.44
+1.38
+0.91
+1.67
+0.95
+0.82
+2.88 0.11
+−0.05
+−0.09
+0.07
+0.04
+0.00
+0.02
+−0.17
+0.05
+−0.08
+0.06 0.08
+0.19
+0.01
+−0.12
+−0.01
+0.01
+0.06
+0.10
+−0.02
+−0.02 0.37 ∗∗∗
+−0.06
+−0.02
+0.06
+−0.11
+0.28 ∗∗
+−0.17
+−0.05
+−0.26 ∗∗ −0.08
+−0.14
+−0.11
+−0.08
+0.08
+−0.22 ∗
+−0.02
+−0.08
+5
+6
+0.33 ∗∗
+−0.15 −0.25 ∗
+0.10 0.10
+−0.04 −0.05
+−0.03 0.01
+−0.18 −0.05
+−0.09 −0.03
+7
+8
+9
+−0.11
+0.24 ∗ −0.33 ∗∗ (0.98)
+−0.08 0.17 −0.31 ∗∗
+−0.16 0.17 −0.36 ∗∗∗
+−0.08 0.30 ∗∗ −0.53 ∗∗∗
+10 11
+(0.94)
+0.39 ∗∗∗
+0.36 ∗∗∗ (0.89)
+0.56 ∗∗∗
+Note. Reliability coefficients are reported along the diagonal when available.
+N  98.
+a
+1  female; 0  male.
+b
+1  currently married; 0  other.
+c
+1  founder; 0  nonfounder.
+∗
+p < 0.05; ∗∗ p < 0.01; ∗∗∗ p < 0.001.
+Discriminant Validity
+We conducted CFAs on CEO-reported items measur-
+ing FWC and job engagement. To achieve an optimal
+ratio of sample size versus the number of estimated
+parameters, we followed recommendations from pre-
+vious research (e.g., Little et al. 2002) to randomly
+combine the six items for FWC into three parcels. We
+assigned the 18 items of job engagement into 3 parcels
+representing the subdimensions (emotional, cognitive,
+and physical engagement). We first ran a two-factor
+model that included both variables and then compared
+it against a one-factor model. The hypothesized two-
+factor model fit the data well (χ 2  5.65, df  8, p > 0.68,
+CFI  1.00, TLI  1.00, RMSEA  0.00) and significantly
+better than the single-factor model (χ 2  264.55, df  9,
+p < 0.001, CFI  0.64, TLI  0.41, RMSEA  0.54, ∆χ 2 
+258.90, ∆df  1, p < 0.001). In addition, all factor load-
+ings of the two-factor model were of high magnitudes
+and significant (p < 0.001), showing that CEO FWC and
+job engagement are distinct constructs.
+Hypothesis Tests
+Table 2 shows the hierarchical regression results.
+When predicting decision-making comprehensiveness, we
+entered the variables in three steps. First, we entered
+the control variables. Second, we entered the main
+effects of FWC and job engagement. Third, we entered
+the interaction term. We used four steps when pre-
+dicting firm performance: (1) control variables, (2) FWC,
+job engagement, (3) decision-making comprehensiveness,
+and (4) the interaction term between FWC and job
+engagement.
+Hypothesis 1 suggested a negative relationship be-
+tween FWC and decision-making comprehensiveness. As
+shown in Model 2 of Table 2, FWC is negatively related
+to decision-making comprehensiveness (β  −0.27, p < 0.05)
+after partialling out the effects of control variables and
+job engagement. Thus, Hypothesis 1 was supported.
+For Hypothesis 2, we expected a positive relationship
+between decision-making comprehensiveness and firm per-
+formance. As shown in Model 6 of Table 2, after con-
+trolling for the control variables as well as FWC and job
+engagement, decision-making comprehensiveness was pos-
+itively related to firm performance (β  0.41, p < 0.001).
+Therefore, Hypothesis 2 was supported. Hypothesis 3
+predicted that there is a negative indirect effect of FWC
+on firm performance via decision-making comprehensive-
+ness. To test this indirect effect, we first compared Mod-
+els 5 and 6 in Table 2. After decision-making comprehen-
+siveness was entered in the regression, the standard-
+ized coefficient of FWC in predicting firm performance
+was reduced from −0.40 (p < 0.001) to −0.29 (p < 0.01).
+Additionally, we multiplied the unstandardized coeffi-
+cients for the first path (path a  −0.13, s.e.  0.05, p <
+0.05, based on Model 2 of Table 2) and the second path
+(path b  1.44, s.e.  0.30, p < 0.001, based on Model 6
+of Table 2) to obtain the indirect effect estimate (a × b 
+−0.19). The 95% Monte Carlo bootstrapped confidence
+interval of the indirect effect excluded zero (CI  −0.37,
+−0.04). Overall, these findings supported Hypothesis 3.
+Hypothesis 4 predicted that job engagement moder-
+ated the relationship between FWC and decision-making
+comprehensiveness. As shown in Model 3 of Table 2,
+the interaction term was significant (β  0.21, p < 0.05)
+when predicting decision-making comprehensiveness. The
+interaction term explained an additional 4% of the vari-
+ance in decision-making comprehensiveness (∆R 2  0.04,
+p < 0.05). To depict this moderating effect, we cal-
+culated the unstandardized simple slopes when job
+engagement was one standard deviation above and
+below the mean (i.e., high and low conditions, respec-
+tively). As shown in Figure 1, when CEO job engagementReina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+237
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+Table 2. Hierarchical Regression Results for Hypothesis Testing
+Decision-making comprehensiveness
+Model 1
+CEO gender
+Age
+Marital status
+Number of children
+CEO tenure
+Founder status
+Firm size
+Prior firm performance
+Family-to-work conflict (FWC)
+Job engagement
+FWC × Job engagement
+−0.07
+0.00
+−0.02
+−0.06
+−0.21
+−0.05
+−0.19 ∗
+0.17
+Decision-making comprehensiveness
+R 2
+∆R 2
+0.11
+Model 2 Model 3 Model 4 Model 5 Model 6 Model 7
+−0.12
+−0.03
+0.07
+0.00
+−0.17
+−0.04
+−0.10
+0.05
+−0.27 ∗
+0.31 ∗ −0.12
+−0.03
+0.07
+−0.02
+−0.19
+−0.03
+−0.14
+0.04
+−0.19
+0.34 ∗∗
+0.21 ∗ 0.05
+−0.01
+−0.24 ∗
+0.03
+−0.14
+−0.04
+−0.07
+0.29 ∗∗ −0.02
+−0.01
+−0.13
+0.07
+−0.11
+−0.02
+0.03
+0.15
+−0.40 ∗∗∗
+0.21 ∗ 0.03
+0.00
+−0.16
+0.07
+−0.04
+0.00
+0.08
+0.13
+−0.29 ∗∗
+0.08 0.03
+0.00
+−0.16
+0.07
+−0.04
+0.00
+0.08
+0.13
+−0.30 ∗∗
+0.08
+−0.03
+0.32 ∗∗∗
+0.04 ∗ 0.17 ∗∗ 0.37 ∗∗∗
+0.19 ∗∗∗ 0.41 ∗∗∗
+0.49 ∗∗∗
+0.12 ∗∗∗
+0.28 ∗∗∗
+0.17 ∗∗∗
+0.42 ∗∗∗
+0.49 ∗∗∗
+0.12 ∗∗ a
+Note. Standardized coefficients are reported.
+a
+This value of ∆R 2 was a comparison between Model 7 and Model 5 (rather than Model 6). The unstandardized coefficient for FWC in
+Model 2 is −0.13 (s.e.  0.05, p < 0.05). The unstandardized coefficient for decision-making comprehensiveness is 1.44 (s.e.  0.30, p < 0.001) in
+Model 6 and 1.46 (s.e.  0.31, p < 0.001) in Model 7. These unstandardized coefficients were used in calculating the indirect effects.
+∗
+p < 0.05; ∗∗ p < 0.01; ∗∗∗ p < 0.001.
+is high, FWC is not related to decision-making comprehen-
+siveness (b  0.01, n.s.). In contrast, the relationship is
+significant and negative when job engagement is low (b 
+−0.19, p < 0.01). These results supported Hypothesis 4.
+Table 3 shows the results for testing Hypothesis 5
+(first-stage moderated mediation). For this test, the sim-
+ple slopes of the first-stage path were based on Model 3,
+and the second-stage path coefficient was from Model 7
+of Table 2. As compared with Model 6, Model 7 has
+the interaction term between FWC and CEO job engage-
+ment added as a control for predicting firm performance
+and thus is more appropriate for testing the moderated
+mediation effect. As shown in Table 3, the indirect effect
+of FWC via decision-making comprehensiveness is signifi-
+cantly negative (a × b  −0.28, bootstrapped 95% CI 
+−0.51, −0.10) when CEO job engagement is low. The indi-
+Figure 1. Moderating Effect of CEO Job Engagement
+
+Variable
+Firm performance
+BReina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+238
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+Table 3. Indirect Effects of Family-to-Work Conflict on Firm Performance via Decision-Making Comprehensiveness
+High CEO job engagement
+Low CEO job engagement
+Difference between indirect effects
+Path a (s.e.) Path b (s.e.) Indirect effect a × b 95% CI
+0.01 (0.07)
+−0.19 ∗∗ (0.06) 1.46 ∗∗∗ (0.31)
+1.46 ∗∗∗ (0.31) 0.01
+−0.28 ∗∗
+0.29 ∗∗ (−0.20, 0.22)
+(−0.51, −0.10)
+(0.03, 0.62)
+Note. Unstandardized coefficients and their standard errors reported in the first two columns were used to calculate the indirect effect and the
+Monte Carlo bootstrapped confidence intervals (CIs).
+∗∗
+p < 0.01; ∗∗∗ p < 0.001.
+CEO attributes and experiences influence firm perfor-
+mance or which factors influence individuals’ ability to
+make strategic decisions. Our study extends research
+on top executives by explaining how a unique CEO psy-
+chological experience ultimately influences firm per-
+formance. Finally, we introduce self-regulation theory
+into the upper-echelons realm as a framework that
+complements the CEO psychology perspective. We
+argue that while the CEO psychology perspective pro-
+vides an ideal foundation to explain how personality
+characteristics influence strategic action and ultimately
+firm performance, self-regulation theory provides a
+similar foundation to explain how a CEO’s personal
+experiences can influence the same variables. Future
+work should integrate the two perspectives in the
+same study to explore whether such a complement
+exists. Given that researchers often use self-regulation
+theory to explain the process mediators between
+individuals’ traits and their performance outcomes
+(e.g., VandeWalle et al. 1999), self-regulation theory
+may be able to explain the mechanisms by which
+demography and personality characteristics translate
+to organizational outcomes. For example, what are
+the self-regulatory processes involved when narcissis-
+tic CEOs make decisions? In our view, the CEO psy-
+chology perspective and self-regulation theory account
+for both the personality characteristics and the expe-
+riences of top executives which together provide a
+powerful approach to understand how executives ulti-
+mately impact their firms.
+Second, regarding the work–family literature, the
+majority of studies have emphasized consequences of
+FWC while ignoring the mechanisms linking FWC to
+outcomes or focused on the effect of work–family ini-
+tiatives (rather than conflict) on firm-level performance
+(e.g., Kelly et al. 2008). The current study contributes
+to the FWC literature by explicating decision-making
+comprehensiveness as one mechanism by which FWC
+leads to negative outcomes for CEOs and demon-
+strates the significant indirect relationship between
+FWC and an objective, accounting-based measure of
+organizational performance. This implication is rele-
+vant to the future of FWC research given that the
+ability to explain and predict performance differences
+between individuals and firms is important to both
+the organizational behavior and strategic management
+fields. Past research has emphasized the importance
+of accounting for cognitive mechanisms of depletion
+such as attention and engagement which have cogni-
+tive components (e.g., Rothbard 2001), and the current
+study further contributes to the work–family literature
+by testing a specific cognitive mechanism that explains
+how FWC operates in affecting firm-level outcomes.
+Moreover, future research should determine whether
+decision-making comprehensiveness serves as a link
+between FWC and individual or group level perfor-
+mance at lower organizational levels and compare the
+effect of cognitive depletion with other types of deple-
+tion such as emotional depletion or burnout (which has
+typically been the focus of FWC among lower organi-
+zational employees).
+Also relevant to the FWC literature is the applica-
+tion of self-regulation theory. Our study suggests that
+self-regulation theory is useful in accounting for cogni-
+tive resource depletion (e.g., decision-making compre-
+hensiveness) and thus offers a theoretical framework
+and empirical examination of the effect of FWC on
+CEO self-regulation. Our study complements a recent
+study by Dahm et al. (2015) which similarly uses a self-
+regulatory framework to explain the negative effects of
+work–family conflict on performance by demonstrating
+that individuals who experience more work-to-family
+conflict may tend to “take the easier road” (p. 783)
+in that they select work tasks that involve fewer cog-
+nitive demands after prior self-regulatory depletion.
+While previous studies have considered work–family
+issues from the perspective of resource depletion (e.g.,
+Grandey and Cropanzano 1999), the current study as
+well as the recent work of Dahm et al. (2015) contribute
+to the work–family literature by studying the effects
+of specific behaviors and processes (decision-making
+comprehensiveness and time allocation, respectively)
+that are affected when self-regulatory resources are
+depleted.
+Third, our work reinforces the idea that job engage-
+ment may be overlooked as a key buffer that insu-
+lates individuals from the detrimental effects of FWC.
+Specifically, CEOs who are highly engaged have sig-
+nificant physical, emotional, and cognitive resources
+invested at work and thus are better able to absorb the
+negative effects of FWC. Using a car battery analogy,
+CEOs who have a fully charged battery at work canReina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+withstand more stress and strain put on them from
+other demands and still maintain an adequate level of
+performance. To extend the analogy further, a healthy
+battery with strong capacity can start up an engine
+despite being strained significantly when the car is left
+outside in the elements and even if it has not been
+started recently, whereas a car battery that has less
+capacity would likely fail to start the engine. CEOs who
+are highly engaged at work identify strongly with their
+role as CEO and are operating at full capacity, which
+allows them to endure higher drains on their energy
+reservoir without reaching critically depleted levels.
+Our findings complement previous work supporting
+the buffering effect of engagement on the relationship
+between workaholism and metabolic syndrome (ten
+Brummelhuis et al. 2016) and work supporting the role
+of engagement as a resource that enriches performance
+through the creation of more resources (Rothbard
+2001). In sum, work engagement measured as a trait-
+like construct represents full immersion at work (e.g.,
+Kahn 1990), and those CEOs who are fully immersed
+at work become less depleted when experiencing high
+levels of FWC. 1 Our finding that job engagement can
+serve as buffer of FWC contributes to the broader dis-
+cussion of the resources that individuals can utilize to
+replenish diminishing resources or buffer themselves
+against further resource loss (Hobfoll 2002). Future
+research should consider how other trait-like personal-
+ity characteristics such as the values CEOs hold about
+the importance of family versus work (Carlson and
+Kacmar 2000), and the motives CEOs have for invest-
+ing in work and family roles (Rothbard and Edwards
+2003), can further explain how CEOs ultimately can
+protect themselves from resource loss and replenish
+their resources when they become depleted.
+A final area of implication relates to the strate-
+gic decision-making literature. Despite the importance
+of CEO decision making to the bottom line of their
+firms, few studies have explored the drivers of CEO
+decision making (see Papadakis et al. 1998 for a
+notable exception). Our study uses a self-regulation
+lens to argue that when a CEO’s ability to self-
+regulate is compromised, cognitive resources will be
+drained and decision-making comprehensiveness will
+suffer. Future research should examine whether self-
+regulation theory is applicable to other areas of deci-
+sion making or other areas of strategic action (e.g., risk
+taking). For example, will self-regulatory depletion
+also affect decision-making speed? We would hypothe-
+size that in the absence of cognitive resources, decision
+speed would increase. However, based on the work of
+Eisenhardt (1989), this would not necessarily be a bad
+thing, as this work suggests that an increase in speed
+does not mean quality inevitably will suffer. Said dif-
+ferently, fast decision makers may still make very com-
+prehensive decisions, they just search for information
+239
+at a faster rate. Future work should delve deeper into
+the implications of both decision speed and compre-
+hensiveness in the same study. Further, future research
+should examine how self-regulatory depletion may
+have important implications for CEO risk taking.
+Practical Implications
+Broadly speaking, this study illuminates the need for
+organizations to help CEOs identify, deal with, and
+ultimately reduce FWC. Our research provides pre-
+liminary evidence that CEOs who experience conflict
+from the family domain lead firms that are less suc-
+cessful financially than those who have less FWC.
+Given the financial stake for organizations, practi-
+tioners must proactively work to recognize and then
+address FWC in CEOs. Currently, the most commonly
+utilized development option for CEOs is executive
+coaching. However, such coaching is generally focused
+solely on solving challenges in the work domain and is
+meant to be highly confidential. Therefore, issues with
+the family domain either are never broached or are
+never brought to the organization’s attention. Perhaps
+resources should be committed to providing CEOs
+with other, more holistic development options (e.g.,
+life coaching) that are more suited to addressing the
+spillover between family and work.
+Second, our results provide some empirical sup-
+port for the practical assertion made in Charan and
+Colvin’s (1999) now classic Fortune magazine article
+“Why CEOs Fail.” The authors suggest that one of the
+key reasons CEOs fail is that they do not seek infor-
+mation from multiple sources. It is often the case that
+others around the CEO recognize the existence of prob-
+lems but that their voices go unheard. This has detri-
+mental effects for the firm because the CEO does not
+solicit information from these individuals and thus he
+or she cannot utilize their important insight. Given the
+positive relationship we observed between decision-
+making comprehensiveness and firm performance, it is
+important that CEOs seek out information from a wide
+variety of sources and do not take shortcuts with their
+decision making. Third, our findings demonstrate that
+high job engagement can buffer CEOs from the harm-
+ful effects of FWC. To ensure that firms (at least those
+in the high-technology industry) perform well against
+competitors, their boards of directors should be just as
+interested in examining the personalities and personal
+stressors of CEOs as they are in examining their work
+experience or education, as all aspects may influence
+a firm’s bottom line. Fourth, our results suggest that
+for firms competing in environments with analyzable
+information present, comprehensive decision making
+characterized by careful analysis, synthesis, and the
+weighing of pros and cons for each decision should be
+encouraged among CEOs and TMTs as it has positive
+implications for the financial performance of the firm.240
+Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Limitations and Future Research Directions
+Our study has multiple strengths including the use
+of primary CEO data collected from different sources
+at multiple points in time. However, this study is not
+without its limitations. Despite our conclusion that the
+experience of FWC among CEOs is detrimental to the
+firm, we may not be able to generalize our findings
+to the broader population of all CEOs. For example,
+our results could be due to some features of our par-
+ticular sample (i.e., the computer industry). Although
+using firms from one industry provides a natural con-
+trol for industry effects that might otherwise need to be
+controlled for statistically, the industry might select or
+produce CEOs who experience similar levels of FWC
+or make decisions for their organizations in a simi-
+lar way. Although we are aware of no reason that this
+would be the case, future research should replicate and
+extend our findings across a broader range of CEOs,
+industries, firm types, and even cultures. To further
+address the generalizability of our results, similar stud-
+ies should also be done in non-CEO samples. We sur-
+mise that similar cognitive effects would be found with
+lower-level employees. Knowing this would extend the
+research on FWC by providing a deeper understanding
+around the cognitive implications of FWC across mul-
+tiple populations. Research should address whether
+decision-making comprehensiveness reduces firm per-
+formance in other industry segments. Finally, although
+we considered only the one cognitive mechanism that
+we believed would most likely be affected by CEO FWC
+and, in turn, impact firm performance, future research
+should investigate the importance of other mechanisms
+such as attention, affect and mood, and time alloca-
+tion (e.g., Edwards and Rothbard 2000, Rothbard 2001)
+in transmitting the negative effects of FWC to firm
+performance.
+Our suggestion that self-regulation theory may con-
+tribute to research within the realm of upper eche-
+lons opens the door for researchers to ask and test
+novel research questions. In this study, we look at one
+potential CEO experience, FWC. Future work should
+look at additional CEO experiences within the frame-
+work of self-regulation theory to determine its explana-
+tory power for other phenomena as well. For example,
+can self-regulation theory explain the effect of work-
+related experiences such as role ambiguity? Relatedly,
+while we argue here that self-regulation theory offers
+an explanation for the cognitive effects of FWC and
+accounts for the buffering effect of job engagement,
+future research should explore the effect of FWC on
+both emotional and cognitive processes in tandem.
+Another limitation of our work is our relatively small
+sample size. Although our data collection included sur-
+veying a potential pool of 308 companies, we were only
+able to use 98 CEO–CFO pairs in our study. Accessing
+top managers (e.g., CEOs and CFOs) is difficult due to
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+their time limitations and willingness to participate in
+research studies. In comparison to prior studies on top
+executives, our response rate of 32% is in the satisfac-
+tory range. Future research should attempt to replicate
+our findings using a larger sample of CEO–CFO pairs
+to ensure that the results we obtained were not unique
+to the sample we studied. Furthermore, although we
+controlled for prior firm performance in an attempt to
+rule out the explanation that poorly performing firms
+result in the CEOs having more conflicts at home, we
+cannot offer strong causal inferences. Future research
+should investigate these relationships utilizing a panel
+design that collects these variables repeatedly at mul-
+tiple points in time to examine the potential for reverse
+causality.
+Future research should attempt to consider the ef-
+fects of specific events that occur in the family domain
+on employees’ work performance rather than rely-
+ing on global perceptual judgements of FWC. This
+more fine-grained approach would allow researchers
+to better understand how specific life events (such as
+sickness of a child, divorce, and purchase of a new
+house) differentially influence a CEO’s ability to make
+comprehensive decisions. In addition, future research
+should seek to illuminate whether there are mediating
+mechanisms that can explain the relationship between
+CEO FWC and decision-making comprehensiveness.
+For example, how does FWC contribute to CEOs’ mood
+and their experience of emotions (Judge et al. 2006),
+and subsequently, how do these relate to their abil-
+ity to make comprehensive decisions? Future research
+should also seek to move beyond trait-like measure-
+ment of CEO FWC, decision-making comprehensiveness,
+and job engagement by measuring these variables at
+multiple points in time to understand how they vary
+over time within CEOs, which would go beyond our
+focus of predicting between-firm differences in firm
+performance.
+Endnote
+1
+As a robustness check, we tested an alternative model in which
+CEO job engagement and decision-making comprehensiveness served as
+two sequential mediators of the FWC–firm-performance relationship.
+Path modeling results showed a nonsignificant mediation effect in
+this model. We thank one anonymous reviewer for this suggestion.
+References
+Agle BR, Mitchell RK, Sonnenfeld JA (1999) Who matters to CEOs?
+An investigation of stakeholder attributes and salience, cor-
+porate performance, and CEO values. Acad. Management J.
+42(5):507–525.
+Alexiev AS, Jansen JJ, Van den Bosch FA, Volberda HW (2010) Top
+management team advice seeking and exploratory innovation:
+The moderating role of TMT heterogeneity. J. Management Stud.
+47(7):1343–1364.
+Amstad FT, Meier LL, Fasel U, Elfering A, Semmer NK (2011) A meta-
+analysis of work-family conflict and various outcomes with
+a special emphasis on cross-domain versus matching-domain
+relations. J. Occupational Health Psych. 16(2):151–169.Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+Atuahene-Gima K, Li H (2004) Strategic decision comprehensiveness
+and new product development outcomes in new technology
+ventures. Acad. Management J. 47(4):583–597.
+Bandura A (1991) Social cognitive theory of self-regulation. Organ.
+Behav. Human Decision Processes 50(2):248–287.
+Bandura A, Jourden FJ (1991) Self-regulatory mechanisms governing
+the impact of social comparison on complex decision making.
+J. Personality Soc. Psych. 60(6):941–951.
+Barnes CM, Wagner DT, Ghumman S (2012) Borrowing from sleep
+to pay work and family: Expanding time?based conflict to the
+broader nonwork domain. Personnel Psych. 65(4):789–819.
+Baumeister RF, Heatherton TF (1996) Self-regulation failure: An
+overview. Psych. Inquiry 7(1):1–15.
+Baumeister RF, Vohs KD (2007) Self-Regulation, ego depletion, and
+motivation. Soc. Personality Psych. Compass 1(1):115–128.
+Baumeister RF, Heatherton TF, Tice DM (1994) Losing Control: How
+and Why People Fail at Self-Regulation (Academic Press, San
+Diego).
+Baumeister RF, Bratslavsky E, Finkenauer C, Vohs KD (2001) Bad is
+stronger than good. Rev. General Psych. 5(4):323–370.
+Baumeister RF, Bratslavsky E, Muraven M, Tice DM (1998) Ego deple-
+tion: Is the active self a limited resource? J. Personality Soc. Psych.
+74(5):1252–1265.
+Baumeister RF, Sparks EA, Stillman TF, Vohs KD (2008) Free will
+in consumer behavior: Self-control, ego depletion, and choice.
+J. Consumer Psych. 18(1):4–13.
+Bennedsen M, Pérez-González F, Wolfenzon D (2007) Do CEOs
+matter? Working paper, INSEAD, Fontainebleau, France.
+Calori R, Johnson G, Sarnin P (1994) CEOs’ cognitive maps and the
+scope of the organization. Strategic Management J. 15(6):437–457.
+Cannella AA, Park JH, Lee HU (2008) Top management team func-
+tional background diversity and firm performance: Examining
+the roles of team member colocation and environmental uncer-
+tainty. Acad. Management J. 51(4):768–784.
+Carlson DS, Kacmar KM (2000) Work-family conflict in the orga-
+nization: Do life role values make a difference? J. Management
+26(2):1031–1054.
+Carlson DS, Kacmar KM, Williams LJ (2000) Construction and ini-
+tial validation of a multidimensional measure of work–family
+conflict. J. Vocational Behav. 56(2):249–276.
+Carver CS, Scheier MF (1981) Attention and Self-Regulation: A Control-
+Theory Approach to Human Behavior (Springer-Verlag, New York).
+Carver CS, Scheier MF (1990) Principles of self-regulation. Higgins
+ET, Sorrentino RM, eds. Handbook of Motivation and Cognition:
+Foundations of Social Behavior, Vol. 2 (Guilford Press, New York),
+3–52.
+Charan R, Colvin G (1999) Why CEOs fail—It’s rarely for lack
+of smarts or vision. Most unsuccessful CEOs stumble be-
+cause of one simple, fatal shortcoming. Fortune Magazine
+(June 21), http://money.cnn.com/magazines/fortune/fortune
+_archive/1999/06/21/261696/index.htm.
+Chen G, Kanfer R, DeShon RP, Mathieu JE, Kozlowski SWJ (2009)
+The motivating potential of teams: Test and extension of Chen
+and Kanfer’s (2006) cross-level model of motivation in teams.
+Organ. Behav. Human Decision Processes 110(1):45–55.
+Christian MS, Garza AS, Slaughter JE (2011) Work engagement:
+A quantitative review and test of its relations with task and con-
+textual performance. Personnel Psych. 64(1):89–136.
+Cellar DF, Stuhlmacher AF, Young SK, Fisher DM, Adair CK, Haynes
+S, Twichell E, et al. (2011) Trait goal orientation, self-regulation,
+and performance: A meta-analysis. J. Business Psych. 26(4):
+467–483.
+Clark KD, Maggitti PG (2012) TMT potency and strategic
+decision-making in high technology firms. J. Management Stud.
+49(7):1168–1193.
+Coff RW (1997) Human assets and management dilemmas: Coping
+with hazards on the road to resource-based theory. Acad. Man-
+agement Rev. 22(2):374–402.
+Cyert RM, March JG (1963) A Behavioral Theory of the Firm (Prentice-
+Hall, Englewood Cliffs, NJ).
+241
+Dahl MS, Dezső CL, Ross DG (2012) Fatherhood and managerial
+style: How a male CEO’s children affect the wages of his employ-
+ees. Admin. Sci. Quart. 57(4):669–693.
+Dahm PC, Glomb TM, Manchester CF, Leroy S (2015) Work-family
+conflict and self-discrepant time allocation at work. J. Appl.
+Psych. 100(3):767–792.
+Dess GG, Robinson RB (1984) Measuring organizational perfor-
+mance in the absence of objective measures: The case of the
+privately?held firm and conglomerate business unit. Strategic
+Management J. 5(3):265–273.
+Donaldson G, Lorsch JW (1983) Decision Making at the Top: The Shap-
+ing of Strategic Direction (Basic Books, New York).
+Eby LT, Casper WJ, Lockwood A, Bordeaux C, Brinley A (2005) Work
+and family research in IO/OB: Content analysis and review of
+the literature (1980–2002). J. Vocational Behav. 66(1):124–197.
+Eckenrode J, Gore S (1990) Stress and coping at the boundary of
+work and family. Eckenrode J, Gore S, eds. Stress Between Work
+and Family (Plenum, New York), 1–16.
+Edwards JR, Lambert LS (2007) Methods for integrating moderation
+and mediation: A general analytical framework using moder-
+ated path analysis. Psych. Methods 12(1):1–22.
+Edwards JR, Rothbard NP (2000) Mechanisms linking work and fam-
+ily: Clarifying the relationship between work and family con-
+structs. Acad. Management Rev. 25(1):178–199.
+Eisenhardt KM (1989) Making fast strategic decisions in high-
+velocity environments. Acad. Management J. 32(3):543–576.
+Eisenhardt KM, Zbaracki MJ (1992) Strategic decision making. Strate-
+gic Management J. 13(S2):17–37.
+Evans M (2013) Children of rich parents suffering increased men-
+tal health problems. Telegraph (November 13), http://www
+.telegraph.co.uk/education/10439196/Children-of-rich-parents
+-suffering-increased-mental-health-problems.html.
+Finkelstein S, Hambrick D (1996) Strategic Leadership: Top Executives
+and Their Effects on Organizations (West Publishing, St. Paul, MN).
+Forbes DP (2007) Reconsidering the strategic implications of decision
+comprehensiveness. Acad. Management Rev. 32(2):361–376.
+Fredrickson JW (1984) The comprehensiveness of strategic deci-
+sion processes: Extensions, observations, future directions. Acad.
+Management J. 27(3):445–466.
+Fredrickson JW, Mitchell TR (1984) Strategic decision making pro-
+cess: Comprehensiveness and performance in an industry with
+an unstable environment. Acad. Management J. 27(2):399–423.
+Frone MR, Yardley JK, Markel KS (1997) Developing and testing
+an integrative model of the work–family interface. J. Vocational
+Behav. 50(2):145–167.
+Geiger MA, North DS (2006) Does hiring a new CFO change things?
+An investigation of changes in discretionary accruals. Account-
+ing Rev. 81(4):781–809.
+Grandey AA, Cropanzano R (1999) The conservation of resources
+model applied to work–family conflict and strain. J. Vocational
+Behav. 54(2):350–370.
+Hambrick DC (2007) Upper echelons theory: An update. Acad. Man-
+agement Rev. 32(2):334–343.
+Hambrick DC, Mason PA (1984) Upper echelons: The organization
+as a reflection of its top managers. Acad. Management Rev. 9(2):
+193–206.
+Hambrick DC, Finkelstein S, Mooney AC (2005) Executive job
+demands: New insights for explaining strategic decisions and
+leader behaviors. Acad. Management Rev. 30(3):472–491.
+Hennes KM, Leone AJ, Miller BP (2008) The importance of distin-
+guishing errors from irregularities in restatement research: The
+case of restatements and CEO/CFO turnover. Accounting Rev.
+83(6):1487–1519.
+Herrmann P, Datta DD (2002) CEO successor characteristics and the
+choice of foreign market entry mode: An empirical study. J. Inter-
+nat. Bus. Stud. 33(3):551–570.
+Hobfoll SE (1989) Conservation of resources: A new attempt at con-
+ceptualizing stress. Amer. Psychologist 44(3):513–524.
+Hobfoll SE (2002) Social and psychological resources and adaptation.
+Rev. General Psych. 6(4):307–324.242
+Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Ireland RD, Miller CC (2004) Decision-making and firm success.
+Acad. Management Exec. 18(4):8–12.
+Jiang JX, Petroni KR, Wang IY (2010) CFOs and CEOs: Who have the
+most influence on earnings management? J. Financial Econom.
+96(3):513–526.
+Judge TA, Ilies R, Scott BA (2006) Work–family conflict and emotions:
+Effects at work and at home. Personnel Psych. 59(4):779–814.
+Kahn WA (1990) Psychological conditions of personal engagement
+and disengagement at work. Acad. Management J. 33(4):692–724.
+Katz DM (2011) The CFO is the closest confidant to the CEO. CFO
+Magazine (September 1), http://ww2.cfo.com/global-business/
+2011/09/the-cfo-is-the-closest-confidant-to-the-ceo/.
+Kelly EL, Kossek EE, Hammer LB, Durham M, Bray J, Chermack
+K, Murphy LA, Kaskubar D (2008) Getting there from here:
+Research on the effects of work–family initiatives on work-family
+conflict and business outcomes. Acad. Management Ann. 2(1):
+305–349.
+Khurana R (2002) The cure of the superstar CEO. Harvard Bus. Rev.
+80(9):60–66.
+Konrad AM, Mangel R (2000) The impact of work-life programs on
+firm productivity. Strategic Management J. 21(12):1225–1237.
+Lanaj K, Johnson RE, Barnes CM (2014) Beginning the workday yet
+already depleted? Consequences of late-night smartphone use
+and sleep. Organ. Behav. Human Decision Processes 124(1):11–23.
+Ling Y, Simsek Z, Lubatkin MH, Lyon E, Veiga JF (2008) Transforma-
+tional leadership’s role in promoting corporate entrepreneur-
+ship: Examining the CEO-TMT interface. Acad. Management J.
+51(3):557–576.
+Little TD, Cunningham WA, Shahar G, Widaman KF (2002) To parcel
+or not to parcel: Exploring the question, weighing the merits.
+Structural Equation Modeling J. 9(2):151–173.
+Liu CH, Yermack D (2012) Where are the shareholders’ mansions?
+CEOs’ home purchases, stock sales, and subsequent company
+performance. Boubaker S, Nguyen BD, Nguyen DK, eds. Corpo-
+rate Governance: Recent Developments and New Trends (Springer,
+Berlin), 3–28.
+Mathieu JE, Taylor SR (2006) Clarifying conditions and decision
+points for meditational type inferences in organizational behav-
+ior. J. Organ. Behav. 27(8):1031–1056.
+May DR, Gilson RL, Harter LM (2004) The psychological condi-
+tions of meaningfulness, safety and availability and the engage-
+ment of the human spirit at work. J. Occupational Organ. Psych.
+77(1):11–37.
+Michel JS, Kotrba LM, Mitchelson JK, Clark MA, Baltes BB (2010)
+Antecedents of work–family conflict: A meta-analytic review.
+J. Organ. Behav. 32(5):689–725.
+Miller CC, Burke LM, Glick WH (1998) Cognitive diversity among
+upper-echelon executives: Implications for strategic decision
+processes. Strategic Management J. 19(1):39–58.
+Miller D, Toulouse JM (1986) Chief executive personality and cor-
+porate strategy and structure in small firms. Management Sci.
+32(11):1389–1409.
+Muraven M, Tice DM, Baumeister RF (1998) Self-control as a limited
+resource: Regulatory depletion patterns. J. Personality Soc. Psych.
+74(3):774–789.
+Nadkarni S, Herrmann P (2010) CEO personality, strategic flexibility,
+and firm performance: The case of the Indian business process
+outsourcing industry. Acad. Management J. 53(5):1050–1073.
+Nicolosi J, Yore AS (2015) “I do”: Does marital status affect how much
+CEOs “do”? Financial Rev. 50(1):57–88.
+Nutt PC (2004) Expanding the search for alternatives during strategic
+decision-making. Acad. Management Exec. 18(4):13–28.
+Papadakis VM, Lioukas S, Chambers D (1998) Strategic decision
+making process: The role of management and context. Strategic
+Management J. 19(2):115–147.
+Parker AM, De Bruin WB, Fischhoff B (2007) Maximizers versus
+satisficers: Decision-making styles, competence, and outcomes.
+Judgment Decision Making 2(6):342–350.
+Peterson SJ, Galvin BM, Lange D (2012) CEO servant leadership:
+Exploring executive characteristics and firm performance. Per-
+sonnel Psych. 65(3):565–596.
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+Peterson RS, Smith DB, Martorana PV, Owens PD (2003) The impact
+of chief executive officer personality on top management team
+dynamics: One mechanism by which leadership affects organi-
+zational performance. J. Appl. Psych. 88(5):795–808.
+Pocheptsova A, Amir O, Dhar R, Baumeister RF (2009) Deciding
+without resources: Resource depletion and choice in context.
+J. Marketing Res. 46(3):344–355.
+Preacher KJ, Selig JP (2012) Advantages of Monte Carlo confidence
+intervals for indirect effects. Comm. Methods Measures 6(2):77–98.
+Priem RL, Rasheed AMA, Kotulic AG (1995) Rationality in strategic
+decision processes, environmental dynamism and firm perfor-
+mance. J. Management 21(5):913–929.
+Resick CJ, Whitman DS, Weingarden SM, Hiller NJ (2009) The bright-
+side and the dark-side of CEO personality: Examining core
+self-evaluations, narcissism, transformational leadership, and
+strategic influence. J. Appl. Psych. 94(6):1365–1381.
+Reynolds SJ (2006) A neurocognitive model of the ethical decision-
+making process: Implications for study and practice. J. Appl.
+Psych. 91(4):737–748.
+Rich BL, Lepine JA, Crawford ER (2010) Job engagement:
+Antecedents and effects on job performance. Acad. Management
+J. 53(3):617–635.
+Richard PJ, Devinney TM, Yip GS, Johnson G (2009) Measuring orga-
+nizational performance: Towards methodological best practice.
+J. Management 35(3):718–804.
+Rothbard NP (2001) Enriching or depleting? The dynamics of
+engagement in work and family roles. Admin. Sci. Quart. 46(4):
+655–684.
+Rothbard NP, Edwards JR (2003) Investment in work and family
+roles: A test of identity and utilitarian motives. Personnel Psych.
+56(3):699–730.
+Ryan RM, Kuhl J, Deci EL (1997) Nature and autonomy:
+An organizational view of social and neurobiological aspects of
+self-regulation in behavior and development. Development Psy-
+chopathology 9(4):701–728.
+Schwarz N (2000) Emotion, cognition, and decision making. Cogni-
+tion Emotion 14(4):433–330.
+Schwartz B, Ward A, Monterosso J, Lyubomirsky S, White K, Lehman
+DR (2002) Maximizing versus satisficing: Happiness is a matter
+of choice. J. Personality Soc. Psych. 83(5):1178–1197.
+Shockley KM, Allen TD (2014) Deciding between work and family:
+An episodic approach. Personnel Psych. 68(2):283–318.
+Simon HA (1945) Administrative Behavior (Free Press, New York).
+Souitaris V, Maestro BMM (2010) Polychronicity in top manage-
+ment teams: The impact on strategic decision processes and per-
+formance of new technology ventures. Strategic Management J.
+31(6):652–678.
+ten Brummelhuis LL, Haar JM, Roche M (2013) Does family life help
+to be a better leader? A closer look at crossover processes from
+leaders to followers. Personnel Psych. 67(4):917–949.
+ten Brummelhuis LL, Rothbard NP, Uhrich B (2016) Beyond nine to
+five: Is working to excess bad for health? Acad. Management Dis-
+coveries, ePub ahead of print September 23, http://dx.doi.org/
+10.5465/amd.2015.0115.
+ten Brummelhuis LL, ter Hoeven CL, Bakker AB, Peper B (2011)
+Breaking through the loss cycle of burnout: The role of motiva-
+tion. J. Occupational Organ. Psych. 84(2):268–287.
+Vohs KD, Baumeister RF, Ciarocco NJ (2005) Self-regulation and self-
+presentation: Regulatory resource depletion impairs impression
+management and effortful self-presentation depletes regulatory
+resources. J. Personality Soc. Psych. 88(4):632–657.
+Vohs KD, Baumeister RF, Schmeichel BJ (2012) Motivation, per-
+sonal beliefs, and limited resources all contribute to self-control.
+J. Experiment. Soc. Psych. 48(4):943–947.
+Vohs KD, Baumeister RF, Schmeichel BJ, Twenge JM, Nelson
+NM, Tice DM (2008) Making choices impairs subsequent self-
+control: A limited-resource account of decision making, self-
+regulation, and active initiative. J. Personality Soc. Psych. 94(5):
+883–898.Reina, Peterson, and Zhang: Adverse Effects of CEO FWC on Firm Performance
+Organization Science, 2017, vol. 28, no. 2, pp. 228–243, © 2017 INFORMS
+VandeWalle D, Brown SP, Cron WL, Slocum JW Jr (1999) The influ-
+ence of goal orientation and self-regulation tactics on sales
+performance: A longitudinal field test. J. Appl. Psych. 84(2):
+249–259.
+Waldman DA, Ramírez GG, House RJ, Puranam P (2001) Does
+leadership matter? CEO leadership attributes and profitability
+under conditions of perceived environmental uncertainty. Acad.
+Management J. 44(1):134–143.
+Wall TD, Michie J, Patterson M, Wood SJ, Sheehan M, Clegg CW,
+West M (2004) On the validity of subjective measures of com-
+pany performance. Personnel Psych. 57(1):95–118.
+Christopher S. Reina is an assistant professor in the
+Department of Management at Virginia Commonwealth Uni-
+versity. Christopher received his Ph.D. in business adminis-
+tration (management) from the W. P. Carey School of Busi-
+ness at Arizona State University. His research focuses on
+243
+the intersection of leadership, mindfulness, and emotions in
+the workplace and how they facilitate employee engagement,
+performance, and well-being.
+Suzanne J. Peterson is an associate professor at Arizona
+State University’s Thunderbird School of Global Manage-
+ment. She received her Ph.D. from the University of Nebraska
+at Lincoln. Her current research interests include CEO lead-
+ership, women on boards, and drivers of high performance
+in individuals, groups, and firms.
+Zhen Zhang is an associate professor at the W. P. Carey
+School of Business, Arizona State University. He received
+his Ph.D. from the University of Minnesota. His research
+focuses on leadership process and leadership development,
+work teams and groups, biological basis of work behavior,
+entrepreneurship, and advanced research methods.

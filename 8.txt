@@ -1,0 +1,2206 @@
+This article was downloaded by: [128.103.149.52] On: 19 September 2017, At: 11:14
+Publisher: Institute for Operations Research and the Management Sciences (INFORMS)
+INFORMS is located in Maryland, USA
+Organization Science
+Publication details, including instructions for authors and subscription information:
+http://pubsonline.informs.org
+Multiple Identity Configurations: The Benefits of Focused
+Enhancement for Prosocial Behavior
+http://orcid.org/0000-0002-9979-5354Lakshmi Ramarajan, Ida E. Berger, Itay Greenspan
+To cite this article:
+http://orcid.org/0000-0002-9979-5354Lakshmi Ramarajan, Ida E. Berger, Itay Greenspan (2017) Multiple Identity
+Configurations: The Benefits of Focused Enhancement for Prosocial Behavior. Organization Science 28(3):495-513. https://
+doi.org/10.1287/orsc.2017.1129
+Full terms and conditions of use: http://pubsonline.informs.org/page/terms-and-conditions
+This article may be used only for the purposes of research, teaching, and/or private study. Commercial use
+or systematic downloading (by robots or other automatic processes) is prohibited without explicit Publisher
+approval, unless otherwise noted. For more information, contact permissions@informs.org.
+The Publisher does not warrant or guarantee the article’s accuracy, completeness, merchantability, fitness
+for a particular purpose, or non-infringement. Descriptions of, or references to, products or publications, or
+inclusion of an advertisement in this article, neither constitutes nor implies a guarantee, endorsement, or
+support of claims made of that product, publication, or service.
+Copyright © 2017, INFORMS
+Please scroll down for article—it is on subsequent pages
+INFORMS is the largest professional society in the world for professionals in the fields of operations research, management
+science, and analytics.
+For more information on INFORMS, its publications, membership, or meetings visit http://www.informs.orgORGANIZATION SCIENCE
+Vol. 28, No. 3, May–June 2017, pp. 495–513
+ISSN 1047-7039 (print), ISSN 1526-5455 (online)
+http://pubsonline.informs.org/journal/orsc/
+Multiple Identity Configurations: The Benefits of Focused
+Enhancement for Prosocial Behavior
+Lakshmi Ramarajan, a Ida E. Berger, b Itay Greenspan c
+a Harvard
+Business School, Boston, Massachusetts 02163; b Ted Rogers School of Business Management, Ryerson University, Toronto, Ontario
+M5B 2K3, Canada; c Paul Baerwald School of Social Work and Social Welfare, Hebrew University of Jerusalem, Mt. Scopus, Jerusalem 91905,
+Israel
+Contact: lramarajan@hbs.edu,
+http://orcid.org/0000-0002-9979-5354 (LR); bergeri@ryerson.ca (IEB); itaygree@mail.huji.ac.il (IG)
+Received: May 16, 2014
+Revised: July 31, 2015; February 28, 2016;
+September 2, 2016; November 2, 2016;
+December 19, 2016
+Accepted: January 13, 2017
+Published Online in Articles in Advance:
+May 23, 2017
+https://doi.org/10.1287/orsc.2017.1129
+Copyright: © 2017 INFORMS
+Abstract. This paper introduces a configurational approach to the study of multiple iden-
+tities. Specifically, it examines how prosocial identity combines with collective and indi-
+vidualistic identities in conflicting and enhancing ways to affect prosocial behavior in
+organizational settings. We examine an unexplored intuition in the multiple identities
+literature that when all identities are enhancing (a mutual enhancement configuration),
+it will be best for prosocial outcomes. Our results show, however—across two field stud-
+ies and two experiments—that enhancement between prosocial and collective identities
+(a focused enhancement configuration) results in the highest levels of prosocial behav-
+ior. Furthermore, we trace this result to the greater self-serving orientation activated in a
+mutual enhancement configuration, where one’s individualistic identity enhances one’s
+other identities. Our work demonstrates the value of a configurational approach to the
+study of multiple identities, and it challenges the assumption that a mutual enhancement
+configuration is always desirable.
+Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2017.1129.
+Keywords: identity • identity configurations • multiple identities • prosocial behavior
+Introduction
+aspects of the self-concept and include those parts
+of the self that are in a giving or helping relation-
+ship with others (Grant and Dutton 2012, Piliavin and
+Callero 1991). In this paper, we examine how individu-
+als’ prosocial, individualistic, and collective identities
+combine to affect their prosocial behavior.
+The perspective we take hinges on understanding
+how individuals experience their multiple identities.
+Building on past research showing that two iden-
+tities can be related in conflicting (Benet-Martinez
+and Haritatos 2005, Greenhaus and Beutell 1985) or
+enhancing ways (Dutton et al. 2010, Rothbard and
+Ramarajan 2009), we take a novel, configurational
+approach to multiple identity research, examining
+patterns of conflict and enhancement among three
+identities. Moreover, we investigate an unexplored
+intuition in the multiple identities literature that multi-
+ple identities will be most effective for outcomes when
+they are all mutually enhancing, because the full set
+of meanings, values, and behaviors associated with
+one’s identities can be applied to a task (Ashforth 2007,
+Dutton et al. 2010, Pratt and Foreman 2000). By explic-
+itly considering all three specific types of identities
+(prosocial, collective, and individualistic), we question
+this assumption, both theoretically and empirically.
+Instead, we propose that a person with an identity
+configuration characterized by focused enhancement (in
+which prosocial and collective identities are mutually
+Prosocial behavior—behavior that protects, promotes
+or contributes to the welfare of others (Grant 2007)—is
+crucial for organizations and societies to function well.
+Organizations have sought to promote prosocial behav-
+ior by activating their members’ prosocial identities—
+identities such as “mentor” or “volunteer”—that orient
+a person toward helping others (Piliavin and Callero
+1991, Grant et al. 2008). Yet, a person’s prosocial identity
+does not exist in a vacuum. Scholars have long recog-
+nized that people have multiple identities (James 1890).
+Organizations are a fertile context for the activation of
+their members’ multiple identities, not just prosocial
+identities, but also individualistic and collective identi-
+ties (Bartel 2001, Blader 2007). However, little research
+has examined how multiple identities affect prosocial
+behavior, particularly in organizational contexts.
+Individualistic and collective identities are funda-
+mental aspects of the self-concept and therefore espe-
+cially important to examine in combination with
+prosocial identities (Brewer and Gardner 1996). Indi-
+vidualistic identities are egoistic, “me” oriented
+aspects of the self-concept and include idiosyncratic
+personal characteristics such as “trailblazer” or “star.”
+Collective identities are “we” oriented aspects of the
+self-concept, and include one’s group memberships,
+such as ethnic or professional affiliations (Brewer and
+Gardner 1996). Prosocial identities are “you” oriented
+495496
+enhancing but both are unrelated to an individual-
+istic identity) will exhibit higher levels of prosocial
+behavior than a person with an identity configuration
+characterized by mutual enhancement (mutual enhance-
+ment among all three identities—prosocial, collective,
+and individualistic). Across two field studies and two
+experiments, we consistently find that identity config-
+urations of focused enhancement between prosocial and
+collective identities result in higher prosocial outcomes
+than configurations of mutual enhancement among all
+three identities. Our work contributes to research on
+both multiple identities and prosocial behavior by
+demonstrating the value of a configurational approach
+that highlights the importance of the specific types of
+identities that enhance one another, rather than assum-
+ing that mutual enhancement is always desirable.
+Prosocial Behavior and Multiple Identities
+Prosocial Behavior in Organizations
+Prosocial behavior in organizational contexts captures
+how organizational members engage with one another
+as givers and receivers, as well as how they engage
+with beneficiaries in the larger society. Prosocial orga-
+nizational behavior is defined as behavior which is
+“(a) performed by a member of an organization, (b)
+directed toward an individual, group, or organization
+with whom he or she interacts while carrying out his
+or her organizational role and (c) performed with the
+intention of promoting the welfare of the individual,
+group, or organization toward which it is directed”
+(Brief and Motowidlo 1986, p. 711). The organizational
+importance of prosociality is evident from studies of
+a wide range of behaviors, such as donating (O’Reilly
+and Chatman 1986), volunteering (Grant and Sumanth
+2009), and helping in groups (Blader and Tyler 2009)
+as well as studies in a range of contexts, including vol-
+untary organizations (Schaubroeck and Ganster 1991),
+university alumni (O’Reilly and Chatman 1986), and
+among employees who volunteer inside or outside
+their organizations (Bartel 2001, Grant et al. 2008, Grant
+and Sumanth 2009).
+Identities: Types and Relationships
+Identity Types. Identities, “the set of meanings that
+define who one is” (Burke and Stets 2009, p. 3), are
+a fundamental driver of individual behavior in orga-
+nizations (Bartel et al. 2007). Individualistic identities
+drive behaviors that promote one’s personal welfare
+and goals; collective identities drive behaviors that
+promote or stem from feelings of group belonging
+(Brickson 2013, Brewer and Gardner 1996) and proso-
+cial identities drive behaviors that promote the wel-
+fare of others (Grant 2007). Prosocial identity differs
+from collective identity because it is defined in terms
+of helping others regardless of whether the recipient
+shares the giver’s group memberships. For instance,
+Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Grant and colleagues (2008) show that employee par-
+ticipation in a corporate giving program affected both
+prosocial identity and organizational identity (a collec-
+tive identity) independently.
+Two of the three types of identities we consider have
+been found to influence prosocial behavior in organi-
+zational contexts. A prosocial identity drives proso-
+cial behavior (Grant 2007, Penner et al. 2005). For
+example, identifying oneself with an altruistic role,
+such as donor, increases how much, how often, and
+how consistently one donates to others (Grube and
+Piliavin 2000, Piliavin and Callero 1991). A collective
+identity also leads to prosocial behavior. For exam-
+ple, alumni identification with their university influ-
+ences their donation behavior (Mael and Ashforth
+1992, O’Reilly and Chatman 1986). Whether individu-
+alistic identity also drives prosocial behavior remains
+an open question.
+Relationships Among Identities. Scholars have begun
+to recognize that two or more identities may be simul-
+taneously salient or coactivated for individuals, rais-
+ing questions about how one’s identities are related
+(Ashforth and Johnson 2001, Blader 2007, Rothbard
+and Ramarajan 2009). Research suggests that simulta-
+neously salient identities may be related in conflicting
+(Benet-Martinez and Haritatos 2005, Greenhaus and
+Beutell 1985) or enhancing ways (Dutton et al. 2010), or
+they may be unrelated and operate independently of
+one another (Lipponen et al. 2005).
+When people experience identity conflict, they feel
+caught between opposing meanings that they associate
+with their different identities. Their cognition narrows,
+their energy is depleted, and negative affect abounds
+(Hugenberg and Bodenhausen 2004, Rothbard 2001,
+Hirsh and Kang 2016), often leading to diminished
+well-being and poor task performance (Brook et al.
+2008, Cheng et al. 2008). When people experience
+identity enhancement, they feel that the values and
+meanings associated with their various identities
+are complementary. Energy and positive affect are
+abundant, creating engagement and inspiring growth
+(Creary et al. 2015, Dutton et al. 2010, Rothbard 2001).
+Consistent with research on the independence of pos-
+itive and negative affect and motivation (Carver and
+White 1994, Watson et al. 1988), low identity conflict is
+not equivalent to high identity enhancement. Further-
+more, identity conflict and enhancement can coexist.
+For example, some aspects of one’s work identity can
+be in conflict with some aspects of one’s family iden-
+tity, while other aspects of both identities can enhance
+one another (Tiedje et al. 1990).
+Multiple Identity Configurations
+The above research has largely examined relationships
+between two identities (i.e., whether identities A and
+B are related in conflicting or enhancing ways). Yet,Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+examining a single relationship of conflict or enhance-
+ment between a pair of identities (such as work and
+family identities or organizational and professional
+identities) overlooks the reality that there may be more
+than two identities operating and therefore many more
+relationships among those identities to consider. By
+moving from two to three identities, as we do here,
+more complex patterns of relationships between iden-
+tities emerge. For instance, people may experience all
+three identities as unrelated, two identities as enhanc-
+ing and the third as unrelated, two identities as enhanc-
+ing and the third conflicting with both, and so on.
+Scholars have called for greater understanding of the
+complexity of people’s experience and management of
+more than two identities, suggesting a variety of pat-
+terns that better characterize how multiple identities
+may operate as a “whole,” rather than simply as indi-
+vidual parts (Ashforth 2007, Pratt and Foreman 2000,
+Roccas and Brewer 2002, Ramarajan 2014). We use the
+term “multiple identity configurations” for patterns of
+conflict and enhancement among more than two iden-
+tities, as “configuration” implies “a single set of rela-
+tions among many components” such that they “can
+be considered a single entity” (Schachter 2004, p. 170).
+Although many different multiple identity configu-
+rations may exist, the dominant intuition in the liter-
+ature is that a configuration characterized by mutual
+enhancement among all simultaneously salient identi-
+ties will be the most effective one for fostering many
+organizationally relevant behaviors (Ashforth 2007,
+Dutton et al. 2010, Pratt and Foreman 2000). The rea-
+soning is that in this configuration, each identity facil-
+itates the meanings, values, and behaviors of the oth-
+ers. Yet, this intuition overlooks the specific types of
+identities that may be enhancing one another. Below,
+we question this intuition by considering both the
+types of identities and the relationships among them
+to hypothesize how prosocial, collective, and individ-
+ualistic identities jointly operate to influence prosocial
+behavior.
+Identity Configurations and
+Prosocial Behavior
+To develop hypotheses about how configurations
+of prosocial, collective, and individualistic identities
+affect prosocial behavior, we define three theoretically
+relevant patterns of relationships.
+Mutual Conflict
+This identity configuration is characterized by a pattern
+of conflicting relationships between an individual’s
+prosocial, collective, and individualistic identities. We
+propose that high levels of conflict between all three
+identities lead to low levels of prosocial behavior. When
+people perceive their identities as conflicting, they feel
+caught between opposing values, expectations, and
+497
+meanings (Hirsh and Kang 2016, Brook et al. 2008). The
+experience of feeling torn between different aspects of
+“who one is” creates a sense of psychological stress
+and insecurity (Marcussen 2006), which may detract
+from one’s ability to advance the other party’s wel-
+fare. Identity conflict is also likely to turn one’s focus
+inward toward oneself rather than outward toward oth-
+ers, because one is deciding between various aspects of
+who one is. Regulating and choosing among aspects of
+who one is can deplete one’s cognitive and motivational
+resources, leaving less energy and attention to give to
+others (Baumeister et al. 1998, Marks 1977, Rothbard
+2001). Thus, we have the following:
+Hypothesis 1 (H1). Identity configurations characterized
+by high mutual conflict between an individual’s prosocial,
+collective, and individualistic identities will be associated
+with low levels of prosocial behavior.
+Mutual Enhancement
+This identity configuration is characterized by a pat-
+tern of mutual enhancement between an individual’s
+prosocial, collective, and individualistic identities.
+Consistent with the dominant intuition, we propose
+that high levels of enhancement between all three
+identities should increase prosocial behavior. Identity
+enhancement can expand the cognitive and motiva-
+tional resources people bring to their work, fostering
+more task-focused behavior (Creary et al. 2015, Rama-
+rajan 2014). This is because when a person feels that
+all aspects of herself are facilitating one another, she
+can focus on the task at hand rather than on who she
+is (Baumeister et al. 1998, Marcussen 2006). Further,
+the more people engage with the groups and relation-
+ships associated with their various identities, the more
+likely they are to gain meaning and energy, which they
+can then devote to the task (Marks 1977, Rothbard
+2001). Identity enhancement can also provide relevant
+resources to apply to the task because it enables access
+to the variety of identity-based knowledge, skills, and
+behaviors one possesses (Caza and Wilson 2009, Cheng
+et al. 2008).
+Identity enhancement may also create a sense of psy-
+chological security, because different aspects of who
+one is are being expressed and validated simultane-
+ously (Stets and Harrod 2004, Swann 1983). The greater
+one’s sense of psychological security, the more one may
+be able to transcend focusing on oneself (i.e., be less
+self-oriented) and the more one is likely to take others
+into account (i.e., be more other-oriented) (Pratt et al.
+2012). This should make one more likely to engage in
+prosocial behavior (Mikulincer et al. 2005). Thus we
+have the following:
+Hypothesis 2 (H2). Identity configurations characterized
+by high mutual enhancement between an individual’s
+prosocial, collective, and individualistic identities will be498
+associated with higher levels of prosocial behavior than
+configurations in which all three identities are mutually
+conflicting.
+Focused Enhancement
+While the above hypothesis is both intuitively appeal-
+ing and supported by research, a closer examination
+of the types of identities under consideration suggests
+that a focused enhancement identity configuration
+may lead to even higher levels of prosocial behavior.
+Enhancement in this configuration is relatively greater
+between the prosocial and collective identities, with
+the individualistic identity unrelated to the other two.
+We explain why this configuration should exhibit the
+highest levels of prosocial behavior by unpacking how
+enhancement between different identity types influ-
+ences prosocial behavior.
+Prosocial–Collective Identity Enhancement. Prosocial
+and collective identities compel a person, in one way
+or another, to focus on the welfare of others (Brickson
+2013, Penner et al. 2005). Hence, configurations in
+which prosocial and collective identities enhance one
+another are likely to foster prosocial behavior because
+they motivate and mutually reinforce other-oriented
+actions. For example, imagine a lawyer (collective
+identity) who is also a volunteer (prosocial identity).
+Enhancement between her lawyer and volunteer iden-
+tities might well encourage her to seek out and take
+on pro bono work: her lawyer identity motivates her to
+contribute on behalf of her profession, and her volun-
+teer identity motivates her to contribute her services to
+clients who cannot afford to pay for legal services.
+Individualistic–Prosocial and Individualistic–Collec-
+tive Identity Enhancement. Adding to the mix en-
+hancement between one’s individualistic identity, on
+the one hand, and one’s prosocial and collective iden-
+tities, on the other—i.e., full mutual enhancement—is
+likely to curtail prosocial behavior relative to a con-
+figuration in which prosocial and collective identities
+are unrelated to the individualistic one—i.e., focused
+enhancement. Individualistic identities focus a person
+on his or her personal goals and achievements (Brewer
+and Gardner 1996, Brickson 2013). As a result, when
+an individualistic identity enhances an other-oriented
+identity, the other-oriented identity may be co-opted by
+the individualistic identity’s self-oriented pursuits. For
+example, imagine a lawyer (collective identity) who is
+a volunteer (prosocial identity) but who also defines
+herself as a high-achieving legal expert (individual
+identity). While enhancement between her lawyer and
+volunteer identities would foster her interest in volun-
+teering, she might only take on pro bono work that
+would advance her own skills. Likewise, enhancement
+between her lawyer and expert identities might propel
+her to take on only those pro bono cases that would
+Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+increase her standing in the profession. Thus, con-
+figurations with prosocial–collective identity enhance-
+ment in which these other-oriented identities are also
+enhanced by individualistic identities may result in
+some prosocial behavior, but the individualistic iden-
+tity, because of its self-serving orientation toward help-
+ing, may function as a countervailing or limiting force
+on prosocial behavior.
+Research on self-serving motives for prosocial
+behavior supports the argument that individualistic
+identity enhancement may ultimately suppress proso-
+cial behavior by activating a more self-serving orien-
+tation toward helping, though this idea has not been
+directly tested. This work identifies a number of ego-
+istic, self-serving reasons for engaging in prosocial
+behavior, including improving one’s own psychologi-
+cal or material state, gaining career or knowledge bene-
+fits, and making a good impression (Batson et al. 1983,
+Clary et al. 1998, De Dreu and Nauta 2009).
+Importantly, this research suggests that while self-
+serving motives to engage in prosocial behavior can
+encourage a certain amount of prosocial behavior,
+they may also limit it, especially in comparison to
+other-oriented motives. For instance, when people
+view others in need, those motivated by a desire to
+alleviate their own distress engage in more limited
+helping behavior than those motivated by empathy
+(Batson et al. 1983). Engaging in prosocial behavior to
+feel intrinsic pleasure can also divert attention away
+from the goal of prosocial activities, thus limiting
+how much help one actually gives to those in need
+(Andreoni 1990, Bales 1996, Grant 2008). In work set-
+tings, a common self-serving motive for helping others
+is impression management (Rioux and Penner 2001).
+When people are motivated to help others to make a
+good impression on their boss or colleagues and gain
+rewards such as praise or promotions, their proso-
+cial behavior is less extensive than when they are
+motivated by other-oriented reasons (Grant and Mayer
+2009). In sum, configurations in which prosocial and
+collective identities are enhanced by an individualistic
+identity (i.e., the mutual enhancement configuration)
+may invoke a self-serving orientation toward helping,
+ultimately resulting in lower prosocial behaviors rel-
+ative to configurations in which there is prosocial-
+collective identity enhancement but individualistic
+identity is unrelated (i.e., the focused enhancement
+configuration). Thus, we have the following:
+Hypothesis 3 (H3). Identity configurations characterized
+by high focused enhancement—prosocial and collective
+identities are mutually enhancing but unrelated to an
+individualistic identity—will be associated with higher lev-
+els of prosocial behavior than configurations in which all
+three identities are mutually enhancing.Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+499
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Overview of Studies
+We use a mixed-method research design to test
+our hypotheses because research on multiple iden-
+tity configurations is still emerging (Edmondson and
+McManus 2007). In Study 1, we take an exploratory
+approach to understanding identity configurations,
+using qualitative and quantitative data from a lon-
+gitudinal field study. In Study 2, we extend the
+generalizability of our results by examining identity
+configurations and prosocial behavior in a team set-
+ting. In Study 3, we test causal relationships using an
+experimental design and also examine logically gen-
+erated configurations that did not emerge in our field
+studies. In Study 4, we experimentally examine self-
+serving motives as an underlying mechanism for the
+hypothesized effect of focused versus mutual enhance-
+ment on prosocial behavior.
+Study 1
+Research Setting, Sample, and Procedure
+Our setting involves two nonprofit organizations in
+Israel that raise funds for charities through bike rides.
+The first, Alyn Children’s Hospital (Alyn), involves
+approximately 300 Jewish riders who collectively raise
+over $2 million per year. The second, the Arava
+Institute for Environmental Studies (Arava), involves
+approximately 200 Jewish riders who raise close to
+$700,000 per year. Riders in both events cycle roughly
+60 miles per day, pay their own transportation costs
+(approximately $1,000 for North Americans) and regis-
+tration fees ($400), and are required to raise a minimum
+amount, which is $2,500 for Alyn and $3,600 for Arava.
+Event participation and fundraising represent major
+investments of time and money and suggest a strong
+commitment to charity, cycling, and Jewish ethnicity.
+To verify the appropriateness of our setting for
+testing hypotheses concerning the rich dynamics of
+multiple identities, we conducted 33 semistructured
+interviews with 25 informants (8 were interviewed
+pre- and post-ride), prior to fielding our survey. Infor-
+mants’ ages ranged from 40 to 65 years old; 44% were
+female. Interviews lasted from 30 to 60 minutes and
+were taped and transcribed by the authors. The inter-
+view protocol covered the participants’ motivations
+for joining the ride, their identities, self-perceptions in
+each domain, and their training and fundraising expe-
+riences. Our interview data illustrate the salience of
+multiple identities to our informants and reveal rela-
+tionships of conflict and enhancement between those
+identities (see online appendix for illustrative exam-
+ples). Quantitative data were collected using pre- and
+post-ride, 20-minute, web-based surveys. In 2007, the
+survey was distributed to 281 Alyn riders, and in 2014,
+it was distributed to 321 Alyn riders and 160 Arava rid-
+ers. A total of 162 participants completed the surveys
+(response rates: Alyn 1  37%, Alyn 2  40%, Arava 
+23%). The response rates are within the commonly
+reported range for longitudinal organizational field
+research (Roth and BeVier 1998). We combine the data
+from all three rides and control for the year the survey
+was taken and the beneficiary organization (Alyn or
+Arava).
+Measures
+Independent Variables.
+Identities. In 2007, participants’ identities were mea-
+sured using Bergami and Bagozzi’s (2000) overlap-
+ping circles scale. Participants were asked to choose
+the extent of overlap between a pair of circles—
+one representing themselves and the other represent-
+ing the target identities: prosocial (altruist), individ-
+ualistic (cyclist), and collective (Jewish). Eight pairs
+of visual circles were rated on a scale from 1 (far
+apart) to 8 (completely overlapping), and the means
+were as follows: prosocial (altruist) identification (M 
+5.7, SD  1.68); individualistic (cyclist) identification
+(M  4.4, SD  1.84); and collective (Jewish) identifica-
+tion (M  6.5, SD  1.7).
+In 2014, participants’ identities were measured using
+three items of the Luhtanen and Crocker (1992) iden-
+tity subscale: “this identity is important to how I see
+myself”; “this identity is an important reflection of who
+I am”; and “this identity has very little to do with who I
+am” (reverse coded). These items were rated on a scale
+from 1 (strongly disagree) to 5 (strongly agree), for
+each identity, and the means were as follows: prosocial
+(altruist) identification (M  3.66, SD  1.09); individu-
+alistic (cyclist) identification (M  3.31, SD  1.28); and
+collective (Jewish) identification (M  4.58, SD  0.87).
+We standardized the variables before combining them
+across samples. 1
+Identity configurations. Our focal independent vari-
+able was a measure of multiple identity configurations.
+We used cluster analysis to identify the configurations
+because it is a commonly used technique to reduce
+complex data in a manageable way and to build
+theory inductively by identifying common characteris-
+tics among units (Punj and Stewart 1983, Sonenshein
+et al. 2014).
+To identify the clusters, we first measured iden-
+tity conflict and enhancement between all three
+pairs of identities: prosocial–collective, individualistic–
+collective, and individualistic–prosocial. Measures
+were adapted from existing multiple identity scales
+(Benet-Martinez and Haritatos 2005, Brook et al. 2008).
+The item stem was as follows: “Of the times when
+you think of yourself as a [X] and [Y], how often do
+you think . . . ” which was then followed by three con-
+flict and three enhancement statements for each dyad
+(counterbalanced). The three conflict items were as fol-
+lows: “I struggle to maintain an [X] and [Y] way ofRamarajan, Berger, and Greenspan: Multiple Identity Configurations
+500
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Figure 1. Study 1 Configurations of Multiple Identities—Empirical Results
+Key: Enhancement =
+Conflict =
+Strength of relationship = Width of line; Strength of identity = Size of circle
+1. Mutual enhancement configuration 2. Independent configuration
+5.3 3.8
+Cyclist
+Cyclist
+4.8
+5.1
+2.6
+1.3
+2.2
+5.9
+5.0
+6.2
+3.3
+Altruist
+Jewish
+Altruist
+Jewish
+3. Mutual conflict configuration 4. Focused enhancement configuration
+4.5 4.3
+Cyclist Cyclist
+3.3
+3.2
+2.7
+2.3
+1.9
+1.3
+2.2
+1.1
+1.5
+2.6
+5.5
+6.4
+6.5
+6.9
+5.6
+5.1
+Jewish
+1.4
+1.4
+6.4
+7.0
+1.1
+1.8
+1.7
+Altruist
+Jewish
+Altruist
+Note. Means presented are from Alyn Ride 2007 sample for illustrative purposes.
+doing things”; “Being a ‘good’ [X] interferes with being
+a ‘good’ [Y]”; and ”I feel a [X] way of doing things
+and a [Y] way of doing things are opposed.” The three
+enhancement items were “I am a better [X] because
+of my [Y] identity”; “I rely on both [X] and [Y] way
+of doing things”; and “I appreciate being an [X] more
+because I am a [Y].” Responses were on a scale from
+1 (never) to 7 (always). The reliabilities for the iden-
+tity conflict and identity enhancement scales ranged
+from 0.7 to 0.8 for both identity conflict and identity
+enhancement across all pairs. We averaged the three
+items for each pair of identities.
+For robust cluster analysis, Punj and Stewart (1983)
+recommend K-means clustering, and theoretically pre-
+determining the number of clusters. Relying on prior
+research suggesting that conflict and enhancement
+are independent dimensions (Tiedje et al. 1990), 2
+we specified four clusters that are based on four
+possible patterns of multiple identity relationships:
+low enhancement–low conflict, low enhancement–high
+conflict, high enhancement–low conflict, and high
+enhancement–high conflict. 3 Figure 1 displays the four
+configurations resulting from the cluster analysis.
+While cluster analysis is “quantitative,” it remains
+an inductive technique calling for the careful interpre-
+tation of clusters (Punj and Stewart 1983). Here, the
+interpretation needed to take into account the meaning
+of the identities along with their pattern of relation-
+ships. The enhancement-conflict patterns of the four
+clusters showed that one cluster most resembled a
+configuration characterized by enhancement across all
+three pairs, with relatively low conflict; we labeled this
+mutual enhancement. Another was characterized by low
+levels of both enhancement and conflict; we labeled it
+independent. A third was characterized by high levels of
+conflict, with some enhancement; we labeled it mutual
+conflict, and the fourth cluster displayed a pattern of
+focused relationships with strong enhancement of theRamarajan, Berger, and Greenspan: Multiple Identity Configurations
+501
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Table 1. Study 1 Mean Scores for Conflict and Enhancement for Identity Dyads by Configuration
+Individualistic–
+collective identities
+Configuration
+Mutual enhancement
+Independent
+Mutual conflict
+Focused enhancement
+Prosocial–
+collective identities
+Individualistic–
+prosocial identities
+Average of
+3 identity dyads
+Enhancement
+(1) Conflict
+(2) Enhancement
+(3) Conflict
+(4) Enhancement
+(5) Conflict
+(6) Enhancement
+(7) Conflict
+(8)
+0.82
+(1.06) −0.09
+(0.60) 0.40
+(0.79) −0.14
+(0.56) 1.07
+(0.88) −0.09
+(0.59) 0.76
+(0.57) −0.11
+(0.43)
+−0.54
+(0.90)
+0.60
+(0.68)
+−0.55
+(0.46) −0.16
+(0.91)
+1.13
+(1.59)
+−0.34
+(0.45) −0.92
+(1.07)
+0.14
+(0.82)
+0.40
+(0.73) −0.37
+(0.52)
+0.82
+(1.19)
+0.01
+(1.22) −0.78
+(0.66)
+0.11
+(0.57)
+−0.55
+(0.54) −0.48
+(0.28)
+1.40
+(1.49)
+−0.40
+(0.19) −0.75
+(0.52)
+0.28
+(0.44)
+−0.23
+(0.35) −0.34
+(0.44)
+1.11
+(0.93)
+−0.24
+(0.48)
+Notes. Standard deviations are in parentheses. Number of observations are as follows: mutual enhancement  53; independent  39; mutual
+conflict  23; focused enhancement  47; total  162. Because of the combined samples, the presented means and standard deviations are
+standardized values.
+collective–prosocial dyad, but relatively low enhance-
+ment of the individualistic identity; we labeled this
+pattern focused enhancement. We describe each config-
+uration in greater detail below (see Table 1 for mean
+scores for conflict and enhancement by configuration).
+Illustrative examples are from our qualitative data.
+1. Mutual enhancement configuration. The distin-
+guishing characteristic of this configuration is that all
+three identity dyads exhibit high levels of enhance-
+ment. In comparison to the other configurations, we
+can observe this in the average enhancement score,
+which was the highest of the four configurations
+(M enh  0.76) (Table 1, Column 7). The prosocial–
+collective enhancement score (M pro–coll enh  0.40) in this
+configuration and in the focused enhancement con-
+figuration were identical (Table 1, Column 3). How-
+ever, the prosocial–collective enhancement score was
+the lowest of the three enhancement scores in this con-
+figuration (Table 1, Columns 1 and 5). There was also a
+moderate degree of identity conflict in this configura-
+tion (M conf  −0.11) (Table 1, Column 8).
+In the qualitative data, we saw this configuration
+expressed by participants who felt that all three facets
+of the ride were complementary. They found it difficult
+to rank order the various aspects of the ride. Instead,
+they spoke of a “perfect fit” among the components:
+I’m participating because it is something that in every
+aspect is close to my heart. It’s Eretz Israel [Land of
+Israel], Tzedakah [charity] and Ofnayim [bike], so my
+three passions. (Interview #13)
+I think that there’s very little gap in the importance of
+each of them. I think it’s a confluence rather than a
+ranking. It’s a convergence of events that make it for
+me, what makes it happen. . . . If any one of those rea-
+sons weren’t there, it would diminish the focus for me.
+(Interview #18)
+These quotes illustrate the participants’ sense that
+each identity domain was unique (e.g., my three pas-
+sions, any one of those reasons) but each positively
+reinforced the other (e.g., convergence) and that their
+coming together formed a whole that was greater than
+the sum of its parts.
+2. Independent configuration. The distinguishing char-
+acteristic of this cluster was the low level of both con-
+flict and enhancement between identities. In essence,
+the three identities did not interact with one another
+positively or negatively, but rather they operated rel-
+atively separate from one another. In comparison to
+the other configurations, this configuration ranked
+the lowest of the four in terms of both enhancement
+(M enh  −0.75) and conflict (M conf  −0.34) (Table 1,
+Columns 7 and 8).
+In our qualitative data, we saw this configuration
+expressed by participants who described their iden-
+tities as fairly distinct, with the event providing an
+opportunity to enact each identity separately. In con-
+trast to the mutual enhancement group, who had dif-
+ficulty responding to questions about how they would
+rank their identities, participants within this configu-
+ration could rank their identities. This configuration
+was, therefore, consistent with dominance of identi-
+ties as noted in the literature (Ashforth 2007, Pratt and
+Foreman 2000, Roccas and Brewer 2002):
+I think Israel is number one and I guess number two
+really is doing the charity work in a way that’s a per-
+sonal and a physical challenge for me. I think it is Israel,
+charity and a physical bike ride. (Interview #21)
+It [is] the biking, then Israel, and then the fundraising.
+(Interview #14)
+As the quotes above suggest, the most important
+identity domain differed from person to person; for
+some it was the collective identity, for others it was the
+individualistic one. Thus, the common experience for
+people with this configuration was fairly little conflict
+or enhancement between their identities, suggesting
+that all three identities were independent.502
+3. Mutual conflict configuration. The distinguishing
+characteristic of this configuration is the high level
+of conflict. These participants reported high conflict
+between all three identity dyads. Comparatively, the
+average conflict for this configuration was the highest
+of the four configurations (M conf  1.11) (Table 1, Col-
+umn 8). It is notable that participants in this cluster also
+experienced some enhancement (M enh  0.28) (Table 1,
+Column 7).
+In our interviews, people who most resembled this
+configuration were individuals feeling torn between
+the demands of various identities. One female rider
+noted, for example, the conflict between her individ-
+ualistic (cyclist) and collective (Jewish) identities and
+how she was debating which to prioritize:
+When I go into Jerusalem, am I going to be wearing
+shorts or am I going to be wearing a skirt on top, I
+don’t know. It’s kind of an issue, like here [in North
+America] I ride in shorts but I don’t know about Eretz
+Israel . . . . When you’re in Jerusalem, the holy city, we’re
+going to be riding around, they’ll be all kinds of Yeshiva
+[religious education] students there, I might put on a
+skirt for the Jerusalem ride . . . I don’t think it will slow
+me down . . . that’s the thing, I don’t know. I might wear
+a shorter skirt, you know just a skirt that will cover my
+knees, or maybe riding pants. (Interview #20)
+She was also struggling to reconcile her desire to go
+on the ride, which was driven by her collective identity
+(“There’s something in my nature that draws me to the
+Land of Israel”), with her desire to support the cause
+as much as possible, which was driven by her prosocial
+identity (“I donate to all kinds of organizations. I give
+way more than 10 percent of my income to Tzedakah
+[charity] every year”). For example, although she was
+going on the ride, she was still questioning the money
+spent on the trip, and whether or not it was a “waste”
+compared to giving more to the organization:
+I spent more money going there than I raised. If you
+think about it, the plane ticket is 1,500 dollars and then
+you get to Israel and you’re going to spend at least 500
+dollars hanging around there and then you stay an extra
+two weeks and that’s at least an extra 1,000 dollars . . . .
+I wasted or spent more money than I raised. (Inter-
+view #20, continued)
+While people with this configuration exhibited
+greater conflict relative to other clusters, they also
+experienced some enhancement between identities.
+For example, the above woman also described how ful-
+filling one aspect of herself enhanced her fulfillment
+with another:
+Bicycle riding—I really enjoy it . . . . Today, I cycled
+downtown . . . . See my little hole in my arm. I donate
+blood platelets for cancer patients, so that’s why I have
+a hole in my arm. I rode downtown and I gave blood,
+takes about three hours, and then I rode for about two
+Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+and a half hours after I gave blood. I thought that was
+very easy. I did the three hours today, nothing. (Inter-
+view #20, continued)
+4. Focused enhancement configuration. In this clus-
+ter, participants experienced their prosocial and col-
+lective identities as enhancing one another and their
+individualistic identity as more separate, neither con-
+flicting nor enhancing. Compared to other configu-
+rations, focused enhancement ranks just above the
+independent configuration in both average enhance-
+ment (M enh  −0.23) and conflict (M conf  −0.24)
+(Table 1, Columns 7 and 8). However, this configuration
+is distinguished by high prosocial–collective enhance-
+ment (M pro–coll enh  0.40) relative to the individualis-
+tic identity dyads (M ind–coll enh  −0.55 and M ind–pro enh 
+−0.55, Table 1, Columns 1 and 5). This is unlike the
+mutual enhancement configuration, in which the same
+level of prosocial–collective enhancement (M pro–coll enh 
+0.40) was relatively lower than the two individualistic
+identity dyads (M ind–coll enh  0.82 and M ind–pro enh  1.07,
+Table 1, Columns 1 and 5).
+In our qualitative data, we saw focused enhancement
+among participants who spoke about the enhancement
+produced through being Jewish and altruist, while
+feeling low conflict and enhancement with their cyclist
+identity. For example, the descriptions of one woman
+about her contributions illustrate the ways in which her
+prosocial identity and her collective identity mutually
+enhance one another:
+I don’t feel like I’m taking from Israel but I’m giving. Not
+just my tourist dollars but myself . . . and there’s the issue
+of . . . giving to an organization that’s a worthy organiza-
+tion. I think there’s a really good feeling with that. If you
+really believe in something, an organization or a charity
+or a cause, and you really work hard and contribute to
+it, it’s a very satisfying feeling you know. . . . I feel very
+strongly that it’s a very good organization so I feel very
+satisfied in working hard for it. (Interview #12)
+Another participant noted the enhancement of
+prosocial and collective identities and pointed to the
+importance of a prosocial cause that served more than
+the collective he was part of:
+I feel I’m supporting a hospital plus . . . it’s a Jewish hos-
+pital but I know they treat everyone . . . I know that they
+treat not only Jewish children but Arab children as well.
+To me, it is great. They should treat everyone who has
+any type of problem. But the fact that it’s in Jerusalem,
+it’s in Israel, has everything to do with the work I’m
+doing for Alyn . . . [and] when I see these children who
+have these terrible problems, it gives me extra energy to
+try and work for them. (Interview #15)
+Despite his focus on Jewish and altruist identities, he
+was not ignoring his cyclist identity; indeed, in describ-
+ing himself he noted, “[As a cyclist], I would say I am
+sort of untamed, individualistic, and a little recklessRamarajan, Berger, and Greenspan: Multiple Identity Configurations
+503
+0.48
+0.07
+0.35
+0.01
+−0.00
+0.09
+0.20
+Control Variables.
+Our control variables include the following: gender
+(binary) and age (continuous) of riders, survey year
+(2007 or 2014), and the ride (Alyn or Arava). We also
+controlled for prior experience with similar activities:
+biking experience—respondents’ self-reported cycling
+expertise (1  novice to 5  experienced), which we
+dichotomized as 1 (expert cyclists) and 0 (novice and
+intermediate cyclists); as our qualitative data sug-
+gested, novice and intermediate riders were more sim-
+ilar to one another (they tend to take on-road routes)
+compared to experts (who took off-road routes). Altru-
+ist experience was measured by asking participants
+approximately how much of their annual income they
+donated to charity on a scale from 1 (<1% of income)
+to 5 (>10% of their income). Charity ride experience
+was measured by the number of times participants
+had been on their respective bike rides (never, once,
+two to three times, more than three times), which we
+dichotomized as 1 (three times or more on the ride)
+and 0 (less than three times). Our interviews with
+ride organizers suggested that people who went sev-
+eral times were more likely to return than those who
+went just a few times. (See Table 2 for descriptives and
+correlations.)
+Prosocial behavior. We operationalized prosocial be-
+havior as the self-reported amount of money (in USD)
+raised by each participant for their respective charity
+organizations. Prior research on prosocial behavior has
+used the amount raised as a meaningful criterion in
+fundraising contexts (Grant and Sumanth 2009). Our
+interviews with ride organizers suggested that this was
+also an important outcome for the organizations. The
+mean amount raised was 6,509 USD.
+Dependent Variable.
+even . . . I take a lot of risks that maybe people may not
+take when it comes to dodging traffic and doing off
+road riding and some dangerous stuff.” Yet his cycling
+experience was not necessarily enhanced by his proso-
+cial or collective identities. He said, “it’s great to ride
+there, I love it, but as for a physical challenge . . . it will
+not [be] a huge one.”
+In sum, we found four configurations of multi-
+ple identities in this setting: mutual enhancement, in
+which all identities enhanced one another; indepen-
+dent, in which all identities were largely separate from
+one another with both low conflict and low enhance-
+ment; mutual conflict, distinguished by strong conflict
+among identities; and focused enhancement, in which
+the collective–prosocial identities were enhancing and
+the individualistic identity was less enhanced. We used
+these four identity configurations as independent vari-
+ables to test our hypotheses about the effects of config-
+uration on prosocial behavior.
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS504
+Results
+An analysis of variance (ANOVA) of funds raised by
+configuration type was significant (F 3,158  3.78, p 
+0.01). In support of Hypothesis 3, participants with the
+focused enhancement configuration raised the most
+money (M  8,993.15, SD  10,988.27). This amount
+was significantly greater than the mutual enhance-
+ment configuration (M  4,846.11, SD  2,971.03), (t 
+3.11, p < 0.01) and the independent configuration (M 
+5,330.96, SD  3,285.91), (t  2.54, p < 0.05). However,
+the focused enhancement configuration was not signif-
+icantly greater than the mutual conflict configuration
+(M  7,263.35, SD  5,136.04), (t  1.02, p  ns), and the
+mutual enhancement, mutual conflict, and indepen-
+dent configurations were also not significantly differ-
+ent from one another, indicating H1 and H2 were not
+supported.
+Because there is over-dispersion in the dependent
+variable (indicated by the variance being greater than
+the mean), we further tested our hypotheses using a
+negative binomial regression. The regression results
+(see Table 3) indicate that the configurations have a
+significant effect on prosocial behavior. The key con-
+figuration variables are significant after accounting
+for the control variables as well as the individual
+effects of each identity (Models 1 and 2). Further-
+more, in Model 3, using the mutual enhancement
+configuration as the reference category we see that
+only the focused enhancement configuration has a
+greater effect on the amount of money raised (β 
+0.44, p < 0.01). The amount of money raised by the
+independent (β  −0.26, ns) and mutual conflict (β 
+0.20, p  ns) configurations are not significantly differ-
+ent from the mutual enhancement configuration. 4 In
+sum, the focused enhancement configuration exhibited
+greater prosocial behavior than the mutual enhance-
+ment configuration.
+Discussion. Study 1 provides several important in-
+sights regarding multiple identity configurations and
+prosocial behavior. First, we observed that participants’
+experiences of conflicting and enhancing relationships
+between the three identities could be meaningfully
+captured both quantitatively and qualitatively. We
+identified four configurations: independent, mutual
+conflict, mutual enhancement, and focused enhance-
+ment. Second, as hypothesized, we found that the
+focused enhancement configuration (in which the
+prosocial–collective identities were mutually enhanc-
+ing but both were unrelated to the individualistic iden-
+tity) resulted in higher levels of prosocial behavior than
+the mutual enhancement configuration. This suggests
+that the type of identity being enhanced may matter.
+Self-serving motives for prosocial behavior. To fur-
+ther understand why the mutual enhancement con-
+figuration had lower levels of prosocial behavior
+Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Table 3. Study 1 Negative Binomial Regression for
+Funds Raised
+Variables
+Controls
+Gender (female)
+Age
+Survey year (2014)
+Ride (Alyn)
+Charity ride experience (>3)
+Cyclist experience (expert)
+Altruist experience
+Model 1
+B (SE) Model 2
+B (SE) Model 3
+B (SE)
+0.08
+(0.13)
+0.01 ∗∗
+(0.00)
+0.58 ∗∗∗
+(0.14)
+−0.19
+(0.13) 0.06
+(0.13)
+0.01 ∗∗
+(0.00)
+0.60 ∗∗∗
+(0.14)
+−0.18
+(0.13) −0.03
+(0.12)
+0.01 ∗∗
+(0.00)
+0.70 ∗∗∗
+(0.13)
+−0.02
+(0.13)
+−0.45 ∗∗
+(0.17)
+0.10
+(0.14)
+0.13 ∗∗
+(0.05) −0.44 ∗∗
+(0.16)
+0.22
+(0.15)
+0.11 ∗
+(0.05) −0.46 ∗∗
+(0.15)
+0.27
+(0.14)
+0.09
+(0.04)
+0.11
+(0.08)
+0.09
+(0.08) 0.11
+(0.07)
+0.04
+(0.06)
+−0.10
+(0.08) −0.20 ∗
+(0.08)
+Identities
+Individualistic (cyclist)
+Prosocial (altruist)
+Collective (Jewish)
+Identity configurations
+Independent
+Constant 7.73 ∗∗∗
+(0.37) 7.71 ∗∗∗
+(0.36) −0.26
+(0.17)
+0.20
+(0.15)
+0.44 ∗∗
+(0.17)
+7.67 ∗∗∗
+(0.32)
+Log likelihood −1,543.75 −1,541.80 −1,538.46
+Mutual conflict
+Focused enhancement
+Notes. N  162. Reference category is the mutual enhancement con-
+figuration. When focused enhancement configuration is the refer-
+ence category, the coefficients are as follows: mutual enhancement
+(β  −0.44, SE  0.17, p < 0.01); independent (β  −0.70, SE  0.21,
+p < 0.01); mutual conflict (β  −0.25, SE  0.20, p  ns).
+∗
+p < 0.05; ∗∗ p < 0.01; ∗∗∗ p < 0.001; two-tailed tests.
+relative to the focused, we returned to our qualita-
+tive data. Quotes from our interviews suggest that the
+mutual enhancement configuration may contain a self-
+serving orientation. For instance, mutual enhancement
+is described by a participant as follows:
+It’s this unique chemistry . . . where the light bulb was
+turned on and I said yeah, that sounds good. So it’s var-
+ious components and I’m not sure what ranks highest.
+(Interview #22)
+This interviewee further admitted his self-serving ori-
+entation. He continued,
+There is something self-serving about the whole process
+for me. If it wasn’t a bike ride and just money I maybe
+wouldn’t be giving Alyn 2,000 dollars. But on top of thatRamarajan, Berger, and Greenspan: Multiple Identity Configurations
+505
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+there’s the expense of the hotel and the adjustments for
+the bike and the flight and so on. So it’s way more than
+just the charitable contribution I’ve given to Alyn. So
+there is something self-serving about it and while Israel
+may call me, so does the bicycle. So it’s a fun thing.
+(Interview #22, continued)
+Similarly, the mutual enhancement rider that we
+quoted previously as feeling a “confluence” and
+“convergence” (interview #18) was highly personally
+invested in going. He stated, “something happened last
+week and I was thinking I might not be able to go and
+I was very disappointed personally. If I could predict
+the future, I would like to do this for as long as I can for
+as often as I can.” He further described his reluctance
+to raise as much money as he possibly could because it
+might compromise his ability to go on the ride again:
+I got an e-mail from the chairman of Alyn . . . and it says
+he got so overwhelmed by Alyn and what they do and
+how great it is that he decided to surpass his fundraising
+minimum of 2,000 and I thought I was going to read
+4,000, 5,000, and he said he raised 25,000 dollars last year
+and he encouraged everyone to do that. I’m not going to
+do that. I probably could if I tried but then I would never
+be able to raise money again because I would basically
+tap every source I had. I’m trying to do it in a way so
+that if I want to do it again next year, and I will want to,
+then I can go back and raise a similar amount. I decided
+to raise 5,000 dollars and I’m there. (Interview #18)
+For this rider, fulfilling his personal desire to ride the
+following year limited the amount of money he was
+willing to raise in the short term for the organization.
+These examples suggest that the smaller amounts of
+money raised by those with the mutual enhancement
+configuration might be the result of a more self-serving
+motive for participating, namely promoting one’s own
+pleasure and fulfillment.
+In contrast to H3, we did not find support for H1
+and H2; the mutual conflict configuration was not dif-
+ferent from either the focused or mutual enhancement
+configurations. This may be because of the voluntary
+nature of the ride. Those experiencing pure conflict
+among their identities could have self-selected out of
+the event, possibly limiting the level of conflict. In
+fact, we chose this setting because it allowed us to
+gain deeper insight into the understudied dynamics of
+enhancement (Dutton et al. 2010). However, it would
+be useful to examine settings in which identity conflict
+is likely to be more salient.
+In addition to the lack of conflict, Study 1 is also
+in a unique context. The Jewish identity is a collective
+identity containing religious and cultural components
+(Berger and Gainer 2002). In addition, as with other
+religions (Shariff and Norenzayan 2007), the religious
+aspects of Jewish identity may overlap with the altru-
+ist identity. Further, the individualistic identity, cyclist,
+was related to a leisure activity. Therefore, examin-
+ing other instantiations of the three types of identities
+and prosocial behavior in a nonvoluntary, work-related
+context would be useful. Accordingly, in Study 2 we
+examined prosocial behavior in a team setting (Tyler
+and Blader 2003).
+Study 2
+In Study 2, our goal was to replicate and extend the
+generalizability of our findings in a team context with
+a different operationalization of individualistic, collec-
+tive, and prosocial identities.
+Sample and Procedure
+Participants were 70 executive MBA students at a Euro-
+pean business school enrolled in a course on corporate
+social responsibility taught in English. Respondents
+were 77% male with an average age of 35 and were
+working full time in their respective organizations.
+Data were gathered via a questionnaire that students
+were required to complete as part of their coursework.
+Students had been assigned to study teams of four to
+six members at the start of the semester with ongo-
+ing teamwork as a required element of the curricu-
+lum. Consequently, teams were meaningful collectives
+in which work was accomplished and collective iden-
+tities were built. We focused on identities likely to
+be salient for participants in this setting: individualis-
+tic (high-achieving student), collective (team member),
+and prosocial (helper of their teammates unrelated to
+group tasks). Survey items asked about conflict and
+enhancement between each pair of identities, which
+we used to construct our independent variable, iden-
+tity configurations. We also asked participants to rate
+the prosocial behavior of other study group mem-
+bers, which served as our dependent measure. We
+matched individual survey responses to their team-
+mates’ ratings.
+Measures
+Independent Variables.
+Identity configurations. Identity configurations again
+served as the independent variable and were con-
+structed in the following three steps:
+(1) Identities. First, as in Study 1, participants rated
+the extent to which they identified with each of the
+three identities using the “circles overlap” measure
+(Bergami and Bagozzi (2000); M ind  5.53 (SD  1.43);
+M coll  5.73 (SD  1.44); M pro  5.47 (SD  1.88)).
+(2) Identity conflict and enhancement. Second, similar
+to the procedures of Study 1, participants were asked
+to indicate the extent to which they experienced con-
+flict and enhancement between identities. They rated
+a single statement about conflict and a single state-
+ment about enhancement for each pair of identities as
+follows: “Think of your [individualistic identity as a
+high achieving student] and your [collective identity506
+as a member of your study group]: How frequently do
+these identities conflict with one another? And how
+frequently do these identities enhance one another?”
+Items were rated on a scale from 1  never to 7  always
+(M conf  2.61 (SD  0.91) and M enh  4.80 (SD  0.89)).
+(3) Configurations. Reflecting the focus of our
+hypotheses and building on the findings of Study 1,
+we used the identity conflict and enhancement scores
+to derive the configurations. Using the same K-means
+clustering approach (Punj and Stewart 1983), we again
+specified a four-cluster solution. To understand and
+interpret the resulting configurations, we looked at
+both the inter-cluster and the intra-cluster patterns of
+conflict and enhancement. As in Study 1, we labeled
+the clusters based on their closeness to our theorized
+configurations:
+(a) Focused enhancement (FE): This configuration
+was characterized by having the highest level of
+prosocial–collective identity enhancement and low
+identity conflict (M conf  2.61 (0.99); M pro–coll enh  6.32
+(0.48)).
+(b) Mutual enhancement (ME): This configuration
+was characterized by the lowest level of conflict and
+equivalent levels of identity enhancement among the
+identities (M conf  2.19 (0.65); M pro–coll enh  5.16 (0.37)).
+(c) Mutual conflict (MC): This configuration was
+characterized by the highest levels of conflict and
+moderate identity enhancement (M conf  3.67 (0.67);
+M pro–coll enh  4.63 (0.52)).
+(d) Independent (IND): This configuration was
+characterized by the lowest level of identity enhance-
+ment coupled with a moderate level of conflict (M conf 
+2.81 (0.77); M pro–coll enh  3.67 (0.49)).
+Dependent Variable.
+Prosocial behavior. We
+operationalized prosocial
+behavior in this team context as voluntary actions
+directed toward helping other teammates’ personal
+goals or needs in ways not related to the team’s tasks.
+Such discretionary helping behavior has been recog-
+nized as a critical form of prosocial behavior in orga-
+nizations (Brief and Motowidlo 1986). We specifically
+chose behaviors that were not related to the core work
+of the team to distinguish our measure of prosocial
+behavior from helping behavior that may be motivated
+by personal benefits (such as helping the team per-
+form well so one could be a high performer). Thus, this
+measure is consistent with altruistically (versus egois-
+tically) oriented helping (Batson et al. 1983) and some
+measures of extra-role behavior in teams that empha-
+size helping behavior when actors do not expect credit
+for such behavior (Blader and Tyler 2009).
+To measure prosocial behavior, participants were
+asked to think about their experience working with [X],
+who is a teammate, and answer the following question:
+“Please think about how often [X] does the following
+Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+in his/her altruistic role as a person who helps [study]
+group members on issues NOT related to the group’s
+task performance.” The items, rated on a scale from
+1  never to 7  always, were as follows: (1) helps team-
+mates advance their personal (nongroup-related) goals
+and (2) is generally helpful toward others, even when
+it is not personally beneficial to him/her. For each par-
+ticipant, we then used the average of team members’
+ratings as the dependent variable. Cronbach’s α  0.85;
+M  4.96 (SD  0.69).
+Results
+An ANOVA of prosocial behavior means by config-
+uration type was significant (F (3, 66)  3.03, p < 0.05).
+Specifically, team members rated those with a focused
+enhancement identity configuration as more helpful
+to teammates compared to those with other identity
+configurations, thereby exhibiting the greatest proso-
+cial behavior (M FE  5.26 (SD  0.72) > M ME  4.86
+(SD  0.51) > M IND  4.75 (SD  0.78) > M MC  4.62
+(SD  0.71)). Supporting Hypothesis 3, pairwise con-
+trasts show that those with the focused enhancement
+configuration exhibited significantly greater prosocial
+behavior than those with mutual enhancement (t 
+2.13, p < 0.05). Those with focused enhancement also
+exhibited greater prosocial behavior than those with
+the mutual conflict (t  2.40, p < 0.05) and the indepen-
+dent (t  2.21, p < 0.05) configurations. Further, consis-
+tent with Study 1, the mutual enhancement, mutual
+conflict, and independent configurations were not sig-
+nificantly different from one another, once again sug-
+gesting that H1 and H2 were not supported. 5
+Discussion. The results of Study 2 demonstrate that
+those with a focused enhancement configuration
+engaged in greater prosocial behavior compared to
+those with a mutual enhancement configuration. Fur-
+thermore, Study 2 extends the generalizability of our
+findings by showing that the identity configurations of
+working adults engaged in task groups function in a
+similar fashion to those of the volunteers in Study 1.
+We also found that mutual conflict exhibited signifi-
+cantly lower prosocial behavior than focused enhance-
+ment in this study, suggesting a greater role for conflict
+in this nonvoluntary setting. However, one limitation
+of Studies 1 and 2 is that we could only examine
+identity configurations that emerged naturally in our
+field settings. As a result, we do not know whether
+the focused enhancement configuration was beneficial
+specifically because the prosocial and collective iden-
+tities were mutually enhancing and the individualis-
+tic identity was unrelated, or whether any configura-
+tion with two enhancing identities and the third set
+apart would have similar effects. In addition, it is pos-
+sible that the mutual conflict that emerged in these
+field settings was more similar to configurations with
+both conflict and enhancement rather than pure con-
+flict. It would, therefore, be useful to experimentallyRamarajan, Berger, and Greenspan: Multiple Identity Configurations
+507
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+manipulate alternative identity configurations to more
+thoroughly test our hypotheses. Therefore, we designed
+Study 3 to constructively replicate and extend the find-
+ings from Studies 1 and 2 by experimentally inducing
+work-related identity configurations.
+Study 3
+In Study 3, we conducted a scenario experiment that
+allowed us to test causal relationships and extend gen-
+eralizability by using a different context and differ-
+ent operationalizations of identities. We also aimed
+to compare the focused enhancement configuration to
+structurally similar identity configurations that did not
+emerge in Studies 1 and 2 and to examine a configura-
+tion of pure mutual conflict.
+Sample and Procedure
+Participants were adults recruited through Amazon
+Mechanical Turk (n  1,399). Participants’ average age
+was 35 years (SD  11.34), 47.2% were female, and all
+were located in the United States. Each participant was
+paid $1 for the study.
+The study design was a seven-condition scenario
+experiment. The scenario presented an architecture
+firm trying to balance multiple goals—profitability,
+environmental sustainability, and good design—and
+asked participants to imagine they were employees
+in the firm. Participants were told they thought of
+themselves in terms of the following: (1) their indi-
+vidualistic identities as star “hotshot” employees in
+the firm, which oriented them toward their personal
+success; (2) their collective identities as professional
+architects, which oriented them toward their profes-
+sion; and (3) their prosocial identities as environmental
+activists, which oriented them toward the welfare of
+wider society.
+Participants were also told they were members of a
+voluntary “fellows” program in the firm and as part
+of that program they could mentor junior employ-
+ees; this was meant to be an indicator of prosocial
+behavior within the organization. They were told they
+could raise money as part of the sustainability efforts
+of the firm and, as in Study 1, this served as an indi-
+cator of philanthropic prosocial behavior. The scenario
+then presented one of seven identity configurations
+described below (see the online appendix) and asked
+respondents to imagine the configuration represented
+their own feelings regarding their identities and to
+respond to the outcomes described below.
+Measures
+Independent Variables.
+Identity configurations. Participants were randomly
+assigned to one of seven conditions. Three described
+the identity configurations reflected in our hypotheses:
+(1) pure mutual conflict, in which all three identities are
+only conflicting; (2) mutual enhancement, in which all
+three identities enhance one another; and (3) focused
+enhancement, in which prosocial and collective iden-
+tities are enhancing and the individualistic identity is
+separate.
+We included four additional configurations for com-
+parison purposes: (4) independent, in which all three
+identities are separate (as observed in Study 1);
+(5) divided, in which all three are conflicting and
+enhancing. This configuration was to help us compare
+pure mutual conflict as theorized with the mutual con-
+flict configuration we empirically observed in Stud-
+ies 1 and 2, in which there was mutual conflict and
+some enhancement. We expected that the mutual con-
+flict configuration would have lower prosocial behav-
+ior than this divided configuration. The last two
+additional configurations, (6) individualistic–prosocial
+enhancement with the collective separate; and (7) in-
+dividualistic–collective enhancement with the proso-
+cial separate, were to help us examine whether the
+beneficial effect of the focused enhancement configura-
+tion in Studies 1 and 2 was simply structural (three ver-
+sus two mutually enhancing identities with the third
+set apart) or specifically due to the lack of enhance-
+ment of the individualistic identity as we proposed. If
+the latter, then the focused enhancement configuration
+should exhibit greater prosocial behavior than these
+two additional “partial” configurations as well.
+Dependent Variable.
+Prosocial intentions. Two items measured intentions
+to behave prosocially:
+(1) Intention to mentor young professionals. This item
+asked, “How much time do you want to put into men-
+toring young professionals who could be future fel-
+lows?” on a scale from 1  none to 7  a lot.
+(2) Effort to raise funds. This item asked, “How much
+effort would you devote to raising money for this pro-
+gram?” on a scale from 1  none to 7  a lot. These
+measures are consistent with research suggesting that
+time and effort given in a prosocial task are indicators
+of prosocial behavior (Grant and Sumanth 2009).
+Results
+An ANOVA examining the means of prosocial
+intentions by experimental condition shows that
+configuration type had a significant impact on both
+mentoring (F 6, 1,392  23.76, p < 0.001) and fundraising
+(F 6, 1,392  10.46, p < 0.001) (see Table 4 for means).
+First, consistent with Studies 1 and 2 and in support
+of H3, planned comparisons show that participants in
+the focused enhancement condition were significantly
+more likely to spend time mentoring young employ-
+ees (t  2.21, p < 0.05) and expend greater effort in
+raising funds (t  2.71, p < 0.01) than those in theRamarajan, Berger, and Greenspan: Multiple Identity Configurations
+508
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Table 4. Study 3 Analysis of Variance of Prosocial Behavior
+by Configurations
+Configuration
+Focused enhancement
+(prosocial–collective enhancement;
+individualistic identity separate)
+Mutual enhancement
+Independent
+Divided (conflict and enhancement)
+Individualistic–prosocial enhancement
+(and collective identity separate)
+Individualistic–collective enhancement
+(and prosocial identity separate)
+Mutual conflict (pure)
+Mean (across configurations)
+Intention to
+mentor Effort to
+raise funds
+5.07 c
+(1.26) 5.23 b
+(1.37)
+4.77 a
+(1.29)
+4.29 b
+(1.32)
+4.26 b
+(1.29) 4.80 a
+(1.46)
+4.61 a
+(1.47)
+4.55 a
+(1.55)
+4.06 b
+(1.55)
+3.91 b, d
+(1.47)
+3.71 d
+(1.53)
+4.30
+(1.46) 4.72 a
+(1.75)
+4.21 c
+(1.67)
+4.19 c
+(1.68)
+4.62
+(1.60)
+Notes. Standard deviations are in parentheses. Number of observa-
+tions are as follows: mutual enhancement  197; independent  208;
+divided  202; focused enhancement  204; individualistic–collective
+enhancement  203; individualistic–prosocial enhancement  193;
+mutual conflict (pure)  192; and total  1,399. Means that do not
+share a superscript differ at p < 0.05.
+mutual enhancement condition. The focused enhance-
+ment configuration was also significantly greater than
+the two additional partial enhancement configurations
+(the individualistic–collective enhancement and the
+individualistic–prosocial enhancement), both for men-
+toring and fundraising (all p’s < 0.01). This finding
+offers some support for the role of identity type in
+the focused enhancement configuration. That is, all
+three configurations containing individualistic iden-
+tity enhancement led to lower prosocial behavior
+than the focused enhancement configuration, sug-
+gesting that focused enhancement may be beneficial
+for prosocial behavior because of the types of iden-
+tities being enhanced (prosocial–collective) and not
+enhanced (individualistic). Last, consistent with H1 and
+H2, the pure mutual conflict configuration resulted in
+significantly lower prosocial intentions for both men-
+toring and fundraising than the mutual enhancement,
+focused enhancement, and divided configurations (all
+p’s < 0.05).
+Discussion. This study constructively replicated the
+focused enhancement effect with a set of work-related
+individualistic and collective identities (e.g., hotshot
+and professional) and a distinct prosocial identity (e.g.,
+environmental activist) in a context similar to employee
+volunteering initiatives (Bartel 2001). Furthermore, in
+contrast to the earlier studies, in this study we found
+that the experimental manipulation of pure mutual
+conflict resulted in lower levels of prosocial behavior
+than focused and mutual enhancement. This may be
+because the naturally emergent mutual conflict con-
+figurations in Studies 1 and 2 may not have been as
+purely or as strongly conflicting as the experimental
+manipulation. However, this remains an open question
+for future work. Last, by comparing focused enhance-
+ment to mutual enhancement as well as the two other
+partial configurations, this study provides some sug-
+gestive evidence for the potential negative impact
+of individualistic identity enhancement on prosocial
+behavior. However, Study 3 still does not directly test
+the proposed mechanism through which the focused
+versus mutual enhancement effect operates. Specifi-
+cally, Hypothesis 3 posited that the weaker proso-
+cial behavior of the mutual enhancement configuration
+was rooted in the enhancement of the individualistic
+identity. Such enhancement may amplify self-serving
+motives and thereby dampen prosocial behavior. To
+test this explanation for Hypothesis 3 more thoroughly,
+we undertook one final experimental study.
+Study 4
+In Study 4, we conducted a scenario experiment to
+examine self-serving motives for prosocial behavior
+as a possible mediator for the focused versus mutual
+enhancement effect.
+Sample and Procedure
+Participants were 397 adults recruited through Ama-
+zon Mechanical Turk. Their average age was 36.6 years
+(SD  12.74), 57.2% were female, and all were located
+in the United States. Participants were paid $2.50 for
+the study.
+The study design was a two-condition, between-
+subjects experiment. We created an organizationally
+relevant scenario involving a corporate volunteering
+program similar to that used in Study 3 and mod-
+eled after an existing corporate volunteering program
+at IBM. The setting was a consumer goods firm called
+AMI. Participants were told that they had three identi-
+ties: (1) their individualistic identity as expert employ-
+ees in the firm, oriented toward their personal career
+success; (2) their collective identity as AMI employ-
+ees, oriented toward the welfare of the organization;
+and (3) their prosocial identity as volunteers, oriented
+toward helping beneficiaries. Participants were pre-
+sented with a configuration and asked to imagine that
+it represented their own experience of their identi-
+ties within AMI (see the online appendix). Participants
+responded to the survey measures described below.
+Measures
+Independent Variables.
+Identity configurations. Participants were randomly
+assigned to one of two scenario conditions thatRamarajan, Berger, and Greenspan: Multiple Identity Configurations
+509
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+operationalized identity configurations: (1) mutual
+enhancement, in which they were told all three iden-
+tities enhance one another; (2) focused enhancement,
+in which they were told their collective and prosocial
+identities were enhancing and the individualistic iden-
+tity was not.
+Dependent Variables.
+Prosocial behavioral intentions. We measured proso-
+cial intentions with two scales: involvement in corpo-
+rate volunteering and helping behavior as a corporate
+volunteer.
+(1) Involvement in corporate volunteering. This was
+measured as a composite of four items: participation,
+time, energy, and effort devoted to the AMI program.
+Using a 5-point scale (1  not likely, 5  very likely),
+these items asked, “How likely are you to participate in
+the voluntary service activities?” “How much time do
+you expect to devote to helping beneficiaries on their
+problems?” “How much energy will you give to help-
+ing beneficiaries on their problems?” and “How much
+effort will you give to helping beneficiaries with their
+problems?” Cronbach’s α  0.90, M  4.13 (SD  0.75).
+(2) Helping behavior. This was measured using six
+items from Blader and Tyler’s (2009) extra-role behav-
+ior scale adapted to the corporate volunteering con-
+text: (1) Do things that are not expected of volunteers
+to help the beneficiaries; (2) Volunteer to help orient
+new volunteers; (3) Offer to help other volunteers when
+they have heavy volunteer workloads; (4) Put an extra
+effort into doing your volunteer work well, beyond
+what is normally expected; (5) Share your knowledge
+with beneficiaries or other volunteers even when you
+will not receive credit; and (6) Work extra volunteer
+hours even when you will not receive credit for doing
+so. These items were measured on a 7-point scale
+(1  never, 7  always). Cronbach’s α  0.93, M  5.36
+(SD  1.14).
+Mediator.
+Self-serving motives for prosocial behavior. Scholars
+have examined various self-serving motives for engag-
+ing in prosocial behavior, ranging from pleasure to the
+desire to gain career rewards (Batson et al. 1983, Clary
+et al. 1998). In Study 1, the interviews revealed a self-
+serving motive that was relevant in a leisure context (to
+seek pleasure and personal fulfillment). In this study,
+we use a self-serving motive that has been examined
+in a work context: being helpful to impress one’s col-
+leagues and managers at work so one can gain work-
+related material and social rewards (Clary et al. 1998,
+Grant and Mayer 2009, Rioux and Penner 2001). This
+motive has been measured with a 12-item scale labeled
+impression management motives to engage in proso-
+cial behavior and has been validated and used in work
+contexts (Rioux and Penner 2001). The stem was as fol-
+lows: “How important is each of the following reasons
+in your decision to volunteer?” Sample items included
+the following: “to avoid looking bad in front of oth-
+ers; to look better than my co-workers; because I want
+a raise.” Items were measured on a 6-point scale (6 
+extremely important, 1  not at all important). Cron-
+bach’s α  0.95, M  2.76 (SD  1.37).
+Results
+An overall ANOVA examining the means of prosocial
+intention by configuration type showed that those in
+the focused enhancement condition reported greater
+involvement (M FE  4.23 (SD  0.69) > M ME  4.03
+(SD  0.79), F 1,395  7.12, p < 0.01) and helping behav-
+ior (M FE  5.50 (SD  1.13) > M ME  5.20 (SD  1.14),
+F 1,395  6.83, p < 0.01) than the mutual enhancement
+condition. An ANOVA examining the means of self-
+serving orientation by configuration type was also sig-
+nificant (M FE  2.48 (SD  1.29) < M ME  3.05 (SD 
+1.40), F 1,395  17.70, p < 0.001). A mediation analysis
+using Hayes’ (2013) PROCESS macro with 1,000 boot-
+strap samples and a 95% CI shows that consistent
+with our expectations, self-serving motives mediated
+this effect. Specifically, the indirect effect estimate for
+involvement was B  −0.07 (SE  0.03), the 95% CI
+did not include zero (LL  −0.13 to UL  −0.03), and
+the indirect effect estimate for helping was B  −0.14
+(SE  0.04), and the 95% CI did not include zero (LL 
+−0.24 to UL  −0.07). These results support the argu-
+ment that self-serving orientation mediates the nega-
+tive effect of the mutual enhancement configuration on
+prosocial behavior. 6
+Discussion. Consistent with the earlier studies and
+supporting Hypothesis 3, Study 4 shows that the
+focused enhancement configuration exhibited greater
+prosocial intention than the mutual enhancement con-
+figuration. Study 4 also replicates and extends the find-
+ings of the earlier studies by demonstrating that, as
+theorized, self-serving motives exhibited by those with
+the mutual enhancement configuration are an under-
+lying mechanism driving their lower level of prosocial
+behavior relative to the focused enhancement configu-
+ration. Whether this mechanism also differentiates the
+focused enhancement configuration from other config-
+urations remains an avenue for future exploration.
+General Discussion
+Prosocial behavior, which protects, promotes, and con-
+tributes to the welfare of others, is crucial for the
+healthy functioning of organizations and societies.
+This paper set out to understand how configurations
+of prosocial, collective, and individualistic identities
+combine to influence prosocial behavior. Intuitively, a
+configuration of mutual enhancement—in which all
+three identities are enhancing—should lead to the
+highest levels of prosocial behavior; however, across510
+four studies, utilizing multiple methods and multiple
+contexts, we found that a focused enhancement con-
+figuration, characterized by high prosocial–collective
+identity enhancement and limited individualistic iden-
+tity enhancement, resulted in the highest levels of
+prosocial behavior.
+Our paper contributes to the literatures on both
+prosocial behavior and multiple identities in organi-
+zations. First, by taking a configurational approach
+to identity relationships, we have introduced a new
+way to study multiple identities that extends beyond
+existing single- and dual-identity approaches. In addi-
+tion, the results of Study 1 suggest that identity
+configurations better explain prosocial behavior than
+single, salient identities. Interestingly, other studies
+have also found that single identifications were not
+significantly related to outcomes while identity rela-
+tionships were (Cheng et al. 2008). Reading our results
+alongside the existing literature suggests that when
+several identities are simultaneously salient, a configu-
+rational approach may be more informative than exam-
+ining identities alone.
+Second, by attending to both identity types and
+relationships, we questioned the dominant intuition
+regarding the mutual enhancement configuration and
+instead demonstrated that a focused enhancement
+configuration could lead to higher levels of proso-
+cial behavior. Our research also articulates and pro-
+vides support for a mechanism through which focused
+enhancement maximizes prosocial behavior. Specifi-
+cally, we suggest that individualistic identity enhance-
+ment may be counterproductive, because it ampli-
+fies a self-serving orientation when helping others
+(Batson et al. 1983, Grant and Mayer 2009, Rioux and
+Penner 2001).
+Third, by focusing on prosocial behavior—an other-
+oriented outcome (Creary et al. 2015)—this paper
+moves research on multiple identities beyond per-
+sonally oriented outcomes such as well-being, work
+engagement, and creativity (Brook et al. 2008, Cheng
+et al. 2008, Rothbard 2001, Thoits 1983). This opens up
+new opportunities for studying the links between mul-
+tiple identities and prosocial behavior.
+The results are bolstered by the multimethod
+approach we used to unpack the complexity of mul-
+tiple identity configurations. Across the four studies,
+we used qualitative, quantitative, and experimental
+designs, and we consistently found that the focused
+enhancement configuration leads to higher levels of
+prosocial behavior than the mutual enhancement con-
+figuration. Furthermore, the strengths of some stud-
+ies offset the limitations of others (McGrath 1981).
+For example, although Study 1 examines a voluntary
+setting, the subsequent studies examine work-related
+contexts. The concerns with utilizing “minimal” iden-
+tity configurations, hypothetical scenarios, and hypo-
+thetical behavioral intentions in Studies 3 and 4 are
+Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+somewhat mitigated by the field settings and situ-
+ated identities of participants in Studies 1 and 2. Like-
+wise, the experimental approaches of Studies 3 and 4
+help address concerns with causality and configura-
+tions that did not emerge in the field. Moreover, we
+used multiple measures of prosocial behavior (our
+dependent variable), ranging from actual donations, to
+prosocial behavior rated by others, to prosocial inten-
+tions measured by validated scales. Taken together, the
+four studies illustrate that our key findings hold across
+various operationalizations of identity configurations
+and prosocial behavior.
+Future research on both multiple identities and
+prosocial behavior can build on this paper’s findings
+in several ways. First, a key boundary condition of
+our studies is that we examine the effects of identity
+configurations on prosocial behavior. Extending these
+findings to other outcomes is an important direction
+for future work. Specifically, we do not imply that the
+focused enhancement configuration will be more effec-
+tive than the mutual enhancement configuration for all
+tasks and outcomes. Our pattern of findings may not
+extend, for example, to outcomes such as satisfaction or
+career success. Even within the literature on prosocial
+behavior there is a common distinction between altru-
+istic and egoistic prosociality (Batson et al. 1983, Brief
+and Motowidlo 1986). The effects of focused enhance-
+ment may be most applicable to prosocial behavior
+that is largely altruistic, while the mutual enhancement
+configuration may be no different, or better, for proso-
+cial behavior that jointly benefits oneself and others.
+Relatedly, perhaps the mutual enhancement configura-
+tion optimizes performance across multiple outcomes,
+while the focused enhancement configuration is most
+effective for prosocial behavior alone.
+Second, future work should examine the relation-
+ship between collective and prosocial identities in
+greater detail. In our studies, we did not manipu-
+late whether givers and receivers shared a collective
+identity. Our findings suggest that the benefits of
+focused enhancement are present for helping mem-
+bers of one’s ingroup (Study 2) as well as help-
+ing nongroup members (Studies 1, 3, 4). However,
+ingroup/outgroup dynamics may moderate these
+effects. Focused enhancement may make it easier to
+help outgroup members, while mutual enhancement
+may be more effective for helping ingroup mem-
+bers because individualistic identity enhancement may
+backfire less when one can gain status within the group
+by helping group members. A related boundary condi-
+tion may be that the benefits of focused enhancement
+are most likely to occur in contexts where the collective
+identity and the prosocial identity somewhat overlap;
+for example, among organizations with social respon-
+sibility programs.Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+511
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Third, future work should also examine the general-
+izability of these results beyond the identities studied
+in this paper. For example, future work could explore
+the valence of these identities (e.g., a has-been instead
+of a hot-shot). It is likely that people will still focus on
+fulfilling their personal needs even when the individ-
+ualistic identity is negatively valenced because people
+maintain negative self-views (Swann 1983). However,
+future work needs to explore whether the valence of
+the identities alters the impact of individualistic iden-
+tity enhancement. Future work could also examine dif-
+ferent types of identities (e.g., relational identities in
+the work domain, such as a boss or subordinate).
+Contemporary trends suggest that organizations
+will increasingly try to integrate prosocial behavior
+with other goals (Battilana and Lee 2014, Grant 2012).
+Organizational members are also increasingly attempt-
+ing to blend prosociality with personal and profes-
+sional aspects of their lives (Bartel 2001, Grant et al.
+2008). This paper proposes a configurational approach
+to investigate how people experience and manage the
+complexity of their multiple identities in the face of
+such trends. We suggest that managing our prosocial
+identities along with other personal- and work-related
+identities has important consequences for prosocial
+behavior in organizational settings: mutual enhance-
+ment may backfire, while focused enhancement may
+provide important benefits.
+Acknowledgments
+The authors are grateful to the organizers and participants
+of the Alyn and Arava Rides, who graciously supported the
+research. The authors are grateful to the Division for Faculty
+Research and Development at Harvard Business School, the
+Ted Rogers School of Management, and the Paul Baerwald
+School of Social Work and Social Welfare, for enabling this
+research. The authors thank their colleagues for feedback
+on earlier versions of this paper: Michel Anteby, Blake Ash-
+forth, Sigal Barsade, Julie Battilana, Steven Blader, Jennifer
+Berdahl, Stephanie Creary, Tracy Dumas, Robin Ely, Mary
+Ann Glynn, Francesca Gino, Adam Grant, Spencer Harrison,
+Jochem Menges, Celia Moore, Tsedal Neeley, Otilia Obo-
+daru, Jennifer Petriglieri, Jeff Polzer, Michael Pratt, Erin Reid,
+Nancy Rothbard, and Steffanie Wilk. The authors are grateful
+to seminar participants at Boston College, INSEAD, London
+School of Economics, London Business School, University of
+British Columbia, University of Toronto, and the Wharton
+Junior Faculty OB Conference for their feedback. The authors
+thank Breeshna Javed, Christy Ley, Ayelet Oreg, and Jean
+Sohn for their assistance with data collection. The authors
+are grateful to Emily LeRoux-Rutledge and Sharon Benheim
+for their editing assistance.
+Endnotes
+1
+Given the load on participants, we did not use both measures in tan-
+dem in the field study. However, in a separate survey study (n  500)
+on Mturk the correlations between the visual scale and the three-item
+measure for the same identity ranged between 0.7 to 0.8, providing
+some evidence that the two measures were valid measures of the
+same construct. Therefore, we standardized the measures.
+2
+The correlation between conflict and enhancement for a given pair
+of identities was between 0.1 and 0.25, and the correlation between
+identity conflict and enhancement averaged across all the pairs was
+0.17, p < 0.05. This also supported the idea that conflict and enhance-
+ment are not opposites of one another.
+3
+We also examined the four-cluster solution against two-cluster and
+three-cluster solutions based on theoretical grounds. The four-cluster
+solution was the most efficient clustering solution, providing max-
+imum variation between clusters while still exhibiting coherence
+within cluster.
+4
+We conducted several robustness checks. First, we examined the
+results for a subsample of participants that raised over $2,500 (the
+minimum for Alyn) (n  133) because we did not have a measure of
+income as a control variable. That is, participants who could afford
+to do so may have simply paid the minimum. The results are con-
+sistent with those presented here: the focused enhancement config-
+uration raises significantly more than the mutual enhancement and
+independent; in addition, it is also significantly higher than mutual
+conflict. Second, we also had two outliers in the data, and we tested
+our results without those two observations to ensure they were not
+being driven by the outliers. The results are consistent with those
+reported here. Third, we also examined the results separately for the
+two Alyn samples (2007, n  60 and 2014, n  65; note the Arava ride
+sample was too small to test the hypothesis (n  37)). The results
+were also consistent with those reported here. Last, OLS results are
+also consistent with those presented here. All additional results are
+available from the first author.
+5
+Because group members rated one another, we calculated the intr-
+aclass correlation coefficient, ICC(1), which measures how much
+variance in prosocial behavior is accounted for by nesting measures
+within a given unit (in this case, the group). ICC(1)s that are over 0.25
+are considered a “large” effect (LeBreton and Senter 2008), mean-
+ing that one-quarter or more of the variability in the outcome is
+due to systematic within-group differences. The ICC(1) was 0.08. In
+addition, the smaller the number of observations within a group,
+the lower the impact of a small ICC(1) (Kreft and de Leeuw 1998).
+Here we had four to six observations per group. Thus, we expect the
+impact of the within-group variability to be low. However, because
+there was still some variation explained by the group, we also exam-
+ined a multilevel model accounting for the group. Because multilevel
+modeling typically requires much larger sample sizes at both levels
+(here we had 13 groups and 70 people; Maas and Hox 2005) and
+because there were no differences between the mutual enhancement,
+independent, and mutual conflict configurations, we examined only
+the focused enhancement configuration compared to the others. We
+found that our results are robust (B focused  0.40, p  0.014).
+6
+We conducted a replication of Study 4 to examine an additional
+measure of self-serving orientation toward helping. We used the
+same design, manipulation, and population from which to sample
+(n  418 Mturk workers). We included both the measure of impres-
+sion management motives (Rioux and Penner 2001) used in Study 4
+and a four-item self-oriented helping scale (Roth 2008). The correla-
+tion between the two scales was 0.57. A mediation analysis as above
+shows that both measures of self-serving orientation toward help-
+ing were significant. Specifically, the indirect effect estimate of the
+impression management motives scale (Rioux and Penner 2001) was
+B  −0.06 (SE  0.02), and the 95% CI did not include zero (LL  −0.11
+to UL  −0.03), and the indirect effect estimate for the self-oriented
+helping scale (Roth 2008) was B  −0.06 (0.02), and the 95% CI did
+not include zero (LL  −0.11 to UL  −0.02). This suggests that our
+results are robust to these two different operationalizations of self-
+serving orientation toward helping in this context.512
+References
+Andreoni J (1990) Impure altruism and donations to public goods:
+A theory of warm-glow giving. Econom. J. 100(401):464–477.
+Ashforth BE (2007) Identity: The elastic concept. Bartel CA, Blader
+S, Wrzesniewski A, eds. Identity and the Modern Organization
+(Lawrence-Erlbaum, Mahwah, NJ), 85–96.
+Ashforth BE, Johnson SA (2001) Which hat to wear? The relative
+salience of multiple identities in organizational contexts. Hogg
+MA, Terry DJ, eds. Social Identity Processes in Organizational Con-
+texts (Psychology Press, Philadelphia), 31–48.
+Bales K (1996) Measuring the propensity to volunteer. Soc. Policy
+Admin. 30(3):206–226.
+Bartel C (2001) Social comparisons in boundary-spanning work:
+Effects of community outreach on members’ organizational
+identity and identification. Admin. Sci. Quart. 46(3):379–313.
+Bartel C, Blader S, Wrzesniewski A, eds. (2007) Identity and the Mod-
+ern Organization (Lawrence Erlbaum Associates, Inc., Publishers,
+Mahwah, NJ).
+Batson CD, O’Quin K, Fultz J, Vanderplas M, Isen AM (1983) Influ-
+ence of self-reported distress and empathy on egoistic ver-
+sus altruistic motivation to help. J. Personality Soc. Psych. 45(3):
+706–718.
+Battilana J, Lee M (2014) Advancing research on hybrid organizing—
+Insights from the study of social enterprises. Acad. Management
+Ann. 8(1):397–441.
+Baumeister RF, Bratslavsky E, Muraven M, Tice DM (1998) Ego deple-
+tion: Is the active self a limited resource? J. Personality Soc. Psych.
+74(5):1252–1265.
+Benet-Martinez V, Haritatos J (2005) Bicultural identity integration
+(BII): Components and psychosocial antecedents. J. Personality
+73(4):1015–1050.
+Bergami M, Bagozzi RP (2000) Self-categorization, affective commit-
+ment and group self-esteem as distinct aspects of social identity
+in the organization. British J. Soc. Psych. 39(4):555–577.
+Berger IE, Gainer B (2002) Jewish identity, social capital and giving.
+Adv. Consumer Res. 29(1):408–413.
+Blader SL (2007) Let’s not forget the“ me” in “team”: Investigating
+the interface of individual and collective identity. Bartel CA,
+Blader S, Wrzesniewski A, eds. Identity and the Modern Organiza-
+tion (Lawrence-Erlbaum, Mahwah, NJ), 61–84.
+Blader SL, Tyler TR (2009) Testing and extending the group engage-
+ment model: Linkages between social identity, procedural jus-
+tice, economic outcomes and extrarole behavior. J. Appl. Psych.
+94(2):445–464.
+Brewer MB, Gardner W (1996) Who is this “we”? Levels of collec-
+tive identity and self representations. J. Personality Soc. Psych.
+71(1):83–93.
+Brickson SL (2013) Athletes, best friends, and social activists: An
+integrative model accounting for the role of identity in organi-
+zational identification. Organ. Sci. 24(1):226–245.
+Brief AP, Motowidlo SJ (1986) Prosocial organizational behaviors.
+Acad. Management Rev. 11(4):710–725.
+Brook AT, Garcia J, Fleming MA (2008) The effects of multiple iden-
+tities on psychological well-being. Personality Soc. Psych. Bull.
+34(12):1588–1600.
+Burke PJ, Stets J (2009) Identity Theory (Oxford University Press, New
+York).
+Carver CS, White TL (1994) Behavioral inhibition, behavioral activi-
+ation, and affective responses to impending reward and punish-
+ment: The BIS/BAS scales. J. Personality Soc. Psych. 67(2):319–333.
+Caza B, Wilson M (2009) Me, Myself, and I: The Benefits of Work Identity
+Complexity (Psychology Press, London).
+Cheng C, Sanchez-Burks J, Lee F (2008) Connecting the dots
+within: Creative performance and identity integration. Psych.
+Sci. 19(11):1178–1184.
+Clary EG, Snyder M, Ridge RD, Copeland J, Stukas AA, Haugen J,
+Miene P (1998) Understanding and assessing the motivations
+of volunteers: A functional approach. J. Personality Soc. Psych.
+74(6):1516–1530.
+Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Creary SJ, Caza BB, Roberts LM (2015) Out of the box? How man-
+aging a subordinate’s multiple identities affects the quality
+of a manager-subordinate relationship. Acad. Management Rev.
+40(4):538–562.
+De Dreu CK, Nauta A (2009) Self-interest and other-orientation
+in organizational behavior: Implications for job performance,
+prosocial behavior, and personal initiative. J. Appl. Psych.
+94(4):913–926.
+Dutton JE, Roberts LM, Bednar JS (2010) Pathways for positive iden-
+tity construction at work: Four types of positive identity and
+the building of social resources. Acad. Management Rev. 35(2):
+265–293.
+Edmondson A, McManus SE (2007) Methodological fit in manage-
+ment field research. Acad. Management Rev. 32(4):1155–1179.
+Grant AM (2007) Relational job design and the motivation to make a
+prosocial difference. Acad. Management Rev. 32(2):393–417.
+Grant AM (2008) Does intrinsic motivation fuel the prosocial fire?
+Motivational synergy in predicting persistence, performance,
+and productivity. J. Appl. Psych. 93(1):48–58.
+Grant AM (2012) Giving time, time after time: Work design and sus-
+tained employee participation in corporate volunteering. Acad.
+Management Rev. 37(4):589–615.
+Grant AM, Dutton JE (2012) Beneficiary or benefactor: Are people
+more prosocial when they reflect on receiving or giving? Psych.
+Sci. 23(9):1033–1039.
+Grant AM, Mayer DM (2009) Good soldiers and good actors: Proso-
+cial and impression management motives as interactive pre-
+dictors of affiliative citizenship behaviors. J. Appl. Psych. 94(4):
+900–912.
+Grant AM, Sumanth JJ (2009) Mission possible? The performance
+of prosocially motivated employees depends on manager trust-
+worthiness. J. Appl. Psych. 94(4):927–944.
+Grant AM, Dutton JE, Rosso BD (2008) Giving commitment:
+Employee support programs and the prosocial sensemaking
+process. Acad. Management J. 51(5):898–918.
+Greenhaus JH, Beutell NJ (1985) Sources of conflict between work
+and family roles. Acad. Management Rev. 10(1):76–88.
+Grube JA, Piliavin JA (2000) Role identity, organizational experi-
+ences, and volunteer performance. Personality Soc. Psych. Bull.
+26(9):1108–1119.
+Hayes AF (2013) Introduction to Mediation, Moderation, and Conditional
+Process Analysis (Guilford Press, New York).
+Hirsh JB, Kang SK (2016) Mechanisms of identity conflict: Uncer-
+tainty, anxiety, and the behavioral inhibition system. Pers. Soc.
+Psych. Rev. 20(3):223–244.
+Hugenberg K, Bodenhausen GV (2004) Category membership mod-
+erates the inhibition of social identities. J. Experiment. Soc. Psych.
+40(2):233–238.
+James W (1890) The Principles of Psychology (Harvard University
+Press, Cambridge, MA). [Reprint 1983.]
+Kreft I, de Leeuw J (1998) Introducing Multilevel Modeling (Sage Pub-
+lications, Thousand Oaks, CA).
+LeBreton JM, Senter JL (2008) Answers to 20 questions about inter-
+rater reliability and interrater agreement. Organ. Res. Methods
+11(4):815–852.
+Lipponen J, Helkama K, Olkkonen ME, Juslin M (2005) Predict-
+ing the different profiles of organizational identification: A case
+of shipyard subcontractors. J. Occupational Organ. Psych. 78(1):
+97–112.
+Luhtanen R, Crocker J (1992) A collective self-esteem scale: Self-
+evaluation of one’s social identity. Personality Soc. Psych. Bull.
+18(3):302–318.
+Maas CJM, Hox JJ (2005) Sufficient sample sizes for multilevel mod-
+eling. Methodology 1(3):86–92.
+Mael F, Ashforth BE (1992) Alumni and their alma mater: A partial
+test of the reformulated model of organizational identification.
+J. Organ. Behav. 13(2):103–123.
+Marcussen K (2006) Identities, self-esteem, and psychological dis-
+tress: An application of identity-discrepancy theory. Soc. Per-
+spect. 49(1):1–24.Ramarajan, Berger, and Greenspan: Multiple Identity Configurations
+Organization Science, 2017, vol. 28, no. 3, pp. 495–513, © 2017 INFORMS
+Marks SR (1977) Multiple roles and role strain: Some notes on human
+energy, time and commitment. Amer. Sociol. Rev. 42(6):921–936.
+McGrath JE (1981) Dilemmatics: The study of research choices and
+dilemmas. Amer. Behav. Scientist 25(2):179–210.
+Mikulincer M, Shaver PR, Gillath O, Nitzberg RA (2005) Attach-
+ment, caregiving, and altruism: Boosting attachment security
+increases compassion and helping. J. Personality Soc. Psych.
+89(5):817–839.
+O’Reilly CA, Chatman J (1986) Organizational commitment and
+psychological attachment: The effects of compliance, identifica-
+tion, and internalization on prosocial behavior. J. Appl. Psych.
+71(3):492–499.
+Penner LA, Dovidio JF, Piliavin JA, Schroeder DA (2005) Proso-
+cial behavior: Multilevel perspectives. Annual Rev. Psych.
+56(February):365–392.
+Piliavin JA, Callero PL (1991) Giving Blood: The Development of an
+Altruistic Identity (Johns Hopkins University Press, Baltimore).
+Pratt MG, Foreman PO (2000) Classifying managerial responses
+to multiple organizational identities. Acad. Management Rev.
+25(1):18–42.
+Pratt MG, Fiol CM, O’Connor EJ, Panico P (2012) Promoting positive
+change in physician–administrator relationships: The impor-
+tance of identity security in managing intractable identity con-
+flicts. Golden-Biddle K, Dutton JE, eds. Using a Positive Lens to
+Explore Social Change and Organizations: Building a Theoretical and
+Research Foundation (Routledge, New York), 267–288.
+Punj G, Stewart DW (1983) Cluster analysis in marketing research:
+Review and suggestions for application. J. Marketing Res.
+20(2):134–148.
+Ramarajan L (2014) Past, present and future research on multiple
+identities: Toward an intrapersonal network approach. Acad.
+Management Ann. 8(1):589–659.
+Rioux SM, Penner LA (2001) The causes of organizational citizen-
+ship behavior: A motivational analysis. J. Appl. Psych. 86(6):
+1306–1314.
+Roccas S, Brewer MB (2002) Social identity complexity. Personality
+Soc. Psych. Rev. 6(2):88–106.
+Roth G (2008) Perceived parental conditional regard and auton-
+omy support as predictors of young adults’ self- versus other-
+oriented prosocial tendencies. J. Personality 76(3):513–534.
+Roth PL, BeVier CA (1998) Response rates in HRM/OB sur-
+vey research: Norms and correlates, 1990–1994. J. Management
+24(1):97–117.
+Rothbard NP (2001) Enriching or depleting? The dynamics of engag-
+ment in work and family roles. Admin. Sci. Quart. 46(4):655–684.
+Rothbard NP, Ramarajan L (2009) Checking your identities at the
+door? Positive relationships between nonwork and work identi-
+ties. Roberts LM, Dutton JE, eds. Exploring Positive Identities and
+Organizations (Psychology Press, New York), 125–144.
+Schachter EP (2004) Identity configurations: A new perspective
+on identity formation in contemporary society. J. Personality
+72(1):167–200.
+513
+Schaubroeck J, Ganster DC (1991) Beyond the call of duty: A field
+study of extra-role behavior in voluntary organizations. Human
+Relations 44(6):569–582.
+Shariff AF, Norenzayan A (2007) God is watching you priming God
+concepts increases prosocial behavior in an anonymous eco-
+nomic game. Psych. Sci. 18(9):803–809.
+Sonenshein S, DeCelles K, Dutton J (2014) It’s not easy being green:
+Self-evaluations and their role in explaining support of environ-
+mental issues. Acad. Management J. 57(1):7–37.
+Stets JE, Harrod MM (2004) Verification across multiple identities:
+The role of status. Soc. Psych. Quart. 67(2):155–171.
+Swann WB (1983) Self-verification: Bringing social reality into har-
+mony with the self. Suls J, Greenwald AG, eds. Social Psycholog-
+ical Perspectives on the Self, Vol. 2 (Psychology Press, New York),
+33–66.
+Thoits PA (1983) Multiple identities and psychological well-being:
+A reformulation and test of the social isolation hypothesis. Amer.
+Sociol. Rev. 48(2):174–187.
+Tiedje LB, Wortman CB, Downey G, Emmons C, Biernat M, Lang E
+(1990) Women with multiple roles: Role-enhancement percep-
+tions, satisfaction, and mental-health. J. Marriage Family 52(1):
+63–72.
+Tyler TR, Blader SL (2003) The group engagement model: Procedural
+justice, social identity, and cooperative behavior. Personality Soc.
+Psych. Rev. 7(4):349–361.
+Watson D, Clark LA, Tellegen A (1988) Development and validation
+of brief measures of positive and negative affect: The PANAS
+scales. J. Personality Soc. Psych. 54(6):1063–1070.
+Lakshmi Ramarajan is assistant professor of organi-
+zational behavior at Harvard Business School, Harvard
+University. She received her Ph.D. from the Wharton School,
+University of Pennsylvania. Her research examines the man-
+agement and consequences of individuals’ multiple identi-
+ties in organizations.
+Ida E. Berger is professor of marketing and a member
+of the graduate faculty at the Ted Rogers School of Busi-
+ness Management at Ryerson University. She received her
+Ph.D. from the University of Toronto. Her research interests
+are social identity, ethnic diversity, social integration, social
+alliances, socially responsible consumer behavior, and phi-
+lanthropy.
+Itay Greenspan is lecturer of nonprofit management and
+leadership at the Paul Baerwald School of Social Work and
+Social Welfare, Hebrew University of Jerusalem. He received
+his Ph.D. from the University of Pennsylvania. His research
+interests include nonprofit organizations and civil society,
+prosocial and proenvironmental behavior, identity forma-
+tion, and environmental civic participation.

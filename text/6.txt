@@ -1,0 +1,2298 @@
+This article was downloaded by: [193.51.16.194] On: 24 January 2018, At: 05:25
+Publisher: Institute for Operations Research and the Management Sciences (INFORMS)
+INFORMS is located in Maryland, USA
+Organization Science
+Publication details, including instructions for authors and subscription information:
+http://pubsonline.informs.org
+Radical Repertoires: The Incidence and Impact of
+Corporate-Sponsored Social Activism
+Mary-Hunter McDonnell
+To cite this article:
+Mary-Hunter McDonnell (2016) Radical Repertoires: The Incidence and Impact of Corporate-Sponsored Social Activism.
+Organization Science 27(1):53-71. https://doi.org/10.1287/orsc.2015.1017
+Full terms and conditions of use: http://pubsonline.informs.org/page/terms-and-conditions
+This article may be used only for the purposes of research, teaching, and/or private study. Commercial use
+or systematic downloading (by robots or other automatic processes) is prohibited without explicit Publisher
+approval, unless otherwise noted. For more information, contact permissions@informs.org.
+The Publisher does not warrant or guarantee the article’s accuracy, completeness, merchantability, fitness
+for a particular purpose, or non-infringement. Descriptions of, or references to, products or publications, or
+inclusion of an advertisement in this article, neither constitutes nor implies a guarantee, endorsement, or
+support of claims made of that product, publication, or service.
+Copyright © 2016, INFORMS
+Please scroll down for article—it is on subsequent pages
+INFORMS is the largest professional society in the world for professionals in the fields of operations research, management
+science, and analytics.
+For more information on INFORMS, its publications, membership, or meetings visit http://www.informs.orgOrganization Science
+Vol. 27, No. 1, January–February 2016, pp. 53–71
+ISSN 1047-7039 (print)  ISSN 1526-5455 (online)
+http://dx.doi.org/10.1287/orsc.2015.1017
+© 2016 INFORMS
+Radical Repertoires: The Incidence and Impact of
+Corporate-Sponsored Social Activism
+Mary-Hunter McDonnell
+The Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania 19104, marymcd@wharton.upenn.edu
+his article explores when and why firms participate in overt corporate-sponsored social activism. To shed light on this
+question, I empirically explore the emergence and implications of a new strategic phenomenon in nonmarket strategy—
+the corporate-sponsored boycott—in which firms voluntarily cooperate with contentious social movement organizations
+to sponsor boycotts that protest the contested social practices of other companies or entities at higher orders of market
+organization, such as industries, transnational regulators, or states. Using a longitudinal database that tracks the social
+movement challenges faced by 300 large companies between 1993 and 2007, I provide evidence that overt corporate-
+sponsored activism is used by companies that are chronically targeted and losing ground to activists, especially when those
+companies are facing a reputational deficit. Furthermore, I find that participation in overt corporate-sponsored activism is
+associated with significant decreases in the number of activist challenges targeting a firm in the future, suggesting that the
+tactic may effectively defend a firm from contentious threat by allowing firms to co-opt allies within the activist population.
+I discuss implications of these findings for social movement research, nonmarket strategy, and the study of corporate social
+responsibility.
+T
+Keywords: social movements; corporate social responsibility; nonmarket strategy; political sociology
+History: Published online in Articles in Advance November 11, 2015.
+Introduction
+Although researchers are increasingly noting the oc-
+currence of corporate-sponsored activism, this class of
+phenomenon remains theoretically anomalous. Corpor-
+ate-sponsored activism is risky because firms taking a
+stance on a contentious issue threaten to alienate stake-
+holders who disagree. Moreover, as incumbent elites
+in their social fields, firms wield power by virtue of
+their entrenched social position, but lack the infor-
+mal sources of power thought necessary for effective
+grassroots mobilization, such as moral authenticity and
+public trust (Selznick 1949, Walker 2015). When elite
+actors like corporations do engage in movement-like
+tactics, their stakeholders tend to mistrust their moti-
+vations (Duffy et al. 2010, Yue 2015). Accordingly,
+many social movement theories downplay the poten-
+tial for firms or other elites to effectively participate in
+the mobilization of collective action (e.g., Fligstein and
+McAdam 2011, Gamson 1975, Tilly 1978; cf. McAdam
+et al. 2005, McAdam and Boudet 2012). It remains an
+intriguing question, therefore, why firms would resort
+to this riskier component of the defensive performance
+repertoire, or how they benefit by doing so. System-
+atic empirical exploration of the phenomenon has been
+largely precluded by the focus of prior work on covert
+corporate activism, like “astroturfing,” which is by its
+nature difficult to accurately observe (Lyon and Maxwell
+2004, Walker 2014, Walker and Rea 2014). Pointing to
+these persistent theoretical gaps, Walker and Rea (2014,
+p. 294) recently called for research that does “more to
+Challenges from social activists represent a considerable
+strategic problem for targeted firms, as they threaten to
+degrade sales, disrupt financial market performance, and
+diminish valuable reputations. Recognizing this, scholars
+have dedicated considerable energy to exploring the tac-
+tics that firms use to defend themselves when targeted,
+which McDonnell and King (2013) collectively refer to
+as the “defensive performance repertoire.” Because firms
+must juggle the economic expectations of their share-
+holders with the normative expectations of broader con-
+stituencies, they face the delicate task of responding to
+social challenges in ways that protect their material well-
+being without appearing to do so for purely economic
+ends. Research suggests that firms most often man-
+age this balance by employing tactics that allow them
+to either avoid contentious interactions altogether or
+dilute the salience of activists’ claims through strategic
+impression management (Ingram et al. 2010, Rao et al.
+2011, Yue et al. 2013, Elsbach 1994, Marchand 1998,
+McDonnell and King 2013). However, firms do occa-
+sionally face contentious issues head-on by directly par-
+ticipating in social activist campaigns (e.g., Ingram and
+Rao 2004; Lyon and Maxwell 2004; Walker 2009, 2010,
+2012, 2014; Walker and Rea 2014). Examples include
+corporate-sponsored protests, negative public relations
+campaigns targeting activists, and mobilization of pro-
+corporate grassroots campaigns (Aldrich 2010; Hillman
+and Hitt 1999; Lyon and Maxwell 2004; Pring and
+Canan 1996; Walker 2012, 2014).
+53McDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+54
+identify and elaborate [corporate-sponsored activism’s]
+various incarnations 0 0 0 and further evaluate its efficacy.”
+This paper seeks to answer this call through an
+empirical analysis of an emergent, overt instantiation of
+corporate-sponsored activism: the corporate-sponsored
+boycott. Corporate-sponsored boycotts occur when firms
+openly align with contentious social activists to protest
+the problematic social practices of other companies,
+industries, or states. For example, in 1993, Safeway
+joined a Greenpeace-backed boycott of all Norwe-
+gian seafood to protest the country’s commercial whal-
+ing policies. In 2008, Wal-Mart collaborated with the
+Interfaith Center on Corporate Responsibility (ICCR) to
+orchestrate a boycott of Uzbek cotton, protesting the
+employment of child laborers in the harvest (Birchall
+2008). And in 2009, a consortium including Nike,
+Harley Davidson, and Wal-Mart joined Greenpeace in
+sponsoring a boycott of leather products obtained from
+cattle grazed on de-forested areas of the Brazilian Ama-
+zon, demanding that authorities take steps to forestall
+the continued destruction of precious habitat.
+This paper’s theoretical contribution stems from
+its attention to two questions. First, does corporate-
+sponsored activism reduce the likelihood that firms will
+be targeted by contentious challenges, and, if so, how?
+Second, under what circumstances are firms likely to
+resort to these relatively radical tactics? To answer these
+questions, I employ a quantitative empirical examina-
+tion of a unique longitudinal database that tracks activist
+interactions among a sample of 300 elite U.S. firms
+over a 15-year period, 1993 to 2007. These quantita-
+tive data are supplemented with archival and qualitative
+data, including analysis of the media coverage of past
+corporate-sponsored boycotts and interviews with exec-
+utives of participating firms and activist organizations.
+Ultimately, I find evidence that overt corporate-
+sponsored activism is a tactic of last resort. The tactic
+is used by companies that are being targeted heavily
+by contention and chronically losing ground to activists,
+especially when those companies are facing a reputa-
+tional deficit. Furthermore, I find that firms participating
+in overt corporate-sponsored activism enjoy significant
+decreases in the number of contentious challenges tar-
+geting them in the future, suggesting that the tactic may
+effectively defend a firm from contentious threat. Quali-
+tative evidence from my interviews with corporate insid-
+ers suggests that this is due to the tactic’s usefulness
+in co-opting allies within the population of contentious
+activists who, in addition to becoming themselves less
+likely to target the firm, will also work to dissuade other
+activists in their network from targeting the firm.
+Background: Market Contention and the
+Defensive Performance Repertoire
+Historically, social activists contested problematic cor-
+porate behaviors by targeting the state, seeking to force
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+industry reform through formal regulation. But as the
+perceived political power, resources, and global reach
+of corporations eclipses that of traditional government
+agencies, activists have increasingly targeted corpora-
+tions directly (Soule 2009, Seidman 2007). As expressed
+by the former head of Greenpeace, referring to his
+organization’s 2001 campaign against Exxon Mobil in
+retaliation to its recalcitrant position regarding climate
+change:
+The smart activists are now saying, “O.K., you want to
+play markets—let’s play.’’ They don’t waste time throw-
+ing stones or lobbying the government. That takes for-
+ever and can easily be counter-lobbied by corporations.
+No, no, no. They start with consumers at the pump, get
+them to pressure the gas stations, get the station owners
+to pressure the companies and the companies to pressure
+governments. (Friedman 2001)
+Contention threatens to harm its targets in multiple
+ways. It can diminish corporate profits by disrupting the
+target’s strategic routines and altering consumer choices
+(Seidman 2007, Friedman 1985, Luders 2006). It can
+threaten a firm’s market performance by increasing per-
+ceptions of financial and environmental risk (King and
+Soule 2007, Vasi and King 2012). It can disrupt a firm’s
+ability to access and influence critical nonmarket stake-
+holders like politicians and regulatory agents (Hiatt and
+Park 2013, McDonnell and Werner 2015). And it can
+tarnish a firm’s public image by disseminating vilifying
+claims in the media (King 2008, McDonnell and King
+2013).
+Given these myriad sources of disruptive threat, con-
+tentious activist challenges can present a formidable
+strategic problem for chronically targeted organizations,
+prompting scholars to explore the strategies that targeted
+organizations use to defend themselves. Firms’ first line
+of defense against contentious challenges is the use of
+evasive tactics that seek to dodge contentious interaction
+entirely. For example, Ingram et al. (2010) provide evi-
+dence that Wal-Mart holds town hall meetings before it
+enters new communities to “test for protest.” When these
+initial meetings are met with contentious protesters, Wal-
+mart is more likely to abandon its plans to open a new
+store in the community. Yue et al. (2013) show that
+Target similarly interprets protests against Wal-Mart as
+signals about which communities to avoid, particularly
+when the protestors took issue with the general organiza-
+tional form of box stores, rather than Wal-Mart’s specific
+behaviors. Firms may also engage in evasive strategies
+by selectively locating in regions where the formal insti-
+tutional structure provides them with an advantage over
+challengers. For example, Rao et al. (2011) find that
+Wal-Mart systematically prefers locating new stores on
+the borders of states with antiunion right-to-work laws.
+Finally, when an emerging challenger movement can be
+anticipated and its request is not prohibitively costly,
+firms may choose to proactively amend their practicesMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+to negate the necessity of a challenge before it occurs
+(Baron and Diermeier 2007).
+Firms that cannot evade activist challenges are still
+often able to defend themselves without direct engage-
+ment by using diversionary tactics that work to bolster
+the firms’ prosocial image among key constituencies.
+These include, for example, impression management
+strategies that decrease the salience of activist chal-
+lenges without directly acknowledging them (Elsbach
+1994, Marchand 1998). For example, McDonnell and
+King (2013) provide evidence that firms targeted by
+social movement boycotts react by increasing the num-
+ber of prosocial claims—claims touting their involve-
+ment in charitable endeavors—disseminated through
+press releases. Ingram et al. (2010) provide comple-
+mentary evidence that when Wal-Mart faces contention
+in especially promising new markets, it makes strategic
+charitable donations to local community organizations
+upon entry to promote goodwill.
+Corporate-sponsored activism—the third category of
+defensive performances—occurs when firms directly
+participate in contentious politics. Academic work on
+the subject has been largely focused on covert instantia-
+tions. For example, Walker (2014) finds that companies
+facing particularly intractable challenger campaigns will
+not infrequently organize vying procorporate grassroots
+campaigns to shore up stakeholder support. Firms engag-
+ing in this strategy typically use the help of professional
+public relations consulting agencies: Walker (2014)
+reports that almost 40% of the Fortune 500 appeared on
+the client lists of grassroots public affairs consultants by
+2010. In practice, covert corporate-sponsored activism,
+or “astroturfing,” typically takes one of two forms. First,
+consulting agencies may selectively encourage targeted
+individuals to voice their opinions to create a false
+appearance of a public consensus aligned with the inter-
+ests of the corporate client. For example, a recent study
+of responses to the Chicago Department of Health’s
+Twitter campaign calling for enhanced regulation of e-
+cigarettes found that nearly 14% of the tweets opposing
+the regulation appeared to be astroturfing, with “four of
+the five central retweet network members [being] affil-
+iated with e-cigarette businesses or advocacy groups”
+(Harris et al. 2014). Second, firms may set up shell
+organizations that promote the firm’s agenda through
+the simulacrum of an unaffiliated social movement orga-
+nization. Evidence of this exists in the net neutrality
+debate, where a number of newly minted organizations
+that oppose net neutrality—groups like Onward Inter-
+net and Broadband for America—have been linked to
+the National Cable and Telecom Association, the trade
+group representing many of telecom’s most powerful
+incumbents (Cox 2014, Fang 2014).
+Though overt corporate-sponsored activism has
+received less academic attention, examples of open
+corporate participation in contentious movements also
+55
+abound. Firms engaging in overt corporate-sponsored
+activism adopt the tactics of insurgency, such as let-
+ter writing campaigns or issue advertising, to openly
+advocate for a particular social movement’s cause. For
+example, a wave of corporate issue advertising in support
+of the lesbian, gay, bisexual, and transgender (LGBT)
+movement was recently sparked after the Supreme
+Court struck down the Defense of Marriage Act and
+California’s Proposition 8 in 2013. Over 20 prominent
+companies, including Apple, Google, Cisco, Nike,
+Microsoft, and Mastercard issued pro-LGBT messages
+via advertisements, press releases, or social media
+(Huffington Post 2013). Firms also participate in con-
+tentious tactics like protests and boycotts. In the present
+study, my archival media analysis of 300 randomly
+selected members of the Fortune 500 from 1993 to 2007
+uncovered 74 examples of corporate-sponsored boycotts,
+wherein firms partnered with large nongovernmental
+organizations (NGOs) to sponsor boycotts of other firms,
+industries, or countries to protest problematic issues or
+practices. By 2007, over 14% of the sample members
+had sponsored at least one boycott.
+Importantly, the repertoire of overt corporate-
+sponsored activism is inherently riskier than evasive,
+diversionary, or covert tactics for two primary reasons.
+First, any time firms take a public stance on a contentious
+issue, they risk alienating—and even mobilizing—
+stakeholders who disagree. Accordingly, firms must be
+selective about the types of initiatives that they support,
+favoring collaborations with campaigns whose values
+are aligned with those of the firm’s core stakeholders.
+For example, Sears joined with victims’ rights groups in
+2000 to boycott the Italian clothier Benetton for its “We,
+On Death Row” ad campaign, which sympathetically
+portrayed death row inmates. Given that the death
+penalty is one of the more polarizing contemporary
+political issues, taking a clear pro-death penalty stance
+was certainly risky. But Sears tempered this risk by
+gauging its consumers’ sentiment on the issue prior to
+announcing its decision to cancel its line of Benetton
+products. As its public relations director remarked,
+“We’ve had customers who have written to us indicating
+that they will never buy from Sears again because we
+are selling Benetton merchandise. Some of the e-mails
+we’ve received and some of the letters are from people
+who have lost loved ones to murder. And they’re very
+upset” (Feeney 2000).
+Second, firms’ engagement in contentious politics
+may appear insincere or inauthentic. As elite actors
+within the field, firms “lack one of the few (but cen-
+tral) advantages that insurgents traditionally enjoy: the
+appearance of speaking for the authentic interests of
+‘the people’ in a fashion not motivated primarily by
+gaining economic resources or political power” (Walker
+2015, p. 3). External stakeholders are likely to be dubi-
+ous of a firm’s motives for engaging in corporate-
+sponsored activism, given that people tend to perceiveMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+56
+large elite firms and their representatives as lacking in
+moral authenticity and, unlike large social movement
+organizations, as not having the public’s interest at heart
+(Selznick 1949, Yue 2015). Take, for example, a 2004
+campaign in which a group of retailers including Nord-
+strom, H&M, and Abercrombie and Fitch partnered with
+People for the Ethical Treatment of Animals (PETA)
+to sponsor a boycott of the Australian wool industry,
+demanding the adoption of more humane sheep-shearing
+practices. Stakeholders could easily be skeptical about
+the consortium’s true motives. Why would these com-
+panies care about the welfare of sheep? Is this action
+really a poorly veiled maneuver to wriggle out of exist-
+ing contracts or induce more favorable terms with wool
+suppliers? Given the baseline assumption that corporate
+strategies are driven by the bottom line, it may be diffi-
+cult for firms to muster the moral legitimacy needed to
+effectively mobilize support for a social initiative.
+Firms engaging in overt corporate-sponsored activism
+typically mitigate this latter risk by working in collab-
+oration with established NGOs and social movement
+organizations. Through such collaborations, firms may
+be able to borrow from the superior social legitimacy
+of these organizations (Yaziji and Doh 2009). NGOs’
+primary mission relates to a social cause, rather than
+profits, so they are generally perceived as more trustwor-
+thy than private corporations. Thus, the participation of
+NGOs may endow a corporate-sponsored initiative with
+authenticity, increasing the likelihood that participating
+firms are perceived to be driven by prosocial motives,
+rather than economic self-interest.
+Hypotheses
+How Does Corporate-Sponsored Activism Alleviate
+Contention Within a Firm’s Social Environment?
+Firms draw upon the tactics comprising their defen-
+sive performance repertoire to respond to and quell
+disruptive contention within their social environments
+(McDonnell and King 2013). Evasive tactics work to
+proactively address contention by avoiding it entirely.
+Diversionary tactics work to buffer the firm from the
+harmful effects of contention by distracting audience
+members with claims of the firm’s prosocial orientation
+that dilute, rather than necessarily refute, the disparaging
+claims made by challengers. The repertoire of corporate-
+sponsored activism differs from these other tactics inso-
+far as it requires firms to directly acknowledge and
+actively participate in contentious politics. The precise
+mechanism through which corporate-sponsored activism
+works to ameliorate contention within a firm’s environ-
+ment changes depending on whether the firm engages in
+covert or overt forms of the tactic.
+In cases of covert corporate-sponsored activism, tar-
+geted companies actively vie against a challenger move-
+ment for institutional support, working to mobilize or
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+invigorate a countermovement that is aligned with the
+company’s own vested interests (Walker 2014). Coun-
+termovement opposition is a common response to a
+social movement’s early success, as elites whose pre-
+rogatives are threatened act to defend the established
+institutional order (Zald and McCarthy 1980, Meyer
+and Staggenborg 1996). In fact, according to Zald and
+Useem (1987, pp. 247–248), “movements of any vis-
+ibility and impact create the conditions for the mobi-
+lization of countermovements. By advocating change, by
+attacking the established interests, [and] by mobilizing
+symbols and raising costs to others.0 0 0” As challenger
+movements work to problematize corporate practices and
+turn stakeholders against targeted firms, firms participate
+in counter-movements that lobby for the continued sup-
+port of critical stakeholders (Zald and Useem 1987). In
+this way, covert corporate-sponsored activism endeav-
+ors to temper contentious interactions by curbing the
+momentum of threatening movements.
+My research into corporate-sponsored boycotts as an
+example of overt corporate-sponsored social activism
+indicates that the tactic works to reduce contention
+within a firm’s social environment by directly or indi-
+rectly co-opting contentious stakeholders through strate-
+gic social alliances. Firms that openly support social
+movement campaigns form selective social alliances
+with the social movement organizations and NGOs also
+engaged in the movement. Through such alliances, firms
+build social capital with potentially hostile activists,
+which reduces the likelihood that they will be con-
+tentiously targeted in the future. As an executive of a
+participating firm remarked in one of my interviews:
+Corporations have now gotten much more sophisticated
+about NGOs. [We] are thinking, “Well who can we
+make nice with—build enough social capital and enough
+networks—so that when the rocks get hurled, they’ll be
+hurled at someone else and not us.’’
+In his seminal study of the Tennessee Valley Author-
+ity, Selznick (1949) defined co-optation as a self-defense
+mechanism used by an organization to manage uncer-
+tain or unstable environmental elements by absorbing
+them into its decision-making structure, where they can
+be more easily controlled (see also Pfeffer and Salancik
+1978). Building on Selznick’s (1949) early work, social
+network theorists have additionally suggested that firms
+use social networks to co-opt broader constituencies that
+remain outside of the firm, as when firms exercise social
+influence through board interlocks (Mizruchi 1996). In
+the present setting, I define co-optation in a slightly
+broader way, as occurring when an organization seeks to
+manage an external threat by establishing a formal rela-
+tionship or alliance that to some extent internalizes the
+threat and makes it more predictable. This co-optation
+can be either direct or indirect.
+Direct co-optation occurs where a firm forms a rela-
+tionship with the same entity that it perceives to be anMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+immediate threat. Firms seek direct co-optation through
+corporate-sponsored activism when they openly support
+the campaign of a potentially hostile activist group. In
+the case of corporate-sponsored boycotts, this occurs
+when firms collaborate with an activist NGO’s initia-
+tive to avoid being targeted themselves. Activist NGOs
+often approach firms prior to targeting them to give them
+the opportunity to proactively comply with the initia-
+tive. Such precontention partnerships can be beneficial
+for both the activist organization and the sponsoring
+firm. Research in consumer behavior suggests that con-
+sumers are much more likely to participate in a boy-
+cott when there is a readily available substitute for the
+protested product (Sen et al. 2001). Thus, activist groups
+are incentivized to favorably tout firms that collaborate
+with their boycotts, in addition to vilifying those that
+do not. For example, in 1993, Safeway backed a Green-
+peace boycott of Norwegian seafood to protest the coun-
+try’s permissive stance toward commercial whaling. The
+grocer cancelled over four million dollars’ worth of con-
+tracts with Norwegian seafood suppliers upon joining
+the boycott (Agence France-Presse 1993). Not only did
+Greenpeace set up pickets at rival grocers that continued
+to import Norwegian seafood, but they also actively pro-
+moted Safeway, “asking shoppers to support whales by
+switching supermarkets” (Agence France-Presse 1993).
+In its more contemporary boycott initiatives, Greenpeace
+continues to promote its corporate sponsors in addi-
+tion to vitiating offenders. In 2009, for example, when
+Nike signed on to its boycott of leather sourced from
+deforested areas of the Brazilian Amazon, Greenpeace
+issued a widely published press release lauding Nike’s
+“bold step” (Morales 2009). Unlike its competitors Adi-
+das, Reebok, and Clarks, says a Greenpeace campaigner,
+“Nike has recognized that trampling over the Ama-
+zon rainforest to produce leather for its trainers is an
+unacceptable way of doing business” (Morales 2009).
+Activists that promote their corporate allies make it eas-
+ier for consumers to comply with their boycott by pro-
+viding them with readily available alternatives. And in
+the process, corporate sponsors win positive differenti-
+ation from their competitors, in addition to forging an
+alliance with what otherwise would have been a con-
+tentious challenger.
+Indirect co-optation occurs when firms use social net-
+works to establish relationships with entities that are not
+directly threatening, but that can influence threatening
+entities. In the corporate-sponsored activism setting, this
+occurs when firms sponsor the campaigns of prominent
+NGOs so that these allies will discourage other NGOs
+from contentiously targeting the firm in the future.
+I interviewed one executive of a large retailer who
+had experience on multiple corporate-sponsored activist
+campaigns and described this mechanism at work:
+[Work with one NGO translates to goodwill among oth-
+ers] because it’s a smaller world than you might imag-
+ine among the big NGOs. So, the Greenpeace guys, they
+57
+know the PETA guys, and so on. And so if we are work-
+ing with PETA on something that might make a big dif-
+ference in the animal rights world, and then, if we get
+a call from Greenpeace threatening to put the heat on
+us 0 0 0 we’d expect PETA to call and say “back off, they
+are one of the good guys.’’
+Through either the direct or indirect co-optation of
+challengers within their environment, overt corporate
+sponsorship of contentious social movement campaigns
+is likely to have the consequence of decreasing the like-
+lihood that a firm will be targeted by contentious chal-
+lengers in the future.
+Hypothesis 1 (H1). Corporate-sponsored activism
+will be associated with decreased contentious challenges.
+Under What Circumstances Do Firms Participate in
+Corporate-Sponsored Activism?
+As suggested above, evasive and diversionary tac-
+tics comprise firms’ preferred categories of defensive
+responses to contentious challenges. If companies could
+evade a controversy altogether or quell a contentious
+challenge with impression management, then they would
+do just that. There are, however, periods in which
+evasive strategies have failed and impression manage-
+ment is not enough to forestall destabilizing contention
+within a company’s social environment. It is in these
+situations that firms are likely to resort to the more
+radical performances in their defensive repertoire. As
+Walker (2015, p. 3) propones, “[w]hen seriously threat-
+ened during moments of field uncertainty or crisis, elite
+actors 0 0 0 may perceive the need to adopt the strategies
+of insurgent actors, and to do so in a way that does not
+backfire on their attempts to secure audience judgments
+of their trustworthiness and legitimacy.”
+Companies are likely to employ corporate-sponsored
+activism when they are facing extreme levels of disrup-
+tive contention. Past research has found that corporate
+social behaviors and public relations activity more gen-
+erally are spurred by social instability (Meznar and Nigh
+1995). Social movement theory suggests that activists
+use contentious tactics to foster and promote social
+instability, problematizing institutionalized practices by
+reframing them as antinormative (Benford and Snow
+2000, Maguire and Hardy 2009). When activists are suc-
+cessful at reframing the public’s perception of an issue,
+their efforts can spur deinstitutionalization of the sta-
+tus quo, inviting radical institutional change in the form
+of new institutional logics and competing organizational
+forms (Rao et al. 2000, 2003; Hiatt et al. 2009; Sine
+and Lee 2009). For this reason, chronic activist chal-
+lenges represent strong signals of environmental uncer-
+tainty and heightened risk (King and Soule 2007, Vasi
+and King 2012). Given that elite firms have their inter-
+ests and power heavily vested in the status quo, they are
+highly motivated to forestall any potential deinstitution-
+alization. They thus expand their defensive performanceMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+58
+repertoire during periods of chronic contention, turning
+to more innovative and behaviorally significant defen-
+sive tactics (McDonnell et al. 2015). Given that radical
+defensive performances are inherently risky, as discussed
+above, firms are unlikely to turn to them unless facing
+periods of exaggerated contention.
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+these past studies suggest that concessions represent a
+workable proxy for the extent to which corporate actors
+perceive activism as threatening. 1 This leads to the fol-
+lowing hypothesis:
+Hypothesis 2A (H2A). As the number of contentious
+challenges targeting a firm increases, the firm will be
+more likely to engage in corporate-sponsored activism. Hypothesis 2B (H2B). Contentious challenges that
+are successful in eliciting a concession should be
+more likely to lead companies to engage in corporate-
+sponsored activism than those that are unsuccessful in
+eliciting a concession.
+Of course, not all activism is likely to have an equal
+effect on corporate behavior. Social movements vary in
+terms of their salience and ability to effectively mobi-
+lize. The likelihood that they will spur defensive per-
+formances from their targets depends on whether the
+targets attend to the movement and perceive it as threat-
+ening. Prior research in anticorporate activism suggests
+that firms are more likely to respond to an activist attack
+that presents a viable threat to their public image and
+position within their social field (King 2008, McDonnell
+and King 2013). In line with this work, I suggest that
+the mechanism through which contention prompts firms
+to engage in corporate-sponsored activism is perceived
+activist threat. The likelihood that firms will attempt to
+co-opt an uncertain environmental force depends on the
+extent to which the firm finds the force destabilizing
+or threatening. When activist challenges appear partic-
+ularly threatening or destabilizing, firms are likely to
+seek out activist campaigns in an effort to co-opt con-
+tentious stakeholders within their environment through
+social alliances, thereby turning a nonmarket vulnerabil-
+ity into a strength.
+Prior research suggests that firms that are more likely
+to concede to activist challenges that they perceive as
+posing a viable threat to their public image or reputa-
+tion. For example, empirical examinations of corporate
+responses to boycotts repeatedly find that concession is
+more likely when the challenge receives more media
+attention demonstrating its salience and public appeal
+(King 2008, McDonnell and King 2013). King (2008)
+also finds that concession is more likely when a move-
+ment targets a company made vulnerable by recent rep-
+utational declines. He concludes that “the most critical
+mechanism underlying boycotts’ influence is their ability
+to damage corporate reputations” (King 2008, p. 413).
+A study by Eesley and Lenox (2006) empirically exam-
+ines firm responses to over 600 requests from environ-
+mental activists, including contentious tactics like boy-
+cotts and protests. They find that positive firm responses
+are highly correlative with the perceived legitimacy of
+the activist and the advocated issue, as well as the chal-
+lenger’s power relative to the targeted firm (in terms of
+total assets). Insofar as activist challenges are likely to
+be perceived as more threatening when targets are more
+vulnerable to reputational damage or when challengers
+are more powerful and attract more media attention, Firms facing particularly contentious environments are
+also more likely to perceive contention as threatening
+when they have poor reputations, defined as the level
+of general public approval of the firm. This is because
+a firm’s current reputation can affect how stakeholders
+interpret and respond to challenges levied at the orga-
+nization; namely, when faced with possible evidence of
+a firm’s antisocial behavior, stakeholders are likely to
+afford reputable firms the benefit of the doubt (Fombrun
+1996). This creates a “halo effect” for elite, reputable
+organizations, which makes them more resilient in the
+face of an image threat (Bromley 1993, Fombrun 1996,
+Pfarrer et al. 2010, McDonnell and King 2015). For
+example, past work has found that the media is less
+likely to criticize a reputable organization when it is
+involved in a scandal or reputational crisis (Balzer and
+Sulsky 1992, Coombs 1999). Thus, reputations represent
+critical resources that enable firms to ride out a crisis
+situation (Dowling 2002).
+Past work provides evidence that the halo effect
+plays a role in firm responses to social activist chal-
+lenges. King (2008), for example, finds that firms are
+more likely to concede to boycotts when their pub-
+lic image is vulnerable. Because of the enhanced ben-
+efit of the doubt they enjoy, reputable firms may be
+more successful in pacifying a contentious challenge
+through impression management alone, without need-
+ing to resort to more radical tactics. This could explain
+McDonnell and King’s (2013) finding that reputable
+firms are more likely to respond to activism with
+increased charitable work in domains that are unrelated
+to the activists’ challenge. Stakeholders are likely to be
+dubious of the impression management efforts of less
+reputable firms, such that these firms may have to resort
+to more radical tactics to quell a contentious threat.
+Walker (2014) offers indirect evidence of this in his
+analysis of the client lists of the public relations consul-
+tants commonly employed to effectuate covert corporate-
+sponsored activism. Specifically, he found that firms
+with lower reputations were more likely than their more
+reputable peers to hire these consultants in response to
+contentious challenges. He surmised that “firms with
+a strong reputation can weather negative information
+without needing to engage in campaigns to mobilize
+stakeholders 0 0 0 [suggesting that] reputation operates as aMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+buffer against negative information in firms’ institutional
+environments” (Walker 2014, p. 126).
+Additionally, whereas a reputable firm can rest on
+its laurels when it faces a period of enhanced social
+scrutiny, less reputable firms may need to seek out
+overt alliances with NGOs to borrow from the NGOs’
+enhanced social legitimacy. This idea is supported by
+prior work on cross-sector alliances, which suggests
+that firms seek out collaborations with NGOs to gain
+legitimacy and improve their public image when facing
+turbulent institutional environments (Selsky and Parker
+2005). The literature on strategic alliances suggests
+that alliances occur when organizations possess resource
+complementarities, including social resources like legiti-
+macy (Eisenhardt and Schoonhoven 1996). Hence, firms
+that are facing a legitimacy deficit in their social perfor-
+mance are also those likely to benefit most from allying
+themselves with organizations perceived as authentically
+prosocial, such as NGOs. For these reasons, firms pos-
+sessing lower social approval will be more likely to
+respond to contention by participating in overt corporate-
+sponsored activism.
+Hypothesis 3 (H3). A firm’s public approval will
+negatively moderate the relationships proposed in H2A
+and H2B.
+Data and Methods
+Sample Selection and Data Construction
+This study uses an event history design to examine
+the incidence and effects of corporate-sponsored boy-
+cotts, as a contemporary instantiation of overt corporate-
+sponsored activism. To create the sample used in this
+study, I began by creating a list of all companies that
+appeared in the Fortune 500 during the 15-year inter-
+val covered in the study, 1993–2007. I chose to draw
+my sample from the Fortune 500 because prior research
+suggests that social movements tend to interact most
+often with the largest, highest-status firms in an indus-
+try (e.g., King 2008, King and McDonnell 2015). To
+avoid any left censoring of the panel, I limited the sam-
+ple to firms that were publically listed prior to 1991.
+From the resulting list, I randomly selected 300 com-
+panies. I tracked each of these companies from 1993 to
+2007, creating a panel data set with a firm-year unit of
+analysis. Some companies in the sample dropped out of
+the panel because they ceased to operate as independent
+public companies prior to 2007; all spells ending prior to
+2007 are treated as right censored at that point. A total
+of 174 firm-year observations were omitted due to the
+company ceasing to operate as an independent company
+or due to missing financial data in Compustat. This led
+to a total sample of 4,326 company-year observations.
+I chose to begin my panel in 1993 because the first
+instance of a corporate-sponsored boycott that I located
+59
+occurred in 1993, when Safeway joined the Greenpeace
+boycott of Norwegian seafood. In addition to this being
+the earliest example of the tactic that I located in my
+search of newspaper articles (which extended to 1989),
+the article mentioning this boycott also suggests that
+the tactic is just emerging, as a Greenpeace spokesman
+provides that the organization’s partnership with a com-
+pany “marks a significant change in campaign strategy.”
+(Agence France-Presse 1993). Therefore, 1993 seems a
+fitting proxy for the tactic’s initial use.
+Dependent Variables
+The dependent variable used to test H1—total con-
+tentious challenges—was collected using an archival
+media search of Factiva’s Major News and Press Release
+Wires database. Six independent coders searched for
+each sampled company’s name in Factiva along with
+the string (boycott or boycotts or boycotting or boy-
+cotted) and read each result, selecting any articles where
+the company was named as a target of a boycott. Prior
+studies of boycotts have utilized a similar method of
+identifying boycotts through the content analysis of
+newspaper articles (e.g., Pruitt and Friedman 1986, King
+2008, McDonnell and King 2013). Any article about a
+boycott was then coded through a content analysis to
+determine (i) when the boycott occurred, (ii) what issue
+was being protested, (iii) what group was calling for the
+boycott, (iv) what other contentious tactics were being
+used in conjunction with the boycott, and (v) whether
+the boycott ended in a concession. In total, coders identi-
+fied 439 articles announcing activist challenges targeting
+firms in my sample between 1993 and 2007. These ref-
+erenced a total of 210 unique boycotts, averaging a total
+of 2.09 articles apiece. Forty-seven of the boycotts, or
+22.4%, ended in a concession. This success rate is sim-
+ilar to the 25% concession rate found in King’s (2008)
+separate sample of U.S. consumer boycotts reported in
+the five largest media outlets between 1990 and 2005.
+I chose to concentrate on boycotts as a proxy for
+external activism because they are easily identifiable in
+media coverage (unlike protests or demonstrations, for
+which media searches produce many false positives),
+and because boycotts are one of the most common
+and effective contentious tactics used by anticorporate
+activists (Seidman 2007, King 2008). Although anticor-
+porate activists may also use other tactics like protests,
+lawsuits, or corporate smear campaigns, it is rare that
+a significant movement does not also employ a con-
+sumer boycott. Additionally, successful boycotts most
+often end in public corporate concessions (King 2008),
+which makes the success or failure of a boycott cam-
+paign easier to identify than is the case for other forms
+of extrainstitutional protest.
+The dependent variable used to test Hypotheses 2A,
+2B, and 3—sponsoring a social movement boycott—was
+collected using a search of Factiva’s Major News andMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+60
+Press Release Wires database. Six independent coders
+searched for each company’s name along with the string:
+boycott or boycotts or boycotting or boycotted. The
+coders read through each of the results (over 100,000
+articles in total) and pulled results in which a com-
+pany was cited as voluntarily joining or initiating a
+social movement boycott without having been first tar-
+geted by the movement. This process ultimately iden-
+tified 74 corporate-sponsored boycotts that my sample
+members participated in over the 15-year period. These
+corporate-sponsored boycotts address a wide range of
+social issues, including environmental issues (22%),
+moral or religious issues (22%), animal rights issues
+(15%), civil rights or diversity issues (11%), and human
+or labor rights issues (8%). Forty-three unique compa-
+nies, or just over 14% of all companies in the sample,
+sponsored at least one boycott. By the end of the panel,
+28 firms had used the tactic only once, 10 firms had used
+the tactic twice, and 5 firms had used the tactic three or
+more times (with a maximum of eight uses). To capture
+the incidence of a corporate-sponsored boycott across
+the panel, I employ a binary variable that is coded as
+1 if a company sponsored at least one social movement
+boycott in a given year 2 and as 0 if it did not. 3
+Independent Variables
+To test H1, the independent variable is a one-year lagged
+version of the Corporate-Sponsored Boycott variable, as
+described above. 4 The independent variable used to test
+H2A is the one-year lagged Total Contentious Chal-
+lenges variable, described above. In models parsing suc-
+cessful and unsuccessful activist challenges to test H2B,
+Successful Contentious Challenges is a count variable
+indicating the total number of boycotts in the prior year
+in which activists were able to successfully coerce a con-
+cession from the targeted company. Unsuccessful Con-
+tentious Challenges is a count of the number of boycotts
+in the prior year in which activists were unable to suc-
+cessfully elicit a concession. 5
+To test H3, I operationalize Public Approval using a
+content analysis of all articles published about the firm
+each year in USA Today, obtained via LexisNexis. I used
+USA Today because it is the publication with the widest
+readership in the United States and it tends to publish
+general interest and character pieces about businesses,
+which are likely to convey the emotional valence of
+the general public’s attitude toward each firm (Rindova
+et al. 2006). Research assistants read each article men-
+tioning a sampled firm to exclude articles in which the
+company was not the primary focus, as well as stock
+reports and false positives. I then analyzed the affective
+valence of each article using the Linguistic Inquiry Word
+Count (LIWC) program, which is a popular tool for
+assessing firm’s general public approval (Pfarrer et al.
+2010). The LIWC employs a dictionary of over 900
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+affectively valenced words to provide summary statis-
+tics of the extent of positively and negatively valenced
+emotional words within each article (see http://liwc.net
+for additional information on the software and its dic-
+tionaries). I separately analyzed each article, using the
+output of the LIWC analysis to construct its ratio of pos-
+itive to negative affective content. Following prior stud-
+ies, I coded an article as “positive” if at least 60% of
+its affective content was positively valenced and “nega-
+tive” if at least 60% of affective content was negatively
+valenced (Pfarrer et al. 2010).
+Next, I collapsed all articles about each company in
+a given year into a variable capturing general public
+approval using the Janis and Fadner (1965) (JF) coeffi-
+cient of imbalance. The JF coefficient has been widely
+used to control for the aggregate emotional valence
+of media coverage (Deephouse 2000, Janis and Fadner
+1965, Pollock and Rindova 2003, Pfarrer et al. 2010). It
+equals
+4P 2 − PN 5/V 2
+if P > N 1
+and 4PN − N 2 5/V 2
+0
+if P = N 1
+if N > P 1
+where P is the number of positive articles about a firm
+in a given year, N is the number of negative articles, and
+V is the total number of articles. The JF coefficient pro-
+duces a variable, Public Approval, that ranges from −1
+to 1. Firms with a public approval score of −1 received
+only negative coverage, whereas firms with score of 1
+received only positive coverage. I test H3 by interact-
+ing this variable and the Successful Contentious Chal-
+lenges and Unsuccessful Contentious Challenges vari-
+ables described above.
+Control Variables
+Across all models, I control for a host of variables asso-
+ciated with the likelihood that a firm will be targeted
+by, or vulnerable to, contentious challenges. Activists
+tend to aim their contentious attacks at large, high-
+status firms, which attract more media attention (King
+2008, King and McDonnell 2015). To control for differ-
+ences in firm size, I include each firm’s logged assets
+and logged employees, derived from Compustat’s annual
+firm metrics. To control for status, I include a variable
+that is coded as 1 if a firm appeared in Fortune maga-
+zine’s World’s Most Admired Companies annual index
+and 0 otherwise. The World’s Most Admired Compa-
+nies index is a useful proxy for general status, because
+it is constructed using surveys of industry analysts and
+the executives of industry peers, capturing insiders’ per-
+ceptions about which firms inhabit the incumbent elite
+in their field. The World’s Most Admired Companies
+index is regularly employed as a proxy for a company’s
+overall esteem (Fombrun and Shanley 1990, Staw and
+Epstein 2000, Roberts and Dowling 2002, King 2008,
+McDonnell and King 2013, McDonnell et al. 2015).McDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+61
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+To control for media attention, I include a count vari-
+able capturing the number of articles with the firm’s
+name in the headline that appeared in the six largest
+U.S. newspapers—the New York Times, the Washington
+Post, the Wall Street Journal, the Chicago Tribune, USA
+Today, and the Los Angeles Times—in the prior year.
+A firm’s performance may also affect its engagement
+in corporate-sponsored activism. I account for this pos-
+sibility by controlling for firms’ market-to-book ratio,
+the ratio of the market value to the book value of out-
+standing equity, per Compustat. A firm’s market perfor-
+mance, as reflected in its share price, captures audience
+assessments of the quality of the firm’s present manage-
+rial strategy. A low market-to-book value indicates that
+incumbent management is evaluated less highly, expos-
+ing the firm to a higher risk of takeover and managerial
+ouster (Davis and Stout 1992). In such cases, managers
+may be reticent to embark on risky social strategies,
+because they may be subject to higher levels of scrutiny.
+It is possible that activists aim their challenges at
+companies whose shareholders care more about social
+issues. These companies are arguably more vulnerable
+to activism, insofar as management will be pressured
+to attend to and respond to social issues that share-
+holders find compelling. I therefore include a variable
+assessing general levels of social shareholder activism.
+This variable is a count of the number of social-issue
+shareholder proposals that were submitted to a firm in a
+given year, as reported in the ICCR’s archival database
+of social-issue proposals. The ICCR it is a coalition
+of investors and NGOs that coordinates shareholder
+activism. The organization maintains detailed archival
+accounts of socially oriented shareholder resolutions,
+including the proponent and issue raised in the resolu-
+tion, as well as the company’s response to it.
+Finally, I included a set of controls to account for
+the possibility that firms that are more cognizant about
+their social performance are both more likely to be tar-
+geted by social activists and are more likely to join
+social activist boycotts. First, a firm’s perceived social
+responsibility may affect the likelihood that it will be
+targeted by activist challenges (King and McDonnell
+2015), and firms that have an established reputation for
+being prosocial may also be more likely to join with
+activist groups in sponsoring what they perceive to be
+prosocial initiatives. To account for this possibility, I
+controlled for sampled firms’ membership in the United
+Nations Global Compact, the largest international corpo-
+rate social responsibility initiative. Firms that sign onto
+the global compact voluntarily commit to the compact’s
+stated principles of sustainability and corporate citizen-
+ship, as well as agree to file annual reports detailing
+their social activity. Although the ability of the com-
+pact leadership to monitor and enforce the compact’s
+standards has been criticized, membership nevertheless
+represents a visible signal of a firm’s commitment to
+socially responsible behavior, making it a defensible
+proxy for perceived social responsibility. In addition to
+being perceived as more socially responsible, some firms
+may be more receptive to activist challenges, which
+may both invite activist targeting (Baron and Diermeier
+2007, Briscoe and Safford 2008) and increase the like-
+lihood of activist collaborations. To address this poten-
+tial source of endogeneity, I incorporate a control for a
+firm’s observed receptivity. Following McDonnell et al.
+(2015), I began by categorizing all firm responses to
+social-issue proxy proposals in the prior year as being
+either positive (if the firm voluntarily ceded to the pro-
+posal), neutral (if the proposal was put to a vote at the
+firm’s annual meeting), or negative (if the firm chal-
+lenged the proposal by petitioning the U.S. Securities
+and Exchange Commission for permission to exclude it).
+Firm responses to proxy proposals were available in the
+ICCR data described above. I then collapsed all of a
+firm’s responses in a given year into a receptivity vari-
+able using a JF coefficient:
+4P 2 − PN 5/V 2
+if P > N 1
+2
+and 4PN − N 5/V
+2
+0
+if P = N 1
+if N > P 1
+where P is the number of positive firm responses (i.e.,
+withdrawals), N is the number of negative responses
+(i.e., challenges), and V is the total number of social-
+issue proxy proposals submitted to a firm in a given year.
+The result is a variable ranging from −1 (least receptive)
+to 1 (most receptive). When a firm received no social
+proxy proposals in the prior year, I used the JF coeffi-
+cient of its responses in the last year in which it received
+at least one proposal, given that activists are likely to
+base perceptions of corporate receptivity on past activist
+interactions (Briscoe and Safford 2008).
+It is likely that activist attacks affect some indus-
+tries more intensely than others. In the retail industry,
+for example, where performance often depends on con-
+sumers’ perceptions of the integrity of branded products,
+companies may be more threatened by image attacks
+than, say, in the construction industry, where most cus-
+tomers are corporate clients with long-term contracts.
+Thus, I include a separate categorical control for each
+of the eight Standard Industrial Classification (SIC) sec-
+tors represented in the sample: agriculture, construction,
+transportation, communications, retail, finance, services,
+and administrative. To account for the possibility that
+social scrutiny of different industries is likely to vary
+over time, I additionally include a control, Sector Con-
+tention, that captures the average number of activist chal-
+lenges that all other sampled firms in a focal firm’s SIC
+sector received in the prior year.
+Finally, to account for temporal variance in activist
+challenges, I control for time. In the models testing
+H1, I include yearly fixed effects. As is customary inMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+62
+discrete-time event history analyses used to test H2A–
+H3, I include a Time Clock control, reflecting the number
+of years that the company has been in the panel. This
+variable is coded 0 for all companies in the first year of
+the sample (1993), counting up to a maximum of 14 for
+firms that remain in the final year of the panel (2007).
+Analysis
+Hypothesis 1, which asks whether the corporate-
+sponsored boycott effectively reduces the likelihood of
+contentious challenges, is tested in a series of panel
+regression models. The dependent variable, Total Activist
+Challenges, is a count variable that ranges from 0 to 6.
+Because being targeted is a relatively rare occurrence
+for most companies, this dependent variable is 0 for
+the vast majority of observations (n = 41109). Most of
+the companies that were challenged by activists received
+only one challenge in a given year (n = 176). Although
+only a small number of firms were targeted more heavily
+(n = 41), prior work finds that activist challenges have a
+cumulative effect on the likelihood that firms will attend
+to and respond to social issues (McDonnell et al. 2015).
+This suggests that the dependent variable differs for this
+handful of observations in practically significant ways.
+Thus, I chose to use a random-effects negative bino-
+mial model as my primary model. However, recognizing
+that this dependent variable does not accord to a typi-
+cal overdispersed Poisson distribution, I also show the
+model as a random-effects logistic regression, where the
+dependent variable is coded as 1 for all observations that
+received one or more activist challenges. I also examined
+zero-inflated negative binomial models, which resulted
+in results substantively similar to those in the models
+shown here.
+All models include a one-year lagged version of the
+dependent variable, split into unsuccessful challenges
+and successful challenges, to control for the likelihood
+of serial correlation between a firm’s past and present
+activist challenges. By including this variable, I sought
+to control for stable levels of contention, focusing my
+models instead on the growth or reduction in the amount
+of contention a company faces from year to year. The
+likelihood of being targeted by a boycott is endoge-
+nous to past targeting, as activists use a firm’s past
+responses when challenged as a signal of the likeli-
+hood that the firm will be receptive to future challenges
+(Briscoe and Safford 2008). Because past challenges are
+causally related to both future challenges and the likeli-
+hood of participating in a corporate-sponsored boycott,
+this was an important control to include to minimize
+omitted variable bias. That said, including the lagged
+dependent variable can downwardly bias the coefficients
+of independent variables. To ensure that this bias did
+not drive the observed results, I replicated all models
+without the lagged dependent variable, producing sub-
+stantively similar results to those shown here.
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+I attempted to run these models as fixed-effects mod-
+els to account for all firm-level, time-invariant poten-
+tial sources of endogeneity, but fixed-effects models
+did not converge. This is a common problem for
+fixed-effects models with limited dependent variables,
+which tend to produce inconsistent parameter estimates
+(Heckman 1981). As a robustness check to assure that
+the random-effects estimation does not produce biased
+results relating to my independent variable, I include a
+final replication of the primary model using conditional
+fixed effects. Conditional fixed-effects models necessar-
+ily exclude all firms that do not experience any varia-
+tion in the dependent variable, thus dropping all sam-
+pled firms that experienced no activist targeting over the
+course of the panel. Because of the large number of sam-
+pled companies that were never targeted by a boycott
+over the course of the panel, this approximation resulted
+in a much lower number of observations than the pri-
+mary models (n = 11277).
+To test H2A, H2B, and H3, which predict the like-
+lihood of a corporate-sponsored boycott, I employ a
+series of discrete-time event history analyses (Allison
+1984). Models use the calendar year as the time clock,
+with discrete time measures calculated for each calen-
+dar year. Given that firms were at risk of sponsoring
+a social movement boycott more than once over the
+duration of the spell, I treat the measure as a repeatable
+event (Boeker 1992, Zajac and Westphal 1996, Joseph
+et al. 2014).
+To reduce endogeneity and allow for better causal
+approximation, all independent and control variables are
+lagged, excepting the shareholder activism and status
+variables, which are naturally lagged: Shareholder pro-
+posals are submitted to a company in the calendar year
+prior to that in which they are included in the firm’s
+proxy materials, and Fortune’s index is based on sur-
+vey data collected in the calendar year prior to the year
+in which they are published. To address potential het-
+eroskedasticity in the error terms, I obtain robust stan-
+dard errors across all models, clustered by company.
+The dependent variable in these models—sponsoring
+a social movement boycott—is a rare event and highly
+imbalanced over the course of the panel. In such cases,
+logistic regressions can underestimate the probability
+of the occurrence of rare events. To make sure that
+this aspect of my data does not affect the results, I
+ran a robustness test replicating all models with King
+and Zeng’s (2001) statistical correction for rare events
+using the relogit command in Stata 13. The results pro-
+vided in the main models were robust to the use of this
+rare events correction, producing only minor differences
+in the size and significance of the coefficients for all
+independent variables. Descriptive statistics and bivari-
+ate correlations are provided in Table 1.McDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+63
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+Table 1
+Descriptive Statistics and Correlation Table
+Variable
+Mean
+SD
+1
+2
+3
+4
+5
+6
+1 Corporate-Sponsored Boycott
+00016 0012 1000
+2 Total Contentious Challenges
+00063 0032 0016 1000
+3 Successful Contentious
+00011 0011 0011 0053 1000
+Challenges
+4 Unsuccessful Contentious
+00052 0028 0013 0094 0022 1000
+Challenges
+5 Public Approval
+00078 0027 0008 0013 0007 0012 1000
+6 Status
+00533 0050 0007 0011 0006 0010 0011 1000
+7 Logged Employees
+30228 1031 0014 0022 0011 0021 0019 0043
+8 Logged Assets
+90138 1046 0005 0016 0007 0016 0017 0032
+9 Market-to-Book Ratio
+30207 10015 0002 0002 0002 0002 0007 0003
+10 Media Attention
+150457 39091 0011 0026 0011 0025 0018 0020
+11 Shareholder Social Activism
+00463 1004 0011 0030 0008 0031 0011 0021
+12 Perceived Social Responsibility 00018 0013 0005 0010 −0001 0012 0001 0007
+13 Receptivity
+00053 0031 −0001 −0002 −0004 −0001 −0001 0008
+14 Sector Contention
+00513 0031 0006 0004 0001 0005 0006 0016
+Results
+Results for models testing the corporate-sponsored boy-
+cott’s effect on contentious targeting are shown in
+Table 2. Models 2–4 provide support for H1, because
+a firm’s participation in a corporate-sponsored boycott
+is significantly associated with a reduction in the num-
+ber of activist challenges that it faces in the following
+year. Results from the random-effects negative binomial
+model shown in Model 2 suggest that participation in
+a corporate-sponsored boycott is associated with a 56%
+reduction in the number of activist challenges in the fol-
+lowing year.
+The control variables in these models also yield inter-
+esting results, which deserve mention. First, whereas
+past unsuccessful activist challenges are not signifi-
+cantly predictive of the number of future contentious
+challenges, Models 1, 2, and 4 suggest that successful
+challenges are significantly positively related to the like-
+lihood of being challenged in the future. This supports
+Briscoe and Safford’s (2008) suggestion that activists
+may heuristically employ a firm’s concessions to prior
+challenges as a signal of the firm’s likely receptivity to
+future challenges, increasing the likelihood that they will
+target the firm. Across all models, I find that firms are
+more likely to be targeted when they have higher public
+approval, complementing King and McDonnell’s (2015)
+finding that activists tend to target more reputable firms.
+Models 1–3 also replicate prior findings that firms are
+more likely to be targeted when they are larger and more
+actively in the public eye (King 2008, McDonnell and
+King 2013), as logged employees and media attention
+are each positively and significantly related to the num-
+ber of activist challenges targeting a firm. Finally, all
+models provide suggestive evidence that companies that
+are targeted with more shareholder social activism are
+likely to be targeted with more contentious extrainstitu-
+tional activism. Extrainstitutional activists may choose
+to target companies with socially active shareholders on
+7 8 9
+1000
+0053
+0003
+0033
+0037
+0007
+0006
+0015 1000
+0001
+0035
+0041
+0009
+0006
+0020 1000
+0001
+0002
+0001
+0001
+0003
+10
+11
+12
+13
+1000
+0028 1000
+0010 0013 1000
+0003 −0001 0001 1000
+0001 0015 0012 0001
+the assumption that a firm’s decision makers are more
+likely to attend to social issues when its shareholders
+signal their concern for the firm’s social behavior.
+To probe the temporal limitations of these results, I
+ran robustness analyses replacing the one-year lagged
+version of the independent variable with the lagged
+two- and three-year moving averages of the total num-
+ber of corporate-sponsored boycotts in which a given
+firm participated, respectively. Results were robust to
+inclusion of the two-year moving average of corporate-
+sponsored boycotts. Margins analysis of a replication of
+Model 2 with the two-year moving average of corporate-
+sponsored boycotts suggests that a firm’s participation
+in one corporate-sponsored boycott in the past two
+years is associated with a 40% reduction in the number
+of activist challenges in the following year. However,
+the lagged three-year moving average of corporate-
+sponsored boycotts was only marginally significantly
+related to future targeting (p = 0006), which sug-
+gests that the relationship between corporate-sponsored
+activism and future targeting is temporary. This is unsur-
+prising, given that new and different social problems and
+activist organizations are likely to become salient each
+year, requiring firms to continuously and actively deploy
+their performance repertoire to manage contention on an
+ongoing basis.
+Discrete time event history models predicting firms’
+participation in corporate-sponsored boycotts are shown
+in Table 3. The control variables in these models sug-
+gest that the firms that participate in corporate-sponsored
+boycotts tend to be higher-status firms with more public
+approval, more employees, and greater media attention.
+Participants in corporate-sponsored boycotts also tend to
+operate in more contentious industry sectors. Better per-
+forming firms are more likely to use the tactic, which
+is likely due to managers’ increased willingness to par-
+ticipate in a risky social tactic when their core strategyMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+64
+Table 2
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+Regressions Exploring the Relationship Between Participation in a Corporate-Sponsored Boycott and Future
+Activist Challenges
+Random-effects
+logistic regression
+of total activist
+challenges Conditional fixed-
+effects negative
+binomal regression
+of total activist
+challenges
+Model 2 Model 3 Model 4
+−00563 ∗
+400275 −00901 ∗
+400445 −00723 ∗∗
+400275
+Random-effects negative
+binomal regression of total
+activist challenges
+Model 1
+Independent variable (Lagged)
+Lagged Corporate-Sponsored Boycott
+Control variables (Lagged)
+Unsuccessful Activist Challenges
+Successful Activist Challenges
+Public Approval
+Status
+Logged Employees
+Logged Assets
+Market-to-Book Ratio
+Media Attention
+Shareholder Social Activism
+Perceived Social Responsibility
+Receptivity to Activists
+Sector Contention
+Fixed effects for year
+Fixed effects for industry
+Constant
+N
+Log pseudolikelihood
+−00037
+400095
+00515 ∗
+400215
+00575 ∗∗
+400185
+00203
+400165
+00550 ∗∗∗
+400125 −00039
+400095
+00515 ∗
+400215
+00589 ∗∗
+400185
+00228
+400165
+00561 ∗∗∗
+400125 00019
+400185
+00564
+400395
+00808 ∗∗∗
+400205
+00149
+400205
+00695 ∗∗∗
+400155 −00165
+400095
+00409 ∗
+400205
+00442 ∗
+400205
+−00296
+400175
+00350
+400325
+00211
+400115
+00009
+400015
+00003 ∗∗
+400005
+00182 ∗∗∗
+400045
+00638
+400345 00199
+400115
+00009
+400015
+00003 ∗∗∗
+400005
+00188 ∗∗∗
+400045
+00592
+400345 00178
+400135
+00009
+400015
+00005 ∗∗
+400005
+00239 ∗∗∗
+400065
+00409
+400485 00306
+400245
+00000
+400015
+00001
+400005
+00140 ∗∗
+400045
+−00052
+400365
+00167
+400165
+−00059
+400425 00177
+400165
+−00084
+400435 00206
+400205
+−00192
+400535 −00276
+400155
+−00576
+400375
+Yes
+Yes Yes
+Yes Yes
+Yes Yes
+Yes
+−50133 ∗∗∗
+410235
+4,326
+−738065 −50014 ∗∗∗
+410245
+4,326
+−736016 −90311 ∗∗∗
+410225
+4,326
+−603055
+−20934
+430095
+1,277
+−474043
+Note. Robust standard errors, clustered by firm, are in parentheses.
+∗
+p < 00001; ∗∗ p < 0001; ∗∗∗ p < 0005.
+is not under scrutiny because of poor performance. Sev-
+eral models suggest that perceived social responsibility
+is positively and significantly associated with the likeli-
+hood of participating in a corporate-sponsored boycott.
+This may indicate that firms that care more about their
+social responsibility are also more likely to be willing to
+act as activists by joining activist campaigns. It is also
+possible that activists are more willing to collaborate
+with firms that are perceived to be more socially respon-
+sible, such that these firms have more opportunities to
+ally themselves with social movement campaigns.
+Hypotheses 2A and 2B suggest that firms will be more
+likely to participate in a corporate-sponsored boycott
+when they have been targeted with greater numbers
+of activist challenges, especially when those challenges
+successfully elicited a concession. Both hypotheses are
+supported. The lagged number of activist challenges is
+positively and significantly related to the likelihood of
+a corporate-sponsored boycott in Model 2. When this
+variable is bifurcated into separate counts of success-
+ful and unsuccessful challenges, only successful chal-
+lenges are positively and significantly associated with
+the likelihood of engagement in a corporate-sponsored
+boycott (Model 3). A margins analysis with all other
+variables held at their mean suggests that firms that did
+not concede to any boycotts in the prior year have aMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+65
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+Table 3
+Discrete-Time Event History Models Predicting Participation in a Corporate-Sponsored Boycott, 1993–2007
+Model 1
+Independent variables (Lagged)
+Total Activist Challenges
+Model 2
+10179 ∗∗
+400455
+Unsuccessful Activist Challenges
+−00117
+400525
+Successful Activist Challenges ×
+Public Approval
+Unsuccessful Activist Challenges ×
+Public Approval
+Control variables (Lagged)
+Public Approval
+Status
+Logged Employees
+Logged Assets
+Market-to-Book Ratio
+Media Attention
+Shareholder Social Activism
+Perceived Social Responsibility
+Receptivity to Activists
+Sector Contention
+Time Clock
+Fixed effects for industry
+Constant
+N
+Log pseudolikelihood
+Pseudo-R 2
+Model 4
+00411 ∗∗
+400155
+Successful Activist Challenges
+Model 3
+10884 ∗∗
+400665
+−00154
+400575
+−20174 ∗
+410105
+00071
+400375
+00904 ∗
+400355
+00911 ∗∗
+400315 00836 ∗
+400365
+00929 ∗∗
+400315 00875 ∗
+400365
+00897 ∗∗
+400315 00984 ∗∗
+400355
+00934 ∗∗
+400315
+00835 ∗∗∗
+400165
+−00435 ∗
+400185
+00012 ∗∗
+400005
+00004 ∗∗
+400005
+00138
+400095 00804 ∗∗∗
+400155
+−00415 ∗
+400185
+00012 ∗∗
+400005
+00003 ∗
+400005
+00096
+400095 00814 ∗∗∗
+400165
+−00432 ∗
+400185
+00012 ∗∗
+400005
+00004 ∗
+400005
+00131
+400095 00812 ∗∗∗
+400165
+−00439 ∗
+400185
+00012 ∗∗
+400005
+00004 ∗∗
+400005
+00121
+400095
+10163 ∗
+400575
+−00327
+400375
+10007 ∗
+400405
+00012
+400035 10042
+400595
+−00256
+400355
+00988 ∗
+400395
+00014
+400035 10240 ∗
+400585
+−00223
+400385
+00998 ∗
+400395
+00014
+400035 10241 ∗
+400595
+−00242
+400385
+00986 ∗
+400385
+00033
+400035
+Yes
+−40541 ∗∗
+410395
+4,326
+−285014
+0020
+Yes
+−40611 ∗∗
+410405
+4,326
+−282081
+0021
+Yes
+−40503 ∗∗
+410405
+4,326
+−282048
+0021
+Yes
+−40476 ∗∗
+410405
+4,326
+−28102
+0021
+Note. Robust standard errors, clustered by firm, are in parentheses.
+∗
+p < 00001; ∗∗ p < 0001; ∗∗∗ p < 0005.
+1.5% likelihood of sponsoring a boycott, whereas firms
+that conceded to three boycotts in the prior year have
+an 18.5% likelihood. The main effect of the number of
+successful challenges remains significant in Model 4,
+when it is interacted with public approval to test H3.
+The interaction of public approval and successful activist
+challenges is, as hypothesized, significantly negatively
+related to the likelihood of a corporate-sponsored boy-
+cott.
+To assist with interpretation, Figure 1 graphically
+depicts this interaction. Figure 1 shows that companies
+are unlikely to participate in corporate-sponsored boy-
+cotts regardless of their levels of public approval when
+they face low numbers of successful contentious chal-
+lenges (one challenge or less). However, as the num-
+ber of successful contentious challenges increases, all
+firms become more likely to sponsor a boycott, and this
+is especially true of firms with low public approval.
+Among firms that conceded to two challenges in the
+prior year, firms with public approval at one standard
+deviation below the mean are over twice as likely to
+participate in a corporate-sponsored boycott as firms
+with public approval at one standard deviation above the
+mean. Thus, overt corporate-sponsored activism appears
+to be a more attractive strategic option for less reputableMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+66
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+Figure 1
+0.8
+(Color online) Predicted Likelihood of a
+Corporate-Sponsored Boycott as a Function of the
+Interaction of the Target’s Public Approval and the
+Number of Successful Activist Challenges in the
+Prior Year
+1SD below mean public approval
+Mean public approval
+1SD above mean public approval
+0.6
+0.4
+0.2
+0
+0
+1
+2
+3
+Total successful contentious challenges in prior year
+firms seeking to address high levels of contention in their
+social environments.
+To probe the duration of these effects, in robustness
+analyses I replicated Model 4, replacing the Unsuccess-
+ful Activist Challenges and Successful Activist Chal-
+lenges variables with the lagged two- and three-year
+moving averages of these variables. Again, all hypoth-
+esized effects remain significant across each of these
+lag specifications, evidencing that activist challenges are
+likely to affect targeted firms’ nonmarket strategies over
+a longer period of time than just one year.
+Discussion and Conclusion
+This paper explores an emergent organizational phe-
+nomenon, the corporate-sponsored boycott, as a con-
+temporary instantiation of overt corporate-sponsored
+activism. This paper engages in a quantitative empir-
+ical analysis of the incidence and effects of this tac-
+tic among a sample of 300 randomly selected Fortune
+500 companies followed from 1993 to 2007. My find-
+ings suggest that overt corporate-sponsored activism is
+a tactic of last resort. It is selected when companies
+find themselves losing their battles against contentious
+activists, especially when their public approval is falter-
+ing. Furthermore, the present analyses provide evidence
+that corporate-sponsored activism can be an effective
+tactic to address problematic levels of contention, as it
+is associated with significant decreases in the number
+of contentious challenges targeting participating firms.
+Qualitative evidence from interviews with corporate par-
+ticipants suggest that firm leaders are mindful of the tac-
+tic’s usefulness for reducing contention by either directly
+or indirectly co-opting contentious activists.
+The findings in this paper contribute to work in social
+movement theory, nonmarket strategy, and corporate
+social responsibility, each of which is discussed in turn
+below.
+Contributions to Social Movement Theory
+This paper contributes to social movement theory by
+exploring the situations in which institutional incum-
+bents, like their challenger counterparts, engage in
+processes of tactical innovation that produce “novel,
+dramatic, unorthodox, and noninstitutionalized forms of
+political expression to try to shape public opinion”
+(Taylor and Van Dyke 2008, p. 263). Studies of conven-
+tional state-targeted social movements have suggested
+that movement tactics often prompt reciprocal tactics
+or countermovements from their targets (e.g., Meyer
+and Staggenborg 1996, McAdam 1983); however, the
+extent to which movements elicit tactical countermo-
+bilization from their targets continues to be an under-
+studied movement outcome (Van Dyke et al. 2004; cf.
+Jasper and Poulsen 1993). As Jasper and Poulsen (1993)
+argue, most research on movement outcomes fails to
+take into account the strategic interplay between move-
+ments and their targets. Rather than seeing movement
+outcomes as one-and-done scenarios, they argue that we
+should instead visualize movement–target interactions
+“as an open-ended game depending on clever moves”
+(Jasper and Poulsen 1993, p. 646). This paper con-
+tributes to social movement theory by exploring targets’
+deployment of their defensive performance repertoire.
+Specifically, my findings shed light on when firms are
+likely to defend themselves from activist challenges by
+openly participating in contentious politics, rather than
+using evasive or diversionary tactics. I find that firms
+are more likely to turn to overt corporate-sponsored
+activism during periods of especially high institutional
+uncertainty, when they are being targeted by many con-
+tentious activists and being forced to concede to chal-
+lenger movements when targeted. In such situations,
+firms may perceive their institutional order to be in jeop-
+ardy, spurring them to resort to radical performances in
+an effort to restore social stability.
+By exploring the link between contentious targeting
+and corporate involvement in social movement cam-
+paigns, this paper also contributes to prior work exam-
+ining the ways in which activism is associated with
+more general trends in corporate social practices (e.g.,
+Lounsbury 2001, Rao 1998, Den Hond and De Bakker
+2007, McDonnell et al. 2015). Specifically, my find-
+ings suggest that firms confronted with more—and more
+threatening—social activism are more likely to seek
+out collaborations with activists. Thus, general levels of
+environmental stability may predict the extent to which
+firms openly express their support for ongoing social
+movement campaigns.
+Contributions to Corporate Social Responsibility
+My analyses suggest that firms’ use of corporate-
+sponsored activism may be driven by instrumental
+motivations—namely, to decrease the likelihood of being
+targeted by contentious challenges—rather than out ofMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+a veritable prosocial intent. That said, defensive tactics
+can lead to substantive changes in the way that firms
+process social issues. As McDonnell et al. (2015) argue,
+the practices and structures that firms adopt to defend
+themselves from activism can have the incidental effect
+of opening up new opportunities for activists to influ-
+ence firms. Firms that engage in collaboration may also
+develop capabilities for collaboration that make them
+more receptive to amiable partnerships with activists. As
+one corporate executive I had the opportunity to inter-
+view said:
+[For us,] working with NGOs became a competency. We
+also resourced it. We had a team of people, many of
+whom were ex-campaigners. 0 0 0 [We] had people on the
+inside who knew that world and could translate what a
+company wants to do versus what an NGO wants to do.
+So we generated a certain amount of trust with the NGOs.
+As this quote illustrates, though firms may initially
+sponsor activism out of strategic necessity, it is possible
+that such collaborations provoke more permanent strate-
+gic shifts in the way that firms interact with activists.
+Whereas firms may sponsor activism to co-opt allies
+within the activist population to stave off contentious
+challenges, activist NGOs may simultaneously seek out
+relationships with firms to more directly influence cor-
+porate social behavior (McDonnell et al. 2015). Co-
+optation, in this sense, can affect the character of either
+party to a collaborative relationship. Prior research on
+cross-sector alliances provides evidence that collabora-
+tive partnerships with activists tend to improve a firm’s
+trust of activists as a general group (Yaziji and Doh
+2009). Thus, initial collaborations may make organiza-
+tions more receptive to social activists in the future. This
+sentiment surfaced in one of my interviews with a for-
+mer executive director of social policy at a large interna-
+tional retailer. In the early 1990s, this executive played
+an integral role in an activist campaign that the company
+and several NGOs waged against a mammoth energy
+company. Reflecting on the transformative aspect of a
+corporate-sponsored activist campaign, he remarked:
+People learn their way into a relationship. The CEO
+might have been skeptical when the junior guy in cor-
+porate communications said let’s sponsor stuff with [a
+known activist organization]. But then, the CEO has a
+few nice experiences and he or she then learns their way
+into a more sophisticated, more global citizen style of
+leadership. 0 0 0 As these organizations play with the issues
+and as they get into more relationships, they are likely to
+shift.
+This qualitative evidence suggests that overt corporate-
+sponsored activism may provoke long-term shifts in cor-
+porate social behavior. Although it is beyond the scope
+of the present study, one promising area for future
+research is to examine the ways in which initial for-
+ays into sponsored activism may shift the manner in
+which organizations process social issues and interact
+with social activists.
+67
+Contributions to Nonmarket Strategy
+Whereas research in nonmarket strategy depicts corpo-
+rations as actively engaging with political institutions
+through lobbying and political contributions, strategy
+scholars have primarily addressed social movements as
+something that companies should actively avoid by,
+for example, impression management and reputation
+building (Baron and Diermeier 2007). To the con-
+trary, my findings suggest that firms in especially dire
+social straits may also seek to manage challenging
+nonmarket environments by strategically allying them-
+selves with contentious social movements. I provide
+direct evidence that such alliances can have a palliative
+effect on the contentiousness of firms’ environments, as
+corporate-sponsored boycotts are associated with signif-
+icant decreases in the likelihood of being targeted.
+It is possible that, in addition to reducing a firm’s
+likelihood of being targeted by contentious challenges,
+social alliances with powerful NGOs may offer more
+general benefits to a firm’s nonmarket strategy. My find-
+ings suggest that the social capital that firms build with
+the activists with whom they ally may prove beneficial
+when these allies dissuade other activists in their net-
+work from targeting the firm. But activist allies can also
+stand up for a firm in other ways, such as providing char-
+acter references when a firm’s normative appropriateness
+is challenged, such as in the midst of a scandal. This was
+expressed by one executive I interviewed whose firm had
+a long history of partnering with activists:
+I do recall that during [one reputational crisis when
+we] got very spooked, that we needed to reach out to
+our friends. And there were friends in the NGO move-
+ment who rallied, to be honest. So you could argue
+that that was our historic social capital coming through
+for us. So any goodwill that we had built in the NGO
+world 0 0 0 actually meant that the company’s reputation
+wasn’t totally trashed even when we were getting quite
+severe criticism.
+Whereas the present study examines corporate-spon-
+sored activism as a strategic solution to the problem of
+contention within firms’ nonmarket environments, it is
+also possible that these alliances benefit a firm’s ability
+to weather reputational threats more generally, a topic
+that merits future inquiry.
+Limitations and Opportunities for Future Work
+This paper’s findings are limited in important ways,
+many of which present an opportunity for future work.
+This paper introduces the corporate-sponsored boycott
+as a representative instantiation of overt corporate-
+sponsored activism to explore these tactics’ conse-
+quences and the conditions under which they are used.
+For these purposes, I treated the corporate-sponsored
+boycott as a uniform tactic in my analyses. However,
+this ignores a number of important sources of within-
+tactic variation that could affect their consequences, asMcDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+68
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+well as which firms participate. For example, corporate-
+sponsored boycotts vary in terms of their cost and risk
+to the firm, which likely affect firms’ willingness to be
+involved. A firm’s choice of which campaigns to spon-
+sor may also depend on its own culture and values. One
+of my interviewees discussed the strategic balancing of
+these separate issues, saying:
+There are always going to be complaints. Some activists
+plainly just don’t want [one of our core products] to exist.
+And we obviously won’t make that happen. 0 0 0 But we
+don’t only work on things that don’t cost us. 0 0 0 [And]
+historically you can see that we have given up some
+profit. 0 0 0 [T]here is certainly a selection process that goes
+into what types of campaigns we look to be involved
+in 0 0 0 [in which we] balance costs with how much our
+customers value the goals and how well it aligns with
+our mission and strategic objectives.
+Although it is beyond the scope of the present study,
+a more detailed analysis into the within-firm decision-
+making process that determines which campaigns a com-
+pany chooses to join and which activists it seeks to forge
+alliances with is an important question left open for
+future research. Such an analysis might also consider the
+within-firm characteristics that drive this process, such
+as the CEO’s ideology or the governance structures in
+place that determine how a company attends to and pro-
+cesses potential social problems. Additionally, such an
+analysis should account for the very likely possibility
+that not all activists will be willing to collaborate with
+all firms. A scandalized firm may have fewer options
+when seeking out an alliance than a firm with an excel-
+lent reputation for social responsibility.
+The corporate-sponsored boycotts in my sample also
+differ in terms of their ideological and political orienta-
+tion. For example, Sears’ decision to protest Benetton’s
+opposition to the death penalty (a relatively conservative
+stance) is likely to affect its relationships with stakehold-
+ers in very different ways than Wal-Mart’s decision to
+boycott Uzbekistan cotton to protest the local industry’s
+use of child laborers (a relatively liberal stance). Future
+work is necessary to tease out the practical significance
+of firms’ decisions about exactly what campaigns to sup-
+port. Do companies support movements with the same
+political orientation as the political parties that they sup-
+port in their formal political strategy? Does ideological
+coherence matter for the outcomes of these nonmarket
+strategies?
+The data set employed in this study focuses on a sam-
+ple of companies, allowing for the systematic examina-
+tion of the company-specific factors associated with this
+tactic. However, this level of analysis limits the ques-
+tions that can be sufficiently explored in this context. For
+example, the company-level analysis precludes a direct
+test of my proposed mechanisms of direct and indirect
+co-optation. Whereas I relied on qualitative evidence to
+support these mechanisms in motivating my hypotheses,
+future work that adopts a social network approach would
+be useful to provide a more precise quantitative explo-
+ration of how social alliances with NGOs affect firms’
+relationships with the NGO population more generally.
+Finally, I chose to focus on the corporate-sponsored
+boycott because it is an innovative, emerging tactic that
+is overtly contentious in nature, thus presenting a clear,
+conservative test of corporate-sponsored activism. How-
+ever, the tactic is relatively rare and radical, which may
+limit the generalizability of my findings. Because boy-
+cotts demand a concession from their target, it is easy
+to determine whether a boycott has succeeded or failed.
+This may make companies cautious about signing on
+to boycotts, not wanting to be associated with failure.
+Certainly, less contentious forms of corporate-sponsored
+activism, such as when companies voluntarily opt in
+to supply chain standards or openly support calls for
+action on climate change, can put implicit pressure on
+other companies to follow suit. Future work is needed to
+understand when firms engage in these less contentious
+forms of activism.
+Acknowledgments
+The author is indebted to Senior Editor Chris Marquis and
+two anonymous reviewers for providing her with truly inspira-
+tional feedback throughout the reviewing process. For helpful
+advice on this project, the author is additionally grate-
+ful to Brayden King, Bruce Carruthers, Klaus Weber, Paul
+Hirsch, Ed Zajac, Chris Rider, Jiao Luo, Caroline Flammer,
+Olga Hawn, Ed Walker, Hayagreeva Rao, Shon Hiatt, Victor
+Bennett, Joshua Margolis, Tima Bansal, Oana Branzei, and
+Andy Spicer; participants in seminars at Harvard Business
+School, the Wharton School, Penn State University, the Uni-
+versity of Michigan, Georgetown University, the University
+of Georgia, McGill University, the University of Texas, the
+University of Missouri, Johns Hopkins University, and the
+Academy of Management Meetings in Boston; participants
+in the 2012 Alliance for Research on Corporate Sustainabil-
+ity Ph.D. Academy; and participants and reviewers involved
+in the INFORMS/Organization Science Dissertation Proposal
+Competition.
+Endnotes
+1
+An alternative explanation for the link between concession
+and sponsoring activism might be that companies that are more
+receptive to social activism would be both more likely to con-
+cede when challenged and more active in searching for poten-
+tial collaborations with activists. However, prior to bringing
+a contentious challenge, activists typically contact the com-
+pany and promote a positive response through less contentious
+means. If a targeted company is truly receptive, they will
+likely work with these activists through these initial cooper-
+ative channels, in which case a contentious encounter would
+not be necessary. Thus, companies that are targeted by outright
+contentious tactics like the boycotts in my data are typically
+those that have already been resistant to activists. Still, I rec-
+ognize receptivity as a potential conflating mechanism and I
+address it by incorporating a proxy that controls for it sepa-
+rately in my empirical models.McDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+2
+Four companies in the sample sponsored two boycotts within
+the same year, but no company sponsored more than two boy-
+cotts within the same year.
+3
+By limiting corporate-sponsored boycotts to those that are
+observed in the media, my analysis does assume that firms that
+wish to cooperate with social movement organizations will be
+successful in doing so. I believe that this assumption is defen-
+sible, given the large variety of social movement organizations
+and active social movement campaigns within the field at any
+given time. Although it is possible that some activists may
+shun stigmatized firms, this decision is likely driven by the
+activists’ immediate resource needs and the particular cam-
+paign at issue, and a resource-strapped movement will likely
+be hard-pressed to turn away a willing sponsor. Additionally,
+firms that have engaged in behaviors that have made them very
+unpopular with progressive movements may be very popular
+with conservative movements, and vice versa. Thus, a firm that
+is intent on sponsoring a campaign should be able to find a
+willing partner.
+4
+I chose to test this variable using the one-year lagged count
+of corporate-sponsored boycotts (rather than participation in
+a corporate-sponsored boycott over a longer period of time)
+to limit the number of co-occurring events to allow for bet-
+ter causal approximation. Recognizing the possibility that the
+effects of participation in a corporate-sponsored boycott on
+future targeting may last more than one year, I additionally
+ran robustness checks replacing this independent variable with
+the lagged two- and three-year moving averages of the total
+number of corporate-sponsored boycotts in which a given firm
+participated. Results of these robustness checks will be dis-
+cussed alongside the results of the one-year lagged variable.
+5
+Again, given the possibility that contentious encounters have
+an effect on firm behavior that lasts longer than one year, I ran
+robustness checks replacing these independent variables with
+the lagged two- and three-year moving averages of the total
+number of successful and unsuccessful contentious challenges.
+Results of these robustness checks will be discussed alongside
+the results of the one-year lagged variable.
+References
+Agence France-Presse (1993) Greenpeace backs supermarket boycott
+of Norwegian seafood (November 25).
+Aldrich D (2010) Site Fights (Cornell University Press, Ithaca, NY).
+Allison PD (1984) Event History Analysis (Sage, Newbury Park, CA).
+Balzer WK, Sulsky LM (1992) Halo and performance appraisal
+research: A critical examination. J. Appl. Psych. 77(6):975–985.
+Baron DP, Diermeier D (2007) Strategic activism and nonmarket strat-
+egy. J. Econom. Management Strategy 16(3):599–634.
+Benford RD, Snow DA (2000) Framing processes and social move-
+ments: An overview and assessment. Annual Rev. Sociol.
+26(1):611–639.
+Birchall J (2008) Wal-Mart boycotts Uzbek cotton. Financial Times
+(September 30), http://www.ft.com/intl/cms/s/0/1362991c-8f07
+-11dd-946c-0000779fd18c.html#axzz3oVHKHszN.
+Boeker W (1992) Power and managerial dismissal: Scapegoating at
+the top. Admin. Sci. Quart. 37(3):400–421.
+Briscoe F, Safford S (2008) The Nixon in China effect: Activism,
+imitation, and the institutionalization of contentious practices.
+Admin. Sci. Quart. 53(3):460–491.
+69
+Briscoe F, Gupta A, Anner MS (2015) Social activism and practice
+diffusion: How activist tactics affect non-targeted organizations.
+Admin. Sci. Quart. 60(2):300–332.
+Bromley DB (1993) Reputation, Image, and Impression Management
+(John Wiley & Sons, Chichester, UK).
+Coombs WT (1999) Ongoing Crisis Communication: Planning, Man-
+aging, and Responding (Sage, Los Angeles).
+Cox K (2014) Cable lobbyists pretending to be cool digital hipsters
+to convince youth that net neutrality is bad. Consumerist
+(October 9), http://consumerist.com/2014/10/09/cable-lobbyists
+-pretending-to-be-cool-digital-hipsters-to-convince-youth-that-net
+-neutrality-is-bad/.
+Davis GF, Stout SK (1992) Organization theory and the market for
+corporate control: A dynamic analysis of the characteristics of
+large takeover targets, 1980–1990. Admin. Sci. Quart. 37(4):
+605–633.
+Deephouse DL (2000) Media reputation as a strategic resource: An
+integration of mass communication and resource-based theories.
+J. Management 26(6):1091–1112.
+Den Hond F, De Bakker F (2007) Ideologically motivated activism:
+How activist groups influence corporate social change activities.
+Acad. Management Rev. 32(3):901–924.
+Dowling G (2002) Creating Corporate Reputations: Identity, Image,
+and Performance (Oxford University Press, New York).
+Duffy MJ, Binder AJ, Skrentny JD (2010) Elite status and social
+change: Using field analysis to explain policy formation and
+implementation. Soc. Problems 57(1):49–73.
+Eesley C, Lenox MJ (2006) Firm responses to secondary stakeholder
+action. Strategic Management J. 27(8):765–781.
+Eisenhardt KM, Schoonhoven CB (1996) Resource-based view of
+strategic alliance formation: Strategic and social effects in
+entrepreneurial firms. Organ. Sci. 7(2):136–150.
+Elsbach K (1994) Managing organizational legitimacy in the Califor-
+nia cattle industry: The construction and effectiveness of verbal
+accounts. Admin. Sci. Quart. 39(1):57–88.
+Fang L (2014) How community groups were duped into join-
+ing an anti-net neutrality coalition. Vice News (June 10),
+https://news.vice.com/article/how-community-groups-were-duped-into
+-joining-an-anti-net-neutrality-coalition.
+Feeney MK (2000) Sears customers furious over latest Benetton
+ad. Hartford Courant (January 20), http://articles.courant.com/
+2000-01-20/news/0001201669_1_benetton-usa-latest-benetton-ad
+-benetton-products.
+Fligstein N, McAdam D (2011) Toward a general theory of strategic
+action fields. Sociol. Theory 29(1):1–26.
+Fombrun C (1996) Reputation: Realizing Value from the Corporate
+Image (Harvard Business School Press, Cambridge, MA).
+Fombrun C, Shanley M (1990) What’s in a name? Reputation building
+and corporate strategy. Acad. Management J. 33(2):233–258.
+Friedman M (1985) Consumer boycotts in the United States, 1970–
+1980: Contemporary events in historical perspective. J. Con-
+sumer Affairs 19(1):96–117.
+Friedman TL (2001) Foreign affairs; A tiger by the tail. New York
+Times (June 1), http://www.nytimes.com/2001/06/01/opinion/
+foreign-affairs-a-tiger-by-the-tail.html.
+Gamson WA (1975) The Strategy of Social Protest (Dorsey Press,
+Homewood, IL).
+Harris JK, Moreland-Russell S, Choucair B, Mansour R, Staub M,
+Simmons K (2014) Tweeting for and against public health pol-
+icy: Response to the Chicago Department of Public Health’s
+electronic cigarette Twitter campaign. J. Medical Internet Res.
+16(10):e238.McDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+70
+Heckman J (1981) The incidental parameters problem and the prob-
+lem of initial conditions in estimating a discrete time-discrete
+data stochastic process and some Monte Carlo evidence. Man-
+ski C, McFadden D, eds. Structural Analysis of Discrete Data
+with Econometric Applications (MIT Press, Cambridge, MA),
+179–195.
+Hiatt SR, Park S (2013) Lords of the harvest: Third-party influence
+and regulatory approval of genetically modified organisms. Acad.
+Management J. 56(4):923–944.
+Hiatt SR, Sine WD, Tolbert P (2009) From Pabst to Pepsi: The
+deinstitutionalization of social practices and the creation of
+entrepreneurial opportunities. Admin. Sci. Quart. 54(4):635–667.
+Hillman A, Hitt MA (1999) Corporate political strategy formulations:
+A model of approach, participation, and strategy decisions. Acad.
+Management Rev. 24(4):825–842.
+Huffington Post (2013) 27 companies that aren’t afraid to support
+the Supreme Court’s gay marriage rulings. (June 26), http://
+www.huffingtonpost.com/2013/06/26/ companies-support-gay
+-marriage_n_3503981.html.
+Ingram P, Rao H (2004) Store wars: The enactment and repeal of
+anti-chain store legislation in America. Amer. J. Sociol. 110(2):
+446–487.
+Ingram P, Yue LQ, Rao H (2010) Trouble in store: Probes, protests,
+and store openings by Wal-Mart, 1998–2007. Amer. J. Sociol.
+116(1):53–92.
+Janis IL, Fadner RH (1965) The coefficient of imbalance. Lasswell
+HD, Leites N, and associates, eds. Language of Politics (MIT
+Press, Cambridge, MA), 153–169.
+Jasper JM, Poulsen J (1993) Fighting back: Vulnerabilities, blunders
+and countermoblization by the targets in three animal rights cam-
+paigns. Sociol. Forum 8(4):639–657.
+Joseph J, Ocasio W, McDonnell M-H (2014) The structural elabora-
+tion of board independence: Executive power, institutional logics,
+and the adoption of CEO-only board structures in U.S. corporate
+governance. Acad. Management J. 56(6):1834–1858.
+King BG (2008) A political mediation model of corporate response
+to social movement activism. Admin. Sci. Quart. 53(3):395–421.
+King BG, Soule SA (2007) Social movements as extra-institutional
+entrepreneurs: The effect of protest on stock price returns.
+Admin. Sci. Quart. 52(3):413–442.
+King BG, McDonnell M-H (2015) Good firms, good targets: The
+relationship between corporate social responsibility, reputation,
+and activist targeting. Tsutsui K, Lim A, eds. Corporate Social
+Responsibility in a Globalizing World (Cambridge University
+Press, Cambridge, UK), 430–454.
+King G, Zeng L (2001) Logistic regression in rare events data. Polit.
+Anal. 9(2):137–163.
+Lounsbury M (2001) Institutional sources of practice variation:
+Staffing college and university recycling programs. Admin. Sci.
+Quart. 46(1):29–56.
+Luders J (2006) The economics of movement success: Business
+responses to civil rights mobilization. Amer. J. Sociol. 111(4):
+963–998.
+Lyon TP, Maxwell JW (2004) Astroturf: Interest group lobbying
+and corporate strategy. J. Econom. Management Strategy 13(4):
+561–597.
+Maguire S, Hardy C (2009) Discourse and deinstitutionalization: The
+decline of DDT. Acad. Management J. 52(1):148–178.
+Marchand R (1998) Creating the Corporate Soul: The Rise of Pub-
+lic Relations and Corporate Imagery in American Big Business
+(University of California Press, Berkeley).
+McAdam D (1983) Tactical innovation and the pace of insurgency.
+Amer. Sociol. Rev. 48(6):735–754.
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+McAdam D, Boudet H (2012) Putting Social Movements in
+their Place: Explaining Opposition to Energy Projects in the
+United States, 2000–2005 (Cambridge University Press, Cam-
+bridge, UK).
+McAdam D, Sampson RJ, Weffer S, MacIndoe H (2005) “There will
+be fighting in the streets”: The distorting lens of social movement
+theory. Mobilization 10(1):1–18.
+McDonnell MH, King BG (2013) Keeping up appearances: Image
+threats and impression management after social movement
+attacks. Admin. Sci. Quart. 58(3):387–419.
+McDonnell MH, King BG (2015) Taxing a tarnished halo: Reputation
+and ambiguity in evaluations of corporate transgressions. Work-
+ing paper, University of Pennsylvania, Philadelphia.
+McDonnell MH, Werner T (2015) Blacklisted businesses: Social
+activist challenges and the disruption of corporate political activ-
+ity. Working paper, University of Pennsylvania, Philadelphia.
+McDonnell MH, King BG, Soule SA (2015) A dynamic model of
+private politics: Activist targeting and corporate receptivity to
+social challenges. Amer. Sociol. Rev. 80(3):654–678.
+Meyer DS, Staggenborg S (1996) Movements, countermovements,
+and the structure of political opportunity. Amer. J. Sociol. 101(6):
+1628–1660.
+Meznar MB, Nigh D (1995) Buffer or bridge? Environmental and
+organizational determinants of public affairs activities in Ameri-
+can firms. Acad. Management J. 38(4):975–996.
+Mizruchi MS (1996) What do interlocks do? An analysis, critique, and
+assessment of research on interlocking directorates. Ann. Rev.
+Sociol. 22(1):271–298.
+Morales A (2009) Nike to shun Amazon-based leather to help preserve
+rainforest. Bloomberg Business (July 23), http://www.bloomberg.
+com/apps/news?pid=newsarchive&sid=aW8QbEviqJ9o.
+Pfarrer MD, Pollock TG, Rindova VP (2010) A tale of two assets:
+The effects of firm reputation and celebrity on earnings surprises
+and investors’ reactions. Acad. Management J. 53(5):1131–1152.
+Pfeffer J, Salancik GR (1978) The External Control of Organiza-
+tions: A Resource Dependence Perspective (Harper and Row,
+New York).
+Pollock TG, Rindova VP (2003) Media legitimation effects in the
+market for initial public offerings. Acad. Management J. 46(5):
+631–642.
+Pring GW, Canan P (1996) SLAPPs: Getting Sued For Speaking Out
+(Temple University Press, Philadelphia).
+Pruitt SW, Friedman M (1986) Determining the effectiveness of con-
+sumer boycotts: A stock price analysis of their impact on corpo-
+rate targets. J. Consumer Policy 9(4):375–387.
+Rao H (1998) Caveat emptor: The construction of non-profit con-
+sumer watchdog organizations. Amer. J. Sociol. 103(4):912–961.
+Rao H, Monin P, Durand R (2003) Institutional change in toque ville:
+Nouvelle cuisine as an identity movement in French gastronomy.
+Amer. J. Sociol. 108(4):795–843.
+Rao H, Morrill C, Zald MN (2000) Power plays: How social move-
+ments and collective action create new organizational forms. Res.
+Organ. Behav. 22:239–282.
+Rao H, Yue LQ, Ingram P (2011) Laws of attraction: Arbitrage in
+the face of activism in right-to-work states. Amer. Sociol. Rev.
+76(4):365–385.
+Rindova VP, Pollock TG, Hayward MLA (2006) Celebrity firms: The
+social construction of market popularity. Acad. Management Rev.
+31(1):50–71.
+Roberts PW, Dowling GR (2002) Corporate reputation and sus-
+tained superior financial performance. Strategic Management J.
+23(12):1077–1093.McDonnell: The Incidence and Impact of Corporate-Sponsored Social Activism
+Organization Science 27(1), pp. 53–71, © 2016 INFORMS
+Seidman GW (2007) Beyond the Boycott: Labor Rights, Human
+Rights, and Transnational Activism (Russell Sage Foundation,
+New York).
+Selsky JW, Parker B (2005) Cross-sector partnerships to address
+social issues: Challenges to theory and practice. J. Management
+31(6):849–873.
+Selznick P (1949) TVA and the Grass Roots: A Study in the Soci-
+ology of Formal Organization (University of California Press,
+Berkeley).
+Sen S, Gurhan-Canli Z, Morwitz V (2001) Withholding consumption:
+A social dilemma perspective on consumer boycotts. J. Con-
+sumer Res. 28(3):399–417.
+Sine WD, Lee B (2009) Tilting at windmills? The environmental
+movement and the emergence of the U.S. wind energy sector.
+Admin. Sci. Quart. 54(1):123–155.
+Soule SA (2009) Contention and Corporate Social Responsibility
+(Cambridge University Press, New York).
+Staw BM, Epstein LD (2000) What bandwagons bring: Effects of
+popular management techniques on corporate performance, rep-
+utation, and CEO pay. Admin. Sci. Quart. 45(3):523–556.
+Taylor V, Van Dyke N (2008) “Get up, stand up”: Tactical repertoires
+of social movements. Snow DA, Soule SA, Kriesi H, eds. The
+Blackwell Companion to Social Movements (Wiley, New York),
+262–294.
+Tilly C (1978) From Mobilization to Revolution (McGraw-Hill,
+New York).
+Van Dyke N, Soule SA, Taylor VA (2004) The targets of social move-
+ments: Beyond a focus on the state. Res. Soc. Movements, Con-
+flicts and Change 25(1):27–51.
+Vasi IB, King BG (2012) Social movements, risk perceptions, and
+economic outcomes: The effect of primary and secondary stake-
+holder activism on firms’ perceived environmental risk and finan-
+cial performance. Amer. Sociol. Rev. 77(4):573–596.
+Walker ET (2009) Privatizing participation: Civic change and the
+organizational dynamics of grassroots lobbying firms. Amer.
+Sociol. Rev. 74(1):83–105.
+Walker ET (2010) Industry-driven activism. Contexts 9(2):44–49.
+Walker ET (2012) Putting a face on the issue: Corporate stakeholder
+mobilization in professional grassroots lobbying campaigns. Bus.
+Soc. 51(4):561–601.
+71
+Walker ET (2014) Grassroots for Hire: Public Affairs Consul-
+tants in American Democracy (Cambridge University Press,
+Cambridge, UK).
+Walker ET (2015) Astroturfing the field: Elites, business reputation,
+and the effects of covert corporate advocacy on public trust.
+Working paper, UCLA, Los Angeles.
+Walker ET, Rea CM (2014) The political mobilization of firms and
+industries. Ann. Rev. Sociol. 40(1):281–304.
+Yaziji M, Doh J (2009) NGOs and Corporations: Conflict and Col-
+laboration (Cambridge University Press, New York).
+Yue LQ (2015) Community constraints on the efficacy of elite mobi-
+lization: The issues of currency substitutes during the panic of
+1907. Amer. J. Sociol. 120(6):1–46.
+Yue LQ, Rao H, Ingram P (2013) Information spillovers from protests
+against corporations: A tale of Walmart and Target. Admin. Sci.
+Quart. 58(4):669–701.
+Zajac EJ, Westphal JD (1996) Director reputation, CEO-board power,
+and the dynamics of board interlocks. Admin. Sci. Quart.
+41(3):507–529.
+Zald MN, McCarthy JD (1980) Social movement industries: Com-
+petition and cooperation among movement organizations. Kries-
+berg L, ed. Research in Social Movements: Conflicts and Change,
+Vol. 3 (JAI Press Inc., Greenwich, CT), 1–20.
+Zald MN, Useem B (1987) Movement and countermovement inter-
+action: Mobilization, tactics, and state involvement. Zald MN,
+McCarthy JD, eds. Social Movements in an Organizational
+Society (Transaction, New Brunswick, NJ), 247–271.
+Mary-Hunter McDonnell is an assistant professor of man-
+agement at the Wharton School, University of Pennsylva-
+nia. She holds a JD from Harvard Law School and a Ph.D.
+in management and organizations from Northwestern Univer-
+sity’s Kellogg School of Management. She studies organiza-
+tional behavior within challenging institutional contexts, such
+as contentious social environments and uncertain regulatory
+environments. In particular, her work explores how political
+interactions between corporations and their various stakehold-
+ers affect corporate social activity, governance, and nonmarket
+strategy.

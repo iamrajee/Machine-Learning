@@ -1,0 +1,2247 @@
+This article was downloaded by: [193.51.16.194] On: 24 January 2018, At: 21:36
+Publisher: Institute for Operations Research and the Management Sciences (INFORMS)
+INFORMS is located in Maryland, USA
+Organization Science
+Publication details, including instructions for authors and subscription information:
+http://pubsonline.informs.org
+Going Underground: Bootlegging and Individual Innovative
+Performance
+Paola Criscuolo, Ammon Salter, Anne L. J. Ter Wal
+To cite this article:
+Paola Criscuolo, Ammon Salter, Anne L. J. Ter Wal (2014) Going Underground: Bootlegging and Individual Innovative
+Performance. Organization Science 25(5):1287-1305. https://doi.org/10.1287/orsc.2013.0856
+Full terms and conditions of use: http://pubsonline.informs.org/page/terms-and-conditions
+This article may be used only for the purposes of research, teaching, and/or private study. Commercial use
+or systematic downloading (by robots or other automatic processes) is prohibited without explicit Publisher
+approval, unless otherwise noted. For more information, contact permissions@informs.org.
+The Publisher does not warrant or guarantee the article’s accuracy, completeness, merchantability, fitness
+for a particular purpose, or non-infringement. Descriptions of, or references to, products or publications, or
+inclusion of an advertisement in this article, neither constitutes nor implies a guarantee, endorsement, or
+support of claims made of that product, publication, or service.
+Copyright © 2014, INFORMS
+Please scroll down for article—it is on subsequent pages
+INFORMS is the largest professional society in the world for professionals in the fields of operations research, management
+science, and analytics.
+For more information on INFORMS, its publications, membership, or meetings visit http://www.informs.orgOrganization Science
+Vol. 25, No. 5, September–October 2014, pp. 1287–1305
+ISSN 1047-7039 (print)  ISSN 1526-5455 (online)
+http://dx.doi.org/10.1287/orsc.2013.0856
+© 2014 INFORMS
+Going Underground:
+Bootlegging and Individual Innovative Performance
+Paola Criscuolo
+Imperial College Business School, London SW7 2AZ, United Kingdom, p.criscuolo@imperial.ac.uk
+Ammon Salter
+School of Management, University of Bath, Bath BA2 7AY, United Kingdom, a.j.salter@bath.ac.uk
+Anne L. J. Ter Wal
+Imperial College Business School, London SW7 2AZ, United Kingdom, a.terwal@imperial.ac.uk
+o develop innovations in large, mature organizations, individuals often have to resort to underground, “bootleg” research
+and development (R&D) activities that have no formal organizational support. In doing so, these individuals attempt to
+achieve greater autonomy over the direction of their R&D efforts and to escape the constraints of organizational account-
+ability. Drawing on theories of proactive creativity and innovation, we argue that these underground R&D efforts help
+individuals to develop innovations based on the exploration of uncharted territory and delayed assessment of embryonic
+ideas. After carefully assessing the direction of causality, we find that individuals’ bootleg efforts are associated with
+achievement of high levels of innovative performance. Furthermore, we show that the costs and benefits of bootlegging
+for innovation are contingent on the emphasis on the enforcement of organizational norms in the individual’s work envi-
+ronment; we argue and demonstrate empirically that the benefits of an individual’s bootlegging efforts are enhanced in
+work units with high levels of innovative performance and which include members who are also engaged in bootlegging.
+However, during periods of organizational change involving formalization of the R&D process, individuals who increase
+their bootlegging activities are less likely to innovate. We explore the implications of these findings for our understanding
+of proactive and deviant creativity.
+T
+Keywords: bootlegging; innovation; innovative performance; R&D; creative deviance
+History: Published online in Articles in Advance October 10, 2013.
+Introduction
+organization’s past and current ways of working. There-
+fore, organizations need to carefully assess the level and
+type of autonomy granted to R&D staff.
+Although some organizations allow “free time” for
+their staff to engage in personal R&D efforts, most use
+a range of formal project management tools to direct
+and select among their staff’s R&D efforts to ensure that
+these efforts are accountable to the wider organization
+(Cooper and Edgett 2009). In recent decades, managers
+have paid greater attention to formalizing parts of the
+R&D process to help minimize costs and risks, partly in
+response to the low rates of return to R&D in many lead-
+ing science-based sectors and partly in response to the
+increasing competitive pressure that large R&D active
+firms face in their markets (Mowery 2009).
+As the quote at the beginning of this section illu-
+strates, in contexts where the ability of R&D pro-
+fessionals to work outside the project structure of the
+organization is severely restricted, individuals may seek
+to increase their autonomy by taking some of their work
+“underground” (Abetti 1997, Aram 1973, Augsdörfer
+1996, Knight 1967). These underground activities are
+described as “bootlegging,” named after the practice
+of hiding alcohol in one’s boots, for example, during
+We made a small amount of the material, then showed
+technically that it worked, then started to involve some
+of our colleagues who I work very closely with. We made
+some sort of prototype, we went and gave it to consumers,
+got some consumer data, and at that point, when it all
+started to look reasonable, we then let the organization
+know about it.
+—Extract from an interview with a senior
+R&D technologist
+The creativity and innovation literature has a long
+tradition of describing the tension between autonomy
+and accountability in the generation of innovations
+(Burgelman 1983, Van de Ven 1986). Organizations
+often struggle to find a balance between allowing staff,
+especially research and development (R&D) workers,
+enough flexibility and autonomy to explore the “novel”
+and “unusual” and keeping them sufficiently reined in
+to ensure that their innovative efforts are aligned with
+company strategies, objectives, and priorities (Amabile
+1996, Kanter 2000). Autonomy without accountability
+may lead to R&D efforts becoming decoupled from
+the organization, whereas too little autonomy and strict
+accountability may tie R&D efforts too closely to the
+1287Criscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1288
+the U.S. Prohibition. We define bootlegging as the pro-
+cess by which individuals take the initiative to work
+on ideas that have no formal organizational support
+and are often hidden from the sight of senior manage-
+ment, but are undertaken with the aim of producing
+innovations that will benefit the company (Augsdörfer
+2005). The concept of bootlegging relates to the broader
+streams of work on proactive creativity, which empha-
+sizes the importance of personal initiative in creative
+processes (Frese et al. 1996, Unsworth 2001), and cre-
+ative deviance, which highlights that individuals often
+deviate from formal work requirements in pursuit of cre-
+ativity (Mainemelis 2010).
+The existence of underground R&D efforts conducted
+by scientists and engineers is frequently commented on
+but rarely analyzed in detail. The literature on bootleg-
+ging (Abetti 1997; Aram 1973; Augsdörfer 1996, 2005)
+has produced a rich contextual understanding of why
+and how bootlegging activities take place, yet it says
+relatively little about the mechanisms through which
+bootlegging may promote individuals’ ability to gener-
+ate innovative outcomes. It also fails to account for how
+the characteristics of different work contexts influence
+the positive and negative aspects of the R&D work-
+ers’ underground efforts. Thus, it tends to underplay the
+dangers of bootlegging for both individuals and their
+organizations.
+To explore these aspects, we draw on theories of proac-
+tive creativity and innovation to analyze how bootlegging
+efforts increase the ability of the individual to gener-
+ate innovations. First, bootlegging allows individuals to
+explore divergent research directions that fall outside the
+remit of formal projects (Burgelman and Sayles 1986,
+O’Connor and McDermott 2004). Bootlegging provides
+the individual with more freedom to explore uncharted
+territory and to attain explorative advantage over col-
+leagues who do not bootleg (March 1991). This advan-
+tage ultimately translates into superior individual ability
+to develop innovations that generate value for the orga-
+nization. Although bootlegging counts as an illegitimate
+activity, it can function as a channel through which
+unconventional ideas may be realized. Second, bootleg-
+ging allows individuals to delay the moment of moni-
+toring and assessment by the organization until an idea
+is reasonably developed (Cheng and Van de Ven 1996,
+Garud et al. 2011). In more extreme cases, bootlegging
+may even involve continuing to work on projects rejected
+by formal management systems and re-presenting them
+to the organization when the time and circumstances are
+right (Mainemelis 2010). Because embryonic ideas or
+ideas that conflict with established modes of working are
+more likely to fail internal selection processes (Knudsen
+and Levinthal 2007, March 2006), delaying their assess-
+ment increases the chances that new discordant ideas may
+eventually be incorporated into the organization.
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+Yet whether bootlegging activities lead to innova-
+tion or result in a waste of organizational time and
+resources may in large part depend on the work con-
+text in which these activities take place. We build on
+the concept of normative enforcement (Feldman 1984,
+Mainemelis 2010, Merton 1968) to propose that individ-
+uals may be unable to benefit from bootlegging in social
+contexts where norms of behavior are strictly enforced.
+By contrast, work environments that value attainment of
+goals over the means used for their achievement provide
+a supportive environment in which individual’s bootleg-
+ging activities can lead to innovation. We argue that the
+contingent effect of the emphasis in the work environ-
+ment on normative enforcement is manifested in three
+main ways.
+First, building on the observation that groups that meet
+their objectives have lower levels of normative enforce-
+ment (Feldman 1984), we argue that high-performing
+units with strong innovation track records can afford to
+be more tolerant of deviant behavior. In such units, local
+managers are more disposed to providing discretionary
+resources for bootlegging and show less hostility toward
+bootleg ideas when they are presented, making it eas-
+ier for the individuals in these units to convert boot-
+leg activities into realized innovations. Second, in units
+where bootlegging is more widespread, individuals are
+less likely to disapprove of the deviant behavior of col-
+leagues and more likely to take the view that the norm of
+working exclusively on formal projects need not always
+be adhered to. Thus, bootleggers will be more likely
+to find that colleagues offer positive reinforcement for
+their bootlegging ideas and may help them navigate such
+projects back into the formal stage-gate system. Third,
+work environments that increase formalization of the
+R&D process by introducing more rules and regulations
+and stricter monitoring of R&D work signal a greater
+emphasis on conformity to rules rather than achieve-
+ment of creative goals. In this context, we suggest that
+those who increase their bootlegging activity in parallel
+with greater formalization—thus going against organiza-
+tional objectives of increasing normative enforcement—
+may alienate themselves from the organization, with the
+risk that their creative efforts will be misaligned with
+corporate objectives (Greene 1978).
+The paper makes three contributions. First, we con-
+tribute to the literature on the link between autonomy
+and innovation (Amabile 1996, Kanter 2000). We argue
+that autonomy affects innovation not only through the
+level of autonomy formally granted by organizations but
+also through the autonomy that individuals’ proactively
+claim for themselves. In this context, we characterize
+bootlegging as a vehicle enabling R&D scientists and
+engineers to achieve greater autonomy to define their
+research agendas and goals in settings where this is
+not formally granted. Second, we ground the concept
+of bootlegging in the wider literature on informal R&DCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+and proactive and deviant creativity processes in orga-
+nizations (Mainemelis 2010, Unsworth 2001), advancing
+understanding of the mechanisms that enable individu-
+als to profit from bootlegging. In particular, we identify
+exploration of uncharted territory and delayed assess-
+ment of embryonic ideas as major factors linking boot-
+legging to individual innovation performance. Third,
+following the argument that bootlegging can flourish in
+units with relatively low levels of normative enforcement,
+we identify the organizational contingencies that dic-
+tate whether individuals—and indirectly, organizations—
+ultimately profit or lose from bootlegging, and we con-
+struct a theoretical link between individuals’ proactive
+and deviant creative efforts and the organizational factors
+that may moderate their impact on innovation.
+Bootlegging and Innovation
+The Role of Individuals in Generating Innovation
+Scientists and engineers in R&D organizations are pri-
+marily judged on their ability to harness the creative
+potential of new knowledge and technologies to find new
+products, processes, and services (Amabile 2000, West
+and Farr 1990). Accordingly, the focus of performance
+assessment in R&D is largely on the ability of the indi-
+vidual to contribute to the development of novel and
+useful ideas that will create value for the organization
+(Griffin and Hauser 1996). Thus, although innovation
+may be a team effort and most often achieved within
+a managed process, the performance of R&D scientists
+and engineers is typically assessed on the basis of their
+individual contributions to successful outcomes (Sarin
+and Mahajan 2001). This tendency to focus on individ-
+ual contributions is heightened in dual-career structures
+common in R&D, where scientists and engineers are
+required to scale “technical career ladders” as opposed to
+managerial ones (DiTomaso et al. 2007). R&D scientists
+and engineers who pursue technical careers are freed
+from managerial tasks, enabling them to concentrate on
+the discovery and development of new creative ideas that
+contribute to the organization’s innovative efforts.
+Although the innovation literature identifies a broad
+range of individual and organizational factors that may
+influence individual innovative performance in R&D
+contexts (e.g., Scott and Bruce 1994), there is signif-
+icant tension between autonomy and accountability in
+the management of R&D workers (Kanter 2000). Inno-
+vation studies traditionally suggest that creativity and
+innovation are fostered by allowing individuals sub-
+stantial autonomy (Amabile 1996, Bailyn 1985, Pelz
+and Andrews 1966). It is understood that a degree of
+“playfulness” stimulates individuals to come up with
+nonobvious, nontrivial, or groundbreaking ideas and to
+incorporate elements of unplanned variation within the
+frame of set project objectives (Miner 1994). To extend
+Kanter’s (2000, p. 168) metaphor of letting a thousand
+1289
+flowers bloom, organizations need to allow individuals
+the autonomy to experiment with the “organic,” the “nat-
+ural,” and even the “wild” side of innovation. Research
+at the organizational level suggests that formal rules and
+procedures may constrain the flexibility and creativity
+required for the exploration of new and valuable oppor-
+tunities and limit the scope for experimentation (Benner
+and Tushman 2002, Burns and Stalker 1961, Jansen
+et al. 2006).
+Yet the desire to ensure autonomy in the search for
+new ideas and the development of innovations must be
+balanced by a level of accountability (Kanter 2000).
+The freedom to let a thousand flowers bloom can result
+in a garden full of weeds if this freedom spirals out of
+control and individuals’ innovation efforts are no longer
+geared toward the needs and goals of the organization
+(Kanter 2000, Sharma 1999). To shape and structure
+the R&D process, most organizations use a range of
+formal processes such as stage-gates to ensure that the
+creative efforts of R&D staff remain aligned and that
+R&D budgets are put to productive and efficient use
+(Cooper 1990, Schilling 2010). These tools provide a
+formal structure to partially reduce the inherent uncer-
+tainty of the R&D process through the enclosing of
+creative efforts in project management structures. These
+kinds of approaches are critical also for enabling project
+selection, allowing the ideas of different individuals to
+be judged against one another (Knudsen and Levinthal
+2007). Selection criteria help to ensure that the R&D
+budget is distributed across a balanced portfolio that
+includes short- and long-term objectives, has senior man-
+agement support, and is aligned with the organization’s
+overall strategy and capabilities. Although these meth-
+ods are most often applied to the management of down-
+stream innovation projects, it is increasingly common to
+apply them to the front end of the innovation process
+(Cooper and Edgett 2009).
+Forms of Autonomy in R&D
+Organizations have different ways of dealing with the
+costs and benefits of allowing their R&D staff auton-
+omy. Bailyn (1985) suggests that in R&D contexts, two
+types of autonomy are particularly relevant: operational
+and strategic. Because the typical R&D organization is
+characterized by the employment of highly skilled indi-
+viduals who work on complex and difficult projects,
+it is common for R&D staff to be allowed high lev-
+els of operational autonomy in their work (Amabile and
+Gryskiewicz 1987). That is, within a given resource
+envelope, the means by which set goals are achieved
+are left largely to the individual (Bailyn 1985). Some
+organizations formally grant staff a degree of strate-
+gic autonomy that gives researchers the opportunity to
+define their own research agendas and goals and set the
+overall direction of their R&D undertakings (Amabile
+and Gryskiewicz 1987, Bailyn 1985). OrganizationsCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1290
+may allow—even encourage—a degree of playfulness
+(Miner 1994). For example, Google allows its staff to
+spend 20% of their time on personal projects and claims
+that 50% of its innovations originated in such efforts
+(Iyer and Davenport 2008).
+However, few organizations are willing or able to put
+in place similar arrangements; most severely restrict the
+strategic (although not operational) autonomy of their
+R&D staff by allocating their time to working exclu-
+sively on formal projects with well-defined goals and
+objectives. This approach may not always be well suited
+to capturing the features specific to the R&D process, in
+which path-breaking ideas can take shape only through
+additional investment and cognitive efforts with less
+strictly defined boundaries (Nelson and Winter 1977).
+Also, although some novel ideas become incorporated
+within formal projects, there is a high risk that they
+will be prematurely rejected in the stage-gate process
+(O’Connor and DeMartino 2006) since there is insuf-
+ficient time for them to mature and show convincing
+market potential. The selection process in organizations
+is likely to reject projects that do not conform to the
+firm’s established ways of working, a problem that is
+especially acute in large, mature companies (Knudsen
+and Levinthal 2007).
+Bootlegging in R&D
+As a result, individual R&D workers may resort to infor-
+mal methods in order to obtain greater strategic auton-
+omy. They may decide to work underground to devote
+considerable time to bootleg projects and to nurture
+ideas before revealing them to the formal management
+system (Abetti 1997, Augsdörfer 1996, Knight 1967).
+They may also decide to continue working on a project
+that has been formally rejected by the organization
+(Mainemelis 2010). Thus, we propose that bootlegging
+is a vehicle that enables individuals to obtain greater
+strategic autonomy in their R&D efforts. In line with
+Augsdörfer’s (2005, p. 2) definition, we describe boot-
+legging as an R&D activity in which motivated indi-
+viduals secretly engage in bottom-up, nonprogrammed
+innovation efforts not officially authorized by manage-
+ment but which are for the benefit of the company. This
+definition incorporates three key elements.
+First, bootlegging is a secret activity in the sense that
+individuals’ work plans do not provide any formal autho-
+rization for these activities. Bootleggers deviate from
+their formal work requirements to build into their work
+an element of creativity that they cannot place in their
+day-to-day project work (Masoudnia and Szwejczewski
+2012). Although colleagues and sometimes line man-
+agers may be aware of the bootlegging activities, such
+activities typically take place out of sight of senior man-
+agement (Augsdörfer 2005). Thus, although intended
+for the benefit of the organization, bootlegging quali-
+fies as a risky behavior. In extreme cases, bootlegging
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+can be seen as a form of creative deviance where indi-
+viduals continue to work on projects that have been
+formally stopped by management (Mainemelis 2010).
+The absence of formal organizational approval distin-
+guishes bootlegging from free-time models of innovation
+support, such as 3M’s 15% rule (Gundling and Porras
+2000). Bootlegging also differs from skunkworks and
+other structured initiatives that focus on radical innova-
+tion within separate dedicated units, where individuals
+can work outside the normal rules of the organization
+(Tushman and O’Reilly 1996).
+Second, bootlegging is a bottom-up, nonprogrammed
+activity. In this context, bootlegging can be seen as a
+behavior involving individuals taking personal initiative,
+associated with an active and self-starting approach
+to work (Frese et al. 1996). Those individuals who
+exhibit proactive behaviors make persistent efforts, often
+in the face of considerable barriers, and go beyond
+formal requirements. These efforts may include engag-
+ing in proactive creativity, actively searching for prob-
+lems to solve, and generating unsolicited new solutions
+(Unsworth 2001), described by Levinthal and March
+(1981, p. 309) as “the pet projects of playful engi-
+neers.” In this context, bootlegging is not simply a one-
+off activity; rather, it is an approach to R&D work in
+which individuals operate partly outside the formal sys-
+tem to develop new ideas through informal preproject
+work or underground continuation of rejected projects
+(Augsdörfer 2005). The bottom-up and nonprogrammed
+nature of bootlegging makes it different from organiza-
+tional initiatives such as brainstorming or other forms of
+institutionalized experimentation (Miner 1994).
+Third, although bootlegging activity is illegitimate,
+the innovations arising from underground efforts are
+legitimate. Individuals tend to be rewarded for innova-
+tive outcomes regardless of whether or not they have
+been achieved through legitimate means (Mainemelis
+2010). Bootlegging appears to be focused on achiev-
+ing organizational rather than individual goals, and
+it thus can be classified as a form of constructive
+deviance (Warren 2003). Bootlegging should not be
+regarded as a form of “hobby” innovation (Dahlin et al.
+2004) or considered unethical, pro-organizational behav-
+ior (Umphress and Bingham 2011). Despite being a
+type of deviant behavior that may violate organiza-
+tional norms—particularly if these underground efforts
+are unsuccessful—bootlegging does not involve actions
+that violate societal norms, values, or rules of proper
+conduct.
+Although the literature on bootlegging and associated
+concepts of proactive creativity and creative deviance
+has grown in recent years, very few, if any, studies inves-
+tigate what impact these behaviors have on individual
+performance in terms of generating innovations or how
+the value of these efforts is contingent on the individ-
+ual’s work environment. To fill this gap, we explore twoCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+main questions: (1) Does bootlegging make individuals
+more innovative? And (2) what organizational contexts
+enable individuals to profit 4or lose5 from bootlegging?
+Bootlegging and Individual Innovation Performance
+The primary purpose of R&D is to generate practical
+ideas that can be commercialized or implemented as
+new products and processes; thus individuals in R&D
+organizations are assessed on the basis of their efforts
+that contribute to this goal. Researchers differ in how
+they approach the R&D process and in the extent to
+which they seek structural autonomy through bootleg-
+ging. Their choices can have important implications for
+their ability to develop new products, processes, and ser-
+vices. More specifically, we suggest that bootlegging has
+two advantages for individual-level innovativeness.
+First, bootlegging allows individuals to follow uncon-
+ventional paths to explore novel ideas, which reduces the
+barriers to developing innovations in mature organiza-
+tions. Smith (2003) shows that creative outcomes within
+mature organizations are often the result of unconven-
+tional development pathways. In their study of corporate
+entrepreneurship, Burgelman and Sayles (1986) note that
+novel ideas often emerge in organizations from the bot-
+tom up as a result of individual proactivity rather than
+as a product of structured decision making or manage-
+ment strategy. Indeed, research has shown that formal
+process management systems can constrain the flexibil-
+ity and creativity required for the exploration of new
+opportunities (Benner and Tushman 2002). By operating
+free of the “straitjacket” of formal management systems,
+individuals achieve the flexibility to explore directions
+that fall outside the remit of formal projects or are not
+constrained by the need to meet short-term strategic
+objectives (Burgelman 1983). Because bootleg efforts
+tend to be unstructured and result from personal initia-
+tive, they are likely to involve wider search efforts in
+unconventional directions because they do not require
+that the individual’s search efforts be directly linked to
+the requirements or needs of the organization from the
+outset (O’Connor and McDermott 2004). Such efforts
+allow individuals more freedom to explore uncharted
+territory, providing an explorative advantage over their
+more constrained colleagues (March 1991). Bootlegging
+gives individuals a channel through which to elabo-
+rate new ideas informally alongside more formalized
+attempts (Mainemelis 2010) that are perhaps outside the
+company’s strategy or the individuals’ permitted fields
+of work (Masoudnia and Szwejczewski 2012). In addi-
+tion, bootlegging may affect individual innovative per-
+formance indirectly. Exploration advantages associated
+with bootlegging may spill over to individuals’ formal
+work and enable them to introduce greater novelty and
+creative thinking into their formal projects, thus boosting
+the ability to drive innovation within the formal system.
+1291
+Second, by engaging in bootlegging, individuals can
+delay the assessment of novel ideas and postpone judg-
+ment by the wider organization on their usefulness
+and novelty (Garud et al. 2011, Mainemelis 2010).
+Individuals who engage in bootlegging can explore their
+ideas without having to document, justify, and codify
+their elements before they are reasonably well devel-
+oped, and thus they avoid the trap of premature exposure
+of an idea before it is “ripe” for organizational exploita-
+tion (Koch and Leitner 2008). This delay allows the
+accumulation of richer, more compelling evidence about
+the merits of the idea. For an idea to pass the selection
+processes in large, mature organizations, which tend to
+be conservative, solid evidence is required of its poten-
+tial (Dougherty 1992, Knudsen and Levinthal 2007).
+Insufficient evidence of the potential for future rewards
+means ideas that are discordant with existing knowledge
+are likely to be rejected (Cheng and Van de Ven 1996,
+March 1991). However, a level of risk and imprecision
+is frequently a prerequisite of true novelty. As March
+(2006, p. 210) suggests, “Most attempts to distinguish
+creative instances of craziness from useless or dangerous
+ones at an early stage impose criteria of conventional-
+ity on craziness and thereby impose self-defeating filters
+that reduce novelty.” Even after ideas have been rejected
+by the organization, bootleggers may keep these ideas
+alive (Mainemelis 2010) to collect more evidence and to
+strategically pick the time and place to (re)expose them
+to senior management (Garud et al. 2011). By presenting
+an idea only when its value can be demonstrated and at a
+time when the organizational environment is likely to be
+more receptive, bootleggers increase the chances of their
+efforts being incorporated into the firm’s range of prod-
+ucts or processes. Based on these two advantages, we
+posit the following.
+Hypothesis 1 (H1). Individuals’ bootlegging is posi-
+tively related to their innovative performance.
+The Contingent Role of Normative Enforcement
+in the Work Environment
+It is unlikely, however, that bootlegging will be uni-
+formly beneficial to individuals. Building on the concept
+of normative enforcement (Feldman 1984, Mainemelis
+2010, Merton 1968), we posit that individuals will be
+better able to take advantage of unconstrained explo-
+ration and delayed assessment of unconventional ideas
+if they operate in work environments where the norms
+of behavior are not too rigidly enforced. Bootlegging
+is an illicit activity that is typically hidden from senior
+managers and that deviates from the normative behavior
+of allocating one’s time exclusively to formal project
+engagements. Yet work environments may differ in the
+extent to which this norm is enforced by local man-
+agers or colleagues. At one extreme, work environments
+may prioritize conformity to norms and rules so thatCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1292
+the ways in which goals are achieved becomes more
+important than the goals themselves (Mainemelis 2010).
+In such environments, bootleggers may receive little
+support for their activities or may encounter hostility.
+At the other extreme, work environments that empha-
+size the pursuit of creative goals while compromising
+on the enforcement of normative behavior may provide
+bootleggers with financial resources, advice, and support
+to bring their ideas to fruition. Thus, we propose that
+units with higher levels of innovation performance and
+higher average levels of bootlegging will have relatively
+lower levels of normative enforcement and will help
+individuals to innovate through bootlegging. By contrast,
+increased formalization and expectations of adherence
+to organizational norms will make it more difficult for
+those who increase their bootlegging activity to realize
+its advantages. We explore each of these contingencies
+in more detail below.
+Unit Performance and Bootlegging. Within large R&D
+organizations, there is considerable variation in the pro-
+ductivity of different R&D units; some have better track
+records of generating innovations than others. Feldman
+(1984) argues that groups or units that achieve their
+goals can afford to be more tolerant of deviant behav-
+ior than groups that fail to meet their goals; the latter
+are more likely to reject deviation from the norm. Based
+on this line of reasoning, we suggest that unit-level per-
+formance significantly shapes the benefits and costs of
+bootlegging for individuals.
+First, because high-performing units are less likely to
+attribute importance to strict adherence to organizational
+norms, they are more likely to lend informal support to
+an individual’s bootlegging activities. Although bootleg
+projects are underground activities, local managers may
+make small amounts of resources available on a dis-
+cretionary basis (Augsdörfer 2005) to help individuals
+realize the exploration advantages of bootlegging. Such
+resources are typically more readily available in innova-
+tive units, which may have accumulated slack resources
+from past success (Cyert and March 1963, Levinthal
+and March 1981, Voss et al. 2008). In poorly perform-
+ing units, pressure to achieve formal targets may drive
+local managers to ensure conformance to organizational
+norms. In these environments there will be little will-
+ingness to spare resources to indulge bootlegging efforts
+(Mainemelis 2010). High-performing units thus provide
+better opportunities for individuals to develop their ideas
+and enhance the quality of their bootleg projects, along-
+side work on their formal projects. Individuals in suc-
+cessful units are likely to produce more mature ideas
+with greater potential for success. These ideas are more
+likely to be incorporated in the organization’s formal
+products and processes.
+Second, successful units are also less likely to be
+hostile to ideas that deviate from established behaviors.
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+This, in turn, increases the chances that ideas originat-
+ing from bootlegging will survive their eventual assess-
+ment by the organization. These high-performance units
+will be less bound by norms of accountability for R&D
+efforts, more likely to tolerate a degree of “irresponsible
+search” and may relax organizational controls (Levinthal
+and March 1981, p. 309). Moreover, senior managers
+are likely to be hostile to illegitimate innovation efforts
+from units with a poor reputation for novelty, whereas
+members of high-performance units may be allowed to
+deviate from the organizational norms for R&D account-
+ability. Thus, once revealed to the organization’s project
+management system, bootleg projects emanating from
+innovative units are more likely to convince senior man-
+agers than are initiatives from less innovative units.
+For these reasons, we posit the following.
+Hypothesis 2 (H2). Unit-level innovative perfor-
+mance moderates the relationship between individuals’
+bootlegging and their innovative performance, such
+that the positive effect of bootlegging on individual
+innovative performance is stronger (weaker) in units
+with higher (lower) levels of innovative performance.
+Average Unit Bootlegging and Individual Bootleg-
+ging. The work environment’s emphasis on conformity
+to norms does not depend exclusively on the views of
+local managers and senior decision makers. A group’s
+level of normative enforcement is determined in large
+part by the attitudes of coworkers (Feldman 1984). R&D
+units in large organizations can differ substantially in the
+extent to which members of the unit work beneath the
+surface of the formal organizational structure, deviating
+from organizational norms over the allocation of time
+exclusively to formal projects. We suggest that there are
+two reasons why individuals that work in units with
+high levels of underground activity may be better able to
+exploit their bootlegging activities to generate innovative
+outcomes.
+First, the presence of fellow bootleggers signals that
+the work environment is characterized by low norma-
+tive enforcement. Thus, individuals surrounded by boot-
+legging colleagues are more likely to obtain positive
+reinforcement from their local peers for their attempts
+to explore novel and unusual directions. Bootlegging
+typically does not occur entirely in isolation but benefits
+from the support of colleagues in the form of discussion
+and interaction around bootlegging ideas (Augsdörfer
+2005). For example, individuals may be able to obtain
+material and logistical support from fellow bootleggers
+to enrich the evidence supporting their ideas. Individuals
+may also be influenced by the behavior of their immedi-
+ate group (Bercovitz and Feldman 2008) and learn from
+the way its members go about developing innovations
+underground. Therefore, a work environment with high
+levels of bootlegging may stimulate individuals to profit
+from their own bootlegging efforts. By contrast, in unitsCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+with low levels of bootlegging, fellow R&D scientists
+and engineers may be unsupportive of individuals who
+break from organizational norms of accountability, mak-
+ing it more difficult for them to bring to fruition the
+ideas that emerge from their bootlegging efforts.
+Second, in units with high levels of bootlegging, boot-
+leggers are more likely to benefit from the experience
+of others in reintroducing bootleg ideas into the formal
+project management systems that will allow such an idea
+to be incorporated in innovative outcomes. Units with
+high levels of bootlegging may have local routines and
+practices in place to enable bootleggers to navigate the
+path to bring ideas to the attention of the wider organi-
+zation, including senior managers (Garud et al. 2011).
+Widespread bootlegging activity in a unit—and perhaps
+successful precedents—may accustom unit members to
+deviation from organizational norms. In units with low
+levels of bootlegging, there is little experience in how to
+overcome the barriers to acceptance of ideas that have
+“come in from the cold.” In this context, individuals’
+bootlegging efforts are less likely to result in innova-
+tions. Thus, we hypothesize the following.
+Hypothesis 3 (H3). Unit-level bootlegging moder-
+ates the relationship between individuals’ bootlegging
+and their innovative performance, such that the positive
+effect of bootlegging on individual innovative perfor-
+mance is stronger (weaker) in units with higher (lower)
+levels of bootlegging.
+Increasing Bootlegging in Periods of Formalization.
+Despite the merits of unstructured initiatives such as
+bootlegging for the generation of innovations, many
+organizations impose formal structures and accountabil-
+ity routines on the fuzzy front end of the innovation
+process (Cooper and Edgett 2009, Reid and De Brentani
+2004). Formal R&D management approaches have been
+introduced at the front end of innovation in an attempt to
+strengthen the organization’s control over—and monitor-
+ing of—the direction of individual search efforts in a bid
+to render the process of idea generation and early-stage
+innovation more efficient and cost-effective. In this con-
+text, formalization is a move toward increased emphasis
+on normative enforcement and a signal of the promi-
+nence of the rules and procedures through which crea-
+tive goals are achieved relative to the achievement of
+these goals.
+These attempts to formalize the early stages of the
+innovation process can represent major changes in
+the way scientists and engineers work (Bercovitz and
+Feldman 2008), most notably by reducing their strategic
+autonomy in the pursuit of their daily work. The lit-
+erature on organizational change shows that individuals
+respond in different ways to organizational change
+(Greenwood and Hinings 1996). Ultimately, the success-
+ful implementation of a change initiative depends on the
+individual changing his or her behavior in the intended
+1293
+direction (e.g., Whelan-Berry et al. 2003). In the context
+of formalization of the front end of innovation, some
+may engage in less bootlegging activity, signaling their
+conformity to the organization’s desire for more control
+over the front-end innovation process. However, some
+may resist the changes imposed by the organization and
+respond by increasing their bootlegging efforts. In con-
+texts where organizational change threatens freedoms
+that are important to an individual’s work (e.g., reduc-
+ing strategic autonomy), the response may be resistance
+(Ford et al. 2008). In an attempt to retain strategic auton-
+omy, and potentially out of frustration with the organi-
+zational change being implemented, some may respond
+to the organization’s attempts at control by increasing
+their levels of deviance (Lawrence and Robinson 2007).
+We argue that, despite the advantages of bootlegging
+remaining intact, increasing the level of this activity
+during a period of organizational change toward
+greater formalization may harm individuals’ innovation
+performance. Greene (1978, p. 487) discusses how
+formalization processes and the introduction of organi-
+zational guidelines may become a “source of alienation,
+particularly for professionals.” In these circumstances,
+bootleggers who increase their efforts run the risk that
+those efforts will become increasingly misaligned with
+corporate R&D objectives. This misalignment can be
+detrimental to the bootlegger’s ability to be innovative
+for two reasons.
+First, the decoupling between individual efforts and
+the organization may harm the individual’s ability to
+develop innovations that can be successfully exploited
+by the organization. Increased bootlegging during a
+period of formalization can result in exploration activi-
+ties being too far removed from the firm’s portfolio of
+projects and strategic initiatives, and they may separate
+them from the ideas and work of colleagues. Increased
+bootlegging during the formalization of R&D is thus
+seen as greater deviation from organizational norms;
+as a result, bootleggers may find fewer willing accom-
+plices when they reach out for support or guidance from
+others in the organization. This compromises the abil-
+ity of the individual to convert the bootleg idea into a
+successful innovation. Similarly, the scope for spillovers
+from increased bootlegging efforts to formal projects is
+reduced; formal projects with well-defined goals from
+the front end to downstream will have little scope to
+incorporate elements of novelty that deviate excessively
+from corporate goals.
+Second, the benefits of delayed assessment may be
+compromised by increased bootlegging during formal-
+ization. At such times, bootleggers may be able to
+continue to delay assessment by taking projects under-
+ground. However, the increased misalignment of their
+creative work as a result of the imposed organizational
+changes increases the likelihood of rejection when theCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1294
+project is eventually revealed. In times of greater for-
+malization, those who increase their bootlegging are
+unlikely to find a receptive and tolerant environment for
+their underground efforts.
+Thus, we expect that increased bootlegging during
+a period of formalization will be negatively associated
+with individual innovation performance. This does not
+contradict our earlier argument. Hypothesis 1 posited
+that the level of individual bootlegging is positively asso-
+ciated with individual innovation performance; here, we
+focus on changes in levels of bootlegging efforts dur-
+ing periods of formalization. Thus, we hypothesize the
+following.
+Hypothesis 4 (H4). During a period of increased
+formalization, increases in individual bootlegging will
+be negatively related to their innovation performance.
+Research Context, Data, and Study Design
+The present study was undertaken in Neptune, a pseu-
+donym for a large, technology-intensive multinational
+company. Neptune operates in multiple highly competi-
+tive product markets and has built a strong reputation for
+developing innovative products and processes. The firm
+invests heavily in R&D at multiple sites on several conti-
+nents and is a keen user of process management systems
+for R&D. Despite the company’s reputation as a leading
+innovator, senior management expressed some concern
+that Neptune struggles to develop innovations; a consid-
+erable share of Neptune’s R&D efforts is focused on sus-
+taining and improving the existing portfolio of products
+and technologies rather than on developing new ones.
+In its R&D organization, Neptune employs a dual-
+career ladder system that distinguishes between techni-
+cal and managerial careers. All those on the technical
+career ladder are senior scientists and engineers who
+have contributed significantly to innovating Neptune’s
+product portfolio. They are expected to be subject spe-
+cialists, and most have doctoral degrees. They perform
+a number of different job roles, including product devel-
+opment, process engineering, and design. They have no
+formal project management responsibilities, which frees
+them from administrative duties.
+We collected data on the community of technical R&D
+staff, following a two-step approach. In the first step, we
+interviewed 25 senior members of the technical career
+ladder and 10 R&D managers. Interviews lasted approxi-
+mately 60 minutes and were aimed at a better understand-
+ing of the work contexts of these individuals. Interviews
+were semistructured; interviewees were asked to describe
+their professional histories, the nature of their innova-
+tive efforts, their approach to conducting R&D, and the
+tactics used to search for new ideas.
+The second step involved a survey of all 600 senior
+scientists and engineers on the technical career ladder.
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+The survey was administered electronically in 2010. 1
+After three reminders, we received 408 responses,
+a response rate of 67%. The respondent population
+was representative of the overall population in terms of
+grade, tenure, and location. We compared early and late
+survey respondents to determine whether there were sig-
+nificant differences in the responses to our main ques-
+tions; we found no statistical differences (Armstrong and
+Overton 1977). After removing responses with incom-
+plete or missing variables, we were left with a final sam-
+ple of 238 individuals.
+As measuring bootlegging was a core part of the sur-
+vey, we developed a new measure. Although there
+are existing scales that capture individual-level explo-
+ration (e.g., Mom et al. 2009) and intrapreneurship (e.g.,
+Antoncic and Hisrich 2001), these were not suited to
+our research question on individuals’ underground and
+possibly deviant forms of exploration or to our setting
+in which all R&D staff routinely engage in high lev-
+els of exploration and intrapreneurship. Although our
+interviews were designed to elicit rich descriptions of
+individuals’ bootlegging efforts, interviewees were reluc-
+tant to report on their bootlegging efforts in a company-
+supported survey for fear of exposure to and sanction by
+senior managers. We decided to make the survey anony-
+mous, similar to the approach taken in other studies deal-
+ing with sensitive or deviant behaviors in organizations
+(Hannah 2005).
+Partway through our study, the organization intro-
+duced a new system to formalize the front end of the
+innovation process (see Cooper and Edgett 2009 for a
+description of similar initiatives). The system created
+a structured process for judging the merits of early-
+stage R&D efforts. Both before and after the formal-
+ization, individuals in Neptune were required to register
+their early-stage ideas as projects in the formal system;
+the formalization imposed a greater level of organiza-
+tional accountability through the introduction of stricter
+selection and evaluation procedures. We exploited this
+organizational change to conduct a retrospective before–
+after study to examine how an increase in bootlegging
+after the implementation of the organizational change
+shaped innovative performance outcomes, controlling
+for the individual’s innovative performance before the
+formalization.
+Bootlegging in Neptune
+Unlike R&D staff employed in Google and 3M, scientists
+and engineers in Neptune are not allowed dedicated or
+slack time to work on “pet projects.” In fact, Neptune’s
+researchers are required to declare how they spent their
+time on the various projects within their formal work
+plans; this accounting is audited by their managers. Some
+scientists and engineers try to “work the system” andCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1295
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+pursue underground activities to explore new opportuni-
+ties. A senior product developer noted that
+we should spend everything in declared space that should
+be on our work plan. But, like with all creative and oppor-
+tunistic work that I’m involved in, sometimes things pop
+up that seem like too good an opportunity to have a little
+bit of a dig. And then it could be that one of those then
+actually turns into one of your big rocks, which is what
+has just happened to me, with one of my projects.
+In Neptune, there are numerous reasons for bootleg-
+ging. It is undertaken to enable preresearch—for exam-
+ple, collecting empirical evidence to demonstrate the
+validity and potential of an idea before exposing it to
+management (see also Augsdörfer 2005). Gathering data,
+developing a prototype, or carrying out a pilot study
+often requires the support of colleagues with a similar
+passion for the idea:
+It was probably a group of [Neptune] people who, kind
+of, first started it, like, just kind of on the side, like we
+[the interviewee and a colleague] thought this was a great
+idea, then we did some prototyping, and then we shared
+it with management, who created it into a project.
+Another, more extreme form of bootlegging involves
+continuing to pursue an idea that has been rejected
+by management, which makes the activity closer to
+the concept of creative deviance (Mainemelis 2010).
+The following comments from a senior engineer illus-
+trate this behavior when a novel idea was rejected by
+management:
+If the senior manager says that’s no good, he’s more pow-
+erful than me. If I then go and get some data, then it
+changes the whole power balance.
+So when we [the interviewee and a fellow technolo-
+gist started working on [the product], we started doing
+the work and we went to our management and said, “Oh,
+isn’t this fantastic.” And they said, “Don’t be stupid, peo-
+ple tried that years ago, it’s never going to work, con-
+sumers are going to hate it.” So we made [the product] by
+hand and we found some people in the local vicinity; we
+gave them some and asked them to try it. And they came
+back and then we had another quick meeting with the
+management and they said, “Don’t be so stupid, the con-
+sumers won’t like it.” And we said, here’s some data that
+says that ten consumers have tried it and nine of them
+think it’s absolutely fantastic; they think they’d buy it.
+In both cases, the main driver of these activities was
+enthusiasm for discovery, as illustrated by the following
+quote from a technologist:
+It’s like exploration that I was not asked to look at, but
+you know, I’m playing with those projects and if they
+look promising after a while, then I’ll try and establish
+those projects officially as part of my work plan and get
+management’s support and funding and resources. And if
+not, I’ll play with something else. There are things that
+you typically manage to fit in your workload because you
+have passion for them.
+Researchers often go underground when they want to
+explore new opportunities, when they feel their ideas
+would be rejected were they to become official projects
+at an early stage. A senior product developer noted,
+[Underground activities] tend to be on the ideas that are
+a little bit further out and aren’t as obvious, you know,
+to what the potential could be.
+It’s absolutely the wrong thing to ask management
+whether you should work on something new, because
+they all say no, all right, because they’re risk-averse. I’m
+working on some new [product], okay, I am unlikely
+to talk to the management about it until I’ve convinced
+myself that it’s worth it. Otherwise, all you get is pain.
+The formalization of the front end of the innovation
+process promoted a widespread perception among our
+interviewees that there would be significantly less tol-
+erance for individuals who engage in unofficial projects
+and efforts, as the following quotes from two technolo-
+gists and an R&D manager, respectively, illustrate:
+The front end of innovation used to be a lot more, kind
+of, woolly, and 0 0 0 people were just working on what they
+fancied, and that isn’t the most effective way to run. But
+I also think that one of the watch-outs with this is that
+there is no real space for seedlings, or the kind of unex-
+pected, because everything’s quite orchestrated, now.
+This system is so prescriptive that it doesn’t give you
+the opportunity to really freestyle around it, and I think,
+in innovation, you need to have, you know, you need to
+have the opportunity to bring new stuff in.
+What’s happened now is that even in the front end of
+innovation, you now have a list of projects, right? It’s
+now been totally formalized, which then removes most
+of your ability to go and do what you want to do.
+Measures
+Dependent Variable. Innovative performance. Nep-
+tune conducts an annual evaluation involving a com-
+mittee of line managers from the different business
+divisions who assess the performance of individual tech-
+nologists relative to peers. The line managers base their
+appraisals on specific contributions to new products, pro-
+cesses, features, business development, technologies, or
+designs that create value for the organization. Rather
+than focusing on the technologist’s scientific and techni-
+cal outputs such as patents, assessment is based primar-
+ily on the realized impact of the individual’s efforts, the
+organization’s sales performance, and operating costs.
+The contributions of each individual are tracked over the
+year for this evaluation process and recorded on their
+formal work plans. The appraisal system classifies indi-
+viduals into two bands with a forced distribution across
+the three seniority levels. We drew on this system using
+the innovation rating as our measure of individual inno-
+vative performance.
+The rating process is highly competitive, and being
+awarded the highest rating is a significant accomplishmentCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1296
+that determines salary and promotion. In our sample,
+24% of individuals received the highest rating. We asked
+individuals to declare their innovation rating for each of
+the last three years to allow us to control for past perfor-
+mance and conduct additional analyses of the direction
+of causality between bootlegging and individual innova-
+tive performance.
+Supervisors’ ratings have been shown to be rela-
+tively unbiased, for example, in terms of gender or race
+(Arvey and Murphy 1998), and hence they are consid-
+ered a valid indicator of individual task performance
+(e.g., Mehra et al. 2001). In addition, objective measures
+of innovative performance (e.g., invention disclosures,
+patent disclosures, research reports) can show high levels
+of correlation with supervisors’ ratings (Scott and Bruce
+1994, Tierney et al. 2006).
+Although in our survey the innovation rating was self-
+reported, it is not a self-assessed measure since the eval-
+uation was made by others. In addition, in our research
+context, the diverse roles and outputs of R&D scientists
+make it difficult to use simple counts of specific inno-
+vation outcomes, such as the number of new products,
+as a measure of individual performance. The advantage
+of the rating is that it accounts for the objectives spe-
+cific to the individual’s work role and the nature of the
+R&D efforts in his or her job function and unit. Neptune
+senior managers and technologists considered the inno-
+vation rating to be the central innovative performance
+measure in R&D. In our interactions with Neptune, this
+point was emphasized repeatedly, giving the measure a
+high level of content and face validity.
+Independent Variables. Bootlegging activity. Captur-
+ing individual bootlegging efforts poses significant chal-
+lenges for researchers because of their nonprogrammed
+and often secretive nature. Previous work on bootlegging
+uses research designs that study only bootleg projects
+(e.g., Augsdörfer 2005). Although helpful for provid-
+ing detailed insights into bootlegging, this approach can
+introduce significant sample selection bias. In contrast,
+our approach focuses on identifying bootlegging among
+a diverse population of R&D scientists, whose levels
+of bootlegging differ. Also, given its secretive nature, a
+social desirability bias might affect measures of boot-
+legging; individuals may be more likely to report lower
+levels of bootlegging given the deviant nature of this
+activity. We tried to overcome this problem by assuring
+respondents of absolute anonymity. Moreover, since the
+survey focused on a number of issues related to indi-
+viduals’ innovative efforts, and because our interest in
+bootlegging was not made explicit in the invitation let-
+ter, we thought that respondents would be less likely to
+hide (or exaggerate) their bootlegging activity.
+To measure the extent to which individuals engage
+in bootlegging, we developed a new measurement scale
+building on our interview material and prior studies
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+(Augsdörfer 1996, 2005). To guide the shaping of our
+scale items, we exploited terms used by interviewees,
+such as “unofficial” or pet projects, to describe their boot-
+legging at Neptune. Moreover, we were also concerned
+that more strongly worded items might deter disclosure
+since senior management was supporting our research
+project. We constructed a five-item measure in which
+all items were measured on a seven-point scale rang-
+ing from 1 for strongly disagree to 7 for strongly agree.
+Exploratory factor analysis of the five items using the
+principal factor method resulted in a one-factor solution
+(with an eigenvalue above 1), signaling the unidimen-
+sionality of our scale and explaining 98% of the vari-
+ance. Four of the five items had factor loadings above 0.4
+(see Table 1); we excluded the item with a factor loading
+below 0.4. The resulting bootlegging scale shows strong
+internal reliability with a Cronbach’s  of 0.80.
+As an additional measure, we consider the proportion
+of time individuals allocated to bootlegging. The related
+question came immediately after the question about
+bootlegging described above so as to guide respondents
+on the types of activities associated with bootlegging.
+We asked individuals how much of a typical work week
+during the previous 12 months had been devoted to
+unofficial side projects, outside of formal work plans.
+We asked respondents to provide the same information
+for the three years prior to the survey. Time devoted to
+bootlegging in 2010 and 2007 was used to derive the
+measure growth in bootlegging time, calculated as the
+difference in the log of the percentage of time allocated
+to bootlegging in 2010 minus the log transformation of
+the percentage in 2007. There is the possibility of recall
+bias in the calculation for 2007 based on inaccurate rec-
+ollection of the time dedicated to this activity three years
+earlier. Although we cannot assess the extent of this
+problem, we found it reassuring that the average time
+allocated to bootlegging had decreased after formaliza-
+tion of the front end of the innovation process.
+Table 1
+Principal Factor Analysis of the Bootlegging Scale
+4 = 00855
+Scale items
+Factor
+loading
+I have the flexibility to work my way around my
+official work plan, digging into new potentially
+valuable business opportunities.
+My work plan does not allow me the time to work on
+anything other than the projects I have been
+assigned to.
+I enjoy tinkering around with ideas that are outside
+the main projects I work on. a
+I am running several pet projects that allow me to
+learn about new areas. 00608
+I proactively take time to work on unofficial projects
+to seed future official projects. 00784
+00592
+00349
+00762
+a
+This item had a factor loading below 0.4 and was removed when
+factor scores were computed.Criscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+Unit innovative performance. To measure unit in-
+novative performance, we calculated the share of tech-
+nologists with the highest innovation rating in 2009,
+exploiting Neptune’s archival data on the distribution
+of ratings across the entire population of technologists,
+across all of its R&D sites. Neptune has over 20 units,
+each having between 5 and 80 R&D staff members.
+Unit bootlegging time. To measure unit bootlegging,
+we derived the average bootlegging time of researchers
+in 2007 for each R&D unit using all the survey responses
+(N = 405). In calculating this measure, we dropped
+those individuals in R&D units where fewer than three
+employees had responded to our survey. We excluded
+the focal individual when calculating unit average
+bootlegging.
+Control Variables. Building on the literature on the
+determinants of individual-level innovativeness, we con-
+trol for a number of individual and contextual factors.
+First, we control for individuals’ grade level, since more
+senior members of staff might have more autonomy in
+their work (Amabile 1996, Bailyn 1985). Second, to con-
+trol for individual perception of the work environment
+as supportive of creative and innovative efforts, we use a
+reduced version of the 22-item scale proposed by Scott
+and Bruce (1994). We focused on the eight items that
+loaded into the factor “support for innovation,” label-
+ing it climate for innovation (Cronbach’s  = 0.86).
+Third, to account for the effect of having a manager sup-
+portive of creativity (Oldham and Cummings 1996), we
+included a measure of managerial support, consisting
+of a seven-item scale adapted from the scale developed
+by Greenhaus et al. (1990), which measured the per-
+ceived level of supervisory support for career advance-
+ment. We modified this to capture the perceived level of
+support received by senior scientists and engineers from
+their peers on the management career ladder (Cronbach’s
+ = 0.94). Fourth, since research shows that both intrin-
+sic motivation and extrinsic motivation play a role in
+shaping individual creativity (Amabile 1996), we derived
+measures of these motivations using an eight-item scale
+adapted from Rynes et al. (2004). Respondents were
+asked to indicate on a scale from 1 (not at all impor-
+tant) to 5 (crucial) the importance of different features
+of their job, such as intellectual challenge, degree of
+independence, salary, and job security. The data were
+subjected to principal factor analysis, which resulted in a
+two-factor solution corresponding to intrinsic and extrin-
+sic motivation with equal internal reliability (Cronbach’s
+ = 0.69).
+To account for the possibility that the contributions of
+technologists working on longer-term projects might be
+more difficult to assess, we included a dummy variable
+(long-term focus) equal to 1 if the outcome of the indi-
+vidual’s research activities would take more than two
+years to reach the market. Furthermore, since the poten-
+tial to develop an innovation might be shaped by the
+type of products targeted by the individual, we included
+1297
+a dummy variable equal to 1 if the respondent’s R&D
+efforts were focused on improving an established prod-
+uct line. Finally, we included control variables for gen-
+der, tenure, and whether the individual was working at
+the company headquarters, as well as dummy variables
+for division and job function.
+Although we use several individual-level variables to
+account for significant differences in the individual abil-
+ity to generate innovations, we may have failed to cap-
+ture a particular individual characteristic that affects
+both the likelihood of achieving a high innovation rat-
+ing and the extent of bootlegging activity. Because a
+past innovation rating might be a proxy for other indi-
+vidual features for which we are unable to control, we
+include this measure in our analysis. More specifically,
+we include the past innovation rating (the two years
+prior to our survey). 2
+Assessment of Common-Method Variance
+Given that all the subjective measures used in this
+study are constructed based on responses to the same
+survey and are self-reported, it is possible that our
+estimates might be affected by common-method and
+single-respondent biases (Podsakoff et al. 2003). In try-
+ing to mitigate this problem, we first used different
+response formats to prevent response fatigue and the
+tendency to agree or disagree with attitude statements
+regardless of content. Then, we posed “neutral” ques-
+tions at the beginning and more sensitive questions
+(e.g., about managerial support) at the end of the sur-
+vey to avoid context-induced mood, which might lead
+respondents to carry over positive or negative evaluations
+to subsequent questions. Finally, we used an inductive
+approach with items generated on the basis of the inter-
+views and worded items according to company jargon
+to reduce complexity and/or ambiguity of scale items.
+This was especially important in the context of the boot-
+legging scale to ensure that respondents understood the
+content of the questions. To test empirically whether
+common-method variance remained an issue, we car-
+ried out a Harman’s single-factor test by performing an
+unrotated factor analysis including all 55 items across
+the 11 constructs in our survey. We obtained 12 factors
+with eigenvalues greater than 1, where the first factor
+explained only 18.4% of the variance. This suggests that
+common-method variance may not be a problem in this
+study. We also adopted Lindell and Whitney’s (2001)
+marker variable technique by including in the survey a
+variable that is theoretically unrelated to the variables
+of interest in our study. 3 Because the marker variable
+should not be correlated with other variables, the pres-
+ence of common-method bias can be assessed by cal-
+culating the correlations between the marker variables
+and the variables of interest. We checked partial cor-
+relations between all our variables, controlling for our
+marker variable, and found that all significant bivariate
+correlations among our variables of interest remainedCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1298
+5%
+across
+0008
+0004
+−0005
+0004
+−0007
+−0004
+0011
+0006
+0001
+Because innovation rating is a dichotomous variable,
+we tested our hypotheses by estimating logit models.
+Individuals with low innovation ratings (“0-rated”) are
+underrepresented in our sample with respect to the dis-
+tribution of ratings across Neptune; thus we estimated
+our models using weights equal to the number of 1-rated
+(0-rated) respondents in our sample over the percent-
+age of 1-rated (0-rated) respondents in the popula-
+tion to attribute additional weight to the 0-rated group.
+All equations were estimated clustering the errors by
+respondent’s grade. 4 Innovation rating has a forced dis-
+tribution across the three seniority levels, which could
+introduce correlation in the error terms, for individu-
+als on the same grade. To test our main hypothesis, we
+focused on bootlegging activities and time. In the mod-
+eration analysis, we rely on bootlegging time because
+this variable captures past rather than current bootleg-
+ging efforts and therefore better accounts for reverse
+causality issues.
+Table 2 presents the descriptive statistics and bivariate
+correlations of the variables used in our econometric
+models. On average, the scientists and engineers in our
+sample have worked for Neptune for almost 20 years.
+The level of correlation among our key variables is gen-
+erally low. The maximum variance inflation factor is less
+than 2.5, signaling that multicollinearity is not a problem
+in our data.
+Table 3 shows the tests for the impact of bootleg-
+ging on innovation rating. Model 1 includes only the
+control variables and represents our baseline model.
+As expected, we find that past innovation rating
+and average innovative performance of the R&D unit
+employing the individual are strong predictors of the
+innovation rating. Model 2 shows that bootlegging activ-
+ities have a positive and significant effect on the likeli-
+hood of obtaining the highest innovation rating: a one
+standard deviation increase in bootlegging from its mean
+value increases the individual’s chances of obtaining a
+top rating by 6%. This provides support for Hypothe-
+sis 1. Model 3 reports the effect of past bootlegging time
+on innovative performance. Again, we find strong sup-
+port for Hypothesis 1 since the coefficient of bootlegging
+time at t − 3 is positive and significant. In particular, our
+estimates indicate that a one-standard-deviation increase
+in bootlegging time from its mean value (i.e., from 14%
+to 23%) increases the probability of obtaining a high
+innovation rating by 17%. 5
+As a supplementary analysis, we also explored the pos-
+sibility of a curvilinear relationship between bootlegging
+and innovative performance by adding a squared term
+for bootlegging activities and past bootlegging time to
+Models 2 and 3, respectively. We obtained confounding
+Results
+unchanged. Thus we can conclude that common-method
+bias is unlikely to have shaped our findings.
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMSCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1299
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+Table 3
+Impact of Bootlegging on Innovation Rating and the Moderating Effect of Unit-Level Innovative Performance 4N = 2385
+Variable
+Bootlegging activity
+Model 1
+a
+Model 2
+Model 4 Model 5 Model 6 Model 7
+00681 ∗∗∗
+4001745 00657 ∗∗∗
+4002005 00685 ∗∗∗
+4001685
+00322 ∗∗∗
+4000545 00667 ∗∗∗
+4001925
+00286 ∗∗∗
+4000585
+00412 ∗∗∗
+4001825 00639 ∗∗∗
+4001785
+00237
+4000645
+Bootlegging time at t − 3 a
+Model 3
+∗∗∗
+Bootlegging time at t − 3 ×
+Unit innovative performance
+Bootlegging time at t − 3 ×
+Unit bootlegging time at t − 3
+00459 ∗∗∗
+4001705
+Growth in bootlegging time a
+00803 ∗∗∗
+4000425
+−00511 ∗∗∗
+4001585
+−00868 ∗∗∗
+4001785
+−00031 ∗
+4000165 00777 ∗∗∗
+4000585
+−00560 ∗∗∗
+4001795
+−00938 ∗∗∗
+4001875
+−00086 ∗∗∗
+4000035 00812 ∗∗∗
+4000265
+−00548 ∗∗∗
+4001035
+−10173 ∗∗∗
+4003295
+00044 ∗∗∗
+4000135 00796 ∗∗∗
+4000215
+−00619 ∗∗∗
+4000685
+−10159 ∗∗∗
+4003325
+00038 ∗∗∗
+4000115 00805 ∗∗∗
+4000285
+−00675 ∗∗∗
+4001945
+−10232 ∗∗∗
+4003435
+00064
+4000505 00773 ∗∗∗
+4000225
+−00757 ∗∗∗
+4001605
+−10242 ∗∗∗
+4003565
+00050 ∗
+4000285 −00082 ∗∗∗
+4000155
+00812 ∗∗∗
+4000225
+−00536 ∗∗∗
+4001015
+−10160 ∗∗∗
+4003185
+00069 ∗∗∗
+4000085
+Managerial support 00504 ∗∗∗
+4001675 00488 ∗∗∗
+4001795 00614 ∗∗
+4002475 00590 ∗∗
+4002655 00618 ∗∗∗
+4002265 00610 ∗∗
+4002425 00607 ∗∗
+4002405
+Intrinsic motivation 00454 ∗
+4002325
+−00205
+4001475
+−00609 ∗∗∗
+4001145
+−00600 ∗∗∗
+4000065
+00029 ∗∗∗
+4000045
+00451 ∗∗∗
+4000485
+00464 ∗∗
+4001905
+10550 ∗∗∗
+4003205
+−00769 ∗∗∗
+4001645 00413 ∗
+4002335
+−00181
+4001395
+−00671 ∗∗∗
+4000895
+−00649 ∗∗∗
+4000135
+00031 ∗∗∗
+4000065
+00459 ∗∗∗
+4000485
+00479 ∗∗∗
+4001755
+10550 ∗∗∗
+4003505
+−00686 ∗∗∗
+4001835 00472 ∗
+4002495
+−00184
+4001885
+−00331 ∗∗∗
+4001185
+−00681 ∗∗∗
+4000465
+00048 ∗∗∗
+4000025
+00341 ∗∗∗
+4000245
+00485 ∗
+4002545
+10731 ∗∗∗
+4001915
+−00781 ∗∗∗
+4002455 00487 ∗∗
+4002385
+−00167
+4002355
+−00295 ∗∗
+4001415
+−00765 ∗∗∗
+4000195
+00041 ∗∗∗
+4000035
+00382 ∗∗∗
+4000455
+00618 ∗∗
+4002765
+10710 ∗∗∗
+4001925
+−00756 ∗∗∗
+4002195 00469 ∗
+4002545
+−00182
+4001995
+−00305 ∗∗∗
+4000885
+−00686 ∗∗∗
+4000635
+00045 ∗∗∗
+4000025
+00352 ∗∗∗
+4000175
+00622 ∗∗∗
+4002035
+10736 ∗∗∗
+4002185
+−00771 ∗∗∗
+4002305 00486 ∗∗
+4002475
+−00171
+4002425
+−00289 ∗∗∗
+4001115
+−00780 ∗∗∗
+4000245
+00041 ∗∗∗
+4000025
+00372 ∗∗∗
+4000725
+00785 ∗∗∗
+4002245
+10738 ∗∗∗
+4002065
+−00762 ∗∗∗
+4002125 00485 ∗∗
+4002465
+−00187
+4001965
+−00288 ∗∗
+4001295
+−00667 ∗∗∗
+4000455
+00047 ∗∗∗
+4000025
+00341 ∗∗∗
+4000315
+00488 ∗∗
+4002395
+10740 ∗∗∗
+4001915
+−0083 ∗∗∗
+4002535
+00210 00250 00260 00260 00270 00250
+Unit innovative performance a
+Unit bootlegging time at t − 3
+Grade
+Climate for innovation
+Extrinsic motivation
+Gender
+Long-term focus
+Tenure
+Established product line
+Headquarters
+Past innovation rating
+Constant
+McFadden pseudo-R 2
+0020
+Notes. Division and job function dummies are included. Robust standard errors for two-tailed tests are clustered by grade.
+a
+Standardized by subtracting the mean from the value and dividing by the standard deviation.
+∗
+Significant at 10%; ∗∗ significant at 5%; ∗∗∗ significant at 1%.
+results; the squared term of bootlegging activities was
+positive and significant, whereas the squared term of
+past bootlegging time was negative and significant at the
+10% level. In addition, we experimented by with repeat-
+edly removing single items from the bootlegging activi-
+ties scale and rerunning the analysis with these different
+item combinations. The results did not change, which
+suggests that our results are not dependent on a single
+item in the scale.
+In Model 4, we test Hypothesis 2, which states that the
+effect of time spent on underground research activities
+on innovative performance is amplified by the innovative
+performance of the R&D unit employing the individ-
+ual. Consistent with this hypothesis, Model 4 shows
+that the interaction term for the amount of time that
+an individual dedicated to bootlegging in 2007 and the
+innovative performance of the R&D site is positive and
+significant. Model 5 includes the interaction term for
+individual bootlegging time in 2007 and average boot-
+legging time of colleagues working in the same R&D
+unit. The interaction term is positive and significant, sug-
+gesting that the effect of bootlegging time is amplified
+if the individual works in an R&D unit with high lev-
+els of bootlegging. This supports Hypothesis 3. Model 6
+includes both interaction terms, and it supports both of
+our moderation hypotheses.
+To interpret these moderation effects, we plot them
+using the simulation-based procedure advocated byCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+Zelner (2009). Interaction terms are more difficult to
+analyze in nonlinear than in linear models because their
+direction and magnitude are a function of all the other
+variables in the model (Ai and Norton 2003). However,
+a graphical representation of the predicted probabili-
+ties is helpful. The method proposed by Zelner (2009)
+computes the predicted probabilities of receiving a high
+innovation rating at different levels of the moderated
+variable (bootlegging time at t − 3) for high and low
+values of the moderating variable (unit innovative per-
+formance and unit bootlegging time at t − 3), setting
+all the other control variables in the model to a given
+value. We derived these plots by setting the moderat-
+ing variables at two standard deviations below the mean
+(low value) and two standard deviations above the mean
+(high value), with all the remaining control variables as
+described in Endnote 3. In line with Hypothesis 2, Fig-
+ure 1 shows that, at high levels of unit-level performance
+(the solid line), an increase in past bootlegging time
+increases the likelihood of receiving a top innovation
+rating, whereas at low levels of unit innovative perfor-
+mance, an increase in bootlegging time in 2007 does not
+affect the chances of receiving a high innovation rating.
+Similarly, consistent with Hypothesis 3, Figure 2 shows
+that the benefits of bootlegging exist only for individuals
+working in units with high levels of bootlegging. 6
+Figure 1
+The Moderating Effect of Unit Innovative
+Performance on Bootlegging Time
+1.0
+The effect of a change in bootlegging time during a
+period of increased formalization of the front end of
+the innovation process is reported in Model 7. Support-
+ing the predictions in Hypothesis 4, the estimates from
+Model 7 suggest that, after controlling for bootlegging
+time in 2007, those individuals who increased the time
+spent on bootlegging activities are less likely to achieve
+a high innovation rating.
+Testing for Reverse Causality
+As suggested above, because of the cross-sectional
+nature of our data, there is a possibility that the results
+could be affected by endogeneity bias. Using past val-
+ues for innovation rating helps to address the problem
+of omitted variables bias but does not rule out reverse
+causality as another source of endogeneity. It might
+be that innovative performance determines bootlegging
+rather than vice versa because more successful individ-
+uals may have more autonomy and may have earned
+sufficient “credit” to engage in bootlegging activities.
+To address this, we carried out a Granger (1969) causal-
+ity test exploiting information on the time individuals
+reported spending on bootlegging activity in 2010 (boot-
+legging time t ) and 2007 (bootlegging time t−3 ) combined
+with information on innovation rating in 2010 (inno-
+vation rating t ), 2009 (innovation rating t−1 ), and 2008
+(innovation rating t−2 ):
+Bootlegging time t
+=  1 Bootlegging time t−3 +  2 Innovation rating t−1
++  3 Innovation rating t−2 + controls + 1
+0.8
+(1)
+Innovation rating t
+=  1 Bootlegging time t−3 +  2 Innovation rating t−1
+0.6
++  3 Innovation rating t−2 + controls + 0
+(2)
+0.4
+0.2
+Unit innovative performance: Low
+Unit innovative peformance: High
+0
+Bootlegging time at t – 3
+Figure 2
+The Moderating Effect of Unit Bootlegging on
+Bootlegging Time
+0.8
+1300
+Unit bootleg time: Low
+Unit bootleg time: High
+0.6
+0.4
+0.2
+0
+Bootlegging time at t – 3
+Since the coefficient of bootlegging time at t − 3 is sig-
+nificant in Equation (2) ( 1 = 001661 p = 0001), but the
+innovation rating at times t −1 and time t −2 are not sig-
+nificant in Equation (1) ( 2 = −10252 and  3 = −00401,
+respectively), we can conclude that bootlegging drives
+innovative performance, but not vice versa.
+Conclusions
+Our investigation of the nature and effect of individuals’
+bootlegging efforts on innovative performance high-
+lighted a practice in R&D that is often referred to but is
+rarely observed systematically. In describing bootlegging
+as an attempt by R&D scientists to gain higher levels
+of strategic autonomy through nonprogrammed, under-
+ground R&D efforts, we linked bootlegging to notions
+of proactive and deviant creativity, helping to extend our
+understanding of how individuals in large, mature orga-
+nizations break free of the constraints of accountability
+to generate innovations. Drawing on theories of proactive
+creativity and innovation, we explicated the mechanismsCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+that link a bootlegger’s efforts to innovative performance,
+suggesting that bootlegging enables individuals to gain
+both explorative advantage over colleagues and more
+time and space to nurture and substantiate embryonic
+ideas before organizational assessment.
+In addition, we suggested that the costs and benefits
+of bootlegging for innovation are contingent on the
+emphasis that the work environment places on norma-
+tive enforcement. The impact of individuals’ bootleg-
+ging efforts on innovative performance is heightened
+in the context of high unit innovative performance
+and the bootlegging efforts of their colleagues, set-
+tings where the achievement of goals prevails over the
+means by which they are achieved. In contrast, individ-
+uals who increase their bootlegging during periods of
+formalization—where a greater emphasis on conformity
+to rules signals that the opposite change of behavior
+is expected—cannot count on support and tolerance for
+their bootlegging behavior. Exploiting a major organiza-
+tional change in our studied organization toward greater
+formalization at the front end of the R&D process, we
+found that, despite the benefits that bootlegging might
+bring even during formalization periods, increasing the
+amount of time dedicated to underground research has
+a negative impact on individual innovation performance.
+We argued that increasing bootlegging, perhaps out of
+frustration over the proposed organizational change, can
+lead to a misalignment between the individual’s R&D
+efforts and corporate objectives, reducing the ability of
+the former to generate innovations that the organization
+can incorporate in its products and technologies.
+Implications for Theory
+Our study has important implications for our under-
+standing of creativity and innovation. First, it has been
+argued that the ability of individuals to be creative or
+innovative depends on the balance between the degree of
+autonomy allowed by their organizations and the extent
+to which their work is monitored and constrained by
+accountability practices (Burgelman 1983, Kanter 2000,
+Van de Ven 1986). Our study adds to this body of liter-
+ature: we found that what matters is not just the degree
+of strategic autonomy that organizations grant to their
+staff but also the degree to which individuals seek to
+increase their strategic autonomy, on their own initiative,
+in settings where it is constrained. We portrayed boot-
+legging as the means by which individuals create greater
+strategic autonomy in high-accountability settings and
+found that engaging in underground R&D efforts helps
+them to produce innovations for the organization. These
+results suggest that the autonomy–innovation relation-
+ship is shaped by the form of autonomy sought by indi-
+viduals, as stressed by Bailyn (1985), in addition to the
+autonomy that is formally granted.
+Second, our study unpacked the mechanisms that
+enable individuals to gain from bootlegging. Although
+1301
+the literature on bootlegging shows that it is an important
+form of bottom-up, nonprogrammed innovation effort
+(Abetti 1997; Aram 1973; Augsdörfer 1996, 2005), the
+mechanisms through which it stimulates innovation are
+mostly implicit. Building on March (1991, 2006), we
+posited that bootlegging might facilitate the exploration
+of new domains along unconventional paths that fall
+outside the remit of formal projects. Moreover, by pay-
+ing attention to the specific contextual features of R&D
+in large, mature organizations, we identified delayed
+assessment of embryonic ideas as an additional mecha-
+nism that links underground creative efforts to innova-
+tive performance. R&D workers can use bootlegging to
+postpone the monitoring and assessment of early-stage
+ideas until they are better developed. They may even
+reintroduce rejected ideas that they have continued to
+work on until the environment has become more con-
+ducive. By exploring these two mechanisms, we docu-
+mented the pathways through which bootlegging shapes
+innovative outcomes, and we helped to ground the con-
+cept of bootlegging as an important form of proactive,
+deviant creativity (Mainemelis 2010, Unsworth 2001).
+Third, we contributed to the literature on bootlegging,
+and on creative deviance more broadly, by demonstrating
+that the benefits of bootlegging are highly contingent on
+the work environment. Although bootlegging takes place
+underground and remains hidden from senior managers,
+it is unlikely to promote innovation in settings where
+behavioral norms and conformity to rules are rigidly
+enforced. Our theorizing and results suggest that an indi-
+vidual’s bootlegging efforts tend to be successful only
+in high performance work settings and in the presence
+of fellow bootleggers. In such environments, local man-
+agers and coworkers are more likely to provide support
+for bootleggers in their exploration of novel and uncon-
+ventional ideas and to provide guidance and understand-
+ing when these ideas eventually reach the surface of the
+organization. In the absence of these conditions, bootleg-
+ging will fail to result in innovative outcomes and should
+be regarded as a costly use of organizational resources.
+We also showed that, during periods of formalization,
+increasing the time dedicated to bootlegging has neg-
+ative effects on individual innovation performance and
+thus is considered a cost to the organization. This may
+be because individuals who increase their deviation from
+the formal work allocation system—during a period of
+greater formalization, where greater emphasis on rules
+and procedures prescribes the opposite behavior—risk
+not only misalignment between their innovation efforts
+and corporate innovation objectives but also alienation
+from colleagues and managers. In exploring these con-
+tingencies, we showed when and how proactive and
+deviant forms of creativity shape innovative outcomes
+and increased our understanding of how organizational
+change toward more formalization shapes the benefits
+and costs of proactive and deviant creativity for the
+individual.Criscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1302
+Implications for Practice
+Although bootlegging is an activity initiated by individ-
+ual scientists and engineers, by providing a work set-
+ting where accountability and conformity to rules and
+procedures are prioritized over autonomy, or vice versa,
+organizational decision makers have a major indirect
+influence over individuals’ ability to gain from their
+bootlegging behavior. Local managers can choose to tol-
+erate or condemn the bootlegging efforts of their staff.
+We believe our findings have important implications for
+managers and organizations.
+First, formal R&D management systems may help to
+promote alignment and improve selection, but these mon-
+itoring efforts may drive some R&D activities under-
+ground. Our study suggests that underground efforts,
+rather than undermining the goals and needs of the or-
+ganization, may produce significant innovations for the
+organization. We suggest that managers use monitor-
+ing mechanisms, such as R&D management, as a form
+of “soft power” to provide guidelines and incentives
+for alignment and coordination of creative efforts with-
+out invoking the organization’s “hard power” (i.e., the
+enforcement of norms through sanctions and punish-
+ment), which may crush independent initiative (Nye 2004).
+In this sense, R&D management should be seen as an
+enabling form of bureaucracy rather than a “clenched
+fist” that stops the deviant, creative efforts of individ-
+uals (Adler and Borys 1996). However, the notion that
+bootlegging has positive benefits for the achievement of
+innovation in organizations cannot be extended too far.
+Most of the individuals in our study engaged in rela-
+tively modest levels of bootlegging (on average, 14%
+of their time) and were able to combine this activity
+with their formal project work. All bootlegging efforts
+should eventually be integrated into the organization to
+ensure that the latent potential of employees’ ideas can
+be fully realized by the wider organization. Ultimately,
+senior management must decide whether it would be
+worthwhile to scale up these initiatives (Burgelman and
+Grove 2007).
+Second, although our focus was a high-accountability
+organization that provides no free time for its staff, our
+results can be related to the question of how organi-
+zations might nurture creative efforts by allowing such
+free time. Our study suggests that even in organizations
+where there is no explicit free time, unofficial R&D
+efforts are commonplace. An implication of this finding
+is that free-time programs may only legitimize some-
+thing that already occurs within organizations (Garud
+et al. 2011). Moreover, and somewhat paradoxically,
+by providing dedicated free time, organizations might
+reduce the allure of these hidden creative efforts since
+they are no longer forbidden. The critical question is to
+what extent the deviance of an act adds to its emotive
+and behavioral attraction (see Becker 1997): Does the
+forbidden nature of the “fruit” increase its sweetness?
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+Or, alternatively, is it the formally provided autonomy
+that counts, or is it the autonomy that individuals achieve
+informally through underground activities? It might be
+more productive for organizations to impose restrictions
+on the free time of would-be innovators in order to
+heighten its allure while tolerating the existence of boot-
+legging and enabling the integration of its outputs into
+the organization’s formal management processes. This
+approach might be less expensive in terms of managerial
+resources than organization-wide provision of unstruc-
+tured free time, but it could be just as productive.
+Limitations and Future Research
+Our study has several limitations that lead to questions
+for future research. First, because our study focuses on
+a single, high-accountability organization, we should be
+cautious about generalizing our results to other organi-
+zations. Although Neptune is a fairly diverse organiza-
+tion with many autonomous units, across sites there are
+few differences in its human resource practices. This
+means we cannot explore how different practices within
+and between firms might influence the relationship
+between bootlegging and innovation. Also, our single-
+organization setting means that we cannot compare the
+effectiveness of governance arrangements for encourag-
+ing the creative behavior of individuals, such as free-
+time models versus bootlegging. Similarly, we cannot
+compare the performance implications of a change in
+the time allocated to bootlegging between individuals
+experiencing or not experiencing the introduction of the
+formalization of the front end of the innovation process.
+That is, in our quasi-natural experiment, we lack a con-
+trol group to allow a counterfactual analysis, which lim-
+its our ability to provide an unambiguous demonstration
+of causation.
+Second, bootlegging is difficult to measure because
+it is a deviant form of behavior in that it takes place
+without organizational approval. We attempted to tailor
+our bootleg measures to the specific context of Neptune.
+Although this approach helps to ensure the context valid-
+ity of our measurement, it also limits applicability to
+other organizational settings. To try to elicit information
+from respondents on underground activity, we used mild
+terms, such as “unofficial projects,” since even in anony-
+mous surveys, individuals may underreport bootlegging.
+Other methods, such as in-depth observation, time logs,
+and detailed case studies, might provide a more detailed
+picture of the nature of underground efforts inside orga-
+nizations and the implications of these efforts for the
+organization’s ability to innovate. Future research could
+compare the innovation journey of bootlegged versus
+nonbootlegged projects inside organizations.
+Third, this study relied on a single measure of indi-
+vidual performance, innovation rating, which is sub-
+ject to important limitations. Although the innovation
+rating has benefits related to its face validity and
+applicability across job roles in Neptune, alternativeCriscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1303
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+measures of performance obtained from archival data,
+such as patent applications or invention disclosures,
+would have provided additional evidence on the impact
+of bootlegging on individuals’ abilities to innovate.
+However, in promising anonymity to try to obtain a
+more reliable measurement of bootlegging, we sacrificed
+the possibility of pairing our survey data with company
+records of performance at the individual level.
+Finally, our study focused on the bootlegging efforts
+of individuals and how these efforts shape their con-
+tribution to the organization’s innovative performance.
+This means we cannot comment directly on the impact
+of bootlegging for teams and units. We also cannot
+assess the impact of manager’s response to bootleg-
+ging. To obtain a better understanding of this activity,
+future research with a multilevel setup could examine
+more organized forms of bootlegging to investigate team
+and/or unit-level underground activities and how these
+efforts shape performance at each level. Similarly, a
+multilevel study could assess whether other unit-level
+characteristics in addition to those explored in this paper
+affect the ability of an individual to benefit from under-
+ground R&D efforts.
+By theorizing and measuring the impact of the under-
+ground efforts of individuals in R&D on innovation,
+this paper has shed new light on a perennial managerial
+challenge—the need to support creativity while simul-
+taneously ensuring that efforts are well managed and
+aligned with the organization’s goals and capabilities.
+It suggests a range of future research to provide a bet-
+ter understanding of how proactive and deviant creative
+efforts can support and sustain organizational renewal
+and development.
+Acknowledgments
+This article has greatly benefited from the guidance of Mary
+Benner and three anonymous reviewers. The authors grate-
+fully acknowledge the support of the Engineering and Physical
+Sciences Research Council [EP/F036930/1] and the Economic
+and Social Research Council [ES/K001159/1] and the sup-
+port of the UK Innovation Research Centre [RES/G028591/1],
+which is sponsored by the Economic and Social Research
+Council; the National Endowment for Science, Technology
+and the Arts; the Department for Business, Innovation and
+Skills; and the Technology Strategy Board. The authors also
+thank Peter Augsdörfer, Chiara Criscuolo, Keld Laursen,
+Boris Maciejovski, Namrata Malhotra, Lionel Nesta, Jonathan
+Pinto, Fergal Shortall, and Bruce Tether, and participants at
+the Academy of Management annual meeting, the DRUID
+Conference, the Tilburg Innovation Conference, and research
+seminars at Ludwig Maximilian University of Munich and
+the Science Policy Research Unit for their valuable feedback.
+The authors have contributed equally to this article.
+Endnotes
+1
+Responses to this survey have been used in other working
+papers (Salter et al. 2012, Ter Wal et al. 2011).
+2
+Although introducing lagged values of the dependent variable
+does not completely rule out endogeneity issues arising from
+omitted variables bias, in the absence of valid instruments,
+it should substantially mitigate this problem (Wooldridge
+2009). Because the inclusion of a lagged dependent variable
+as an explanatory variable might lead to autocorrelation in the
+error terms and thus to inconsistent estimates (Greene 2003),
+we used the innovation rating for two years prior to our sur-
+vey, which is not highly correlated with the current innovation
+rating (the phi-correlation coefficient between the current rat-
+ing and rating two years earlier is 35%). In addition, Monte
+Carlo simulations (Beck et al. 1998) show that the problem of
+autocorrelation of the error terms in this context is less severe
+in logit than in ordinary least squares models.
+3
+We use as a marker variable a self-developed three-item scale
+on environmental concern at work (Cronbach’s  = 0.62),
+which can be assumed to be unrelated to bootlegging activity
+and innovative performance.
+4
+To account for the error terms across our observations not
+being statistically independent, which arises from the unit
+innovation performance variable not varying among individu-
+als working in the same unit, we also estimated our weighted
+logit models clustering the errors by unit in addition to grade.
+We found that the moderation effect of unit innovative perfor-
+mance on past bootlegging time remains significant, with the
+same sign and comparable coefficient size.
+5
+To derive the magnitudes of the effects of bootlegging activ-
+ities and past bootlegging time, we set the past innovation
+rating to 1, unit innovative performance to 0.25, seniority level
+to 2, gender and long-term focus dummies to 0, and head-
+quarters and established product dummies to 1, leaving all the
+other control variables at their mean values.
+6
+In an additional analysis, we retested H2 and H3 moderating
+the unit-level variables with bootlegging activities instead of
+bootlegging time. The results are consistent with the findings
+reported for bootlegging time.
+References
+Abetti PA (1997) Underground innovation in Japan: The development
+of Toshiba’s word processor and laptop computer. Creativity
+Innovation Management 6(3):127–139.
+Adler PS, Borys B (1996) Two types of bureaucracy: Enabling and
+coercive. Admin. Sci. Quart. 41(1):61–89.
+Ai C, Norton EC (2003) Interaction terms in logit and probit models.
+Econom. Lett. 80(1):123–129.
+Amabile TM (1996) Creativity in Context: Update to the Social Psy-
+chology of Creativity (Westview Press, Boulder, CO).
+Amabile TM (2000) Stimulate creativity by fueling passion.
+Locke E, ed. Handbook of Principles of Organizational Behav-
+ior (Blackwell, Malden, MA), 331–341.
+Amabile TM, Gryskiewicz SS (1987) Creativity in the R&D Labora-
+tory (Center for Creative Leadership, Greensboro, NC).
+Antoncic B, Hisrich RD (2001) Intrapreneurship: Construct refine-
+ment and cross-cultural validation. J. Bus. Venturing 16(5):
+495–527.
+Aram JD (1973) Innovation via the R&D underground. Res. Manage-
+ment 16(November):24–26.
+Armstrong JS, Overton TS (1977) Estimating nonresponse bias in
+mail surveys. J. Marketing Res. 14(3):396–402.
+Arvey RD, Murphy KR (1998) Performance evaluation in work set-
+tings. Annual Rev. Psych. 49(1):141–168.
+Augsdörfer P (1996) Forbidden Fruit: An Analysis of Bootleg-
+ging, Uncertainty, and Learning in Corporate R&D (Avebury,
+Aldershot, UK).Criscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1304
+Augsdörfer P (2005) Bootlegging and path dependency. Res. Policy
+34(1):1–11.
+Bailyn L (1985) Autonomy in the industrial R&D lab. Human
+Resource Management 24(2):129–146.
+Beck N, Katz JN, Tucker R (1998) Taking time seriously: Time-
+series–cross-section analysis with a binary dependent variable.
+Amer. J. Political Sci. 42(4):1260–1288.
+Becker HS (1997) Outsiders: Studies in the Sociology of Deviance
+(Free Press, New York).
+Benner MJ, Tushman M (2002) Process management and technolog-
+ical innovation: A longitudinal study of the photography and
+paint industries. Admin. Sci. Quart. 47(4):676–706.
+Bercovitz J, Feldman M (2008) Academic entrepreneurs: Organiza-
+tional change at the individual level. Organ. Sci. 19(1):69–89.
+Burgelman RA (1983) A process model of internal corporate ven-
+turing in the diversified major firm. Admin. Sci. Quart. 28(2):
+223–244.
+Burgelman RA, Grove AS (2007) Let chaos reign, then rein in
+chaos—repeatedly: Managing strategic dynamics for corporate
+longevity. Strategic Management J. 28(10):965–979.
+Burgelman RA, Sayles LR (1986) Inside Corporate Innovation: Strat-
+egy, Structure, and Managerial Skills (Free Press, New York).
+Burns T, Stalker GM (1961) The Management of Innovation (Oxford
+University Press, Oxford, UK).
+Cheng Y-T, Van de Ven AH (1996) Learning the innovation journey:
+Order out of chaos? Organ. Sci. 7(6):593–614.
+Cooper RG (1990) Stage-gate systems: A new tool for managing new
+products. Bus. Horizons 33(3):44–54.
+Cooper RG, Edgett SJ (2009) Generating Breakthrough New Prod-
+uct Ideas: Feeding the Innovation Funnel (Product Development
+Institute, Ancaster, ON, Canada).
+Cyert RM, March JG (1963) A Behavioral Theory of the Firm
+(Prentice-Hall, Englewood Cliffs, NJ).
+Dahlin K, Taylor M, Fichman M (2004) Today’s Edisons or weekend
+hobbyists: Technical merit and success of inventions by inde-
+pendent inventors. Res. Policy 33(8):1167–1183.
+DiTomaso N, Post C, Smith DR, Farris GF, Cordero R (2007) Effects
+of structural position on allocation and evaluation decisions for
+scientists and engineers in industrial R&D. Admin. Sci. Quart.
+52(2):175–207.
+Dougherty D (1992) Interpretive barriers to successful product inno-
+vation in large firms. Organ. Sci. 3(2):179–202.
+Feldman DC (1984) The development and enforcement of group
+norms. Acad. Management Rev. 9(1):47–53.
+Ford JD, Ford LW, D’Amelio A (2008) Resistance to change: The
+rest of the story. Acad. Management Rev. 33(2):362–377.
+Frese M, Kring W, Soose A, Zempel J (1996) Personal initiative at
+work: Differences between East and West Germany. Acad. Man-
+agement J. 39(1):37–63.
+Garud R, Gehman J, Kumaraswamy A (2011) Complexity arrange-
+ments for sustained innovation: Lessons from 3M Corporation.
+Organ. Stud. 32(6):737–767.
+Granger CWJ (1969) Investigating causal relations by economet-
+ric models and cross-spectral methods. Econometrica 37(3):
+424–438.
+Greene CN (1978) Identification modes of professionals: Relationship
+with formalization, role strain, and alienation. Acad. Manage-
+ment J. 21(3):486–492.
+Greene WH (2003) Econometric Analysis, 5th ed. (Prentice-Hall,
+Englewood Cliffs, NJ).
+Greenhaus JH, Parasuraman S, Wormley WM (1990) Effects of race
+on organizational experiences, job performance evaluations, and
+career outcomes. Acad. Management J. 33(1):64–86.
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+Greenwood R, Hinings CR (1996) Understanding radical organiza-
+tional change: Bringing together the old and the new institution-
+alism. Acad. Management Rev. 21(4):1022–1054.
+Griffin A, Hauser JR (1996) Integrating R&D and marketing:
+A review and analysis of the literature. J. Product Innovation
+Management 13(3):191–215.
+Gundling E, Porras JI (2000) The 3M Way to Innovation: Balancing
+People and Profit (Kodansha International, New York).
+Hannah DR (2005) Should I keep a secret? The effects of trade secret
+protection procedures on employees’ obligations to protect trade
+secrets. Organ. Sci. 16(1):71–84.
+Iyer B, Davenport TH (2008) Reverse engineering Google’s innova-
+tion machine. Harvard Bus. Rev. 86(4):58–68.
+Jansen JJP, Van Den Bosch FAJ, Volberda HW (2006) Exploratory
+innovation, exploitative innovation, and performance: Effects of
+organizational antecedents and environmental moderators. Man-
+agement Sci. 52(11):1661–1674.
+Kanter RM (2000) When a thousand flowers bloom: Structural, col-
+lective, and social conditions for innovation in organization.
+Swedberg R, ed. Entrepreneurship: The Social Science View
+(Oxford University Press, Oxford, UK), 167–210.
+Knight KE (1967) A descriptive model of the intra-firm innovation
+process. J. Bus. 40(4):478–496.
+Knudsen T, Levinthal DA (2007) Two faces of search: Alternative
+generation and alternative evaluation. Organ. Sci. 18(1):39–54.
+Koch R, Leitner KH (2008) The dynamics and functions of self-
+organization in the fuzzy front end: Empirical evidence from the
+Austrian semiconductor industry. Creativity Innovation Manage-
+ment 17(3):216–226.
+Lawrence TB, Robinson SL (2007) Ain’t misbehavin: Workplace
+deviance as organizational resistance. J. Management 33(3):
+378–394.
+Levinthal D, March JG (1981) A model of adaptive organizational
+search. J. Econom. Behav. Organ. 2(4):307–333.
+Lindell MK, Whitney DJ (2001) Accounting for common method
+variance in cross-sectional research designs. J. Appl. Psych.
+86(1):114–121.
+Mainemelis C (2010) Stealing fire: Creative deviance in the evolution
+of new ideas. Acad. Management Rev. 35(4):558–578.
+March JG (1991) Exploration and exploitation in organizational learn-
+ing. Organ. Sci. 2(1):71–87.
+March JG (2006) Rationality, foolishness, and adaptive intelligence.
+Strategic Management J. 27(3):201–214.
+Masoudnia Y, Szwejczewski M (2012) Bootlegging in the R&D
+departments of high-technology firms. Res.-Tech. Management
+55(5):35–42.
+Mehra A, Kilduff M, Brass DJ (2001) The social networks of high
+and low self-monitors: Implications for workplace performance.
+Admin. Sci. Quart. 46(1):121–146.
+Merton RK (1968) Social Theory and Social Structure (Free Press,
+New York).
+Miner AS (1994) Seeking adaptive advantage: Evolutionary theory
+and managerial action. Baum JAC, Singh JV, eds. Evolutionary
+Dynamics of Organizations (Oxford University Press, Oxford,
+UK), 76–89.
+Mom TJM, van Den Bosch FAJ, Volberda HW (2009) Understanding
+variation in managers’ ambidexterity: Investigating direct and
+interaction effects of formal structural and personal coordination
+mechanisms. Organ. Sci. 20(4):812–828.
+Mowery DC (2009) Plus ca change: Industrial R&D in the “third
+industrial revolution.” Indust. Corporate Change 18(1):1–50.
+Nelson RR, Winter SG (1977) In search of useful theory of innova-
+tion. Res. Policy 6(1):36–76.Criscuolo, Salter, and Ter Wal: Bootlegging and Individual Innovative Performance
+1305
+Organization Science 25(5), pp. 1287–1305, © 2014 INFORMS
+Nye JS Jr (2004) Soft Power: The Means to Success in World Politics
+(PublicAffairs, New York).
+O’Connor GC, DeMartino R (2006) Organizing for radical inno-
+vation: An exploratory study of the structural aspects of RI
+management systems in large established firms. J. Product Inno-
+vation Management 23(6):475–497.
+O’Connor GC, McDermott CM (2004) The human side of radical
+innovation. J. Engrg. Tech. Management 21(1–2):11–30.
+Oldham GR, Cummings A (1996) Employee creativity: Personal and
+contextual factors at work. Acad. Management J. 39(3):607–634.
+Pelz DC, Andrews FM (1966) Autonomy, coordination, and stimu-
+lation in relation to scientific achievement. Behav. Sci. 11(2):
+89–97.
+Podsakoff PM, MacKenzie SB, Lee J-Y, Podsakoff NP (2003) Com-
+mon method biases in behavioral research: A critical review of
+the literature and recommended remedies. J. Appl. Psych. 88(5):
+879–903.
+Reid SE, De Brentani U (2004) The fuzzy front end of new product
+development for discontinuous innovations: A theoretical model.
+J. Product Innovation Management 21(3):170–184.
+Rynes SL, Gerhart B, Minette KA (2004) The importance of pay
+in employee motivation: Discrepancies between what people
+say and what they do. Human Resource Management 43(4):
+381–394.
+Salter A, Criscuolo P, Ter Wal ALJ, Alexy O (2012) Open for
+ideation: Individual-level openness and idea generation in R&D.
+Paper presented at the DRUID Summer Conference, June 19–21,
+Copenhagen Business School, Copenhagen, Denmark.
+Sarin S, Mahajan V (2001) The effect of reward structures on the
+performance of cross-functional product development teams.
+J. Marketing 65(2):35–53.
+Schilling MA (2010) Strategic Management of Technological Innova-
+tion, 3rd ed. (McGraw-Hill Education, New York).
+Scott SG, Bruce RA (1994) Determinants of innovative behavior:
+A path model of individual innovation in the workplace. Acad.
+Management J. 37(3):580–607.
+Sharma A (1999) Central dilemmas of managing innovation in large
+firms. Calif. Management Rev. 41(3):146–164.
+Smith SM (2003) The constraining effects of initiation ideas. Paulus
+PB, Nijstad BA, eds. Group Creativity: Innovation Through Col-
+laboration (Oxford University Press, New York), 15–31.
+Ter Wal ALJ, Criscuolo P, Salter A (2011) The craft of open-
+ness: Absorptive capacity at the individual level and innovation.
+Paper presented at the DRUID Summer Conference, June 15–17,
+Copenhagen Business School, Copenhagen, Denmark.
+Tierney P, Farmer SM, Graen GB (2006) An examination of leader-
+ship and employee creativity: The relevance of traits and rela-
+tionships. Personnel Psych. 52(3):591–620.
+Tushman ML, O’Reilly CA III (1996) Ambidextrous organizations:
+Managing evolutionary and revolutionary change. Calif. Man-
+agement Rev. 38(4):8–30.
+Umphress EE, Bingham JB (2011) When employees do bad things for
+good reasons: Examining unethical pro-organizational behav-
+iors. Organ. Sci. 22(3):621–640.
+Unsworth K (2001) Unpacking creativity. Acad. Management Rev.
+26(2):289–297.
+Van de Ven AH (1986) Central problems in the management of inno-
+vation. Management Sci. 32(5):590–607.
+Voss GB, Sirdeshmukh D, Voss ZG (2008) The effects of slack
+resources and environmental threat on product exploration and
+exploitation. Acad. Management J. 51(1):147–164.
+Warren DE (2003) Constructive and destructive deviance in organiza-
+tions. Acad. Management Rev. 28(4):622–632.
+West MA, Farr JL (1990) Innovation and Creativity at Work: Psy-
+chological and Organizational Strategies (John Wiley & Sons,
+Chichester, UK).
+Whelan-Berry KS, Gordon JR, Hinings CR (2003) Strengthening
+organizational change processes: Recommendations and impli-
+cations from a multilevel analysis. J. Appl. Behav. Sci. 39(2):
+186–207.
+Wooldridge JM (2009) Introductory Econometrics: A Modern
+Approach, 4th ed. (South-Western, Mason, OH).
+Zelner BA (2009) Using simulation to interpret results from logit,
+probit, and other nonlinear models. Strategic Management J.
+30(12):1335–1348.
+Paola Criscuolo is an assistant professor of Innova-
+tion Management at Imperial College Business School. She
+received her Ph.D. in the economics of innovation and techno-
+logical change from Maastricht University. Her research inter-
+ests include knowledge transfer and innovation at the firm and
+individual levels.
+Ammon Salter is a professor of innovation at the School
+of Management, University of Bath. He also serves as the
+research director of the UK Innovation Research Centre.
+He received his doctorate from the Science Policy Research
+Unit at the University of Sussex. His research explores open
+and distributed models of innovation, social networks and
+innovation, and university–industry collaboration.
+Anne L. J. Ter Wal is an assistant professor of innovation
+and entrepreneurship at Imperial College Business School in
+London. He received his Ph.D. in economic geography from
+Utrecht University in the Netherlands. Most of his research
+focuses on the role of social networks in innovation, with
+a particular emphasis on networks in geographical clusters,
+and networks of scientists and engineers within and between
+companies.
+This work is licensed under a Creative Commons Attribution 3.0 United States
+License. You are free to copy, distribute, transmit and adapt this work, but you
+must attribute this work as “Organization Science. Copyright 2014 INFORMS.
+http://dx.doi.org/10.1287/orsc.2013.0856, used under a Creative Commons
+Attribution License: http://creativecommons.org/licenses/by/3.0/us/.”

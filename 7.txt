@@ -1,0 +1,2434 @@
+Humble Chief
+Executive Officers’
+Connections to Top
+Management Team
+Integration and Middle
+Managers’ Responses
+Administrative Science Quarterly
+59 (1)34–72
+Ó The Author(s) 2014
+Reprints and permissions:
+sagepub.com/
+journalsPermissions.nav
+DOI: 10.1177/0001839213520131
+asq.sagepub.com
+Amy Y. Ou, 1 Anne S. Tsui, 2 Angelo J. Kinicki, 3
+David A. Waldman, 3 Zhixing Xiao, 4 and
+Lynda Jiwen Song 5
+Abstract
+In this article, we examine the concept of humility among chief executive offi-
+cers (CEOs) and the process through which it is connected to integration in the
+top management team (TMT) and middle managers’ responses. We develop
+and validate a comprehensive measure of humility using multiple samples and
+then test a multilevel model of how CEOs’ humility links to the processes of
+top and middle managers. Our methodology involves survey data gathered
+twice from 328 TMT members and 645 middle managers in 63 private compa-
+nies in China. We find CEO humility to be positively associated with empower-
+ing leadership behaviors, which in turn correlates with TMT integration. TMT
+integration then positively relates to middle managers’ perception of having an
+empowering organizational climate, which is then associated with their work
+engagement, affective commitment, and job performance. Findings confirm
+our hypotheses based on social information processing theory: humble CEOs
+connect to top and middle managers through collective perceptions of empow-
+erment at both levels. Qualitative data from interviews with 51 CEOs provide
+additional insight into the meaning of humility among CEOs and differences
+between those with high and low humility.
+Keywords: CEO humility, top management team integration, empowerment,
+middle managers
+1
+NUS Business School, National University of Singapore
+W. P. Carey School of Business, Arizona State University and Guanghua School of Management,
+Peking University
+3
+W. P. Carey School of Business, Arizona State University
+4
+China Research Institute, George Washington University
+5
+School of Business, Renmin University of China
+2Ou et al.
+35
+Upper echelon theorists have proposed and observed that CEOs’ characteris-
+tics significantly and broadly affect organizations (Finkelstein, Hambrick, and
+Cannella, 2009). For example, self-aggrandizing CEOs tend to make riskier
+investments (Malmendier and Tate, 2005), pay higher premiums for acquisi-
+tions (Hayward and Hambrick, 1997), pursue more dynamic and grandiose stra-
+tegies, and create fluctuating organizational performance (Chatterjee and
+Hambrick, 2007). These effects are often channeled through CEOs’ uncon-
+strained exercise of power (House and Aditya, 1997), suggesting that a CEO’s
+high self-regard can be potentially detrimental to organizations. Alternatively,
+scholars have suggested that leaders should drop airs of omniscience and
+authority, avoid communicating in monologues (Drucker, 1992; Weick, 2001),
+and learn along with others, or ‘‘make up for their missing skills by relying on
+others’’ (Ancona et al., 2007: 92). These characteristics are often recognized as
+typical manifestations of humility.
+Humility has become a fast-growing research topic in psychology and man-
+agement despite being mistakenly viewed as low self-esteem in the 1980s
+(Weiss and Knight, 1980). Tangney (2002) systematically reviewed the con-
+struct in theological, philosophical, and psychological literatures, summarized
+positive elements embedded in humility, and differentiated it from other related
+constructs such as modesty and narcissism. Psychologists have developed var-
+ious measures and tested the positive implications of humility (Exline and
+Geyer, 2004; Peterson and Seligman, 2004; Rowatt et al., 2006; Davis et al.,
+2011). Empirical studies on humility have surged since Lee and Ashton (2004)
+expanded the classic Big-Five Personality Inventory to the Big-Six HEXACO
+Inventory, which included a dimension labeled honesty-humility. Management
+research on humility has shown similar momentum. Collins (2001) conducted
+case studies on the humility of CEOs who managed high-performing organiza-
+tions, and Vera and Rodriquez-Lopez (2004) and Morris, Brotheridge, and
+Urbanski (2005) laid solid theoretical foundations for humility in management
+and leadership. Humility has been conceptually associated with virtuous, moral,
+ethical, participative, empowering, and servant leadership (Guillén and
+González, 2001; Morris, Brotheridge, and Urbanski, 2005; Hackett and Wang,
+2012). Most recently, Owens and colleagues (Owens and Hekman, 2012;
+Owens, Johnson, and Mitchell, 2013) developed a behavioral measure of humi-
+lity and conducted rigorous empirical studies on humble leaders.
+Despite theoretical discussions (Vera and Rodriguez-Lopez, 2004; Morris,
+Brotheridge, and Urbanski, 2005), case studies (Collins, 2001; Hayes and
+Comer, 2010), and qualitative interviews (Owens and Hekman, 2012) on hum-
+ble CEOs, current research has still fallen short in providing empirical informa-
+tion on the nature and effects of humble CEOs in two ways. First, working
+definitions and, correspondingly, measures of humility have not fully captured
+coherent dimensions of humility. Various definitions include a wide range of
+dimensions (from three to thirteen) (Vera and Rodriguez-Lopez, 2004; Owens,
+Johnson, and Mitchell, 2013), without clear theoretical justifications for which
+dimensions belong to its core content domain versus which ones are simply
+correlates of humility. For example, some definitions include dimensions such
+as frugality (Vera and Rodriguez-Lopez, 2004), sincerity, or fairness (Lee and
+Ashton, 2004) that seem to lack face validity (Davis, Worthington, and Hook,
+2010). Relatedly, some leadership researchers regard humility as a trait (e.g.,
+Morris, Brotheridge, and Urbanski, 2005), while others treat it as a component36
+Administrative Science Quarterly 59 (2014)
+of leadership undifferentiated from leader behaviors (e.g., Level 5 Leadership,
+Collins, 2001; spiritual leadership, Fry, 2003; servant leadership, van
+Dierendonck and Nuijten, 2011).
+Moreover, most operational measures of humility focus on behavioral mani-
+festations (Ashton and Lee, 2005; van Dierendonck, 2011; Owens, Johnson,
+and Mitchell, 2013), neglecting the construct’s cognitive and motivational com-
+ponents (Tangney, 2002; Peterson and Seligman, 2004; Morris, Brotheridge,
+and Urbanski, 2005). These limitations in existing work may substantially con-
+strain the potential contribution of humility research to the upper echelon litera-
+ture, because CEOs’ behaviors and decisions usually result from complex
+processes of information collection, filtering, interpretation, and evaluation of
+alternatives that necessarily involve cognitive and motivational functioning
+(Finkelstein, Hambrick, and Cannella, 2009). Hence our first objective here is to
+provide a theory-based, comprehensive definition and develop a reliable and
+valid measure of CEO humility based on that definition.
+Second, past research does not clarify the mechanisms by which CEOs’
+humility cascades downward across organizational levels. Theories of indirect
+leadership (Yammarino, 1994; Waldman and Yammarino, 1999) suggest that
+CEOs can influence distant followers through cascading leadership behaviors
+or through direct interaction, bypassing the intermediate leaders. But such the-
+ories may not be capable of fully revealing the potential effects of humble
+CEOs, who are often described as quiet, reserved, and understated (Collins,
+2001), and they might avoid the type of high visibility that would be noticed by
+distant followers. Nor is the upper echelon theory informative for understanding
+the nature of the effects of humble CEOs. Hambrick (2005: 122) lamented that
+his biggest disappointment with the upper echelon theory was the lack of
+research ‘‘directly examining the psychological and social processes that stand
+between executive characteristics on the one hand and executive behavior on
+the other.’’ Scholars suggest that a multilevel theory is needed to describe how
+CEOs’ characteristics and behaviors, such as humility, may affect performance
+across organizational levels (Cannella and Holcomb, 2005; Yukl, 2008).
+Therefore our second objective is to examine how CEO humility is experienced
+across hierarchical levels, focusing on the connection of CEO humility across
+two subordinate levels immediately below the CEO as a foundation for the
+future assessment of the effects of CEO humility across organizational levels.
+We build on the premises of social information processing theory (Salancik and
+Pfeffer, 1978) to model CEO humility’s cascading effects down the hierarchy.
+CEOs, as a salient source of contextual information, shape the collective per-
+ceptions of the top management teams (TMT) and through them, the percep-
+tions and reactions of middle managers.
+We tested our model using a sample of 63 local, private companies in China.
+Though our research model is not intended to be China-specific, China’s eco-
+nomic, geographic, and cultural aspects make it an appropriate setting to test
+the model (Tsui and Lau, 2002). Although traditional values continue to influ-
+ence Chinese people, China’s fast-changing economy and active interactions
+with the rest of world (Alon et al., 2011) impose challenges to traditional values
+and also infuse foreign values into the society, resulting in pluralistic cultural
+norms. China has a huge landmass with many regions embracing their own
+subcultures. In addition, Chinese culture imposes various expectations on lead-
+ers. High power distance suggests that leaders should have authority overOu et al.
+37
+subordinates and thus should show less humility. Conversely, Confucianism
+and Daoism, still strong in China (Pan, Rowney, and Peterson, 2012), teach
+leaders to be self-deprecating and lead without overtly appearing to lead (Tsui
+et al., 2004; Fu et al., 2010). Finally, CEOs usually have past work experience in
+various organizations, such as government, foreign, state-owned, or local pri-
+vate companies, which require different leadership characteristics. Therefore
+we expect sufficient variance in CEO humility in this context.
+CEO HUMILITY AND ITS CONNECTIONS TO TOP AND MIDDLE
+MANAGERS
+The Concept of Humility
+Humility has rich theological and philosophical roots (Templeton, 1997;
+Grenberg, 2005) and is a relatively stable trait that is grounded in a self-view
+that something greater than the self exists (Morris, Brotheridge, and Urbanski,
+2005). In essence, humble people accept that they are not the center of the
+universe (Templeton, 1997). They recognize their insignificance in comparison
+with (1) moral laws (Grenberg, 2005), (2) universal truths or superior powers
+(Morris, Brotheridge, and Urbanski, 2005), (3) responsibilities for others
+(Peterson and Seligman, 2004), or (4) the larger collective or community
+(Tangney, 2002).
+Recent conceptualization and measurement work on humility in psychology
+and management (e.g., Ashton and Lee, 2005; Owens, Johnson, and Mitchell,
+2013) has not addressed humility’s cognitive foundation, however, nor has it
+provided a theoretical framework to integrate the dimensions of humility.
+Furthermore, leadership approaches such as servant leadership (van
+Dierendonck and Nuijten, 2011), spiritual leadership (Fry, 2003), and Level 5
+Leadership (Collins, 2001) include humility in their definitions of leadership. But
+they focus only on limited aspects of humility and fail to distinguish humility as
+a personal characteristic of the leader from leadership behaviors. Others regard
+humility as a personal trait associated with leadership behaviors (e.g., Morris,
+Brotheridge, and Urbanski, 2005; Hackett and Wang, 2012). The distinction is
+important because leaders’ traits and leadership behaviors are not isomorphic;
+they account for significant, independent criterion variance (DeRue et al.,
+2011). Online Appendix A (http://asq.sagepub.com/supplemental) shows a
+sample of humility conceptualizations in psychology and leadership studies,
+revealing their divergent and inconsistent treatment of the construct.
+Given that humility is essentially a self-based trait (Tangney, 2002; Peterson
+and Seligman, 2004), we adopt Baumeister’s (1998) self-experience framework
+to define the content domain of humility. The framework suggests that individ-
+uals experience who they are through (1) reflexive consciousness, or under-
+standing the self in relation to the world, (2) interpersonal being, or appreciating
+the self in relation to others, and (3) executive function, or experiencing the self
+by what the individual does. These three categories form a comprehensive and
+coherent domain of self-experiences, and there are cogent reasons why the
+content domain of humility should include them all.
+First, humble people, in their experience of reflexive consciousness, are will-
+ing to seek accurate self-knowledge and are open to feedback (Tangney, 2002;
+Peterson and Seligman, 2004). By recognizing something greater than the self,38
+Administrative Science Quarterly 59 (2014)
+humble people accept their imperfections (Templeton, 1997). Such self-
+acceptance, however, does not imply self-abasement or self-degradation. To
+the contrary, humble people are fully aware of their talents and abilities.
+Knowing their limitations helps them put their strengths in perspective
+(Tangney, 2002), allowing them to avoid arrogance or self-contempt. Self-
+acceptance allows them to willingly disclose themselves, admit their limitations
+or mistakes, and actively seek feedback. Thus, through reflective conscious-
+ness, humility is associated with open-mindedness and willingness to learn
+from others (Templeton, 1997).
+Second, in their experience of interpersonal being, humble people appreciate
+others as being like themselves, with strengths and weaknesses. As Newman
+(1982: 283) pointed out, humility ‘‘requires a severe appraisal of oneself com-
+bined with a reasonably generous appraisal of others.’’ Humble people appreci-
+ate others’ positive worth, strengths, and contributions (Morris, Brotheridge,
+and Urbanski, 2005). Such appreciation is grounded in the understanding of
+their own strengths and thus generates no need for entitlement or dominance
+over others (Peterson and Seligman, 2004).
+Third, in their experience of executive functions, humble people are less
+self-focused and more engaged in self-transcendent pursuits. Humility is
+regarded as a virtue leading to growth (Owens and Hekman, 2012) and self-
+realization (Newman, 1982). Being aware of something greater than the self,
+humble people understand that they fall short of a standard that they are striv-
+ing to reach. Their life pursuits are less about themselves than about the larger
+community, the greater whole, moral principles, or ultimate universal truth
+(Grenberg, 2005; Morris, Brotheridge, and Urbanski, 2005), causing them to for-
+get the self (Tangney, 2002). Self-transcendence protects them from excessive
+ego and pursuits of materialism or excessive luxury (Peterson and Seligman,
+2004).
+Overall, humility is grounded in a self-view of accepting that something is
+greater than the self and manifests in self-awareness, openness to feedback,
+appreciation of others, low self-focus, and self-transcendent pursuit. Those six
+dimensions form a coherent domain of humility with the transcendent self-view
+as the cognitive core and low self-focus and self-transcendent pursuit as deep-
+level motivations. Both cognition and motivation drive behavioral manifestations
+of self-awareness, openness to feedback, and appreciation of others. Although
+individuals may exhibit humble behaviors without incorporating a transcendent
+self-view, such behaviors may be inauthentic or inconsistent over time.
+Defining humility from a self-experience framework also distinguishes it
+from other related constructs such as narcissism and modesty. Narcissism
+may appear to be an antonym of humility because it predominantly features a
+strong desire for self-focus, attention, or continuous self-affirmation (Chatterjee
+and Hambrick, 2007) and may relate negatively to humility’s low self-focus. But
+humility encompasses other facets such as openness to feedback, appreciation
+of others, self-transcendent pursuits, and a transcendent self-concept, all of
+which do not conceptually overlap with narcissism’s definition or behavioral
+manifestations. Modesty is a moderate, non-boastful self-presentation (Tice
+et al., 1995). Although humility should positively relate to modesty, the latter is
+more about self-presentation and less about fundamental self-views (Peterson
+and Seligman, 2004).Ou et al.
+39
+How Humble CEOs Connect to Top and Middle Managers
+With transcendent self-views and desires to approach something greater than
+themselves, humble CEOs are likely to embrace a collective organizational
+vision that is oriented toward the greater good, rather than a vision of personal
+glory (House and Aditya, 1997). Understanding that they are limited in reaching
+their self-transcendent visions while appreciating others’ strengths, humble
+CEOs are most willing to fully realize everyone’s unique potential and to
+empower others (Drucker, 1992). Empowerment across various hierarchical
+levels and different departments, however, requires shared understandings of
+organizational contexts that, if lacking, can cause overall coordination redundan-
+cies, cannibalization, or failures to synchronize and sequence actions (Lanaj
+et al., 2013). Social information processing theory (Salancik and Pfeffer, 1978)
+suggests that information from other people influences individuals’ attitudes
+and behaviors. We thus focus on leaders’ roles as managers of shared meaning
+(Smircich and Morgan, 1982) and architects of organizational culture (Schein,
+2010) and propose that the essence of humble CEOs’ influence is likely to be
+the process by which their behaviors create shared understandings about val-
+ues, norms, and expectations within their organizations.
+Humble CEOs may develop shared perceptions of integration among TMT
+members who, in turn, can foster a collective perception of an empowering
+organizational climate among middle managers. TMT integration refers to
+members’ willingness to collaborate, share information, make joint decisions,
+and develop a shared vision, all of which are critical for coordinating actions
+among TMT members (Hambrick, 1994) and for improving the quality of strate-
+gic decisions (Carmeli and Schaubroeck, 2006). Earlier work used the term stra-
+tegic consensus (Dess, 1987) to refer to agreements among TMT members
+and used social integration (Smith et al., 1994) or behavioral integration
+(Simsek et al., 2005) to emphasize the social (collaborative behavior) and task
+(information sharing and joint decision-making) aspects of integration. As
+shared understanding is an important cognitive aspect of integration, we use
+the term shared vision to capture shared understanding: ‘‘. . . a common men-
+tal model of the future state of the team or its tasks that provides the basis for
+action within the team’’ (Pearce and Ensley, 2004: 260–261). Shared vision is a
+part of integration because it creates a sense of shared fate, motivating team
+members to collaborate and share information, and it also unites divergent per-
+spectives and reduces destructive relational conflicts that impede joint decision
+making (Tsai and Ghoshal, 1998).
+Previous research reveals that CEOs can affect lower-level employees
+through various mechanisms such as leadership, management practices,
+resource allocation, or organizational culture (Yukl, 2008; Finkelstein, Hambrick,
+and Cannella, 2009; Schein, 2010). Building on these findings, we focus on the
+effects of humble CEOs on TMT integration as the focal mediating mechanism.
+Their low self-focus may make them less visible to middle managers, and their
+appreciation of others may motivate them to delegate to the TMT, thereby
+influencing lower levels. Therefore, their effects on middle managers would be
+through shaping the meaning construction of TMT members who, in turn, build
+an empowering organizational climate below the TMT level.
+An empowering organizational climate represents middle managers’ shared
+perceptions about how extensively organizational practices, policies,40
+Administrative Science Quarterly 59 (2014)
+procedures, and routines allow information sharing, autonomy, and team-
+based self-management (Blanchard, Carlos, and Randolph, 1995)—the contex-
+tual conditions that enable empowerment in the workplace (Spreitzer, 2008).
+Empowering organizational climate relates to, but is distinct from, psychological
+empowerment, which involves individuals’ perceptions of meaning, compe-
+tence, self-determination, and impact in their work roles (Spreitzer, 1995),
+their psychological experience about the nature of the work itself.
+An empowering climate fulfills needs for competence and autonomy and
+stimulates intrinsic motivation to perform well (Spreitzer, 2008). Middle manag-
+ers’ shared perceptions of an organizational empowering climate shape their
+attitudes and behaviors (Salancik and Pfeffer, 1978). First, they may respond
+with work engagement, a work-related state of mind characterized by vigor,
+dedication, and absorption (Schaufeli, Bakker, and Salanova, 2006). A second
+response is affective commitment, or emotional attachment to the organization
+(Meyer, Allen, and Smith, 1993). Third, they may respond with enhanced job
+performance and task completion (Tsui et al., 1997). Together, work engage-
+ment elevates middle managers’ psychological well-being; affective commit-
+ment enables organizations to keep loyal talent; and their enhanced job
+performance contributes to strategy implementation. These three responses
+reflect a comprehensive assessment of attitudes and behaviors that potentially
+contribute to individual and organizational effectiveness (Harter, Schmidt, and
+Hayes, 2002).
+CEOs’ humility and empowering leadership. Empowering leadership
+constitutes behaviors that enhance the meaningfulness of work, foster partici-
+pation in decision making, express confidence in high performance, and
+provide autonomy (Ahearne, Mathieu, and Rapp, 2005). Humble CEOs, recog-
+nizing their own limitations, are likely to use subordinates’ strengths to com-
+pensate and are eager to recruit capable employees who might even question
+their own ideas or beliefs (Drucker, 1992). CEOs who communicate self-
+transcendent pursuits help subordinates understand the value of their work in
+relation to larger organizational purposes. By acknowledging their limitations
+and appreciating others’ strengths (Morris, Brotheridge, and Urbanski, 2005),
+sharing power with others becomes the natural, behavioral self-expression of
+humble CEOs. They admit their reliance on others (Weick, 2001), express a
+propensity to treat subordinates as equals (Whitener et al., 1998), provide
+autonomy, and include subordinates in decision making. These tendencies fur-
+ther demonstrate their confidence in subordinates. Although not empirically
+tested previously, theoretical discussions about humility have also suggested
+an association between leaders’ humility and empowerment (Morris,
+Brotheridge, and Urbanski, 2005; Owens and Hekman, 2012). Hence, we
+hypothesize:
+Hypothesis 1: CEOs’ humility will relate positively to their empowering leadership
+behaviors.
+CEOs’ empowering leadership and TMT integration. Sharing power could
+undermine CEOs’ charisma, making them seem less authoritative than the
+highly capable, competent TMT members. In their pursuit of something higherOu et al.
+41
+than themselves, humble CEOs are likely to use power in a collectively
+oriented and egalitarian manner (House and Aditya, 1997). In this sense, they
+may enjoy socialized charisma, a characteristic of leaders who are driven by
+moral justifications and the collective sharing of power (Bligh and Robinson,
+2010). Similarly, empowering leadership motivates TMT members, satisfies
+their needs for competence, autonomy, and relatedness (Spreitzer, 2008), and
+shapes their perceptions of the meaning of leadership and team behavior,
+such as information sharing, joint decision making, and collaboration.
+Empowering CEOs facilitate shared perceptions of the TMT’s integration by
+creating opportunities for frequent interactions among team members and
+demonstrating equal respect without favoritism. The network extension of
+social information processing theory (Roberson and Colquitt, 2005) suggests
+that shared perceptions are more likely among strongly linked people who
+occupy structurally equivalent positions. Frequent interactions among
+TMT members facilitate strong ties, increase familiarity, create trust (Gulati,
+1995), and form commitment to shared visions (Pearce and Ensley, 2004).
+Empowerment without favoritism prevents power imbalance, so that members
+perceive team members as sharing a common fate rather than as competitors
+with conflicting interests (Eisenhardt and Bourgeois, 1988). A sense of com-
+mon fate further encourages members to strive to benefit the team, thus they
+‘‘check, suspend, regroup and transform their own perceptions’’ (Schneider
+and Reichers, 1983: 30) and reach convergent perceptions of proper interac-
+tions. Previous research on the antecedents of integration has mainly focused
+on TMT diversity and CEO demographics (Simsek et al., 2005). Recently, beha-
+vioral integration of the TMT was found to be positively connected to CEOs’
+transformational leadership (Ling et al., 2008) and empowering leadership
+(Carmeli, Schaubroeck, and Tishler, 2011). Although the link between CEOs’
+empowering leadership and TMT integration has been considered previously,
+we affirm the connection by expanding both concepts and examining their rela-
+tionship in our Chinese sample of CEOs. Hence we propose:
+Hypothesis 2: CEOs’ empowering leadership behaviors will relate positively to top
+management team integration.
+TMT integration and empowering organizational climate. Consistent
+with social information processing theory, TMT members directly influence
+organizational climate by communicating meaning (Pless, Maak, and Waldman,
+2012) in three ways. First, members convey their interpretations of interactions
+among TMT members to middle managers, perhaps mentioning the nature of
+their relationships with the CEO and other TMT members. As the CEO fosters
+these interactions through empowering leadership, middle managers receive
+cues that the organization values cooperation and communication across units
+and departments. Second, social information processing theory suggests that
+people tend to seek opinions from similar others; therefore, middle managers
+are likely to share information about the TMT with other middle managers
+within or across units and departments. Such information sharing, often
+through conversation, stories, or myths, conveys complex interpretive mes-
+sages, including not only facts but also feelings and values (Boje, 1991). Middle
+managers are likely to use such messages to form perceptions about42
+Administrative Science Quarterly 59 (2014)
+organizational policies and practices (Pless, Maak, and Waldman, 2012). Third,
+information from different middle managers is compared and negotiated. TMT
+integration allows middle managers to receive consistent information and form
+convergent perceptions that the organization values information sharing, auton-
+omy, and self-management, all of which constitute behavioral norms consistent
+with empowering organizational climates (Blanchard, Carlos, and Randolph,
+1995). We thus propose:
+Hypothesis 3: Top management team integration will relate positively to middle man-
+agers’ perceptions of an empowering organizational climate.
+Empowering organizational climate and middle managers’ responses.
+Social information processing theory suggests that shared organizational climates
+provide powerful information about organizationally desired behavioral norms and
+performance expectations. Engagement is enhanced when jobs are meaningful
+and autonomous, so managers in highly empowered work settings are likely to
+be more engaged in accomplishing tasks. Empowering climates generate individ-
+ual perceptions that their work has an impact, which in turn fosters their affective
+commitment through emotional attachment, involvement, and identification with
+the company (Spreitzer, 2008). Empowering climates reduce counterproductive
+behaviors by providing ‘‘more cognitive, physical, and socioemotional resources
+for managers to apply toward work tasks as they are not expending resources on
+understanding their environment’’ (Howell and Shamir, 2005: 842). Empowering
+climates thus cue managers about how to spend their time and focus their atten-
+tion. Productivity increases when the social information cueing process is coupled
+with significant employee engagement and commitment associated with an
+empowering climate. Empowering climates have been related to job performance
+and satisfaction (Seibert, Silver and Randolph, 2004), as well as to employee
+feedback-seeking behavior, overall team performance, and individual performance
+(Seibert, Silver, and Randolph, 2004; Chen, Lam, and Zhong, 2007; Wallace et al.,
+2011). Zhang and Bartol (2010) have found perceived psychological empower-
+ment and employee creativity to be positively related, and we expect an empow-
+ering climate to be similarly motivating. Thus we hypothesize:
+Hypothesis 4: An empowering organizational climate will relate positively to middle
+managers’ work engagement, affective commitment, and job performance.
+Figure 1 illustrates our multilevel model of CEO humility. To test the hypoth-
+eses, we conducted two quantitative studies supplemented by interviews with
+CEOs. Study 1 developed items for three new dimensions of humility—low
+self-focus, self-transcendent pursuit, and transcendent self-concept—and vali-
+dated them together with the other three dimensions of self-awareness, open-
+ness to feedback, and appreciation of others, which are similar to Owens’
+(2009) three behavioral dimensions: willingness to view oneself accurately,
+teachability, and appreciation of others’ strengths and contributions. Study 2
+used the validated comprehensive six-dimensional measure of humility to test
+our proposed model with multilevel and multiphase data obtained from a sam-
+ple of 63 organizations in China. Qualitative data from personal interviews withOu et al.
+43
+Figure 1. Hypothesized model of mechanisms linking CEO humility and middle managers’
+responses.
+COMPANY LEVEL
+H1 (+)
+CEO Humility
+Self-awareness
+Openness to feedback
+Appreciation of others
+Low self-focus
+Self-transcendent
+pursuit
+Transcendent self-
+concept
+CEO Empowering
+Leadership
+Meaningfulness
+Participation
+Confidence
+Autonomy
+H2 (+)
+TMT integration
+Collaborative
+behavior
+Joint decision
+making
+Information
+sharing
+Shared vision
+INDIVIDUAL LEVEL
+H3 (+)
+Empowering
+organizational
+Climate
+Information
+sharing
+Autonomy
+Team
+responsibility
+H4 (+)
+Middle Managers’
+Responses
+Work engagement
+Affective commitment
+Job performance
+participating CEOs provided further evidence for the cognitive, motivational,
+and behavioral manifestations of humility among the CEOs.
+STUDY 1: DEVELOPMENT AND VALIDATION OF A HUMILITY MEASURE
+We followed well-established procedures (Hinkin, 1998) to develop a reliable
+and valid measure of CEO humility. The process involved three phases. In
+phase 1, we generated items for the three dimensions of humility without pre-
+existing scales. In phase 2, we refined the new scales, combined them with
+existing scales for the three behavioral dimensions (Owens, 2009), and
+assessed the basic psychometric properties of all six scales through explora-
+tory and confirmatory factor analysis. In phase 3, we assessed the final 18-item
+multidimensional scale’s convergent and discriminant validity.
+Phase 1: Item Development and Content Validity Assessment
+We developed new items using deductive and inductive approaches (Hinkin,
+1998). We began with a deductive approach because the humility literature pro-
+vides sufficient theoretical grounding for item generation. This approach gener-
+ated three items for low self-focus, two items for self-transcendent pursuit,
+and three items for transcendent self-concept. We then invited 17 subject
+experts (eight management professors, three management consultants, and
+six working professionals) to participate in an inductive item-generation exer-
+cise to ensure the adequacy of the content domain of the three new dimen-
+sions. The eight management professors were active researchers and lecturers
+on leadership topics; the three management consultants had rich leadership
+consulting experience with senior executives; the six working professionals
+commented from a subordinate’s point of view. We gave participants defini-
+tions of the three new humility dimensions and asked them to recall behavioral
+examples of people who matched these definitions. After proposing new items
+based on their experience, they reviewed the eight items that we derived from
+the deductive process. This process yielded a total of 24 items.
+We used 12 management doctoral students, trained in psychometrics and
+leadership research, to assess the content validity of the 24-item pool. They44
+Administrative Science Quarterly 59 (2014)
+sorted items into one of the three new dimensions of humility or a fourth
+‘‘does not fit’’ category. We discarded items when fewer than 75 percent of
+the judges correctly assigned them to their a-priori dimensions (Hinkin, 1998).
+Seventeen items remained after the procedure.
+Phase 2: Scale Refinement through Factor Analysis
+We adopted two steps with two samples to assess the reliability and factor
+structure for scale refinement (Gerbing and Hamilton, 1996). In Step 1, we
+used exploratory factor analysis (EFA) to refine the three new dimensions. In
+Step 2, we included both the new dimensions and Owens’ (2009) dimensions
+for confirmatory factor analysis (CFA) for further refinement of a six-
+dimensional scale.
+Step 1: Exploratory factor analysis. The sample consisted of 276 full-time
+undergraduate students in China. Professors invited students to voluntarily par-
+ticipate in a survey administered after class. The response rate was 97.7 per-
+cent. On average, students were 20.7 years old (S.D. = 1.03), and 60 percent
+were women. The items were translated into Chinese, and respondents indi-
+cated on a 6-point scale, from 1 = ‘‘strongly disagree’’ to 6 = ‘‘strongly agree,’’
+the extent to which they agreed that each of the 17 humility items described
+them. We used a 6-point scale to increase variance in responses because East
+Asians are more likely to choose the midpoint in odd-numbered scales (Si and
+Cullen, 1998). We used principal-axis factor analyses with oblimin rotation to
+impose a three-factor solution and deleted items if their factor loadings were
+less than .40 or had high cross-loadings on other factors (Hinkin, 1998).
+Results supported the proposed three-factor structure. We retained the 14
+items that met the retention criteria. Cronbach’s alphas were .81, .75, and .77,
+respectively, thereby meeting standards for applied research (Nunnally, 1978).
+These results provided preliminary evidence of the structure and internal con-
+sistency of the three new dimensions of humility.
+Step 2: Confirmatory factor analysis. We submitted the items for all six
+humility dimensions (14 new items and 8 from Owens’ 2009 measure) to a CFA
+to further refine the scale and assess its psychometric properties. We collected
+data from 286 M.B.A. students in China. Each student invited another person to
+evaluate his or her respective humility because observers can assess more accu-
+rately personal characteristics that are either highly observable (self-awareness,
+openness to feedback, and appreciation of others) or highly evaluative and subject
+to self-serving biases (i.e., low self-focus, self-transcendent pursuit, and transcen-
+dent self-concept) (Vazire, 2010). On average, the students were 29.1 years old
+(S.D. = 5.50) and had a work tenure of 7.49 years (S.D. = 5.30); 66 percent were
+women. Those who evaluated the students’ humility had known the students for
+an average of 8.56 years (S.D. = 8.36). The survey was presented in Chinese and
+used the same 6-point scale. We used three criteria to assess overall model fit:
+RMSEA lower than .06, and TLI and CFI higher than .90 (Hu and Bentler, 1999).
+We examined whether each item significantly loaded on its a-priori factor and
+deleted items with modification indices higher than 10 (Bollen, 1989).
+Results showed four items with high modification indices that caused model
+misfit, and we deleted them. The remaining 18 items demonstratedOu et al.
+45
+satisfactory goodness-of-fit indices (χ 2 [115] = 194.74, p < .05; CFI = .95,
+TLI = .94, and RMSEA = .05). All items significantly loaded on their intended
+factors, and the standardized loadings were substantial in size (average
+loading = .70, S.D. = .11). The average composite reliability of the dimensions
+was 0.75, ranging from 0.66 to 0.81. 1 We also ran a second-order CFA to test
+whether the six dimensions were best represented by a higher-order superordi-
+nate construct or the theorized multidimensional construct (Williams,
+Vandenberg, and Edwards, 2009). Results revealed that a second-order factor
+produced a slightly poorer overall fit (χ 2 [124] = 236.77, p < .05; CFI = .93,
+TLI = .92 and RMSEA = .06) than the six-factor model, suggesting that humility
+is a multidimensional construct composed of six dimensions.
+Phase 3: Assessment of Convergent and Discriminant Validity
+Convergent validity reflects the extent to which a measure is correlated with
+other measures of the same construct, and discriminant validity refers to the
+degree to which measures of different constructs are distinct (Bagozzi, Li, and
+Phillips, 1991). With no other suitable humility measure for leaders, we
+assessed convergent validity between the three new cognitive and motiva-
+tional dimensions with the three behavioral dimensions of Owens (2009). Four
+other constructs are related to, but distinct from, humility, and were used for
+assessing discriminant validity. We expected humility to relate positively to
+core self-evaluation (Judge et al., 2003) because it comes from awareness of
+one’s strengths. We expected humility to positively relate to learning goal
+orientation (Vandewalle, 1997) because humble people are interested in self-
+improvement. Last, we expected humility to correlate positively with modesty
+and have a low negative or null correlation with narcissism.
+We collected data from the same sample of 286 M.B.A.s who participated
+in the CFA study in phase 2. Students reported their core self-evaluation, learn-
+ing goal orientation, modesty, and narcissism, while another person familiar
+with the focal student completed the humility items about the focal student.
+This design avoids the problems of common method variance (Podsakoff et al.,
+2003) and self-serving bias. Core self-evaluation (a = .88) was measured using
+a 12-item scale by Judge et al. (2003) and learning goal orientation (a = .84)
+with a 5-item scale by Vandewalle (1997). Modesty (a = .92) was measured by
+nine items from Whetstone, Okun, and Cialdini (1992) and five items from
+Chen et al. (2009) to reflect recent conceptual advancement on modesty. We
+used fourteen items from the NPI-16 (Ames, Rose, and Anderson, 2006)
+to measure narcissism (a = .83), with two items excluded because of
+duplicate meanings. All measures used the same 6-point scale. Owens’
+(2009) measure of behavioral humility included eight items (a = .88). The new
+cognitive-motivational humility included 10 items (a = .80). For discriminant
+validity, we used the comprehensive humility scale of 18 items (a = .88).
+We assessed convergent and discriminant validity in three steps. First, we
+examined the correlation between the new dimensions of humility and Owens’
+1
+Only the reliability of transcendent self-concept was below .70 (reliability = .66). This may have
+occurred because we used student samples in the scale development study. The evaluators may
+not be familiar with the students, and we relied on only a single evaluator for each student. In the
+main study, we relied on multiple TMT members to evaluate the CEO, and all dimensions had
+acceptable reliabilities, ranging from .78 to .81.46
+Administrative Science Quarterly 59 (2014)
+(2009) measure of humility and the correlation of the comprehensive humility
+measure with core self-evaluation, learning goal orientation, modesty, and nar-
+cissism. Second, a series of CFAs assessed whether each of the six humility
+dimensions were distinct from the four validation constructs (Anderson and
+Gerbing, 1988). For each distinct construct, we ran a seven-factor baseline
+model including this construct and six humility dimensions and then six, six-
+factor models combining it with one humility dimension. The nested models
+were compared using chi-square difference tests (Bollen, 1989). The discrimi-
+nant validity of humility dimensions was supported when all six-factor models
+generated significantly higher chi-squares or poorer fit indices than the seven-
+factor models. Finally, using a similar method, we assessed whether humility,
+as a comprehensive construct, was distinct from all other related constructs.
+We ran a baseline five-factor model including humility and the other four related
+constructs and then compared it with four, four-factor models combining humi-
+lity with one of the related constructs.
+The correlation analysis showed that the cognitive-motivational measure of
+humility had a strong positive correlation with behavioral humility (r = .60, p <
+.01), confirming convergent validity. The comprehensive humility measure had
+positive, but much smaller correlations with core self-evaluation (r = .16, p <
+.05), learning goal orientation (r = .23, p < .01), and modesty (r = .17, p < .05)
+and had a nonsignificant correlation with narcissism (r = –.08, p > .05), sup-
+porting discriminant validity. Table 1 shows that the baseline model of seven
+factors (six humility dimensions and one related construct) has the lowest chi-
+square compared with the alternative models, suggesting that humility dimen-
+sions were distinct from other constructs. Table 2 shows that all four-factor
+models combining humility with one related construct had significantly higher
+chi-square than the baseline model of five factors (humility, core self-evaluation,
+learning goal orientation, modesty, and narcissism), confirming the discriminant
+validity of humility.
+Validation results thus supported an 18-item measure of six humility dimen-
+sions, including 10 newly developed items and eight items from Owens (2009).
+The humility measure exhibited good reliability and content, convergent, and
+discriminant validity.
+STUDY 2: TEST OF THE CEO HUMILITY MODEL
+Sample and Data Collection
+We recruited CEOs who were alumni of a large business school in China. We
+contacted 130 CEOs who fulfilled our requirement of leading local, private com-
+panies in the Yangtze River Delta region. 2 The final sample included 63 CEOs
+(48.4 percent response rate), 328 TMT members, and 645 middle managers. A
+variety of industries were represented, with 41 percent in manufacturing and
+59 percent in service or trading. Company sizes ranged from fewer than 100 to
+12,000 employees (mean = 823, S.D. = 1,927), and company ages ranged
+from 6 to 56 years (mean = 14.03, S.D. = 9.22). CEOs averaged 41.7 years
+old (S.D. = 9.21), TMT members averaged 39.3 (S.D. = 8.61), and middle
+2
+We used local, private companies to ensure sufficient managerial discretion to detect CEO effects
+(Hambrick and Finkelstein, 1987; Li and Tang, 2010) and confined the sample to the Yangtze River
+Delta area to control for regional variance in companies.Ou et al.
+47
+Table 1. Confirmatory Factor Analysis for Humility Dimensions’ Discriminant Validity with
+Related Constructs*
+Model
+Humility dimensions with core self-evaluation
+Model 0 (baseline model): 7 factors
+Model 1 combining self-awareness and core self-evaluation
+Model 2 combining appreciation of others and core self-evaluation
+Model 3 combining openness to feedback and core self-evaluation
+Model 4 combining low self-focus and core self-evaluation
+Model 5 combining self-transcendent pursuit and core self-evaluation
+Model 6 combining transcendent self-concept and core self-evaluation
+Humility dimensions with learning goal orientation
+Model 0 (baseline model): 7 factors
+Model 1 combining self-awareness and learning goal orientation
+Model 2 combining appreciation of others and learning goal orientation
+Model 3 combining openness to feedback and learning goal orientation
+Model 4 combining low self-focus and learning goal orientation
+Model 5 combining self-transcendent pursuit and learning goal orientation
+Model 6 combining transcendent self-concept and learning goal orientation
+Humility dimensions with modesty
+Model 0 (baseline model): 7 factors
+Model 1 combining self-awareness and modesty
+Model 2 combining appreciation of others and modesty
+Model 3 combining openness to feedback and modesty
+Model 4 combining low self-focus and modesty
+Model 5 combining self-transcendent pursuit and modesty
+Model 6 combining transcendent self-concept and modesty
+Humility dimensions with narcissism
+Model 0 (baseline model): 7 factors
+Model 1 combining self-awareness and narcissism
+Model 2 combining appreciation of others and narcissism
+Model 3 combining openness to feedback and narcissism
+Model 4 combining low self-focus and narcissism
+Model 5 combining self-transcendent pursuit and narcissism
+Model 6 combining transcendent self-concept and narcissism
+w 2 w 2
+250.25
+517.26
+593.94
+435.97
+499.83
+411.24
+724.00 267.01
+343.69
+185.72
+249.58
+160.99
+473.75
+228.06
+472.82
+493.93
+380.50
+487.68
+405.69
+557.85 244.76
+265.87
+152.44
+259.62
+177.63
+329.79
+250.42
+546.92
+651.96
+477.20
+414.12
+465.19
+698.96 296.50
+401.54
+226.78
+163.70
+214.77
+448.54
+240.78
+530.32
+636.58
+470.10
+460.24
+468.40
+858.68 289.54
+395.80
+229.32
+219.46
+227.62
+617.90
+* χ 2 = change in chi-square between the alternative model and the baseline model. All χ 2 are significant at the
+p < .01 level.
+Table 2. Confirmatory Factor Analysis for Humility with Related Constructs*
+Model
+Model 0 (baseline model): 5-factor model including humility, core
+self-evaluation, learning goal orientation, modesty and narcissism.
+Model 1: 4-factor model combining humility and core self-evaluation
+Model 2: 4-factor model combining humility and learning goal
+orientation
+Model 3: 4-factor model combining humility and modesty
+Model 4: 4-factor model combining humility and narcissism
+w 2 d.f. RMSEA CFI TLI
+w 2
+160.36 109 .04 .98 .98 678.51
+491.20 113
+113 .13
+.11 .78
+.85 .73
+.82 518.15
+330.84
+832.54
+689.28 113
+113 .15
+.13 .72
+.78 .66
+.73 672.18
+528.92
+* RMSEA = root-mean-square error of approximation; CFI = comparative fit index; TLI = Tucker-Lewis Index; and
+χ 2 = change in chi-square between the alternative model and the baseline model. All χ 2 and χ 2 are significant at
+the p < .01 level.48
+Administrative Science Quarterly 59 (2014)
+managers averaged 35.2 (S.D. = 7.90). Most respondents were male (89 per-
+cent of CEOs, 70 percent of TMT members, and 61 percent of middle manag-
+ers) and had college or above education (97 percent of CEOs, 86 percent of
+TMT members, and 83 percent of middle managers). On average, the CEOs
+had been in their positions for 7.91 years (S.D. = 4.22), and the TMT members
+had been working with the CEOs for 6.11 years (S.D. = 4.96). Most CEOs were
+founders (71 percent), 18 percent were internally promoted, and 11 percent
+were external hires.
+We collected data from multiple sources and at two time periods to mini-
+mize common method variance (Podsakoff et al., 2003). We obtained a list of
+TMT members from the CEO and a list of middle managers from the com-
+pany’s human resource manager. We visited each company, interviewed CEOs
+to understand their management experience and philosophy, and administered
+the surveys to other participants in a conference room. We explained to the
+participants the importance of truthful answers for scientific research and
+ensured confidentiality by guaranteeing that only the researchers would see
+individual answers and that the company would receive only a company-level
+summary. 3 TMT members completed a survey containing items for CEOs’
+humility, leadership style, TMT integration, and some control variables, while
+the middle manager survey contained items for empowering organizational cli-
+mate and items on their demographics. Two weeks later, the human resource
+manager administrated the second surveys, in which TMT members evaluated
+middle managers’ performance and provided a subjective measure of organiza-
+tional performance (which we used as a control variable), while middle manag-
+ers reported on work engagement, affective commitment, and job satisfaction.
+Participants submitted surveys in self-sealed envelopes to ensure confidential-
+ity. The human resource managers provided the data on objective measures of
+organizational level controls and CEOs’ demographics.
+Measures
+The study involved four constructs at the organization level—CEO humility,
+empowering leadership, TMT integration, and empowering organizational
+climate—and three measures at the individual level—middle managers’ work
+engagement, affective commitment, and job performance. All measures,
+except job performance, use 6-point scales ranging from 1 = ‘‘strongly disagree
+or almost never’’ to 6 = ‘‘strongly agree or always.’’ Because we tested rela-
+tions among latent variables, we created indicators from dimensional scores or
+item parcels using the item-to-construct-balance method to reduce the number
+of parameters to be estimated (Williams, Vandenberg, and Edwards, 2009).
+The four organization-level measures were aggregated from individual-level
+data. Aggregation was confirmed by using ANOVA, r wg(j) , ICC(1), and ICC(2).
+The aggregation of data is appropriate when the F statistic for ANOVA is signifi-
+cant, r wg(j) is higher than .70 (James, Demaree, and Wolf, 1984), and ICC(1) is
+3
+To express our appreciation to the company and managers for supporting the research, we pro-
+vided a company report after the study and gave each manager a small gift for participation in data
+collection. We also invited as many as three managers from each company to participate in a one-
+day seminar held within six months after the study was completed. In this seminar, we shared the
+research findings, and two guest lecturers spoke on popular management topics. This gesture
+partly facilitated the good response rate.Ou et al.
+49
+non-zero (Bliese, 2000). Ideally, ICC(2) values should be higher than .70
+(Kozlowski and Klein, 2000), but a low ICC(2) value does not prevent aggrega-
+tion, although it may result in lower power in detecting relationships involving
+Level 2 variables (Bliese, 2000).
+We measured CEO humility using 18 items from the newly validated scale
+and one additional item from Owens’ update on the openness to feedback
+dimension (Owens, Johnson, and Mitchell, 2013) to ensure that we used the
+most current measure of the behavioral dimensions. The scale had good psy-
+chometric properties (a for each dimension ranges from .78 to .81), and aggre-
+gation was supported: ANOVA F = 1.89, p < .01; median r wg(j) = .98; ICC(1) =
+.14; ICC(2) = .47. The full measure of 19 items is shown in Online Appendix B.
+We measured CEO empowering leadership behaviors with the Chinese ver-
+sion (Zhang and Bartol, 2010) of the 12-item scale by Ahearn, Mathieu, and
+Rapp (2005). We added four items specific to executive-level leaders. This
+scale has four dimensions: enhancing the meaningfulness of work, fostering
+participation in decision making, expressing confidence in high performance,
+and providing autonomy from bureaucratic constraints. Online Appendix B lists
+the 16 items. The measure had good psychometric properties (a for each
+dimension ranges from .81 to .88; ANOVA F = 1.50, p < .05; median r wg(j) =
+.97; ICC[1] = .08; ICC[2] = .33).
+We used a split sampling approach to avoid common method variance
+because TMT members assessed both CEO humility and CEO empowering
+leadership. We randomly selected half of a top management team to measure
+CEO humility and the other half to assess CEO empowering leadership beha-
+viors. This approach has been shown to remove the problem of common
+method bias (Ostroff, Kinicki, and Clark, 2002).
+We measured TMT integration with nine items adapted from Simsek et al.
+(2005) and four items from Pearce and Ensley (2004) on shared vision (see
+Online Appendix B). The measure had good psychometric properties (a for
+each dimension ranges from .84 to .91; ANOVA F = 1.43, p < .05; median
+r wg(j) = .96; ICC[1] = .07; ICC[2] = .30).
+We measured empowering organizational climate with the Chinese version
+(Chen, Lam, and Zhong, 2007) of Blanchard, Carlos, and Randolph’s (1995)
+30-item scale. It includes three dimensions: information sharing, autonomy
+through boundaries, and team responsibility and accountability. A sample item
+is ‘‘We receive the information needed to help us understand the performance
+of our organization.’’ The measure displayed acceptable psychometric proper-
+ties (a for each dimension ranges from .88 to .92; ANOVA F = 2.43, p < .01;
+median r wg(j) = .97; ICC[1] = .12; ICC[2] = .59).
+Managerial responses. We measured work engagement (a = .93) with the
+Chinese version (Zhang and Gan, 2005) of the nine-item Utrecht work engage-
+ment scale (Schaufeli, Bakker, and Salanova, 2006). Affective commitment
+(a = .89) was measured with a six-item Chinese version (Chen and Francesco,
+2003) of the affective commitment scale (Meyer, Allen, and Smith, 1993). We
+measured managerial performance (a = .90) with six items, adapted from Tsui
+et al. (1997), measuring quality, efficiency, professional standards, ability, judg-
+ment, and job knowledge using a 5-point Likert-type scale, with 1 = ‘‘below
+average’’ and 5 = ‘‘above average.’’ We created a latent variable of managerial
+responses with work engagement, affective commitment, and job performance
+as indicators. We used this latent variable throughout the hypothesis tests and50
+Administrative Science Quarterly 59 (2014)
+performed robustness checks using each outcome as a separate latent depen-
+dent variable.
+Control Variables
+We controlled for firm performance, CEO education, TMT size, and average
+team tenure to rule out alternative explanations of TMT integration. Firm perfor-
+mance affects TMT members’ perceptions of their internal dynamics (Simsek
+et al., 2005). The measure was a two-item scale asking respondents to evalu-
+ate their company’s sales and return on assets (ROA) relative to their major
+competitors (Sully de Luque et al., 2008). TMT members assessed it at Time 2,
+and we aggregated it to the company level after assessing within-group agree-
+ment and between-group variance (a = .87; median r wg(j) = .76; ICC[1] = .45;
+ICC[2] = .81). We used a subjective measure because the socially constructed
+reality, rather than the actual figures, may be more likely to affect TMT mem-
+bers’ perceptions and behaviors (Berger and Luckmann, 1966). Moreover, 12
+companies refused to disclose objective performance data. The correlation
+between subjective performance and available, objective same-year ROA was
+.35 (p < .05), confirming the validity of the subjective measure. We omitted
+other company and CEO demographics such as company age, size, industry,
+and CEO age, gender, work tenure, organization tenure, tenure as a CEO, and
+founder status because those variables did not significantly correlate with the
+key variables in the research model. We controlled for TMT size and average
+team tenure because larger teams tend to have more conflict (Amason and
+Sapienza, 1997), and longer average team tenure is likely to generate better
+coordination and communication (Smith et al., 1994). We also controlled for
+CEOs’ narcissism to test whether humility provides predictive power beyond
+narcissism. CEOs assessed their own narcissism using 14 items (a = .86) from
+NPI-16 (Ames, Rose, and Anderson, 2006). We further controlled for CEO
+transformational leadership (completed by TMT members) to test whether
+empowering leadership provides predictive power beyond transformational
+leadership. Transformational leadership was measured by 20 items (a = .93;
+median r wg(j) = .98; ICC[1] = .19; ICC[2] = .56) from the Multifactor Leadership
+Questionnaire 5X (Bass and Avolio, 1995).
+For managerial responses, we included both organization-level and
+individual-level controls. For the former, we controlled for company age, size,
+industry sector, and subjective firm performance. We measured company size
+as the natural log of the number of employees. We coded industry as a dummy
+variable with 1 = manufacturing and 0 = service or trading. Such dichotomiza-
+tion of industry helps reduce industry-based indicators (Gomez-Mejia, Larraza-
+Kintana, and Makri, 2003). We controlled for middle managers’ demographics,
+including gender, education level, work tenure, company tenure, and job satis-
+faction. We measured job satisfaction with three items (a = .89) from Bono
+and Judge (2003).
+Analyses
+We tested the hypotheses using multilevel structural equation modeling
+(MSEM) with Mplus 6.12 (Muthen and Muthen, 2007). This method allows
+simultaneous investigation of multiple paths at different levels and accounts forOu et al.
+51
+measurement errors. We followed Anderson and Gerbing’s (1988) two-step
+procedures to test the hypothesized model depicted in figure 1. We first con-
+firmed the measurement model using a two-level CFA. Items for CEO humility,
+empowering leadership, TMT integration, and empowering organizational cli-
+mate were specified at the organization level. Middle managers’ responses
+were embedded within organizations and thus modeled at both the individual
+level and the organization level to allow detection of the cross-level effect of
+organizational factors on the outcomes. We then performed MSEM and exam-
+ined chi-square, RMSEA, CFI, and NFI to assess model fit. Mplus generated
+Satorra-Bentler scaled, chi-square statistics that were robust to non-normality
+but could not be directly compared, and these statistics were converted to chi-
+square statistics based on scaling correction factors (Muthen and Muthen,
+2007). We then compared the model with various alternative models to ensure
+the robustness of the findings.
+To assess each hypothesis, we examined the overall model fit indices and
+the significance and direction of each path coefficient. We then tested the
+mediation effects linking CEO humility and middle managers’ responses
+(MacKinnon et al., 2002). First, each path coefficient in the chain should be sig-
+nificant, and it is one of the best methods to test mediation effects because it
+balances Type I error and statistical power. Next, we calculated the product
+term of these path coefficients to evaluate the indirect effect of CEO humility
+on each construct, the significance of which supports the mediation effect.
+This method has low statistical power to detect mediation, however, because
+the distribution of the product term is not normal.
+Results
+Table 3 shows the means, standard deviations, correlations, and Cronbach’s
+alphas for all the variables in this study, presented at their appropriate levels.
+Table 4 shows that a two-level, baseline measurement model fits the data well:
+χ 2 (56) = 70.79, p < .10; CFI = .98; TLI = .97; RMSEA = .02. All factor loadings
+were significant, and the average loading was .77. The alternative models
+included a one-factor model combining all parcels, three four-factor models,
+each combining humility with one other organization-level variable, and a four-
+factor model combining empowering climate and TMT integration. Table 4
+reveals that no alternative models yielded better chi-square or fit indices, indi-
+cating a good measurement model and warranting SEM analysis.
+The hypothesized model shown in figure 2a generated good fit indices: χ 2
+(62) = 73.97, p = .14; CFI = .98; TLI = .98; RMSEA = .02. All path coefficients
+were significant and positive, supporting all four hypotheses. CEO humility was
+positively associated with CEO empowering leadership, supporting hypothesis
+1; CEO empowering leadership related positively to TMT integration, support-
+ing hypothesis 2; and TMT integration significantly predicted empowering orga-
+nizational climate, supporting hypothesis 3, which in turn was associated with
+middle managers’ responses, supporting hypothesis 4.
+We then examined the mediation paths linking CEO humility and middle
+managers’ responses by calculating the direct, indirect, and total effects of
+CEO humility on the study variables. Confirming hypotheses 1 and 2, CEO
+humility had a direct effect of .45 (p < .01) on CEO empowering leadership,
+and indirect effects of .33 (p < .05) on TMT integration. The indirect effect of52
+Administrative Science Quarterly 59 (2014)
+Table 3. Means, Standard Deviations, and Intercorrelations of Study Variables*
+Variable
+Mean S.D.
+1
+2
+3
+1. MM work
+4.75 .70 (.94)
+engagement
+2. MM affective
+4.66 .85 .66 •• (.91)
+commitment
+3. MM job
+3.66 .68 .12 •• .12 •• (.90)
+performance
+.08
+.05
+4. CEO humility
+4.47 .50 .09 •
+5. CEO empowering
+4.53 .46 .01
+.04
+.15 ••
+leadership
+6. Top management
+4.27 .43 .09 •
+.11 •• .18 ••
+team integration
+7. Empowering
+4.03 .36 .16 •• .20 •• .18 ••
+organizational climate
+.09 •
+.04
+8. Company size
+5.57 1.42 .08 •
+(Ln of no. of employees)
+.09 •
+.02
+9. Company age
+14.03 9.22 .13 •
+10. Industry
+.41 .50 .04
+.04
+.04
+11. Company subjective
+4.26 1.41 –.02
+.02
+.05
+performance
+.06 –.02
+12. MM gender
+0.61 .49 .10 •
+13. MM work tenure
+12.96 8.58 .18 •• .17 •• .01
+14. MM company tenure
+6.13 6.02 .08 •
+.14 •• .05
+15. MM education
+3.33 .92 –.12 •• –.19 •• .05
+16. MM job satisfaction
+4.36 .89 .71 •• .64 •• .08 •
+17. CEO narcissism
+3.56 .68 –.03
+.00
+.09 •
+18. CEO transformational
+4.49 .59 .19 •• .18 •• .21 ••
+leadership
+19. CEO gender
+.89 .32 .06
+.04
+.04
+20. CEO company tenure
+9.71 5.12 .01
+.07
+.08
+21. CEO tenure as CEO
+7.91 4.22 –.08
+.01
+.01
+22. CEO education
+4.32 1.03 .10 •
+.08
+.11 ••
+23. CEO founder status
+.71 .46 –.15 •• –.08 • –.04
+24. TMT size
+5.49 2.98 .04
+.08
+.05
+25. TMT average
+4.30 1.98 .03
+.06
+.06
+team tenure
+Variable
+13. MM work tenure
+14. MM company tenure
+15. MM education
+16. MM job satisfaction
+17. CEO narcissism
+18. CEO transformational
+leadership
+19. CEO gender
+20. CEO company tenure
+21. CEO tenure as CEO
+22. CEO education
+23. CEO founder status
+24. TMT size
+25. TMT average
+team tenure
+•
+4 5
+6
+7
+8
+9
+10 11
+(.90)
+.31 • (.88)
+.41 •• .57 •• (.95)
+.31 • .36 ••
+.23 .02
+–.06
+–.07
+.14
+–.02
+.05 .04
+–.14
+.11
+.17
+–.16
+.26 •
+.03
+–.01
+.15
+.41 ••
+.09 –.18 (.87)
+.05
+.07
+.06
+–.07
+.06
+–.24
+.26 • –.05 –.06 –.07
+.14 •• .13 •• .12 •• –.07
+.01
+.01
+.04
+.23 •
+.27 •• .19 •• .10 •
+.02
+.09 •
+.04
+.27 •• .46 •• .20 •• .11 ••
+.12 •• –.03 –.05 –.08 • –.23 •• –.18 •• –.12 ••
+.02
+.08
+.21 •• –.01 –.07
+.02
+.03
+.11
+.06
+.02 –.13 –.14
+.01
+.10
+.47 •• .51 •• .36 •• .06
+.07
+.02
+.32 •
+–.02
+.23
+.07
+.04
+–.01
+.06
+.31 • .08
+.01
+.04
+.28 •
+.09
+–.01
+.24
+.47 •• (.96)
+–.06
+–.05
+.02
+.25 •
+–.07
+–.09
+.25
+12 13 14 15 16 17 18
+.15 ••
+.06
+.01
+.11 ••
+–.10 •
+–.05 .51 ••
+–.32 ••
+.18 ••
+–.07
+.02 –.36 ••
+.06
+–.04
+.01 –.11 ••
+.06
+–.04 (.89)
+–.02
+.13 •• (.86)
+.14 (.97)
+.13 ••
+–.03
+–.13 ••
+–.02
+–.16 ••
+.04
+.05 .10 •
+.07
+–.06
+.07
+–.24 ••
+.06
+.16 •• .05
+.21 ••
+–.02
+–.04
+–.29 ••
+.12 ••
+.41 •• .06
+–.16 ••
+–.13 ••
+.22 ••
+.10 •
+–.17 ••
+–.13 •• .10 •
+.06
+–.03
+.12 ••
+–.09 •
+.02
+.02 –.01
+–.08
+–.02
+.01
+.08
+–.10
+–.03 –.07
+.05
+.17
+.21
+.11
+.09
+–.05
+.35 ••
+.37 ••
+–.11
+.11
+.05
+.06
+.16
+.06
+.07
+.07
+.17
+.13
+.20
+.23
+.21
+.10
+.01 –.01 –.01
+–.16 –.05 –.13
+–.27 • –.54 • –.18
+.47 •• .18
+.30 •
+.29 •
+.47 •• .08
+–.32 •
+.11
+.12
+.17
+–.04
+–.17
+.10
+19 20 21 22 23 24
+–.02
+–.06
+–.04
+–.22
+.14
+–.01 .66 ••
+–.11
+.09
+.25
+.28 • –.14
+.45 ••
+.33 ••
+.18 –.08
+–.01
+–.01 .08
+–.15 .15
+p < .05; •• p < .01; two-tailed test.
+* All variables were presented at their appropriate levels. Therefore, for correlations of middle-manager-level
+variables, N = 645; for correlations of organization-level variables, N = 63; for cross-level correlations, organization-
+level data were disaggregated, and N = 645. MM = middle manager; TMT = top management team; and CEO =
+chief executive officer.Ou et al.
+53
+Table 4. Two-Level Confirmatory Factor Analysis Tests of Discriminant Validity*
+w 2
+Model
+1. 5-factor model: distinct factors for CEO humility, CEO
+empowering leadership, TMT integration, empowering
+organizational climate, and middle manager responses
+2. One-factor model
+3. 4-factor model: CEO humility and empowering leadership
+combined
+4. 4-factor model: CEO humility and TMT integration combined
+5. 4-factor model: CEO empowering leadership and TMT integration
+combined
+6. 4-factor model: empowering organizational climate and TMT
+integration combined
+•
+d.f. RMSEA CFI TLI w 2 70.79 56 .02 .98 .97 – 237.30 ••
+118.96 •• 65
+60 .06
+.04 .73 .67 314.57 ••
+.91 .88 82.48 •• 10
+4
+112.83 ••
+123.98 •• 60
+60 .04
+.04 .92 .89
+.90 .87 34.57 ••
+25.50 •• 4
+4
+162.41 •• 60 .05 .84 .78 43.92 •• 4
+d.f.
+–
+p < .05; •• p < .01.
+* χ 2 = Satorra-Bentler scaled χ 2 ; RMSEA = root-mean-square error of approximation; CFI = comparative fit index;
+TLI = Tucker-Lewis index; and χ 2 = Satorra-Bentler scaled adjusted χ 2 difference.
+CEO humility on empowering organizational climate (.16, p < .10) and on mid-
+dle managers’ responses (.11, p < .10) were only marginally significant, ren-
+dering weaker support for hypotheses 3 and 4. As this method has a low
+power to detect mediation (MacKinnon et al., 2002), and all mediation paths
+were significant, we concluded that hypotheses 3 and 4 were still supported.
+The results confirm that CEO humility is associated with middle managers’
+responses through empowering leadership behaviors, TMT integration, and
+middle managers’ perceptions of an organizational empowering climate.
+Robustness Checks
+We conducted five robustness tests using a series of structural models to rule
+out alternative explanations of the findings. The results are shown in Online
+Appendix C. First, we reran the research model using each middle manager
+outcome as a dependent variable. Models 2, 3, and 4 illustrate that all three
+models fit the data well, and the path coefficients demonstrated the same pat-
+tern found for our baseline structural model (model 1).
+Next, we included control variables for TMT integration and middle manag-
+ers’ responses. We separately included control variables for TMT integration
+(model 5) and for middle managers’ responses (model 6) to accommodate the
+modest sample size. Results reveal that model 5 (χ 2 [135] = 232.58, p < .01;
+CFI = .87; TLI = .85; RMSEA = .03) fits the data worse than model 1, but path
+patterns are similar across the two models (see figure 2b). The estimated para-
+meters were slightly smaller but remained significant. Among the control vari-
+ables, only CEO transformational leadership related significantly to TMT
+integration (β = .33, p < .05). These results provided strong evidence on the
+predictive power of CEO humility and empowering leadership, net of the effect
+of narcissism and transformational leadership.
+Model 6 included both organization-level and individual-level controls for mid-
+dle manager responses. This model fit the data less well (χ 2 [132] = 192.95,
+p < .01; CFI = .95; TLI = .94; RMSEA = .03) than model 1. As shown in figureEmpowering
+organizational
+climate
+.69
+.79
+middle
+the
+.82 ••
+WE
+54
+Administrative Science Quarterly 59 (2014)Ou et al.
+55
+2c, the path patterns are similar to the baseline model except that the linkage
+between empowering organizational climate and middle managers’ responses
+drops from .71 to .37 (p < .01). Among the organization-level controls, only
+company size was significant (β = .22, p < .05). At the individual level, only
+managers’ education (β = –.07, p < .05) and job satisfaction (β = .84, p < .05)
+had significant effects on managerial responses; other control variables had no
+effect.
+Third, we examined potential reverse causality in the research model. We
+tested four possible alternative sequences and reported the results in models 7
+through 10.We compared the fit of these models with model 1 using Akaike’s
+(1987) information criterion (AIC), which is appropriate for non-nested model
+comparisons; the model with the lowest AIC is the best-fitting model (Akaike,
+1987). Online Appendix C shows that the baseline model (model 1) has the
+lowest AIC (4262.43), supporting the original mediation sequence.
+We further examined whether the proposed variables fully mediated the
+effect of CEO humility and whether subjective firm performance reduced the
+effects of CEO humility and empowering leadership. Based on model 1, model
+11 added a path from empowering leadership to empowering organizational cli-
+mate (β = .13, p > .10) and a path from TMT integration to middle managers’
+responses (β = .03, p > .10). Neither path was significant, and model 11 was
+no better than model 1 (χ 2 [2] = .59, p > .10). Similarly, model 12 added
+direct paths from CEO humility (β = .04, p > .10) and empowering leadership
+(β = .05, p > .10) to middle managers’ responses. The model was no better
+than model 1 (χ 2 [2] = .11, p > .10), and neither path was significant.
+Following the parsimony principle (Bollen, 1989), the full mediation sequence in
+model 1 represented a better model than models 11 and 12. Model 13 tested
+whether subjective firm performance affected TMTs’ assessment of CEO
+humility and empowering leadership by adding paths from firm performance to
+CEO humility (β = .06, p > .10) and empowering leadership (β = .22, p > .10).
+Again, neither path was significant; other path coefficients did not change, and
+AIC was higher than that for model 1.
+Finally, we tested for common method bias, despite using a split sample
+approach to measure CEO humility and CEO empowering leadership, because
+the two latent variables partially shared the sample with TMT integration, and
+all three variables were measured at Time 1. As Podsakoff et al. (2003) sug-
+gested, we followed Williams, Cote, and Buckley (1989) to examine the influ-
+ence of common method variance among the three variables. We compared
+the baseline measurement model of the three constructs with a null model
+whereby all items were independent, a model of two method factors, and a
+bi-factor model of both measure and method factors. The method model was
+better than the null model (χ 2 [9] = 195.33, p < .05), and the bi-factor model
+did improve model fit from the baseline model (χ 2 [7] = 12.7, p < .05), sug-
+gesting method bias in our results. That said, the method effects accounted for
+only 12 percent of the variance, which was much lower than the 25 percent
+benchmark reported by Williams, Cote, and Buckley (1989). In addition, parcels
+for TMT integration had no significant loadings on the method factor, demon-
+strating that the method model was suboptimal. Therefore we concluded that
+common method variance was not a major concern for this study.
+Using the same method, we tested the impact of potential social desirability
+bias, because all participants were gathered in the same room to complete56
+Administrative Science Quarterly 59 (2014)
+surveys in the presence of other colleagues for the Time 1 survey. We con-
+structed a method factor that combined all four latent variables measured at
+Time 1, namely, CEO humility, CEO empowering leadership, TMT integration,
+and empowering organizational climate. The method model was worse than
+the null model (χ 2 [24] = 69.45, p < .05), and the bi-factor model, including
+the baseline latent variables and the method factor, was worse than the base-
+line model (χ 2 [7]= 24.42, p < .05). These results suggest that social desirabil-
+ity bias was not a concern.
+Qualitative Evidence on CEO Humility
+To substantiate our quantitative assessment of CEO humility, we adopted Fu
+et al.’s (2010) method to identify CEO humility qualitatively by asking CEOs
+questions indirectly related to humility. To capture transcendent self-views, we
+asked CEOs whether they believed that man can conquer nature. In Chinese,
+nature broadly means something that is greater than any individual, whether
+the power comes from universal natural laws or social concepts of heaven or
+god(s). To delve into self-awareness and openness to feedback, we asked
+CEOs to assess their strengths and weaknesses and their views of their
+organizations’ problems and future constraints. We probed their appreciation
+of others by asking them to assess the TMT members and describe their
+decision-making styles. We examined CEOs’ self-focus and self-transcendent
+pursuit by asking why they wanted to be CEOs. Twelve CEOs declined to be
+audio-taped, so we included 51 interviews in the content analysis.
+Data coding. The 51 interviews yielded 518 single-spaced pages; on aver-
+age, each interview engendered 48.8 paragraphs and 9,814.8 words. The first
+author trained two coders to ensure that they understood the definitions and
+items of humility and its dimensions. The two coders were Master’s students
+in management and were blind to the hypotheses. Both coders independently
+coded all transcripts, compared their codes, and discussed discrepancies. They
+could change or retain their original coding after discussion. The first author
+met with the coders to clarify ambiguities and answer questions. For each
+interview transcript, they coded each paragraph as strong, weak, or neutral
+reflections of each of the six humility dimensions. Cohen’s Kappa for these
+two coders was .95, indicating acceptable interrater agreement (Landis and
+Koch, 1977; Sun, 2011). The coders also provided an overall rating of the
+CEO’s humility: 1 = strong, 0 = neutral, and − 1 = weak. We averaged this
+rating of CEO humility by the two coders and compared it with TMT members’
+ratings.
+Results. The coders’ ratings and the TMT members’ ratings of CEO humility
+correlated at .28 (p < .05), suggesting a moderate agreement. A closer com-
+parison revealed some interesting findings. Using a mean split, we recoded the
+TMT members’ ratings to 1 = above-average humility and − 1 = below-average
+humility, similar to the coders’ overall rating of humility. TMT members rated
+27 CEOs with above-average humility, among which 19 were also in the
+coders’ list, suggesting a 70-percent agreement level. In contrast, among the
+24 CEOs rated by TMT members as below-average humility, nine were also inOu et al.
+57
+Table 5. Coding Summary of Interviews with CEOs on Their Humility and Management
+Philosophy
+CEOs with Lower Humility
+Interview
+Questions
+Observations
+Sample quotes
+CEOs with Higher Humility
+Observations
+Sample quotes
+1. Self-concept (transcendent self-concept)
+Do you believe
+More likely to
+man can
+believe in
+conquer nature? personal
+capability.
+‘‘Luck is needed, but most
+More likely to believe ‘‘I believe that man proposes
+[of success] relies on
+man is under
+and Tian disposes. I believe
+personal effort. [Have you
+certain constraints.
+that sometimes we cannot
+gotten help from others
+obtain things that we work
+during your career?) No. . . .
+very hard for, but I accept the
+As long as you persist,
+inevitable. As long as I have
+then your direction will be
+tried my best, I have a clear
+correct; as long as you
+conscience’’ (CEO 130: 76).
+work hard and are
+‘‘I believe in fate. Some things
+professional in everything
+are predetermined, although
+you do, I think it is difficult
+some things need our own
+not to succeed’’
+effort. . . . I think I am very
+(CEO 117: 59).
+lucky and I have received
+‘‘Well, one cannot
+help from others all along the
+exaggerate the power of
+way’’ (CEO 202: 11–12).
+individuals. Bigger
+environments, such as
+people around,
+government policies, can
+be influential. However, in
+a certain domain,
+individuals can still be very
+powerful, e.g., myself in
+my own company’’ (CEO
+410: 30).
+2. Reflexive consciousness (self-awareness and openness to feedback)
+2.1 Views on
+their own
+strengths and
+weaknesses
+More emphasis
+on strengths
+and less on
+weaknesses.
+Weaknesses
+identified are
+more like
+strengths in
+disguise.
+‘‘’A great scholar with high
+Acknowledge
+‘‘I have a lot of experience in
+morality,’‘an ambassador
+strengths, but also
+selling jeans. but. . . . Now
+with grand mission and
+objectively
+we need to find a direction
+continuous contribution.’
+acknowledge
+for future innovation, and it
+These descriptions by
+weaknesses.
+needs a lot of effort to figure
+others about me concisely Keen on learning new it out’’ (CEO 504: 2).
+summarized me’’ (CEO
+knowledge.
+‘‘When other people say that I
+112: 1).
+have a bright future, I don’t
+‘‘I am familiar with sales,
+think so; on the contrary, I
+operation, and technology
+am very confused. I am not a
+. . . I haven’t spent
+person who is satisfied with
+sufficient time on team
+the status quo’’ (CEO 506:
+building, but it can be done
+20).
+gradually. . . . So my
+‘‘I regard my job as a happy
+biggest constraint is time.
+learning vacation with pay’’
+I feel that my knowledge
+(CEO 413: 47).
+base is sufficient, just not
+yet time to use all of
+them’’ (CEO 117: 31).
+(continued)58
+Administrative Science Quarterly 59 (2014)
+Table 5. (continued)
+CEOs with Lower Humility
+Interview
+Questions
+2.2 Views on the
+organization’s
+problems /
+constraints on
+future
+Observations
+More likely to
+attribute
+problems to
+external forces.
+Less likely to see
+constraints on
+organization’s
+future.
+Sample quotes
+CEOs with Higher Humility
+Observations
+‘‘[Regarding the collective
+Objectively see
+betrayal of my sales
+constraints on
+managers], I think it is the
+organizations’
+society’s fault. Many people
+future.
+rising from the grass roots
+like me cannot grow to a
+higher level, and they pursue
+only short-term goals’’ (CEO
+303: 14).
+‘‘If everything is arranged well,
+there should be no
+constraints [on the
+development potential of my
+company]’’ (CEO 117: 23).
+Sample quotes
+‘‘In the foreseeable future, I will
+only work on one business.
+The society has a clear
+division of labor; if you can do
+one thing successfully, it is
+already an accomplishment’’
+(CEO 130: 14).
+‘‘Our company grows rapidly,
+and many companies have
+asked us to distribute their
+brands; it is very tempting, but
+we think that we are not yet
+ready’’ (CEO 504: 4).
+3. Interpersonal being (appreciation of others)
+3.1 Views on
+TMT members See more
+weaknesses.
+Less appreciation
+of the TMTs’
+capability.
+3.2 Decision
+making styles Tend to withdraw
+‘‘I went through several
+‘‘Usually I come up with
+Tend to make
+from making
+stages. Before 2004, I was
+some ideas, then I let them
+decisions by
+decisions alone and
+the main one making
+themselves and
+discuss them. Most of the
+decisions and they
+time, they execute what I’ve to empower TMT
+ask the TMT
+members to make
+implemented; during 2004–
+decided’’ (CEO 410: 13).
+members to
+decisions together.
+2008, 2–3 people made all
+implement.
+‘‘What is the use of
+the decisions; now it was a
+discussion? You make your
+group discussion model. The
+decision, inform them, and
+TMT meets once a month to
+then let them implement it. I
+figure out future strategy’’
+think many Chinese are not
+(CEO 504: 27).
+good at discussion; most of
+‘‘I have to withdraw, let go, force
+the time they wait for the
+boss’s decision, and they
+them to take responsibility. . . .
+don’t bring up their ideas
+Starting last May, I forced
+during discussions, so
+myself not to come to the
+sometimes you spend a lot of
+office everyday. Gradually, I
+time discussing with people
+found several of them grew
+below you, and it ends up
+quickly and became more
+wasting time’’ (CEO 124: 37).
+mature in making decisions’’
+(CEO 201: 21).
+‘‘In general, I am not happy
+See more strengths. ‘‘I appreciate my team
+with my TMT . . . about
+More appreciation of
+members’ passion and
+their innovation capability.
+the TMTs’
+identification with this
+Some of them cannot even
+capabilities.
+company. They are not yet
+abide to the lowest moral
+See TMT members
+professional, but with
+standard. They don’t have a compensate for the
+continuous internal and
+correct outlook on life and
+CEOs’ weaknesses. external training, they will
+values’’ (CEO 303: 25-26).
+grow’’ (CEO 504: 38).
+‘‘[Many of the TMT
+‘‘The chair, our team, and I are
+members] come from the
+building a platform for the
+rural area, some of them
+future together. We all play a
+cannot even speak fluent
+role on the stage. Although
+Mandarin; it is very very
+roles are different, we are
+difficult to communicate
+performing in the same play’’
+with them’’ (CEO 410: 13).
+(CEO 506: 33).
+‘‘I purposely choose partners
+who complement me in
+capability and personality’’
+(CEO 120: 13).
+(continued)Ou et al.
+59
+Table 5. (continued)
+CEOs with Lower Humility
+Interview
+Questions
+Observations
+Sample quotes
+CEOs with Higher Humility
+Observations
+Sample quotes
+4. Executive function (low self-focus and self-transcendent pursuit)
+Purpose for being More likely to
+‘‘My outlook of life is to
+More likely to
+a CEO
+mention self-
+achieve something,
+mention grand
+related pursuits. influence many people
+vision beyond
+around me, and receive the individual gain.
+respect and recognition
+from the society’’ (CEO
+303: 27).
+More likely to
+‘‘I think, considering my
+More likely
+emphasize their
+[young] age and [short]
+emphasize
+own
+tenure, I can receive
+responsibilities
+achievement.
+speech invitations from so
+toward others.
+many different sectors,
+remain highly active in the
+field, and be recognized
+internationally. As a
+Chinese, I think no one can
+compare with me in this
+field’’ (CEO 124: 12).
+‘‘The drive that led me to
+entrepreneurship is that I
+think people must work
+diligently for the society’’
+(CEO 130: 21).
+‘‘A person’s value does not
+equal how much he/she
+earns. As CEOs, we have
+good career development,
+positive social influence and
+high status, but more
+importantly, many
+employees depend on us for
+earning their bread’’ (CEO
+102: 58).
+the coders’ list, only a 38-percent agreement. If we assume that TMT mem-
+bers are more able to detect true humility as they more frequently interact with
+their CEOs, low agreement for CEOs with low humility suggests that CEOs
+with low humility may be more inclined to feign humility in their answers to
+interviewers. We then focused on the 28 CEOs with agreement in humility
+level between TMT members’ and coders’ ratings—19 CEOs with relatively
+higher humility (average TMT rating = 4.86, average coder rating = 0.76) and
+nine with relatively lower humility (average TMT rating = 4.00, average coder
+rating = − 0.81)—in identifying their cognitive, motivational, and behavioral
+manifestations of humility.
+Table 5 summarizes the representative observations and quotes from the
+interviews. The two groups differ in transcendent self-concept. CEOs with
+lower humility tended to believe that man can conquer nature and to believe in
+personal capability. CEOs with higher humility tended to believe that ‘‘man pro-
+poses and nature disposes’’ (CEO 130) and that mankind exists under certain
+constraints. In terms of self-awareness and openness to feedback, the more
+humble CEOs acknowledged their strengths but were also open to discussing
+their weaknesses. For example, CEO 504, from a very successful apparel com-
+pany, said, ‘‘I have a lot of experience in selling jeans, but I need a lot of effort
+to figure out . . . a direction for future innovation.’’ Humble CEOs also showed
+eagerness to learn. As CEO 413 said, ‘‘I regard my job as a happy learning
+vacation with pay.’’ On appreciation of others, the more humble CEOs tended
+to appreciate their TMT members’ capability and to treat them as complement-
+ing the CEO. For example, CEO 503 said, ‘‘I appreciate my team members’
+passion and identification with this company.’’ CEO 506 treated TMT members60
+Administrative Science Quarterly 59 (2014)
+as partners and said that he purposefully chose those who complemented him
+in capability and personality. They also tended to withdraw from making deci-
+sions solely by themselves. For example, a CEO managing a supermarket chain
+said that he forced himself to avoid coming to the office daily because his
+absence allowed TMT members to mature more rapidly.
+When asked about why they wanted to be CEOs, the more-humble ones
+mentioned goals beyond individual gain such as responsibility to society and
+employees. CEO 130 said, ‘‘The drive that led me to entrepreneurship is that I
+think people must work diligently for society’s sake.’’ CEO 102 said, ‘‘A per-
+son’s value does not equal how much he or she earns.’’ Those statements
+reflect a low self-focus and self-transcendent pursuit. Such a perspective is in
+line with what has been characterized as socialized charisma (Brown and
+Trevino, 2006).
+DISCUSSION
+Our two empirical studies provide strong support for our conceptualization of
+humility and our hypotheses on CEO humility’s links to top management teams
+and middle managers. Study 1 produced six humility dimensions that constitute
+a coherent multidimensional construct with good content, convergent, and dis-
+criminant validity and reliabilities. Study 2 confirmed the criterion-related validity
+of CEO humility by its positive correlations with empowering leadership, TMT
+integration, and empowering organizational climate. Findings from Study 2 sup-
+port our conceptualization based on social information processing theory that
+humble CEOs are connected to TMTs’ and middle managers’ responses by
+shared perceptions that cascade across hierarchical levels.
+Theoretical Contributions
+Our study helps clarify the conceptual foundation of CEO humility and provides
+additional insight into executive leadership and influence. First, our conceptuali-
+zation alters the common misunderstanding that humble CEOs may lack confi-
+dence or may not be able to motivate others. We theorize that humble CEOs
+willingly admit both their strengths and weaknesses, have self-confidence, and
+are appreciative of others’ strengths. We further posit that humble CEOs have
+self-transcendent pursuits, and our qualitative findings suggest that they often
+have a broad perspective of service to society that others would find inspiring.
+As our qualitative analysis illustrates, such perspectives are often socialized for
+the collective good rather than for individual glory.
+Second, the positive effects of CEO humility provoke new thinking about
+traits of effective leaders. Besides confirming the value of studying leaders’
+traits (DeRue et al., 2011), our study challenges previous reviews that have
+consistently found influential leaders to be masculine, dominant, and authoritar-
+ian (Lord, De Vader, and Alliger, 1986; Koenig et al., 2011). Those views sug-
+gest that leadership requires a strong personal desire for influence. But the
+reviews overlook the second piece of the influence puzzle: leadership also
+depends on whether subordinates accept leaders’ influence (Blau, 1964).
+Research shows that bold and assertive leaders who lack genuine concern for
+others undermine their influence on subordinates (Fu et al., 2010; Galvin,
+Waldman, and Balthazard, 2010). Our study is consistent with that research inOu et al.
+61
+finding that CEO humility wins acceptance from top and middle managers by
+appealing to collective interests and downplaying strong ego dominance. By
+putting collective interests over self-interest, humility becomes a powerful
+source of socialized charisma (House and Aditya, 1997). Relatedly, leaders who
+lack strong egos are able to reduce status differences and gain trust among
+status-seeking groups such as managers.
+Third, our results contribute to understanding the multilevel effects of leader-
+ship, which the strategic leadership literature has heretofore not adequately
+addressed (Cannella and Holcomb, 2005). Derived from social information pro-
+cessing theory, we view leaders as meaning managers (Smircich and Morgan,
+1982) or cultural architects (Schein, 2010). Our findings suggest that CEOs can
+form collective meanings across hierarchical levels, which in turn affect the atti-
+tudes and behaviors of employees at lower levels. Our research model reveals
+several novel multilevel processes underlying strategic leadership. For example,
+finding CEOs’ roles in cascading meaning to lower levels through TMT integra-
+tion adds new understanding to indirect leadership theory (Yammarino, 1994).
+Our results also demonstrate humble CEOs’ strategic value in building competi-
+tive advantage through cultivating shared perceptions across hierarchical levels
+(Wong, Ormiston, and Tetlock, 2011). Furthermore, our finding of a significant
+connection between TMT integration and empowering organizational climate
+directly responds to a recent call for studies clarifying how a TMT’s coordinated
+actions or ‘‘teamness’’ may influence middle managers (Raes et al., 2011). This
+finding also supports Griffin and Mathieu’s (1997) proposition of the connection
+between higher-level group interactions and lower-level employees’ collective
+perceptions.
+Limitations and Future Research Directions
+Our study has several limitations that future research should address. First, our
+findings are based on a moderate sample size, despite our effort to secure
+high-quality surveys and a high response rate from respondents at different
+hierarchical levels from multiple companies. A moderate sample size rendered
+lower power to detect mediation using the product term method, resulting in
+weaker support for hypotheses 3 and 4. It also constrained our ability to com-
+pletely dispute the concern about common method variance. We could have
+directly controlled for common method variances by including method factors
+in the multilevel structural equation models if the sample size were large
+enough to do so. We tested for this bias as best we could, however, and our
+results suggested that the extent of method bias was small compared with
+past research.
+Second, we focus only on TMT integration linking CEO humility to middle
+managers’ responses, but other mediators might be important as well. For
+example, the process by which CEOs communicate goals and create vertical
+and horizontal alignments of goals across organizational levels has been posited
+to mediate CEOs’ leadership and outcomes (Kinicki et al., 2011). Dean and
+Sharfman (1996: 378) also recommended studying the impact of CEOs on the
+quality of decision implementation, defined as ‘‘the competence with which
+steps are taken to execute the strategic decision.’’ Carmeli and Schaubroek
+(2006) have found TMT behavior integration to improve the quality of strategic
+decisions. Our study suggests that humble CEOs could improve decisions62
+Administrative Science Quarterly 59 (2014)
+indirectly by enhancing TMT integration. It would be valuable to understand
+whether humble CEOs approach goal cascading, goal alignment, and strategic
+implementation differently than do less humble leaders.
+Third, our study is limited in its predictions. Future research could determine
+whether humble CEOs, compared with less-humble counterparts, make quali-
+tatively different decisions. Recent research suggests that moral decisions
+develop as a result of contemplation, whereas rapid choices tend to be more
+self-centered (Gunia et al., 2012). CEO humility and moral decision making may
+be linked because humble CEOs value joint decision making with TMT mem-
+bers and submit to the greater good and collective interests. For example, a
+recent study of implicit leadership indicates that people are more likely to be
+perceived as leaders when they discretely display compassion (Melwani,
+Mueller, and Overbeck, 2012). Humble CEOs may respond differently to social
+expectations for compassionate activities (Jia and Zhang, 2013). Are humble
+leaders more likely to be compassionate? Management research has been
+overwhelmingly dominated by attention to economic outcomes (Walsh,
+Weber, and Margolis, 2003; Tsui and Jia, 2013). Could humble CEOs integrate
+the needs of multiple stakeholders, while less-humble leaders focus more on
+economic outcomes (Pless, Maak, and Waldman, 2012)? A focus on CEO
+humility may expand important future research on human welfare or compas-
+sionate outcomes (Rynes et al., 2012; Tsui, 2013; Tsui and Jia, 2013).
+Furthermore, we need to know whether humble CEOs generate superior
+firm performance. Although we found positive effects on managerial responses
+such as engagement, commitment, and job performance, individual-level out-
+comes do not automatically translate into firm performance, particularly if stra-
+tegic goals are not aligned vertically across hierarchical levels and horizontally
+across departments or business units.
+Fourth, we do not know whether our theoretical model and results can be
+generalized beyond China. It would be interesting to explore how subordinates
+respond to humble CEOs or leaders in Western contexts such as the United
+States, where humility is assumed to be more rare or less valued (House et al.,
+2004). Generally, we do not expect our findings and our new measure to be
+unique to China. Given the global nature of business, cross-cultural studies of
+leaders’ humility would add value to both scholarship and practice. Beyond
+national culture, other contextual factors may limit the generalization of our
+findings. For example, whether companies with humble CEOs perform well in
+dynamic environments has been debated. Humble CEOs may perform poorly if
+they cannot decide swiftly and act boldly (Chatterjee and Hambrick, 2007).
+Some scholars counter that humble CEOs make sense of frequent and com-
+plex changes by fully utilizing others’ talents (Weick, 2001; Ancona et al.,
+2007). The organizational context may also constrain humility. Owens and
+Hekman’s (2012) qualitative study suggested that humility is effective only
+when leaders have competence, external threats are not critical, and organiza-
+tions have learning cultures. Future research can examine whether humility
+works when CEOs are new, recruited from outside, or entering the company
+during a crisis. The establishment of the universal nature of CEO humility and
+the contingencies of its influence in organizations represents a promising and
+important future research direction.
+Finally, our study treats humility as a stable trait and does not consider it in
+relation to other personality traits. Life span research on personality traits hasOu et al.
+63
+shown that traits continue to change throughout adulthood, and scholars pro-
+pose that with some life changes and role transitions, individuals can become
+functionally more mature, as indicated by increases in conscientiousness and
+emotional stability (Caspi, Roberts, and Shiner, 2005). Future research can
+explore whether certain life experiences or systematic training increase leaders’
+humility. In addition, human beings are holistic organisms constituted of many
+attributes, and the effects of one attribute can be better understood by consid-
+ering it in connection with other attributes (Allport, 1961). For example, our
+study found only a weak correlation between humility and narcissism, implying
+a possibility that these two traits may co-exist in some people. Can some lead-
+ers possess contradictory attributes simultaneously? Can they be narcissistic
+when pursuing status and become humble when they reach the top? These
+exciting and meaningful questions are among many to explore about humility.
+We hope our study serves as a foundation for future inquiry on the roles of hum-
+ble CEOs in organizational outcomes, economic and humanistic, for lower-level
+employees, customers, shareholders, and the broader society.
+Acknowledgments
+We thank Don Lange, David Zhu, Peter Hom, Zhen Zhang, Donald Hambrick, Alan
+Randolph, Yan Ling, Bradley Owens, and Michael Lubatkin for sharing their insights in
+conceptualizing and measuring the key constructs in this paper. We appreciate the help
+of Yanling Lian, Liangding Jia, Duanxu Huang, and Jianwu Jiang for data collection. This
+work was supported by Singapore Ministry of Education Tier 1 Academic Research
+Fund (grant number R-317-000-097-133), National Natural Science Foundation of China
+(grant numbers 71032001 and 71072142), Arizona State University GPSA dissertation
+grant (2009), and the International Association for Chinese Management Research /
+Li-Ning Dissertation Proposal Grant (2010).
+REFERENCES
+Ahearne, M., J. Mathieu, and A. Rapp
+2005 ‘‘To empower or not to empower your sales force? An empirical examination of
+the influence of leadership empowerment behavior on customer satisfaction and per-
+formance.’’ Journal of Applied Psychology, 90: 945–955.
+Akaike, H.
+1987 ‘‘Factor analysis and AIC.’’ Psychometrika, 52: 317–332.
+Allport, G. W.
+1961 Pattern and Growth in Personality. New York: Holt, Rinehart and Winston.
+Alon, I., J. Child, S. Li, and J. R. McIntyre
+2011 ‘‘Globalization of Chinese firms: Theoretical universalism or particularism.’’
+Management and Organization Review, 7: 191–200.
+Amason, A. C., and H. J. Sapienza
+1997 ‘‘The effects of top management team size and interaction norms on cognitive
+and affective conflict.’’ Journal of Management, 23: 495–516.
+Ames, D. R., P. Rose, and C. P. Anderson
+2006 ‘‘The NPI-16 as a short measure of narcissism.’’ Journal of Research in Person-
+ality, 40: 440–450.
+Ancona, D., T. W. Malone, W. J. Orlikowski, and P. M. Senge
+2007 ‘‘In praise of the incomplete leader.’’ Harvard Business Review, 85 (2): 92–103.
+Anderson, J. C., and D. W. Gerbing
+1988 ‘‘Structural equation modeling in practice: A review and recommended two-
+step approach.’’ Psychological Bulletin, 103: 411–423.64
+Administrative Science Quarterly 59 (2014)
+Ashton, M. C., and K. Lee
+2005 ‘‘Honesty-humility, the Big Five, and the Five-factor Model.’’ Journal of Person-
+ality, 73: 1321–1353.
+Bagozzi, R. P., Y. J. Li, and L. W. Phillips
+1991 ‘‘Assessing construct-validity in organizational research.’’ Administrative Sci-
+ence Quarterly, 36: 421–458.
+Bass, B. M., and B. J. Avolio
+1995 MLQ Multifactor Leadership Questionnaire for Research: Permission Set. Red-
+wood City, CA: Mindgarden.
+Baumeister, R. F.
+1998 ‘‘The self.’’ In D. Gilbert, S. T. Fiske, and G. Lindzey (eds.), Handbook of Social
+Psychology: 680–740. Boston: McGraw-Hill.
+Berger, P. L., and T. Luckmann
+1966 The Social Construction of Reality: A Treatise in the Sociology of Knowledge.
+New York: Anchor Books.
+Blanchard, K. H., J. P. Carlos, and W. A. Randolph
+1995 The Empowerment Barometer and Action Plan. Escondido, CA: Blanchard
+Training and Development.
+Blau, P. M.
+1964 Power and Exchange in Social Life. New York: Wiley.
+Bliese, P. D.
+2000 ‘‘Within-group agreement, non-independence, and reliability: Implications for
+data aggregation and analysis.’’ In K. J. Klein and S. W. J. Kozlowski (eds.), Multilevel
+Theory, Research, and Methods in Organizations: Foundations, Extensions, and New
+Directions: 349–381. San Francisco: Jossey-Bass.
+Bligh, M. C., and J. L. Robinson
+2010 ‘‘Was Gandhi ‘charismatic’? Exploring the rhetorical leadership of Mahatma
+Gandhi.’’ Leadership Quarterly, 21: 844–855.
+Boje, D. M.
+1991 ‘‘The storytelling organization: A study of story performance in an office-supply
+firm.’’ Administrative Science Quarterly, 36: 106–126.
+Bollen, K. A.
+1989 Structural Equations with Latent Variables. New York: Wiley.
+Bono, J. E., and T. A. Judge
+2003 ‘‘Self-concordance at work: Toward understanding the motivational effects of
+transformational leaders.’’ Academy of Management Journal, 46: 554–571.
+Brown, M. E., and L. K. Trevino
+2006 ‘‘Socialized charismatic leadership, values congruence, and deviance in work
+groups.’’ Journal of Applied Psychology, 91: 954–962.
+Cannella, A. A., and T. R. Holcomb
+2005 ‘‘A multilevel analysis of the upper-echelon model.’’ In A. Dansereau and F. J.
+Yammarino (eds.), Research in Multi-level Issues: Multi-level Issues in Strategy and
+Methods: 197–237. Oxford: Elsevier.
+Carmeli, A., and J. Schaubroeck
+2006 ‘‘Top management team behavioral integration, decision quality, and organiza-
+tional decline.’’ Leadership Quarterly, 17: 441–453.
+Carmeli, A., J. Schaubroeck, and A. Tishler
+2011 ‘‘How CEO empowering leadership shapes top management team processes:
+Implications for firm performance.’’ Leadership Quarterly, 22: 399–411.
+Caspi, A., B. W. Roberts, and R. L. Shiner
+2005 ‘‘Personality development: Stability and change.’’ Annual Review of Psychol-
+ogy, 56: 453–484.Ou et al.
+65
+Chatterjee, A., and D. C. Hambrick
+2007 ‘‘It’s all about me: Narcissistic chief executive officers and their effects on com-
+pany strategy and performance.’’ Administrative Science Quarterly, 52: 351–386.
+Chen, S. X., M. H. Bond, B. Chan, D.-H. Tang, and E. E. Buchtel
+2009 ‘‘Behavioral manifestations of modesty.’’ Journal of Cross-Cultural Psychology,
+40: 603–626.
+Chen, Z. G., W. Lam, and J. A. Zhong
+2007 ‘‘Leader-member exchange and member performance: A new look at individ-
+ual-level negative feedback-seeking behavior and team-level empowerment climate.’’
+Journal of Applied Psychology, 92: 202–212.
+Chen, Z. X., and A. M. Francesco
+2003 ‘‘The relationship between the three components of commitment and
+employee performance in China.’’ Journal of Vocational Behavior, 62: 490–510.
+Collins, J. C.
+2001 Good to Great: Why Some Companies Make the Leap . . . and Others Don’t.
+New York: Jim Collins.
+Davis, D. E., J. N. Hook, E. L. Worthington, D. R. Van Tongeren, A. L. Gartner,
+D. J. Jennings, and R. A. Emmons
+2011 ‘‘Relational humility: Conceptualizing and measuring humility as a personality
+judgment.’’ Journal of Personality Assessment, 93: 225–234.
+Davis, D. E., E. L. Worthington, and J. N. Hook
+2010 ‘‘Humility: Review of measurement strategies and conceptualization as person-
+ality judgment.’’ Journal of Positive Psychology, 5: 243–252.
+Dean, J. W., and M. P. Sharfman
+1996 ‘‘Does decision process matter? A study of strategic decision-making effective-
+ness.’’ Academy of Management Journal, 39: 368–392.
+DeRue, D. S., J. D. Nahrgang, N. Wellman, and S. E. Humphrey
+2011 ‘‘Trait and behavioral theories of leadership: An integration and meta-analytic
+test of their relative validity.’’ Personnel Psychology, 64: 7–52.
+Dess, G. G.
+1987 ‘‘Consensus on strategy formulation and organizational performance: Competi-
+tors in a fragmented industry.’’ Strategic Management Journal, 8: 259–277.
+Drucker, P. F.
+1992 Managing for the Future: The 1990s and Beyond. New York: Truman Talley/
+Dutton.
+Eisenhardt, K. M., and L. J. Bourgeois
+1988 ‘‘Politics of strategic decision making in high-velocity environments: Toward a
+midrange theory.’’ Academy of Management Journal, 31: 737–770.
+Exline, J. J., and A. L. Geyer
+2004 ‘‘Perceptions of humility: A preliminary study.’’ Self and Identity, 3: 95–114.
+Finkelstein, S., D. C. Hambrick, and A. A. Cannella
+2009 Strategic Leadership: Theory and Research on Executives, Top Management
+Teams, and Boards. Oxford: Oxford University Press.
+Fry, L. W.
+2003 ‘‘Toward a theory of spiritual leadership.’’ Leadership Quarterly, 14: 693–727.
+Fu, P. P., A. S. Tsui, J. Liu, and L. Li
+2010 ‘‘Pursuit of whose happiness? Executive leaders’ transformational behaviors
+and personal values.’’ Administrative Science Quarterly, 55: 222–254.
+Galvin, B. M., D. A. Waldman, and P. Balthazard
+2010 ‘‘Visionary communication qualities as mediators of the relationship between
+narcissism and attributions of leader charisma.’’ Personnel Psychology, 63: 509–537.
+Gerbing, D. W., and J. G. Hamilton
+1996 ‘‘Viability of exploratory factor analysis as a precursor to confirmatory factor
+analysis.’’ Structural Equation Modeling: A Multidisciplinary Journal, 3: 62–72.66
+Administrative Science Quarterly 59 (2014)
+Gomez-Mejia, L. R., M. Larraza-Kintana, and M. Makri
+2003 ‘‘The determinants of executive compensation in family-controlled public corpo-
+rations.’’ Academy of Management Journal, 46: 226–237.
+Grenberg, J.
+2005 Kant and the Ethics of Humility. Cambridge: Cambridge University Press.
+Griffin, M. A., and J. E. Mathieu
+1997 ‘‘Modeling organizational processes across hierarchical levels: Climate, leader-
+ship, and group process in work groups.’’ Journal of Organizational Behavior, 18:
+731–744.
+Guillén, M., and T. F. González
+2001 ‘‘The ethical dimension of managerial leadership: Two illustrative case studies
+in TQM.’’ Journal of Business Ethics, 34: 175–189.
+Gulati, R.
+1995 ‘‘Does familiarity breed trust: The implications of repeated ties for contractual
+choice in alliances.’’ Academy of Management Journal, 38: 85–112.
+Gunia, B. C., L. Wang, L. Huang, J. Wang, and J. K. Murnighan
+2012 ‘‘Contemplation and conversation: Subtle influences on moral decision making.’’
+Academy of Management Journal, 55: 13–33.
+Hackett, R. D., and G. Wang
+2012 ‘‘Virtues and leadership: An integrating conceptual framework founded in Aris-
+totelian and Confucian perspectives on virtues.’’ Management Decision, 50: 868–
+899.
+Hambrick, D. C.
+1994 ‘‘Top management groups: A conceptual integration and reconsideration of the
+‘team’ label.’’ In L. L. Cummings and B. M. Staw (eds.), Research in Organizational
+Behavior, 16: 171–213. Greenwich, CT: JAI Press.
+Hambrick, D.
+2005 ‘‘Upper echelon theory: Origins, twists and turns, and lessons learned.’’ In K. G.
+Smith and M. A. Hitt (eds.), Great Minds in Management: The Process of Theory
+Development: 109–127. New York: Oxford University Press.
+Hambrick, D. C., and S. Finkelstein
+1987 ‘‘Managerial discretion: A bridge between polar views of organizational out-
+comes.’’ In L. L. Cummings and B. M. Staw (eds.), Research in Organizational Beha-
+vior, 9: 369–406. Greenwich: JAI Press.
+Harter, J. K., F. L. Schmidt, and T. L. Hayes
+2002 ‘‘Business-unit-level relationship between employee satisfaction, employee
+engagement, and business outcomes: A meta-analysis.’’ Journal of Applied Psychol-
+ogy, 87: 268–279.
+Hayes, M., and M. Comer
+2010 Start with Humility: Lessons from America’s Quiet CEOs on How to Build Trust
+and Inspire Followers. Westfield, IN: Greenleaf Center for Servant Leadership.
+Hayward, M. L. A., and D. C. Hambrick
+1997 ‘‘Explaining the premiums paid for large acquisitions: Evidence of CEO hubris.’’
+Administrative Science Quarterly, 42: 103–127.
+Hinkin, T. R.
+1998 ‘‘A brief tutorial on the development of measures for use in survey question-
+naires.’’ Organizational Research Methods, 1: 104–121.
+House, R. J., and R. N. Aditya
+1997 ‘‘The social scientific study of leadership: Quo vadis?’’ Journal of Management,
+23: 409–473.
+House, R. J., P. J. Hanges, M. Javidan, P. W. Dorfman, and V. Gupta
+2004 Culture, Leadership, and Organizations: The GLOBE Study of 62 Societies.
+Thousand Oaks, CA: Sage.Ou et al.
+67
+Howell, J. M., and B. Shamir
+2005 ‘‘The role of followers in the charismatic leadership process: Relationships and
+their consequences.’’ Academy of Management Review, 30: 96–112.
+Hu, L., and P. M. Bentler
+1999 ‘‘Cutoff criteria for fit indexes in covariance structure analysis: Conventional
+criteria versus new alternatives.’’ Structural Equation Modeling, 6: 1–55.
+James, L. R., R. G. Demaree, and G. Wolf
+1984 ‘‘Estimating within: Group interrater reliability with and without response bias.’’
+Journal of Applied Psychology, 69: 85–98.
+Jia, M., and Z. Zhang
+2013 ‘‘The CEO’s representation of demands and the corporation’s response to
+external pressures: Do politically affiliated firms donate more?’’ Management and
+Organization Review, 9: 87–114.
+Judge, T. A., A. Erez, J. E. Bono, and C. J. Thoresen
+2003 ‘‘The core self-evaluations scale: Development of a measure.’’ Personnel
+Psychology, 56: 303–331.
+Kinicki, A. J., K. J. L. Jacobson, B. M. Galvin, and G. E. Prussia
+2011 ‘‘A multilevel systems model of leadership.’’ Journal of Leadership and Organi-
+zational Studies, 18: 133–149.
+Koenig, A. M., A. H. Eagly, A. A. Mitchell, and T. Ristikari
+2011 ‘‘ Are leader stereotypes masculine? A meta-analysis of three research para-
+digms.’’ Psychological Bulletin, 137: 616–642.
+Kozlowski, S. W. J., and K. J. Klein
+2000 ‘‘A multilevel approach to theory and research in organizations: Contextual, tem-
+poral, and emergent processes.’’ In K. J. Klein and S. W. J. Kozlowski (eds.), Multile-
+vel Theory, Research, and Methods in Organizations: Foundations, Extensions, and
+New Directions: 3–90. San Francisco: Jossey-Bass.
+Lanaj, K., J. R. Hollenbeck, D. R. Ilgen, C. M. Barnes, and S. S. Harmon
+2013 ‘‘The double-edged sword of decentralized planning in multiteam systems.’’
+Academy of Management Journal, 56: 735–757.
+Landis, J. R., and G. G. Koch
+1977 ‘‘The measurement of observer agreement for categorical data.’’ Biometrics,
+33: 159–174.
+Lee, K., and M. C. Ashton
+2004 ‘‘Psychometric properties of the HEXACO personality inventory.’’ Multivariate
+Behavioral Research, 39: 329–358.
+Li, J., and Y. I. Tang
+2010 ‘‘CEO hubris and firm risk taking in China: The moderating role of managerial
+discretion.’’ Academy of Management Journal, 53: 45–68.
+Ling, Y., Z. Simsek, M. H. Lubatkin, and J. F. Veiga
+2008 ‘‘Transformational leadership’s role in promoting corporate entrepreneurship:
+Examining the CEO-TMT interface.’’ Academy of Management Journal, 51: 557–576.
+Lord, R. G., C. L. De Vader, and G. M. Alliger
+1986 ‘‘A meta-analysis of the relation between personality traits and leadership per-
+ceptions: An application of validity generalization procedures.’’ Journal of Applied
+Psychology, 71: 402–410.
+MacKinnon, D. P., C. M. Lockwood, J. M. Hoffman, S. G. West, and V. Sheets
+2002 ‘‘A comparison of methods to test mediation and other intervening variable
+effects.’’ Psychological Methods, 7: 83–104.
+Malmendier, U., and G. Tate
+2005 ‘‘CEO overconfidence and corporate investment.’’ Journal of Finance, 60:
+2661–2700.68
+Administrative Science Quarterly 59 (2014)
+Melwani, S., J. S. Mueller, and J. R. Overbeck
+2012 ‘‘Looking down: The influence of contempt and compassion on emergent lead-
+ership categorizations.’’ Journal of Applied Psychology, 97: 1171–1185.
+Meyer, J. P., N. J. Allen, and C. A. Smith
+1993 ‘‘Commitment to organizations and occupations: Extension and test of a
+3-component conceptualization.’’ Journal of Applied Psychology, 78: 538–551.
+Morris, J. A., C. M. Brotheridge, and J. C. Urbanski
+2005 ‘‘Bringing humility to leadership: Antecedents and consequences of leader
+humility.’’ Human Relations, 58: 1323–1350.
+Muthen, L. K., and B. O. Muthen
+2007 Mplus: Statistical Analysis with Latent Variables: User’s Guide. Los Angeles:
+Muthen & Muthen.
+Newman, J.
+1982 ‘‘Humility and self-realization.’’ Journal of Value Inquiry, 16: 275–285.
+Nunnally, J. C.
+1978 Psychometric Theory. New York: McGraw-Hill.
+Ostroff, C., A. J. Kinicki, and M. A. Clark
+2002 ‘‘Substantive and operational issues of response bias across levels of analysis:
+An example of climate-satisfaction relationships.’’ Journal of Applied Psychology, 87:
+355–368.
+Owens, B.
+2009 ‘‘Humility in organizational leadership.’’ Unpublished doctoral dissertation, Uni-
+versity of Washington, Seattle.
+Owens, B., and D. Hekman
+2012 ‘‘Modeling how to grow: An inductive examination of humble leader behaviors,
+contingencies, and outcomes.’’ Academy of Management Journal, 55: 787–818.
+Owens, B. P., M. D. Johnson, and T. R. Mitchell
+2013 ‘‘Expressed humility in organizations: Implications for performance, teams, and
+leadership.’’ Organization Science, 24: 1517–1538.
+Pan, Y., J. A. Rowney, and M. F. Peterson
+2012 ‘‘The structure of Chinese cultural traditions: An empirical study of business
+employees in China.’’ Management and Organization Review, 8: 77–95.
+Pearce, C. L., and M. D. Ensley
+2004 ‘‘A reciprocal and longitudinal investigation of the innovation process: The cen-
+tral role of shared vision in product and process innovation teams (PPITs).’’ Journal of
+Organizational Behavior, 25: 259–278.
+Peterson, C., and M. E. P. Seligman
+2004 Character Strengths and Virtues: A Handbook and Classification. New York:
+Oxford University Press.
+Pless, N. M., T. Maak, and D. A. Waldman
+2012 ‘‘Different approaches toward doing the right thing: Mapping the responsibility
+orientations of leaders.’’ Academy of Management Perspectives, 26: 51–65.
+Podsakoff, P. M., S. B. MacKenzie, J. Y. Lee, and N. P. Podsakoff
+2003 ‘‘Common method biases in behavioral research: A critical review of the litera-
+ture and recommended remedies.’’ Journal of Applied Psychology, 88: 879–903.
+Raes, A. M. L., M. G. Heijltjes, U. Glunk, and R. A. Roe
+2011 ‘‘The interface of the top management team and middle managers: A process
+model.’’ Academy of Management Review, 36: 102–126.
+Roberson, Q. M., and J. A. Colquitt
+2005 ‘‘Shared and configural justice: A social network model of justice in teams.’’
+Academy of Management Review, 30: 595–607.
+Rowatt, W. C., C. Powers, V. Targhetta, J. Comer, S. Kennedy, and J. Labouff
+2006 ‘‘Development and initial validation of an implicit measure of humility relative to
+arrogance.’’ Journal of Positive Psychology, 1: 198–211.Ou et al.
+69
+Rynes, S. L., J. M. Bartunek, J. E. Dutton, and J. D. Margolis
+2012 ‘‘Care and compassion through an organizational lens: Opening up new possibi-
+lities.’’ Academy of Management Review, 37: 503–523.
+Salancik, G. R., and J. Pfeffer
+1978 ‘‘A social information processing approach to job attitudes and task design.’’
+Administrative Science Quarterly, 23: 224–253.
+Schaufeli, W. B., A. B. Bakker, and M. Salanova
+2006 ‘‘The measurement of work engagement with a short questionnaire.’’ Educa-
+tional and Psychological Measurement, 66: 701–716.
+Schein, E. H.
+2010 Organizational Culture and Leadership. San Francisco: Jossey-Bass.
+Schneider, B., and A. E. Reichers
+1983 ‘‘On the etiology of climates.’’ Personnel Psychology, 36: 19–39.
+Seibert, S. E., S. R. Silver, and W. A. Randolph
+2004 ‘‘Taking empowerment to the next level: A multiple-level model of empower-
+ment, performance, and satisfaction.’’ Academy of Management Journal, 47: 332–
+349.
+Si, S. X., and J. B. Cullen
+1998 ‘‘Response categories and potential cultural bias: Effects of an explicit middle
+point in cross-cultural surveys.’’ International Journal of Organizational Analysis, 6:
+218–230.
+Simsek, Z., J. F. Veiga, M. H. Lubatkin, and R. N. Dino
+2005 ‘‘Modeling the multilevel determinants of top management team behavioral
+integration.’’ Academy of Management Journal, 48: 69–84.
+Smircich, L., and G. Morgan
+1982 ‘‘Leadership: The management of meaning.’’ Journal of Applied Behavioral Sci-
+ence, 18: 257–273.
+Smith, K. G., K. A. Smith, J. D. Olian, H. P. Sims, P. Obannon, and J. A. Scully
+1994 ‘‘Top management team demography and process: The role of social integra-
+tion and communication.’’ Administrative Science Quarterly, 39: 412–438.
+Spreitzer, G. M.
+1995 ‘‘Psychological empowerment in the workplace: Dimensions, measurement,
+and validation.’’ Academy of Management Journal, 38: 1442–1465.
+Spreitzer, G. M.
+2008 ‘‘Taking stock: A review of more than twenty years of research on empower-
+ment at work.’’ In J. Barling and C. Cooper (eds.), The SAGE Handbook of Organiza-
+tional Behavior: 54–72. Thousand Oaks, CA: Sage.
+Sully de Luque, M., N. T. Washburn, D. A. Waldman, and R. J. House
+2008 ‘‘Unrequited profit: How stakeholder and economic values relate to subordi-
+nates’ perceptions of leadership and firm performance.’’ Administrative Science
+Quarterly, 53: 626–654.
+Sun, S.
+2011 ‘‘Meta-analysis of Cohen’s kappa.’’ Health Services and Outcomes Research
+Methodology, 11: 145–163.
+Tangney, J. P.
+2002 ‘‘Humility.’’ In C. R. Snyder (ed.), Handbook of Positive Psychology: 411–419.
+New York: Oxford University Press.
+Templeton, J. M.
+1997 Worldwide Laws of Life. Philadelphia: Templeton Foundation Press.
+Tice, D. M., J. L. Butler, M. B. Muraven, and A. M. Stillwell
+1995 ‘‘When modesty prevails: Differential favorability of self-presentation to friends
+and strangers.’’ Journal of Personality and Social Psychology, 69: 1120–1138.70
+Administrative Science Quarterly 59 (2014)
+Tsai, W. P., and S. Ghoshal
+1998 ‘‘Social capital and value creation: The role of intrafirm networks.’’ Academy of
+Management Journal, 41: 464–476.
+Tsui, A. S.
+2013 ‘‘On compassionate scholarship: Why should we care?’’ Academy of Manage-
+ment Review, 38: 167–181.
+Tsui, A. S., and L. D. Jia
+2013 ‘‘Calling for humanistic scholarship in China.’’ Management and Organization
+Review, 9: 1–15.
+Tsui, A. S., and C.-M. Lau
+2002 The Management of Enterprises in the People’s Republic of China. Norwell,
+MA: Kluwer Academic.
+Tsui, A. S., J. L. Pearce, L. W. Porter, and A. M. Tripoli
+1997 ‘‘Alternative approaches to the employee-organization relationship: Does invest-
+ment in employees pay off?’’ Academy of Management Journal, 40: 1089–1121.
+Tsui, A. S., H. Wang, K. Xin, L. Zhang, and P. P. Fu
+2004 ‘‘Let a thousand flowers bloom: Variation of leadership styles among Chinese
+CEOs.’’ Organizational Dynamics, 33: 5–20.
+van Dierendonck, D.
+2011 ‘‘Servant leadership: A review and synthesis.’’ Journal of Management, 37:
+1228–1261.
+van Dierendonck, D., and I. Nuijten
+2011 ‘‘The servant leadership survey: Development and validation of a multidimen-
+sional measure.’’ Journal of Business and Psychology, 26: 249–267.
+Vandewalle, D.
+1997 ‘‘Development and validation of a work domain goal orientation instrument.’’
+Educational and Psychological Measurement, 57: 995–1015.
+Vazire, S.
+2010 ‘‘Who knows what about a person? The self-other knowledge asymmetry
+(SOKA) model.’’ Journal of Personality and Social Psychology, 98: 281–300.
+Vera, D., and A. Rodriguez-Lopez
+2004 ‘‘Strategic virtues: Humility as a source of competitive advantage.’’ Organiza-
+tional Dynamics, 33: 393–408.
+Waldman, D. A., and F. J. Yammarino
+1999 ‘‘CEO charismatic leadership: Levels-of-management and levels-of-analysis
+effects.’’ Academy of Management Review, 24: 266–285.
+Wallace, J. C., P. D. Johnson, K. Mathe, and J. Paul
+2011 ‘‘Structural and psychological empowerment climates, performance, and the
+moderating role of shared felt accountability: A managerial perspective.’’ Journal of
+Applied Psychology, 96: 840–850.
+Walsh, J. P., K. Weber, and J. D. Margolis
+2003 ‘‘Social issues and management: Our lost cause found.’’ Journal of Manage-
+ment, 29: 859–881.
+Weick, K. E.
+2001 ‘‘Leadership as the legitimation of doubt.’’ In W. Bennis, G. M. Spreitzer, and
+T. G. Cummings (eds.), The Future of Leadership: Today’s Top Leadership Thinkers
+Speak to Tomorrow’s Leaders: 91–102. San Francisco: Jossey-Bass.
+Weiss, H. M., and P. A. Knight
+1980 ‘‘The utility of humility: Self-esteem, information search, and problem-solving
+efficiency.’’ Organizational Behavior and Human Performance, 25: 216–223.
+Whetstone, M. R., M. A. Okun, and R. B. Cialdini
+1992 ‘‘The modest responding scale.’’ Paper presented at the Convention of the
+American Psychological Society, San Diego, CA.Ou et al.
+71
+Whitener, E. M., S. E. Brodt, M. A. Korsgaard, and J. M. Werner
+1998 ‘‘Managers as initiators of trust: An exchange relationship framework for under-
+standing managerial trustworthy behavior.’’ Academy of Management Review, 23:
+513–530.
+Williams, L. J., J. A. Cote, and M. R. Buckley
+1989 ‘‘Lack of method variance in self-reported affect and perceptions at work: Real-
+ity or artifact.’’ Journal of Applied Psychology, 74: 462–468.
+Williams, L. J., R. J. Vandenberg, and J. R. Edwards
+2009 ‘‘Structural equation modeling in management research: A guide for improved
+analysis.’’ Academy of Management Annals, 3: 543–604.
+Wong, E. M., M. E. Ormiston, and P. E. Tetlock
+2011 ‘‘The effects of top management team integrative complexity and decentralized
+decision making on corporate social performance.’’ Academy of Management Jour-
+nal, 54: 1207–1228.
+Yammarino, F. J.
+1994 ‘‘Indirect leadership: Transformational leadership at a distance.’’ In B. M. Bass
+and B. J. Avolio (eds.), Improving Organizational Effectiveness through Transforma-
+tional Leadership: 26–47. Thousand Oaks, CA: Sage.
+Yukl, G.
+2008 ‘‘How leaders influence organizational effectiveness.’’ Leadership Quarterly, 19:
+708–722.
+Zhang, X. M., and K. M. Bartol
+2010 ‘‘Linking empowering leadership and employee creativity: The influence of psy-
+chological empowerment, intrinsic motivation, and creative process engagement.’’
+Academy of Management Journal, 53: 107–128.
+Zhang, Y. W., and Y. Q. Gan
+2005 ‘‘The reliability and validity test of the Chinese Utrecht Work Engagement Scale
+(UWES).’’ Chinese Journal of Clinical Psychology, 13: 268–270.
+Authors’ Biographies
+Amy Y. Ou is an assistant professor of organizational behavior at NUS Business School,
+National University of Singapore, 15 Kent Ridge Drive, Singapore 119245 (e-mail:
+bizyo@nus.edu.sg). Her current research interests include executive leadership, organi-
+zational culture, and cross-cultural management. She received her Ph.D. in management
+from Arizona State University.
+Anne S. Tsui is the Motorola Professor of International Management (2003–2011,
+emerita since 2011) at the W. P. Carey School of Business, Arizona State University,
+Tempe, AZ 85287 (e-mail: anne.tsui@asu.edu). She is also Distinguished Visiting
+Professor at Peking University, Fudan University, and Shanghai Jiao Tong University.
+Her current research interests include executive leadership, employment relationships,
+guanxi networks, and Chinese management research methods. She received her Ph.D.
+in management from the University of California, Los Angeles.
+Angelo J. Kinicki is the Weatherup/Overby Chair in Leadership and Professor of
+Management at the W. P. Carey School of Business, Arizona State University, Tempe,
+AZ 85287 (e-mail: angelo.kinicki@asu.edu). His current research interests include leader-
+ship, organizational culture, and organizational change. He received his D.B.A. in organi-
+zation behavior from Kent State University.
+David A. Waldman is a professor of management at the W. P. Carey School of
+Business, Arizona State University, Tempe, AZ 85287 (e-mail: waldman@asu.edu). His
+research interests focus on responsible leadership at strategic levels of management,72
+Administrative Science Quarterly 59 (2014)
+as well as neuroscience applications to the study of leadership. He received his Ph.D. in
+industrial/organizational psychology from Colorado State University.
+Zhixing Xiao is Distinguished Visiting Professor of Chinese Business at George
+Washington University, Washington, DC 20052 (e-mail: xzhixing@gwu.edu). His current
+research interests include social networks, social cognitions, leadership and institutional
+logics. He received his Ph.D. in management from INSEAD.
+Lynda Jiwen Song is an associate professor of organizational behavior at the School of
+Business, Renmin University of China, 59 Zhongguancun Street, Beijing, P. R. China
+100872 (e-mail: songjiwen@rbs.org.cn). Her current research interests include leader-
+ship, the employment relationship, creativity, emotional intelligence, and diversity. She
+received her Ph.D. in organizational management from the Hong Kong University of
+Science and Technology.

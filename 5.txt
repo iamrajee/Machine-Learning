@@ -1,0 +1,1015 @@
+Received: 27 September 2015
+Revised: 6 October 2017
+Accepted: 23 October 2017
+DOI: 10.1002/smj.2763
+RESEARCH ARTICLE
+Big splash, no waves? Cognitive mechanisms
+driving incumbent firms’ responses to low-price
+market entry strategies
+Jukka Luoma 1 | Tomas Falk 1 | Dirk Totzek 2 | Henrikki Tikkanen 1 |
+Alexander Mrozek 3
+1
+Department of Marketing, Aalto University
+School of Business, Aalto, Finland
+2
+School of Business, Economics and Information
+Systems, University of Passau, Passau, Germany
+3
+Google Germany, Berlin, Germany
+Correspondence
+Jukka Luoma, Department of Marketing, Aalto
+University School of Business, P.O. Box 21230,
+FI-00076 Aalto, Finland.
+Email: jukka.luoma@aalto.fi
+Strat Mgmt J. 2018;1–23.
+Research Summary: Low-price market entries, aiming for
+rapid sales growth, tend to prompt strong competitive
+reactions. This research explores whether and how firms
+using low-price entry strategies can mitigate retaliatory
+incumbent reactions. An experiment with 656 managers
+shows that entrants can attenuate the strength of incum-
+bents’ responses by fostering perceptions of high aggres-
+siveness or low commitment. Entrants may be able to
+accomplish this by adjusting their entry strategy to embed
+(subtle) cues of aggressiveness and (lack of) commitment.
+A replication experiment with university students rein-
+forces our overall theoretical argument. However, the
+results also indicate that the interpretation of cues embed-
+ded in the entry strategy may be affected by the experience
+of incumbent firm managers. Overall, these results clarify
+the cognitive foundations of competitive responses to mar-
+ket entry.
+Managerial Summary: What drives incumbents to
+respond strongly to market entries, and what can the
+entrant, if anything, do to mitigate those responses? This
+research offers empirical evidence and theoretical insights
+for managers faced with these questions by shedding light
+on the thinking processes preceding competitive
+responses. The study shows that while managers are moti-
+vated to respond strongly to market entries that appear to
+be highly consequential to their business, these responses
+may be mitigated if the entrant manages to foster percep-
+tions of high aggressiveness or low commitment to the
+market. Managers form these perceptions in part on the
+basis of the entrant’s behavior, creating an opportunity for
+wileyonlinelibrary.com/journal/smj
+Copyright © 2017 John Wiley & Sons, Ltd.
+1LUOMA
+2
+ET AL .
+entrants to adjust their entry strategies in a manner that
+demotivates strong competitive responses.
+KEYWORDS
+behavioral strategy, competitive dynamics, experimental
+study, market entry, pricing
+1 | I N T R O D U C T I ON
+Entering an existing market involves balancing two goals. On the one hand, it is desirable to enter a
+market with a “big splash,” that is, to grow market share quickly and enjoy the associated positive
+feedback effects, such as “learning by doing, scale economies, network effects, information conta-
+gion, and the accumulation of complementary assets” (Sterman et al., 2007, p. 684). On the other
+hand, entrants would like to avoid the “waves” associated with a big splash, that is, the strong, pos-
+sibly devastating competitive reactions by incumbents. These goals are often seen as contradictory;
+entrants must choose between making a high-impact entry and minimizing the likelihood of a coun-
+terattack (Chen & Hambrick, 1995; Chen, Smith, & Grimm, 1992; Chen, Su, & Tsai, 2007).
+This study explores the possibility that this trade-off may not be that clear-cut. Indeed, prior the-
+oretical arguments suggest that highly impactful market entry strategies may sometimes deter
+incumbent firm counterattacks (e.g., Fan, 2010; McGrath, Chen, & MacMillan, 1998; Wang &
+Shaver, 2014). Consequently, we ask if and how a firm might be able to dampen the waves associ-
+ated with a big splash market entry. And, if they can, what are the cognitive mechanisms underlying
+a weakened competitive response of the incumbent?
+We explore these issues in the context of entry pricing, focusing on what determines incumbent
+responses to a new competitor’s low-price market entry strategy (LPMES). Entering a market with a
+below-market price is appealing, as a low price offers a clear signal of economic advantage over the
+incumbents’ offerings, thus inducing customer switching and fueling rapid sales and market share
+growth (e.g., Spann, Fischer, & Tellis, 2015). However, incumbents can easily spot the low price
+and are likely to perceive it as threatening. As retaliatory price cuts are easy to implement, incum-
+bents tend to rapidly cut prices in response to low-price market entries (Debruyne, Moenaertb, &
+Griffinc, 2002; Kuester, Homburg, & Robertson, 1999), thus countering the intended positive effects
+of an LPMES (McCann & Vroom, 2010; Simon, 2005).
+Apart from that, managers’ assessments of the entrant’s longer-term behavioral intentions might
+also affect the incumbent’s competitive responses. In particular, we predict that managers are likely
+to be less motivated to attack entrants who are expected to act aggressively in the market (e.g., Fan,
+2010), due to a fear of triggering a destructive “race to the bottom.” Conversely, managers are more
+prone to attack entrants perceived as committed to the market (e.g., Heil & Walters, 1993), due to
+the belief that such entrants present a long-term competitive threat unless dealt with immediately.
+Thus, the incumbent’s response may be mitigated if the entrant succeeds to foster perceptions high
+aggressiveness or low commitment. An experiment with 656 managers supports these predictions. A
+replication study with 1,070 university students reveals a qualitatively similar pattern of results.
+Our study also illuminates how the entrant might be able to influence the incumbent’s percep-
+tions of aggressiveness and commitment. Building on the cue approach (e.g., Chen & MacMillan,LUOMA ET AL .
+3
+1992; Marcel, Barr, & Duhaime, 2011), we assume that cues embedded in the actions of the entrant
+may shape incumbent firm managers’ information processing, and hence, their perceptions concern-
+ing the entrant. In particular, our experiments test how four alternative LPMESs (i.e., penetration
+pricing, introductory pricing, price-matching guarantees [PMG], and bonus pricing) affect man-
+agers’ perceptions of entrant aggressiveness and commitment. In the manager sample, participants
+perceive entrants using introductory pricing and PMGs as more aggressive than entrants using pene-
+tration pricing. In turn, managers tend to interpret bonus pricing as a signal of low commitment to
+the market. These signaling effects help introductory pricing, PMGs and bonus pricing to call forth
+milder competitive responses than penetration pricing. However, these effects disappear in the stu-
+dent sample. Managers’ interpretive frameworks—that determine their “reading” of the embedded
+cues—thus appear to develop through experience (e.g., Heil & Robertson, 1991).
+Our study makes three contributions to strategic management research and practice. First, the
+results show how an entrant might mitigate the strength of the incumbent firm’s response, without
+necessarily reducing the degree of market penetration. A “big splash, no waves” strategy discour-
+ages hostile incumbent reactions by signaling high aggressiveness or low commitment. This finding
+also adds to an emerging understanding of why firms sometimes decide against (strong)
+counterattack-type responses to significant competitive threats (e.g., Wang & Shaver, 2014). Second,
+our results clarify the cognitive mechanisms underlying incumbents’ competitive reactions to market
+entry. Our empirical findings indicate that incumbents respond not only to (perceived) marketplace
+consequences of the entry (e.g., Chen & Miller, 1994; McCann & Vroom, 2010; Simon, 2005), but
+simultaneously consider longer-term behavioral intentions of the entrant (i.e., aggressiveness and
+commitment). We extend previous literature by elaborating on how these considerations differ theo-
+retically as well as by showing how they can be disentangled empirically (e.g., Chen et al., 2007;
+Fan, 2010). Finally, we show how seemingly minor changes in the entry strategy (e.g., coupling a
+low entry price with a PMG) can serve the function of cuing the incumbent about the entrant’s
+behavioral intentions. We complement prior research on competitive cueing (see, e.g., Marcel et al.,
+2011), by offering a more direct empirical testing of the cueing effects, but also by showing that the
+effectiveness of cues-embedded-in-actions may depend on the prior experiences of the responding
+firm’s managers, giving rise to the possibility of cue misinterpretation (Zajac & Bazerman, 1991).
+2 | R ESE AR CH FR AM EWORK
+2.1 | A behavioral view of competitive reasoning
+Our research takes a behavioral view (see, e.g., Powell, Lovallo, & Fox, 2011) on competition.
+Behavioral studies of competition examine how managers’ cognitive processes are impacted by
+competitive dynamics in the market, and how the outcomes of these cognitive processes, in turn,
+shape managers’ decisions about competitive actions (see, e.g., Kilduff, Elfenbein, & Staw, 2010;
+Luoma et al., 2017). We focus on how managers form beliefs about the likely behaviors of their
+competitors—a process sometimes called competitive reasoning (e.g., Montgomery, Moore, &
+Urbany, 2005)—and how those beliefs influence subsequent competitive actions.
+Traditional game theoretical models of competition implicitly assume that competitive reasoning
+is a relatively unproblematic process as long as the managers have access to information about the
+payoffs of different action options available to the competitor (Chen & MacMillan, 1992). However,
+behaviorally oriented research shows a more nuanced story. For instance, the ability to foresee com-
+petitive (inter-) actions is not a given, but an ability that accumulates over time as competitors comeLUOMA
+4
+ET AL .
+to know each other through repeated encounters in shared product markets (Tsai, Su, & Chen,
+2011). A signaling perspective to competition also argues against managers as purely rational
+decision-makers. For instance, bluffs such as announced but non-materialized new product launches
+may successfully confuse competitors (Prabhu & Stewart, 2001). Accordingly, a focal firm may be
+able to exploit the cognitive vulnerabilities associated with bounded rationality and discourage a
+rival firm actions by influencing the rival’s assessment of the focal firm’s behavioral intentions.
+2.2 | Determinants of incumbent firm reactions
+We assume incumbent firm’s managers incorporate two considerations into their decisions concern-
+ing competitive response to market entry (see Figure 1). First, managers consider the likely short-
+term consequences of the entry. Generally, a competitive response is more likely when the expected
+negative impact of a rival’s action is large (e.g., Chen et al., 2007; McCann & Vroom, 2010; Simon,
+2005). The purpose of the competitive response is to nullify or mitigate that negative impact. In the
+market entry context, incumbents try to forecast the extent to which the market entry affects their
+business. These inferred, but not realized, consequences of the entry capture managers’ beliefs about
+the potential loss in sales and market share due to the new market entry—if the incumbent does not
+respond (e.g., Chen & Miller, 1994).
+Second, managers’ decisions regarding competitive reactions to market entry are based on rea-
+soning about the entrant’s longer-term behavioral intentions (including potential counter-reactions).
+As indicated above, this process probably lacks the sophistication of game-theoretical models, and
+in all likelihood, managers tend not to incorporate recent insights from competitive dynamics
+research in their competitive reasoning (e.g., Coyne & Horn, 2009). Yet, we assume, managers are
+not entirely blind to their competitors’ intentions and actions either.
+More specifically, managers’ competitive reasoning likely focuses on two behavioral traits that
+capture important expectations concerning the entrant’s future behavior in the market: aggressive-
+ness and commitment. These general behavioral tendencies of the entrant provide heuristic guidance
+for the incumbent’s response decision-making (cf. Duarte, Siegel, & Young, 2012). In general, man-
+agers tend to view competitive actions in which the ratio of incumbent cost to entrant benefit is
+high, or when the entrant shows willingness to sacrifice profits to beat competitors, as signals of
+competitive aggressiveness (Fan, 2010; Heil & Robertson, 1991; Hultink & Langerak, 2002; Lump-
+kin & Dess, 1996). An action sends a signal of commitment, in turn, when the receiver believes the
+Context of entry strategy
+Aggressiveness
+-
+Cues embedded
+in the entry
+strategy
+Entrant-, customer- and incumbent-
+related contextual factors
+FIGURE 1
+Theoretical model
++ Incumbent firm
+reaction
++ Price response
+Commitment
+ConsequenceLUOMA ET AL .
+5
+sender will “stick to its market action” (Heil & Walters, 1993, p. 56; Hsieh, Tsai, & Chen, 2015)—
+in our case, the market entry.
+While commitment clearly points to behavioral intentions (Chen, 1996; Chen & MacMillan,
+1992; McGrath et al., 1998), literature sometimes understands aggressiveness in behaviorist terms,
+for example, as the frequency or speed of competitive actions (e.g., Chen, Lin, & Michel, 2010;
+Nadkarni, Chen, & Chen, 2016). However, aggressiveness, like commitment, is not only a charac-
+terization of behavior in a certain point in time, but a trait-like concept that captures propensity to
+(re-) act in certain ways in the future. This conceptualization of aggressiveness is also in line with
+that found in psychology (Carré, McCormick, & Mondloch, 2009). It is precisely this future-
+pointing nature of the entrant’s perceived aggressiveness and commitment that renders them effica-
+cious in shaping the actions of the incumbent.
+A key contribution of our work is to disentangle the three perceptual threat dimensions pertain-
+ing to market entry (i.e., perceived aggressiveness and commitment of the entrant, and the perceived
+consequence of the entry), and to elaborate on their differential theoretical logic and the effects they
+have on the incumbent’s response. Extant literature rarely makes clear distinctions between them.
+For example, scholars often use variables such as volume or scale of attack as predictors of competi-
+tive responses; such predictors are taken as indicators of aggressiveness (Fan, 2010), commitment
+(McGrath et al., 1998), or consequence (Chen et al., 2007), depending on the study. We maintain
+that all three perceptual dimensions are impacted by the entry, and all three influence the ensuing
+competitive response of the incumbent.
+2.3 | Cues embedded in the entry strategy
+Our empirical study also explores the antecedents of perceived aggressiveness, commitment, and
+consequences. We build on what Marcel et al. (2011, p. 117) call the “cue approach,” that is, the
+assumption that the focal firm’s “competitive actions contain embedded signals that other firms must
+process and evaluate.” Consequently, we test whether cues embedded in the actions of the entrant
+(i.e., characteristics of the selected market entry strategy) have the potential to shape the incumbent
+managers’ perceptions concerning the entry and the entrant’s behavioral intentions, and conse-
+quently, their competitive response. The plausibility of this general proposition is indicated by prior
+empirical work that has associated, for example, different action characteristics with the likelihood
+of response (Chen & MacMillan, 1992), and consequent survival likelihood of the initiating firm
+(Fan, 2010). The proposition is further reinforced by research showing the ability and tendency of
+people to infer each other’s behavioral intentions and traits on the basis of relatively subtle cues
+(Carré et al., 2009; Duarte et al., 2012). We also examine entrant-, customer-, and incumbent-related
+contextual factors that may influence the incumbent’s response, most important, by affecting the
+interpretation of the cues embedded in the entrant’s actions (Kuester et al., 1999).
+Cues embedded in the entry strategy can influence both deliberate and intuitive reasoning of
+incumbent firm managers concerning the likely consequences of the entry, and the behavioral inten-
+tions (i.e., aggressiveness and commitment) of the entrant (e.g., Evans, 2008; Evans & Stanovich,
+2013; Kahneman, 2003). Intuitive reasoning encompasses mental processes such as associative pat-
+tern matching (Gawronski & Bodenhausen, 2006), whereby behavioral cues are subconsciously
+associated with certain expectations regarding future behavior (e.g., aggressiveness). Such associa-
+tions are embedded in semantic networks, which organize knowledge in the long-term memory
+(Atkinson & Shiffrin, 1968). The basis for such knowledge, in turn, is found in an individuals’ own
+direct experiences as well as indirect experiences, stemming from observing or hearing about the
+competitive behaviors of other firms and managers. Managers may also use tacit heuristics to inferLUOMA
+6
+ET AL .
+the entrant’s likely intentions on the basis of cues embedded in the entrant’s actions. For example,
+using the so-called representativeness heuristic (Kahneman & Tversky, 1972), the manager may
+ascribe certain behavioral intentions to the entrant because their manifest behavior “fits” the man-
+ager’s mental image of a certain kind of competitor (e.g., a firm committed to the market). Finally,
+the incumbent firm manager might try to consciously step “in the shoes” of the entrant (Tsai et al.,
+2011, p. 762) in order to understand why the entrant has chosen an entry strategy. This process
+hinges on individuals’ ability to “mentalize,” which Gallagher et al. (2002, p. 814) defined as “our
+ability to explain and predict the behavior of others by attributing independent mental states, such as
+thoughts, beliefs, desires, and intentions, different from our own.” Through such a process, man-
+agers reason backward from the actions of the entrant to form an understanding of their (latent)
+behavioral intentions (leading to the manifest actions).
+3 | HYPOTHESES
+The perceived aggressiveness of the entrant is likely to reduce the strength of the incumbent’s
+response to a low-price market entry. This should hold, as managers are less motivated to take
+action against a rival who is expected to respond aggressively (e.g., Chen & MacMillan, 1992). As
+Amit, Domowitz, and Fershtman (1988, pp. 432–433) put it, “if the firm knows that any price
+decrease will be matched by the competitor, it has no reason to reduce prices since profits will be
+lost.” Similarly, Chen’s (1996) seminal work on competitor analysis proposed that rivals with high
+degree of market overlap or similar resource profiles will be unlikely to attack one another because
+of a mutual motivation and capability to respond, should one launch an attack against the other. A
+reciprocal threat of retaliation is also a central mechanism behind the “mutual forbearance” hypothe-
+sis (Heggestad & Rhoades, 1978) in the multimarket competition literature (e.g., Baum & Korn,
+1996; Gimeno & Woo, 1996).
+Building on this logic, to the extent the managers of the incumbent firm believe the entrant to
+behave aggressively, they are likely to predict that the entrant will be responsive to any competitive
+moves taken against them (e.g., Fan, 2010, p. 24; Lumpkin & Dess, 2001, p. 431). This implies a
+belief that the intended effect of a strong competitive response (e.g., protection of the incumbent’s
+market share) will be nullified by the entrant’s subsequent response (e.g., a matching or “see-and-
+raise” type counter-reaction). Thus, retaliation is pointless (Wang & Shaver, 2014). Looking further
+ahead, the incumbent might decide against such a move out of fear of a “destructive all-out war”
+(McGrath et al., 1998, p. 724). Consequently, perceived competitive aggressiveness will reduce the
+incumbent’s motivation to slash prices. Thus,
+Hypothesis 1 (H1) The greater the perceived aggressiveness of the entrant, the weaker
+the incumbent firm manager’s price response.
+The likely impact of perceived commitment on the incumbent firm’s price response to entry is
+the opposite compared to the effect of perceived aggressiveness. In general, the chance of exit after
+an entry is high (e.g., Robinson & Min, 2002). From a profit-seeking standpoint, it is reasonable to
+refrain from responding to a new competitor in the hopes that the entrant will exit the market after
+disappointing performance feedback, or due to the depletion of resources needed to operate in the
+market during the phase when the enterprise is not yet profitable. A strong price reaction to a com-
+petitor who is just “passing through” will permanently affect the incumbent’s profitability because a
+subsequent price increase may be hard to justify to customers. Thus, if the managers of theLUOMA ET AL .
+7
+incumbent firm perceive the entrant as not committed, they may expect the competitive threat to be
+transient, which motivates them to refrain from cutting prices. On the contrary, a committed entrant
+presents a persistent threat that calls for immediate action (Hultink & Langerak, 2002).
+Additionally, mimetic isomorphism might lead the incumbent firm managers to reinforce their
+own mental commitment to a market upon witnessing other committed firms in the market (Hsieh
+et al., 2015). Contagiousness of commitment is supported, for example, by Greve’s (1995) study of
+strategy abandonment among U.S. radio stations. Heightened commitment to the market may, in
+turn, motivate competitive actions that help the incumbent maintain their hold of the market. This
+may further increase the positive association between perceived commitment and the intensity of the
+incumbent’s price response. Therefore,
+Hypothesis 2 (H2) The greater the perceived commitment of the entrant, the stronger
+the incumbent firm manager’s price response.
+In addition to the depicted effects of perceived aggressiveness and commitment on incumbent
+managers’ price reactions, managers will be more motivated to cut prices if the perceived conse-
+quences of the entry are high. A reciprocal price cut that mitigates the incumbent’s loss of sales can
+be a rational move for two reasons. One the one hand, a price cut may help preserve the firm’s scale
+of operations and its associated efficiency and bargaining advantages, which in turn, translate into
+higher contribution margins. On the other hand, a price cut may preserve absolute profits, even if
+this comes at the cost of contribution margins. This logic is in line with prior pricing research
+emphasizing the rational reasoning behind competitive response decision- making (Simon, 2005).
+Besides these rational reasons, managers will be interested in organizational size in its own right,
+whether or not this is consistent with the principle of profit maximization (e.g., Greve, 2008).
+Finally, highly consequential market entries are likely to reinforce subjective perceptions of rivalry
+(Kilduff et al., 2010); in a rivalrous mindset, managers selectively focus on evaluating their perfor-
+mance relative to their chief competitors and overemphasize beating them (Kalra & Soberman,
+2008). As a result, managers may employ (overly) aggressive pricing actions (Armstrong & Col-
+lopy, 1996). Overall, this line of reasoning suggests that
+Hypothesis 3 (H3) The greater the perceived consequence of the entry, the stronger
+the incumbent firm manager’s price response.
+4 | E M P I R I C A L RE S E A R C H
+4.1 | Overview of the experimental approach
+We tested our hypotheses in an experimental setting with managers as study participants. Our
+hypotheses require capturing managers’ perceptions concerning the entry and the entrant as well as
+the decisions made on the basis of those perceptions. This is challenging, especially using the domi-
+nant methodological approaches in competitive dynamics. Prior research on incumbent response to
+entry mostly relies on secondary data (e.g., Simon, 2005), as does competitive dynamics research
+more generally. In studies based on observational, secondary data, it is difficult to capture manage-
+rial cognitions. They need to be inferred from informational sources such as annual reports or news
+items, which contain a lot of noise, and potentially, bias. While a survey study could overcome this
+problem (e.g., Kuester et al., 1999)—a retrospective evaluation of specific (past) entries by8
+LUOMA
+ET AL .
+incumbent firm managers might be biased, too (Golden, 1992). However, while an experimental
+approach helps address these limitations, this may come at the cost of reduced external validity. To
+improve external validity, we decided to recruit experienced managers in the study, most of whom
+had been responsible for a recent pricing decision in their firms. This increases the likelihood that
+their responses reflect what they would do in an actual business situation (Shah & Swaminathan,
+2008: 477).
+4.2 | Manipulations
+Besides testing our hypotheses, we also use the experiment to examine how cues embedded in the
+LPMES of the entrant, or the broader context of the market entry, influence the manager’s beliefs
+concerning the future behavioral intentions of the entrant (i.e., aggressiveness and commitment) as
+well as the perceived consequence of the entry. In order to enhance the external validity of our find-
+ings, we construct the LPMES-related manipulations on the basis of managerial experience, rather
+than by designing hypothetical entry strategies with cues embedded to maximize effect sizes. To
+achieve this, we conducted a qualitative pre-study encompassing 15 telephone interviews and mail
+surveys of 42 seasoned managers. Based on the insights gained from the qualitative pre-study, we
+focus on the effects of penetration pricing (i.e., an entry with a price that is lower than the current
+market price) (e.g., Spann et al., 2015), and its three major alternatives: introductory pricing, PMGs,
+and bonus pricing. Details of the pre-study are available in Appendix S1.
+First, introductory pricing sets an exceptionally low promotional price for a limited and prean-
+nounced time. When the time period ends, prices increase toward the market-price level. Second,
+when issuing a PMG, a firm promises to refund money to customers if they find a cheaper price for
+the product elsewhere (Dutta, Biswas, & Grewal, 2011). Finally, bonus pricing is a market entry
+strategy in which firms do not lower the absolute price level, but lower the relative price by increas-
+ing product value through a “bonus” (e.g., larger package size).
+While we do not present formal hypotheses about the effects of alternative LPMESs on the
+threat perceptions of the incumbent, it is plausible that the different variants of the LPMES may
+embed cues about aggressiveness and commitment of the entrant, or the likely consequences of the
+entry, which in turn shape the incumbent’s competitive responses. For example, when compared
+with penetration pricing, PMGs provide additional cues that should reinforce the manager’s percep-
+tion of aggressiveness. The public announcement to undercut competitors’ price signals to the mar-
+ket that the firm wishes to beat competitors whenever a customer is considering a purchase,
+regardless of the profit implication. A PMG clearly prioritizes winning the competition over profits,
+which is well aligned with the notion of aggressiveness. It is true that the use of PMGs may increase
+equilibrium prices (Edlin & Emch, 1999). That is, PMGs promote non-aggressive behaviors ex post.
+However, they do this precisely because they signal aggressiveness ex ante (Amit et al., 1988).
+Conversely, bonus pricing should mask the aggressiveness of the entrant to a certain extent.
+While in terms of unit prices, bonus pricing may be just as aggressive as penetration pricing, man-
+agers need to perform conscious mental calculations to reveal that fact. Consequently, the cognitive
+accessibility of the aggressiveness trait in the mind of the responding firm’s manager should be
+lower if the entrant uses bonus pricing (for a discussion about accessibility, see Kahneman, 2003,
+p. 699). As bonus pricing is not automatically associated with aggressiveness, managers are less
+likely to judge the entrant as possessing this behavioral trait.
+Finally, incumbents might perceive introductory pricing as a sign of commitment. This should
+hold as introductory pricing makes explicit references to the longer-term plans of the entrant in theLUOMA ET AL .
+9
+market (i.e., future price increases). This talk about future actions in the market makes sense only
+insofar as the entrant expects to stay committed to the market.
+Our manipulations hold unit prices constant across the LPMESs. The exception is introductory
+pricing, for which a comparable unit price cannot be determined unambiguously. The time dimen-
+sion in introductory pricing makes it impossible to make unit price comparisons because the realized
+unit price depends on customers’ timing of purchase. 1 At any rate, even in the cases where unit
+prices are equal, the (perceived) consequences of the LPMESs may differ. For example, when cus-
+tomers recognize a new supplier offering a PMG, they might expect that this will lead to further
+price cuts in the future. Consequently, customers could delay their purchase decisions, causing the
+(short-term) consequence of the entry to diminish (Horsky, 1990). However, if customers think more
+strategically, as discussed above, and expect a PMG to foster higher equilibrium prices, they will
+not delay their purchase decision. Bonus pricing, in turn, might lead to lowered perceived conse-
+quence, if the managers believe that customers experience diminishing marginal utility from obtain-
+ing a greater quantity of the same product.
+Apart from the LPMESs themselves, we also manipulate the context surrounding the entrant’s
+entry strategy. From a theoretical standpoint, the goal of these manipulations is to check whether
+our results concerning LPMESs are contingent on major determinants of the entrant or incumbent
+success in the market (Debruyne et al., 2002). Building on prior research, we manipulate contextual
+conditions related to the entering firm (innovativeness), customers (price sensitivity), and the incum-
+bent (market share). For example, Kuester et al. (1999) found that the innovativeness of the entrant’s
+product was associated with a weakened price response, but a strong reaction in the product dimen-
+sion (e.g., product improvements). However, given that our experimental setup considers exclusively
+pricing responses, we expect innovativeness to elicit stronger price responses (Robinson, 1988), in
+line with the expectancy-valence framework (e.g., Chen & Miller 1994). In a similar vein, we expect
+price sensitivity to strengthen the incumbent’s response (Kuester et al., 1999). Price sensitivity
+affects competitive interaction because it defines the ease with which they change to a newly intro-
+duced and cheaper product. Finally, the incumbent’s market share may reduce the strength of its
+price retaliation after the entry of a new competitor (Kuester et al., 1999). It is likely that the relative
+size of the incumbent makes profitability goals more salient, in comparison to organizational size
+goals, in line with the sequential allocation of attention hypothesis in the behavioral theory of the
+firm (Greve, 2008).
+4.3 | Experimental design and procedure
+We developed a 4 (entrant’s LPMES) × 2 (entrant’s relative product innovativeness) × 2 (incum-
+bent’s market share) × 2 (customers’ price sensitivity) full factorial between-subjects experimental
+design, leading to 32 (= 4 × 2 × 2 × 2) different scenarios. The design of the experiment was
+guided by an experimental pre-study with 248 graduate and MBA students. The pre-study used the
+pharmaceutical industry as the context of entry. From preliminary data analyses, external feedback,
+and discussions within the research team, we decided to change the industry to reduce the likelihood
+that competitive responses would be anchored by the managers’ experience with the industry as
+consumers.
+We asked the participants to imagine that they were the incumbent firm’s product manager for
+Alpha, a fictional brand for specialized screws purchased by both corporate and individual cus-
+tomers. We told participants that Alpha was faced with a new competitor Beta that prepared to enter
+1
+We thank two anonymous reviewers for helping us see this point.10
+LUOMA
+ET AL .
+the market. We also told participants that the incumbent was currently selling one box containing
+two screws for €1.99 and that the firm profited considerably from this product. The participants
+were told that Alpha would use an LPMES, the specifics of which were varied.
+We chose the setting to be a market for specialized screws because it represents a mass-market
+product for which scale economies are likely to be important. In this setting, the incumbents are
+motivated to protect their sales volumes, even at the cost of profit margins per product sold. For the
+same reasons, an LPMES is a realistic option for the entrant (Noble & Gruca, 1999; Tellis, 1986),
+enhancing the realism of the experimental setup. Moreover, the chosen industry is intended to repre-
+sent a context with a relatively low level of product differentiation (i.e., a mature market with a mar-
+ket price). The purpose of this is to provide a cue to the managers that the entrants are head-to-head
+competitors of the incumbent firm, in the spirit of prior competitive dynamics literature
+(e.g., Ferrier, 2001).
+In the penetration pricing condition, the entrant set a price of €1.39 for a box of two screws.
+Thus, the penetration pricing scenario promoted a unit price significantly below the unit price of
+Alpha (€.69 versus €.99). In the introductory pricing condition, the entrant charged €.99 for a box
+of two screws during a promotional period of four weeks before raising prices to €1.79. A simple
+average resulted in an average unit price of €.69. In the PMG condition, the entry price was €1.39
+for a box of two screws. In addition, we indicated that the entrant guaranteed a refund (i.e., the dif-
+ference between the entrant’s and the competitor’s price) in case customers found a similar competi-
+tor offering for a lower price. In the bonus pricing condition, the entrant charged €1.99 for a box of
+three screws, thus offering one more screw than the incumbent’s offering. In other words, the entrant
+increased package size by 50%, thereby setting a unit price of €.66.
+With respect to the contextual conditions, we first manipulated the entrant’s relative product
+innovativeness as similar or superior. In the similar innovativeness condition, the competitor’s prod-
+uct did not offer more benefits than the incumbent’s product. In the superior innovativeness condi-
+tion, the entrant’s product offered an improved screwing mechanism and slipping protection as
+additional benefits. Second, Alpha’s market share before market entry could be either low or high
+(“Your company currently has a small [large] share of the market for specialized screws”). Third,
+customers’ price sensitivity could be either low (“Based on prior market research you know that
+price is a minor determinant for consumers when buying a specialized screw”) or high (“Based on
+prior market research you know that price is a major determinant for consumers when buying a spe-
+cialized screw”). Thus, each participant faced an LPMES scenario characterized by a combination
+of these contextual conditions (see Appendix S1 for the scenario descriptions).
+After presenting the scenario, we asked participants to decide a competitive response along the
+price dimension of the competitive repertoire. In addition, we measured the managers’ perceptions
+concerning aggressiveness, commitment, and consequence to obtain evidence about the behavioral
+mechanisms underlying the incumbent’s competitive response and to test our corresponding hypoth-
+eses. Finally, we assessed a set of control variables.
+4.4 | Sample
+We relied on a commercial data provider to recruit participants currently employed as managers in
+marketing and management positions in different industries (Crilly, Ni, & Jiang, 2016). The data
+provider invited selected members of its online panel to participate in the study. The data provider
+company compensated participants with a standard fee after the completion of the study.
+Performance-based pay was not used because it is not possible to determine an objectiveLUOMA ET AL .
+11
+performance criterion in the situation depicted by the experiment (cf. Artinger & Powell, 2016;
+Cain, Moore, & Haran, 2015).
+The study was conducted in Germany in 2014. Filter questions ensured that only managers with
+work experience of more than one year could participate. Overall, 656 managers participated in our
+study (69% male). Participants’ average age was 44.3 years (median: 44 years), and they had on
+average 21.5 years of professional experience (median: 20.5 years). Participants had different func-
+tional backgrounds; most of them, however, held positions in marketing/sales (26%) and general
+(18%) or senior (13%) management, or were owners of the company/self-employed (12%). Finally,
+65% of the participants indicated having made pricing decisions at least once in the last year.
+Because of the high number of scenarios, each participant could volunteer to evaluate two alter-
+native scenarios, which we fully randomized across participants. There were 447 (209) participants
+who evaluated one scenario (two scenarios). We found no evidence of order effects in case of the
+evaluation of two scenarios. In addition, participants evaluating one or two scenarios did not differ
+in their composition with regard to gender (χ 2 (1) = 0.29, p = .59), functional background
+(χ 2 (7) = 9.28, p = .23), experience in their current position (χ 2 (4) = 4.87, p = .30), or responsibil-
+ity for a pricing decision at least once in the last year (χ 2 (1) = 0.24, p = .63). Thus, we pooled all
+evaluations of 865 entry scenarios in total.
+4.5 | Measures
+We capture the managers’ perceptions of aggressiveness and commitment of the entrant, and the
+perceived consequences of the entry using established scales. We assess perceived aggressiveness
+with three items adapted from Heil and Walters (1993), Hultink and Langerak (2002), and Robert-
+son, Eliashberg, and Rymon (1995). We measure perceived commitment with two items from Hul-
+tink and Langerak (2002). We measure the consequence of entry for the incumbent in terms of the
+potential loss in market share, revenue, and sales with three items adapted from Heil and Walters
+(1993) and Hultink and Langerak (2002). To measure the incumbent’s price response, we asked par-
+ticipants to indicate a price response in terms of the new price for a box of two screws (in €) in an
+open question (for their brand Alpha). Lower (higher) prices indicate stronger (weaker) incumbent
+firm responses.
+To test the reliability and validity of our measures, we ran an exploratory factor analysis that
+included all indicators. A clear factor pattern emerged. All indicators loaded highly (>0.76) on the
+expected factors (Gerbing & Anderson, 1988). Cronbach’s α’s were greater than 0.70 for all con-
+structs (Churchill, 1979). We also ran a confirmatory factor analysis for a measurement model that
+included perceived aggressiveness, perceived commitment, and perceived consequence. The results
+show that the measures exhibit desirable psychometric properties (Bagozzi & Yi, 1988). The overall
+model fit is good (CFI = 0.99, Tucker–Lewis index = 0.99, standardized root mean square residual
+= 0.02, RMSEA = 0.04). The average variance extracted is above 0.50 for all constructs (conver-
+gent validity), and above the relevant squared correlations between constructs (discriminant validity)
+(Fornell & Larcker, 1981). Scale items, factor loadings, and item reliabilities appear in Table 1.
+Table 2 reports descriptive statistics, correlations, and relevant reliability and validity measures for
+the constructs under investigation.
+4.6 | Manipulation and realism checks
+To check whether the manipulation was successful, we first asked participants to indicate the
+LPMESs they were confronted with from a list of the four alternative strategies. In total, 92% ofLUOMA
+12
+TABLE 1
+ET AL .
+Scale items for construct measures
+Construct (source)
+Factor loading a
+Item reliability b
+Perceived aggressiveness (Heil & Walters, 1993; Hultink & Langerak, 2002; Robertson et al., 1995)
+Beta’s market entry is very aggressive 0.83 0.59
+Beta’s primary goal is to acquire a large share of the market 0.81 0.77
+Beta’s entry is aimed to gain sales at my expense 0.76 0.43
+Perceived commitment (Hultink & Langerak, 2002)
+I believe Beta has invested a lot of time and energy in their market entry 0.88 0.47
+I believe managers at Beta have high expectations toward their product 0.83 0.75
+If Alpha would not react at all, Alpha would lose considerable market share 0.91 0.81
+If Alpha would not react at all, Alpha would lose revenue 0.94 0.95
+If Alpha would not react at all, Alpha would lose sales 0.91 0.82
+Perceived consequence (Heil & Walters, 1993; Hultink & Langerak, 2002)
+a Result of exploratory factor analysis.
+b Result of confirmatory factor analysis.
+participants checked the correct strategy, indicating a successful manipulation. We also checked for
+the manipulations of the context variables with three items (1 = do not agree, 7 = fully agree):
+“The competitive product is a substantial innovation compared to my product ‘Alpha’” (product
+innovativeness), “Price is an important decision criterion for customers in the market for specialized
+screws” (price sensitivity), and “‘Alpha’ currently has a small share in the market for specialized
+screws” (incumbent market share). All manipulation checks are significant in the intended direction,
+and point to large effects 2 : product innovativeness (M low = 2.52, M high = 5.36; F(1, 863) = 571.27,
+p = .00, η 2 = 0.40), incumbent market share (M small = 5.30, M large = 2.97; F(1, 863) = 359.65, p
+= .00, η 2 = 0.29), and price sensitivity (M low = 3.43, M high = 5.84; F(1, 863) = 404.93, p = .00,
+η 2 = 0.32). Finally, we also asked participants to indicate whether they perceived the scenario as
+realistic and easily imaginable (1 = do not agree, 7 = fully agree). The ratings on realism and ease
+of imagination are sufficiently high (M realism = 5.56; M ease of imagination = 5.78), and unaffected by
+their functional backgrounds (F(7, 648) = 1.34, p = .23, η 2 = 0.01; F(7, 648) = 1.64, p = .12,
+η 2 = 0.02).
+5 | RESULTS
+5.1 | Tests of hypotheses
+To test our hypotheses, we conducted structural equation modeling (SEM) with a maximum likeli-
+hood (ML) estimator using STATA 15.1. First, we estimated a model with perceived aggressiveness
+(H1), perceived commitment (H2), and perceived consequence (H3) as latent independent variables
+and the incumbent’s price response as the dependent variable. Second, we estimated another model
+in which we controlled for the entry strategy context by including three dummy variables for the
+entrant’s product innovativeness, customer price sensitivity, and the incumbents market share as
+well as for the entrant’s LPMES by including three dummy variables for introductory pricing, bonus
+pricing, and a PMG. Finally, as robustness check we estimated corresponding regression models
+An effect size of η 2 = 0.01 is considered “small”; η 2 = 0.06, “medium”; and η 2 = 0.14, “large” (Cohen, 1988, p. 284).
+2−0.08
+−0.01 −0.03
+1.00
+market
+disagree
+.10
+LUOMA ET AL .
+1314
+LUOMA
+ET AL .
+with an ordinary least squares (OLS) estimator and heteroscedasticity-robust standard errors (see
+Table 3). In the regression model, we used means across construct items to capture perceived
+aggressiveness, commitment, and consequence.
+When looking at the basic structural equation model, the results clearly show that the greater the
+perceived aggressiveness of the entry, the higher the incumbent’s chosen price level (B = 0.09, β
+= 0.31, p = .00). In other words, the response of the incumbent is weaker in situations where the
+perceived aggressiveness of the entrant is higher. Thus, we find support for Hypothesis 1. Results
+point to the opposite effect for perceived commitment: The greater the perceived commitment, the
+stronger the price response, that is, the lower the chosen price level (B = −0.06, β = −0.18, p
+= .00). Therefore, Hypothesis 2 is supported. In line with Hypothesis 3, an increase in perceived
+consequence leads to a stronger price response. The higher the perceived consequence, the lower the
+incumbent’s chosen price level (B = −0.09, β = −0.40, p = .00). The results with additional con-
+trol variables show that introductory pricing and bonus pricing diminish the incumbent’s responses,
+relative to penetration pricing, through mechanisms beyond those hypothesized or measured. The
+incumbent’s market share also reduces its price response. The entrant’s product innovativeness and
+customer price sensitivity, in turn, lead to stronger price responses through some mechanisms that
+are not captured by the constructs in Hypotheses 1–3. That being said, adding these control variables
+does not have a dramatic effect on the path or regression coefficients used to test Hypotheses 1–3,
+which reinforce our confidence in them.
+5.2 | Cues embedded in the entry strategy
+The four LPMESs foster different assessments concerning the entrant’s aggressiveness and commit-
+ment, which in turn, influence the incumbent firm’s competitive response. In other words, by introduc-
+ing relatively minor variations to the LPMES (e.g., coupling a low price with a PMG), the entrant may
+foster perceptions regarding themselves in the minds of the incumbent firm’s managers (e.g., high
+levels of aggressiveness), which subsequently de-motivate strong competitive responses to entry.
+More specifically, we assessed the impact of our manipulations (LPMES and the contextual vari-
+ables) on perceived aggressiveness, commitment, and consequence. For each of these dependent vari-
+ables, we computed planned contrasts between penetration pricing and the three other LPMESs. That
+is, penetration pricing was used as the benchmark for other LPMESs. We also ran a multivariate anal-
+ysis of variance (MANOVA) for the joint effects of the independent on the three dependent variables.
+We focus on the main effects and the two-way interactions between the LPMESs and the three con-
+text variables. We exclude higher-order interactions and interactions between the context variables. 3
+Including these interactions does not affect our theoretical conclusions, and only four out of these
+24 additional interactions are significant at p < .05. Table 4 presents the ANOVA and MANOVA
+results. Descriptive statistics in the different experimental conditions are indicated in Appendix S1.
+With respect to perceived aggressiveness, the results show a significant main effect for the
+entrant’s LPMES (F[3, 849] = 8.87, p = .01, η 2 = 0.03). Planned contrasts indicate that incumbents
+perceive introductory pricing as more aggressive than penetration pricing (contrast = 0.28; 95% con-
+fidence interval [0.05; 0.50]; F[1, 849] = 5.99, p = .01). The same holds for PMGs (contrast
+= 0.35; 95% confidence interval [0.13; 0.57]; F[1, 849] = 9.70, p = .00). The perceived aggressive-
+ness of bonus pricing is not significantly different from penetration pricing (contrast = −0.16; 95%
+confidence interval [−0.38; 0.07]; F[1, 849] = 1.91, p = .17).
+3
+We thank an anonymous reviewer for this suggestion.sensitivity:
+−0.08
+.00
+LUOMA ET AL .
+15LUOMA
+16
+ET AL .
+Incumbent’s perceived threat of market entry and price reaction depending on LPMES and the entry strategy
+context: ANOVA and Multivariate ANOVA results
+TABLE 4
+ANOVA: Dependent variable
+Perceived
+aggressiveness
+Multivariate ANOVA
+Perceived
+commitment
+p η 2 A: Entrant’s LPMES 8.87 .00 0.03 2.52 .06 0.01 1.42 .24 0.00 4.24 .00
+B: Entrant’s product
+innovativeness 0.03 .86 0.00 36.17 .00 0.04 10.01 .00 0.01 16.74 .00
+C: Customer price sensitivity 6.89 .01 0.01 2.79 .10 0.00 29.79 .00 0.03 10.00 .00
+D: Incumbent market share 2.15 .14 0.00 0.05 .82 0.00 1.43 .23 0.00 2.34 .07
+1.90 .13 0.01 1.64 .18 0.01 1.05 .37 0.00 2.08 .03
+F
+η 2
+F
+p
+η 2
+Wilks’s
+lambda F
+F
+Independent variables
+p
+Perceived
+consequence
+p
+Main effects
+Interaction effects
+A×B
+A×C 1.32 .27 0.00 0.39 .76 0.00 1.16 .32 0.00 1.40 .18
+A×D 0.07 .97 0.00 0.85 .47 0.00 0.62 .60 0.00 0.64 .76
+Note. Two-tailed tests, n = 865.
+The incumbent’s perception of the commitment of the entrant is marginally affected by the
+entrant’s LPMES (F[3, 849] = 2.52, p = .06, η 2 = 0.01). Planned contrasts show that the perceived
+commitment of the entrant is lower for bonus pricing than for penetration pricing (contrast = −0.28;
+95% confidence interval [−0.52; −0.05]; F[1, 849] = 5.54, p = .02). However, perceived commit-
+ment is not significantly different for introductory pricing (contrast = 0.01; 95% confidence interval
+[−0.23; 0.24]; F[1, 846] = 0.00, p = .96) or a PMG (contrast = −0.10, 95% confidence interval
+[−0.33; 0.14]; F[1, 846] = 0.63, p = .43). With regard to the perceived consequence of the entry,
+the results do not indicate a significant effect of the entrant’s LPMES (F[3, 849] = 1.42, p = .24,
+η 2 = 0.00). The same holds for all planned contrasts (p > .05). However, bonus pricing is perceived
+marginally less consequential than penetration pricing (contrast = −0.27; 95% confidence interval
+[−0.55; 0.01]; F[1, 846] = 3.50, p = .06). Some managers may expect that reducing unit prices
+through offering a bonus has a smaller effect on the sales than a price cut, due to the diminishing
+marginal utility effect on the demand side.
+No significant interactions were found between the LPMESs and contextual conditions tested.
+Thus, the salience of the cues of aggressiveness and commitment embedded in the alternative
+LPMESs does not depend on the contextual conditions tested.
+Finally, the main effects of the three entry context variables on managers’ threat perceptions are
+rather intuitive. The innovativeness of the entrant’s product positively affects the perceived commit-
+ment of the entrant (F[1, 849] = 36.17, p = .00, η 2 = 0.04). An innovative product is likely to be
+associated with greater subjective belief in the possibility of success. Knowing this, incumbent
+firm’s managers are likely to believe that the entrant is committed to the market. Innovativeness also
+affects perceived consequence of the entry (F[1, 849] = 10.01, p = .00, η 2 = 0.01). Customers’
+price sensitivity has a positive effect on the perceived aggressiveness of the entrant (F
+[1, 849] = 6.89, p = .01, η 2 = 0.01). Since the competitive instrument of the entrant is price in all
+manipulations, price sensitivity of the customers makes the aggressiveness of the entrant more
+salient. Customers’ price sensitivity is also associated with perceptions of high consequence (F
+[1, 849] = 29.79, p = .00, η 2 = 0.03). The incumbent’s market share does not significantly affect
+any of the threat perceptions (p > .10). However, market share diminishes the strength of theLUOMA ET AL .
+17
+incumbent’s response (Table 3), possibly because a high market share is reflected in a reduced
+salience of growth goals, and increased motivation to conserve margins (Greve, 2008).
+5.3 | Discussion of effect sizes and managerial impact
+It is also interesting to investigate the magnitude of effects we observe (e.g., Combs, 2010). 4 Most
+important, the results show that a firm that is successful in influencing the incumbent firm’s percep-
+tions of the entrant’s aggressiveness and commitment can substantially attenuate the intensity of the
+incumbent’s response to entry. The standardized path coefficients in the SEM are moderate at 0.27
+(aggressiveness) and −0.15 (commitment) in the model with all control variables (Table 3). The
+unstandardized coefficients indicate that a unit increase in perceived aggressiveness in terms of one
+Likert-scale point leads to about €0.08 decrease in the strength of the incumbent’s price response. A
+unit decrease in perceived commitment is associated with a reduction of response strength by
+€0.05. 5 A unit increase in perceived aggressiveness (or decrease in perceived commitment) leads to
+a 20% (13%) reduction in the intensity of the incumbent firm’s price response, compared to the aver-
+age price cut of €0.40.
+Since the effect sizes (see planned contrasts above) relating to the impact of the LPMESs on per-
+ceived aggressiveness and commitment are between 0.28 and 0.35, the choice of entry strategy can
+attenuate the incumbent’s price response by €0.01 to €0.03. This corresponds to about 4–7% attenu-
+ation of the incumbent’s price response. This effect size is not dramatic, yet quite intuitive given the
+subtlety of cues embedded in the LPMES-manipulations.
+When considering the effect sizes, it is important to note that an attenuation of the incumbent’s
+price response by just few percent from the average can have substantial implications for the entrant.
+This is because of the lessened future downward pressure on the entrant’s prices caused by the
+higher incumbent firm price. This has immediate economic implications for the entrant firm as well
+as longer-term implications for the industry in terms of reducing the likelihood of a price war
+(e.g., Heil & Helsen, 2001). The ability to avoid even small price drops can have substantially large
+effects on firm profits. Marn and Rosiello (1992) argued on the basis of COMPUSTAT data that a
+1% increase in price leads to an 11% increase in operating profits, other things being equal. Hinter-
+huber (2004) argued on the basis of a sample of Fortune 500 firms that a 5% increase in price leads
+to a 22% increase earnings before interests and taxes. Such gains in profitability are of great impor-
+tance for entrants during their early, precarious, and resource-scarce years in the market. Conse-
+quently, even seemingly modest effect sizes as indicated by our study can thus have significant
+economic implications for the entering firm. The choice between LPMESs matters.
+5.4 | Replication study with a student sample
+To investigate the robustness of our results, we conducted a second experiment with university stu-
+dents. 6 This experiment was essentially a replication of the experiment reported above. 7 We wanted
+to see which aspects of our theoretical model would replicate in a very different sample of
+4
+We thank an anonymous reviewer for directing our attention to this important matter.
+These effect sizes are slightly larger than those obtained with ordinary least squares regression: €0.05 and −€0.03.
+6
+We appreciate the comments of an anonymous reviewer who gave us the inspiration to collect these data.
+7
+Besides the pure replication, we also tested alternative operationalizations of introductory pricing (changing the duration of the pro-
+motion period, and the price level after the promotion period). Briefly, we found that the post-promotion price level significantly
+(marginally significantly) influences the perceived consequence of the entry (aggressiveness of the entrant). The duration of the pro-
+motion period does not have a significant main effect on any of the threat perceptions. Moreover, adding these manipulations to the
+data set when testing Hypotheses 1–3 does not change our conclusions. Detailed results will be provided by the authors on request.
+518
+LUOMA
+ET AL .
+participants. The replication is also interesting because researchers often rely on student samples to
+test hypotheses about managerial behavior (e.g., Gary, Wood, & Pillinger, 2012).
+We describe here only the most essential characteristics and findings of the replication study.
+The details of the experiment are available in Appendix S1. The student sample was collected using
+a commercial data provider in the spring of 2016. The usable sample size was 1,070 students with
+an average age of 23.6 years (median 23 years). The educational background of the students was
+heterogeneous, with 12% representing business.
+The results reveal that the hypothesized effects of perceived aggressiveness and commitment as
+well as the impact of perceived consequence were qualitatively similar to the results obtained with
+the manager sample. All relevant path coefficients in the structural equation models are statistically
+significant (in the regression models, the largest p = .05) with expected signs. Thus, the impact of
+perceived aggressiveness, commitment, and consequence on the incumbent firm’s price response is
+robust. It seems that people are relatively “hard wired” to guide their choice between confrontational
+versus evasive behaviors based on assessments of entrant’s behavioral traits and entry consequences.
+However, the effects of the alternative LPMES on perceived aggressiveness and commitment are
+not statistically significant (p > .10), whereas perceived consequence is shaped by the LPMES (F[3,
+1,051] = 3.80, p = .01, η 2 = 0.01). In other words, the students read the cues embedded in the
+LPMESs differently than managers.
+6 | D IS CU S S I ON A ND CO N CLU S I ON
+6.1 | Contributions
+Our study offers three contributions to strategic management scholarship and practice. First, this
+research illuminates how entrants can reduce the intensity of incumbent firm responses when using
+market entry strategies (e.g., LPMESs) intended to foster rapid sales growth. Our results suggest that
+entrants can do this by adjusting their entry strategies to signal high aggressiveness or low commit-
+ment. Since aggressiveness and commitment are distinct dimensions from the perceived conse-
+quence of the entry, the findings help understand why incumbents may sometimes decide against
+strong retaliatory moves, even when the entry is perceived as highly consequential (cf. Chen et al.,
+2007; Chen & Miller, 1994; Derfus et al., 2008). In so doing, the results advance our understanding
+of why firms sometimes decide against (strong) counterattack-type responses to significant competi-
+tive threats (e.g., Wang & Shaver, 2014; see also Keil, Laamanen, & McGrath, 2013).
+Second, we clarify the cognitive mechanisms underlying incumbent responses to market entry.
+The incumbent’s competitive response hinges on managers’ perceptions regarding the (short-term)
+sales and market share impact of the entry (i.e., perceived consequence). However, the incumbent
+firm managers also consider the longer-term behavioral intentions of the entrant (i.e., aggressiveness
+and commitment). While prior competitive dynamics literature in and outside the market entry con-
+text has considered these three perceptual domains, extant studies seldom view the constructs side
+by side (e.g., Chen & Miller, 1994; Fan, 2010; Ferrier, 2001; McCann & Vroom, 2010; McGrath
+et al., 1998). Our theoretical framework and hypotheses extend existing knowledge by carefully
+specifying the internal logic of the three perceptual threat constructs and elaborating on how they
+differ in terms of driving incumbent firm response. For example, it may seem contradictory that
+some studies associate forceful market entries with strong incumbent reactions (Chen & Miller,
+1994), while others have argued exactly the opposite (Fan, 2010). Our results clarify that different
+mechanisms are operative here; in the first instance, the responding firm acts on the basis ofLUOMA ET AL .
+19
+perceived consequence, while in the latter case, the perceived aggressiveness of the entrant drives
+response-related decision-making.
+Third, it is often assumed that firms’ competitive actions may embed cues that shape the respond-
+ing firm managers’ competitive reasoning, and consequently, their responses to competitive threats
+(e.g., Chen & MacMillan, 1992; Fan, 2010; McGrath et al., 1998); for example, an action may signal
+to the responding firm that the initiating firm is aggressive. However, such assumptions are seldom
+subjected to direct empirical tests (cf. Miller & Tsang, 2011), and are rather inferred from observa-
+tional data. Our experimental approach offers a way to directly test how embedded cues influence the
+cognitions of incumbent firm managers and their consequent competitive response decisions.
+We find some support for the cue approach. According to the empirical evidence, managers per-
+ceive entrants that used PMGs or introductory pricing as more aggressive than entrants that relied
+on penetration pricing. PMGs seem to possess an additional cue of aggressiveness likely caused by
+the conditional promise of further price cuts to win customers, regardless of profit impact. Similarly,
+introductory pricing displays the entrant’s willingness to sacrifice short-term profits for market
+share, a characteristic trait of an aggressive firm (Lumpkin & Dess, 1996). Introductory pricing also
+increases the cognitive salience of the price difference between the entrant and the incumbent, even
+if this remains transient. Conversely, relative to penetration pricing, managers perceive bonus pric-
+ing as a signal of low commitment. The use of bonus pricing might indicate the entrant’s attempt to
+differentiate from the incumbent by targeting a poorly catered segment of customers (i.e., customers
+wishing to purchase in larger quantities). Such evasive maneuvering could imply the entrant’s low
+commitment to meet the incumbent head on (Krider & Weinberg, 1998). These signaling effects
+helped PMGs, introductory pricing and bonus pricing to attenuate the incumbent’s response to entry.
+However, the follow-up experimental study with university students did not reproduce the effects of
+LPMESs on the threat perceptions of the incumbent. Different interpretations of the cues are not
+wholly surprising, given the general lack of business experience in the student sample. Experience
+seems central to the cognitive mechanisms that shape the incumbent firm’s managers’ interpretation
+of the cues embedded in the LPMESs.
+6.2 | Directions for future research
+Our study points to several future research opportunities. First, our work opens new avenues for
+explaining how and why competitors respond to competitive threats, or refrain from doing so. In
+particular, the distinctions we make between the perceptions concerning the entrant (in terms of
+aggressiveness and commitment) and consequences of the market entry add theoretical granularity
+to our understanding of the cognitive foundations of competitive response. Besides market entry
+contexts, this more granular view could help explain differences in the response propensities of
+firms in Red Queen-type rivalries (Derfus et al., 2008) as well as the build-up and maintenance of
+mutual forbearance in multimarket competition (Yu & Cannella, 2013).
+Second, our experimental results regarding the impact of LPMESs on perceived aggressiveness,
+commitment, and consequence raises interesting questions for future research. On the one hand, the
+results indicate that different variants (e.g., bonus pricing versus penetration pricing) of the same gen-
+eral entry strategy (i.e., low-price entry) can indeed induce cueing effects that shape incumbent firm
+managers’ cognitions, and consequently, their competitive response. We offered some potential rea-
+sons for the empirical results, but a more detailed measurement of cognitions would be needed to get
+to the bottom of the theoretical mechanics of the cueing effects observed. On the other hand, the dif-
+ferences in the results obtained with the manager and student samples calls attention to the fact that
+cueing effects are likely to be context-dependent. This should not come as a large surprise, given that20
+LUOMA
+ET AL .
+prior knowledge and experience are so important to the interpretation of marketplace signals. More
+generally, individual differences and contextual factors are likely to matter a great deal in determining
+how managers interpret the cues embedded in the actions of their rivals (cf. Cesario, 2014).
+Third, our research provides the basis for studying entry-related competitive actions as signaling
+tools vis-à-vis incumbents more generally. For instance, future research could seek to identify how
+competitive actions, beyond pricing, could be embedded with cues of aggressiveness or (the lack
+of ) commitment. Positioning a new product using superlatives such as “top of the line” or “best
+value” communicates value to customers. However, to incumbents, this also signals aggressiveness
+in a particular dimension of competition (e.g., quality, price/quality). Competition among incum-
+bents might also involve the use of such signals. However, this is more difficult, given that the firms
+know each other better.
+Fourth, our research shows that there is promise in studying competitive signaling from a behav-
+ioral perspective. While standard economic theory of signaling assumes that the senders and recipi-
+ents of competitive cues are fully rational, firms in fact “often misread each other’s signals”
+(Zajac & Bazerman, 1991, p. 45). For example, future research might explore potential signaling
+trade-offs. Prior research has hypothesized that building significant production capacity might signal
+aggressiveness to incumbent firms, which can, in turn, deter them from attacking the entrant (Fan,
+2010). However, the unintended effect of a large-scale production capacity could be that incumbents
+will also come to perceive the entrant as highly committed because of the associated irrecoverable
+costs, with exactly the opposite effect on the incumbent’s motivation to attack the entrant. Along
+these lines, it would be interesting to examine, from a cognitive perspective, what causes managers
+to treat an action as a one kind of signal instead of another. While our experimental evidence indi-
+cates that entrants might be able to signal high aggressiveness (or low commitment) without simulta-
+neously evoking perceptions of high commitment (or low aggressiveness), it would be interesting to
+look for additional evidence of this using other research designs (e.g., field studies, archival data).
+Finally, our experimental setup has several limitations that provide opportunities for future
+research. We evaluated incumbent firm managers’ perceptions using three dimensions: aggressive-
+ness, commitment, and consequence. Future studies could address additional aspects such as credi-
+bility (Robertson et al., 1995) and reputation (Prabhu & Stewart, 2001) of the entrant. It would also
+be interesting to compare the signaling effects produced by subtle behavioral cues (such as those
+embedded in the LPMESs) to not-so-subtle signals such as making large, irreversible resource com-
+mitments. The latter way of signaling is costly, and hence, should produce much larger and more
+robust signaling effects than those uncovered here to make normative sense. Additionally, other con-
+textual moderators influencing cue interpretation—for instance, market dependence (Chen & Miller,
+1994) or product market overlap (Chen, 1996)—would be interesting to consider. We also limited
+our experiment to one period, the incumbents’ initial responses. Future studies could examine sev-
+eral periods after market entry to analyze not only short-, but also long-term, effects of entry pricing.
+This could be achieved, for example, with the help of a simulated market environment (Chen et al.,
+2010). Understanding the longer-term effects of different competitive responses is important, not
+only for the involved firms, but also for competition authorities safeguarding consumer interests
+(Cattani, Porac, & Thomas, 2017).
+ACKNOWLEDGEMEN TS
+We are grateful for Tobias Kretschmer’s excellent guidance as the editor of our article. We also
+wish to acknowledge the invaluable work of three anonymous reviewers as well as Jan Klein’sLUOMA ET AL .
+21
+contribution to the data collection effort. Finally, the article benefited from the comments of the
+reviewers and audience at the Academy of Management Annual Meeting, Anaheim (CA), 2016.
+REFERENCES
+Amit, R., Domowitz, I., & Fershtman, C. (1988). Thinking one step ahead: The use of conjectures in competitor analysis. Strategic
+Management Journal, 9(5), 431–442.
+Armstrong, J., & Collopy, F. (1996). Competitor orientation: Effects of objectives and information on managerial decisions and profit-
+ability. Journal of Marketing Research, 33(2), 188–199.
+Artinger, S., & Powell, T. (2016). Entrepreneurial failure: Statistical and psychological explanations. Strategic Management Journal,
+37(6), 1047–1064.
+Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control processes. In K. W. Spence &
+J. T. Spence (Eds.), Psychology of learning and motivation (Vol. 2, pp. 89–195). New York, NY: Academic Press.
+Bagozzi, R. P., & Yi, Y. (1988). On the evaluation of structural equation models. Journal of the Academy of Marketing Science,
+16(1), 74–94.
+Baum, J., & Korn, H. (1996). Competitive dynamics of interfirm rivalry. Academy of Management Journal, 39(2), 255–291.
+Cain, D., Moore, D., & Haran, U. (2015). Making sense of overconfidence in market entry. Strategic Management Journal, 51(2),
+315–334.
+Carré, J. M., McCormick, C. M., & Mondloch, C. J. (2009). Facial structure is a reliable cue of aggressive behavior. Psychological
+Science, 20(10), 1194–1198.
+Cattani, G., Porac, J. F., & Thomas, H. (2017). Categories and competition. Strategic Management Journal, 38(1), 64–92.
+Cesario, J. (2014). Priming, replication, and the hardest science. Perspectives on Psychological Science, 9(1), 40–48.
+Chen, E. L., Katila, R., McDonald, R., & Eisenhardt, K. M. (2010). Life in the fast lane: Origins of competitive interaction in new
+vs. established markets. Strategic Management Journal, 31(13), 1527–1547.
+Chen, M.-J. (1996). Competitor analysis and interfirm rivalry: Toward a theoretical integration. Academy of Management Review,
+21(1), 100–134.
+Chen, M.-J., & Hambrick, D. (1995). Speed, stealth, and selective attack: How small firms differ from large firms in competitive
+behavior. Academy of Management Journal, 38(2), 453–482.
+Chen, M.-J., Lin, H., & Michel, J. (2010). Navigating in a hypercompetitive environment: The roles of action aggressiveness and
+TMT integration. Strategic Management Journal, 31(13), 1410–1430.
+Chen, M.-J., & MacMillan, I. C. (1992). Nonresponse and delayed response to competitive moves: The roles of competitor depen-
+dence and action irreversibility. Academy of Management Journal, 35(3), 539–570.
+Chen, M.-J., & Miller, D. (1994). Competitive attack, retaliation and performance: An expectancy‐valence framework. Strategic Man-
+agement Journal, 15(2), 85–102.
+Chen, M.-J., Smith, K., & Grimm, C. (1992). Action characteristics as predictors of competitive responses. Management Science,
+38(3), 439–455.
+Chen, M.-J., Su, K.-H., & Tsai, W. (2007). Competitive tension: The awarenss-motivation-capability perspective. Academy of Man-
+agement Journal, 50(1), 101–118.
+Churchill, G. A. (1979). A paradigm for developing better measures of marketing constructs. Journal of Marketing Research, 16(1),
+64–73.
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences (2nd ed.). New York, NY: Psychology Press.
+Combs, J. (2010). From the editors: Big samples and small effects: let’s not trade relevance and rigor for power. Academy of Manage-
+ment Journal, 53(1), 9–13.
+Coyne, K. P., & Horn, J. (2009). Predicting your competitor’s reaction. Harvard Business Review, 87(4), 90–97.
+Crilly, D., Ni, N., & Jiang, Y. (2016). Do-no-harm versus do-good social responsibility: Attributional thinking and the liability of for-
+eignness. Strategic Management Journal, 37(7), 1316–1329.
+Debruyne, M., Moenaertb, R., & Griffinc, A. (2002). The impact of new product launch strategies on competitive reaction in indus-
+trial markets. Journal of Product, 19(2), 159–170.
+Derfus, P. J., Maggitti, P. G., Grimm, C. M., & Smith, K. G. (2008). The red queen effect: Competitive actions and firm performance.
+Academy of Management Journal, 51(1), 61–80.
+Duarte, J., Siegel, S., & Young, L. (2012). Trust and credit: The role of appearance in peer-to-peer lending. Review of Financial Stud-
+ies, 25(8), 2455–2483.
+Dutta, S., Biswas, A., & Grewal, D. (2011). Regret from postpurchase discovery of lower market prices: Do price refunds help? Jour-
+nal of Marketing, 75(6), 124–138.
+Edlin, A. S., & Emch, E. R. (1999). Welfare losses from price-matching policies. Journal of Industrial Economics, 47(2), 145–167.
+Evans, J. S. B. T. (2008). Dual-processing accounts of reasoning, judgment, and social cognition. Annual Review of Psychology,
+59(1), 255–278.
+Evans, J. S. B. T., & Stanovich, K. E. (2013). Dual-process theories of higher cognition. Perspectives on Psychological Science, 8(3),
+223–241.22
+LUOMA
+ET AL .
+Fan, T. (2010). De novo venture strategy: Arch incumbency at inaugural entry. Strategic Management Journal, 31(1), 19–38.
+Ferrier, W. J. (2001). Navigating the competitive landscape: The drivers and consequences of competitive aggressiveness. Academy
+of Management Journal, 44(4), 858–877.
+Fornell, C., & Larcker, D. (1981). Structural equation models with unobservable variables and measurement error: Algebra and statis-
+tics. Journal of Marketing Research, 18(1), 39–50.
+Gallagher, H. L., Jack, A. I., Roepstorff, A., & Frith, C. D. (2002). Imaging the intentional stance in a competitive game. Neuro-
+Image, 16(3), 814–821.
+Gary, M., Wood, R., & Pillinger, T. (2012). Enhancing mental models, analogical transfer, and performance in strategic decision mak-
+ing. Strategic Management Journal, 33(7), 1229–1246.
+Gawronski, B., & Bodenhausen, G. V. (2006). Associative and propositional processes in evaluation: An integrative review of
+implicit and explicit attitude change. Psychological Bulletin, 132(5), 692–731.
+Gerbing, D., & Anderson, J. (1988). An updated paradigm for scale development incorporating unidimensionality and its assessment.
+Journal of Marketing Research, 25(2), 186–192.
+Gimeno, J., & Woo, C. Y. (1996). Hypercompetition in a multimarket environment: The role of strategic similarity and multimarket
+contact in competitive de-escalation. Organization Science, 7(3), 322–341.
+Golden, B. (1992). The past is the past—Or is it? The use of retrospective accounts as indicators of past strategy. Academy of Man-
+agement Journal, 35(4), 848–860.
+Greve, H. R. (1995). Jumping ship: The diffusion of strategy abandonment. Administrative Science Quarterly, 40(3), 444–473.
+Greve, H. R. (2008). A behavioral theory of firm growth: Sequential attention to size and performance goals. Academy of Manage-
+ment Journal, 51(3), 476–494.
+Heggestad, A. A., & Rhoades, S. A. (1978). Multi-market interdependence and local market competition in banking. The Review of
+Economics and Statistics, 60(4), 523–532.
+Heil, O. P., & Helsen, K. (2001). Toward an understanding of price wars: Their nature and how they erupt. International Journal of
+Research in Marketing, 18(1–2), 83–98.
+Heil, O. P., & Robertson, T. S. (1991). Toward a theory of competitive market signaling: A research agenda. Strategic Management
+Journal, 12(6), 403–418.
+Heil, O. P., & Walters, R. G. (1993). Explaining competitive reactions to new products: An empirical signaling study. The Journal of
+Product Innovation Management, 10(1), 53–65.
+Hinterhuber, A. (2004). Towards value-based pricing: An integrative framework for decision making. Industrial Marketing Manage-
+ment, 33(8), 765–778.
+Horsky, D. (1990). A diffusion model incorporating product benefits, price, income and information. Marketing Science, 9(4),
+342–365.
+Hsieh, K., Tsai, W., & Chen, M.-J. (2015). If they can do it, why not us? Competitors as points for justifying escalation of commit-
+ment. Academy of Management Journal, 58(1), 38–58.
+Hultink, E., & Langerak, F. (2002). Launch decisions and competitive reactions: An exploratory market signaling study. Journal of
+Product Innovation, 19(3), 199–212.
+Kahneman, D. (2003). A perspective on judgment and choice: Mapping bounded rationality. American Psychologist, 58(9), 697–720.
+Kahneman, D., & Tversky, A. (1972). Subjective probability: A judgment of representativeness. Cognitive Psychology, 3(3),
+430–454.
+Kalra, A., & Soberman, D. (2008). The curse of competitiveness: How advice from experienced colleagues and training can hurt mar-
+keting profitability. Journal of Marketing, 72(3), 32–47.
+Keil, T., Laamanen, T., & McGrath, R. G. (2013). Is a counterattack the best defense? Competitive dynamics through acquisitions.
+Long Range Planning, 46(3), 195–215.
+Kilduff, G. J., Elfenbein, H. A., & Staw, B. M. (2010). The psychology of rivalry: A relationally-dependent analysis of competition.
+Academy of Management Journal, 53(5), 943–969.
+Krider, R. E., & Weinberg, C. B. (1998). Competitive dynamics and the introduction of new products: The motion picture timing
+game. Journal of Marketing Research, 35(1), 1–15.
+Kuester, S., Homburg, C., & Robertson, T. S. (1999). Retaliatory behavior to new product entry. Journal of Marketing, 63(4),
+90–106.
+Lumpkin, G. T., & Dess, G. G. (1996). Clarifying the entrepreneurial orientation construct and linking it to performance. Academy of
+Management Review, 21(1), 135–172.
+Lumpkin, G. T., & Dess, G. G. (2001). Linking two dimensions of entrepreneurial orientation to firm performance: The moderating
+role of environment and industry life cycle. Journal of Business Venturing, 16(5), 429–451.
+Luoma, J., Ruutu, S., King, A., & Tikkanen, H. (2017). Time delays, competitive interdependence, and firm performance. Strategic
+Management, 37(1), 116–132.
+Marcel, J., Barr, P., & Duhaime, I. (2011). The influence of executive cognition on competitive dynamics. Strategic Management,
+32(2), 115–138.
+Marn, M. V., & Rosiello, R. L. (1992). Managing price, gaining profit. Harvard Business Review, 70(5), 84–94.
+McCann, B., & Vroom, G. (2010). Pricing response to entry and agglomeration effects. Strategic Management Journal, 31(3),
+284–305.LUOMA ET AL .
+23
+McGrath, R. G., Chen, M.-J., & Macmillan, I. C. (1998). Multimarket maneuvering in uncertain spheres of influence: Resource diver-
+sion strategies. Academy of Management Review, 23(4), 724–740.
+Miller, K., & Tsang, E. (2011). Testing management theories: Critical realist philosophy and research methods. Strategic Management
+Journal, 32(2), 139–158.
+Montgomery, D., Moore, M., & Urbany, J. (2005). Reasoning about competitive reactions: Evidence from executives. Marketing Sci-
+ence, 24(1), 138–149.
+Nadkarni, S., Chen, T., & Chen, J. (2016). The clock is ticking! Executive temporal depth, industry velocity, and competitive aggres-
+siveness. Strategic Management Journal, 37(6), 1132–1153.
+Noble, P. M., & Gruca, T. S. (1999). Industrial pricing: Theory practice and managerial. Marketing Science, 18(3), 435–454.
+Powell, T., Lovallo, D., & Fox, C. (2011). Behavioral strategy. Strategic Management Journal, 32(13), 1369–1386.
+Prabhu, J., & Stewart, D. W. (2001). Signaling strategies in competitive interaction: Building reputations and hiding the truth. Journal
+of Marketing Research, 38(1), 62–72.
+Robertson, T., Eliashberg, J., & Rymon, T. (1995). New product announcement signals and incumbent reactions. Journal of Market-
+ing, 59(3), 1–15.
+Robinson, W. (1988). Marketing mix reactions to entry. Marketing Science, 7(4), 368–385.
+Robinson, W. T., & Min, S. (2002). Is the first to market the first to fail? Empirical evidence for industrial goods businesses. Journal
+of Marketing Research, 39(1), 120–128.
+Shah, R., & Swaminathan, V. (2008). Factors influencing partner selection in strategic alliances: The moderating role of alliance con-
+text. Strategic Management Journal, 29(5), 471–494.
+Simon, D. (2005). Incumbent pricing responses to entry. Strategic Management Journal, 26(13), 1229–1248.
+Spann, M., Fischer, M., & Tellis, G. J. (2015). Skimming or penetration? Strategic dynamic pricing for new products. Marketing Sci-
+ence, 34(2), 235–249.
+Sterman, J. D., Henderson, R., Beinhocker, E. D., & Newman, L. I. (2007). Getting big too fast : Strategic dynamics with increasing
+returns and bounded rationality, Management Science, 53(4), 683–696.
+Tellis, G. (1986). Beyond the many faces of price: An integration of pricing strategies. Journal of Marketing, 50(4), 146–160.
+Tsai, W., Su, K.-H., & Chen, M.-J. (2011). Seeing through the eyes of a rival: Competitor acumen based on rival-centric perceptions.
+Academy of Management Journal, 54(4), 761–778.
+Wang, R., & Shaver, J. (2014). Competition-driven repositioning. Strategic Management Journal, 35(11), 1585–1604.
+Yu, T., & Cannella, A. A. (2013). A comprehensive review of multimarket competition research. Journal of Management, 39(1),
+76–109.
+Zajac, E. J., & Bazerman, M. H. (1991). Blind spots in industry and competitor analysis: Implications of interfirm (mis)perceptions
+for strategic decisions. Academy of Management Review, 16(1), 37–56.
+SU PPORTI NG I NFORMATION
+Additional Supporting Information may be found online in the supporting information tab for this
+article.
+How to cite this article: Luoma J, Falk T, Totzek D, Tikkanen H, Mrozek A. Big splash, no
+waves? Cognitive mechanisms driving incumbent firms’ responses to low-price market entry
+strategies. Strat Mgmt J. 2018;1–23. https://doi.org/10.1002/smj.2763

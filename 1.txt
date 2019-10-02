@@ -1,0 +1,2456 @@
+娀 Academy of Management Journal
+2013, Vol. 56, No. 2, 334–357.
+http://dx.doi.org/10.5465/amj.2010.0512
+EMOTION HELPING BY MANAGERS:
+AN EMERGENT UNDERSTANDING OF DISCREPANT
+ROLE EXPECTATIONS AND OUTCOMES
+GINKA TOEGEL
+IMD, Lausanne
+MARTIN KILDUFF
+University College London
+N. ANAND
+IMD, Lausanne
+Why do managers help employees with their negative emotions, and how do employees
+respond? We analyzed interview and network data from the head office of a recruiting
+agency. We found that managers active in the provision of emotion help thought of
+such help as over and above their managerial duties, whereas employees defined
+emotional support as managerial in-role behavior. Both parties accepted the necessity
+of controlling negative emotions for the good of the organization. But those being
+helped tended to perceive their helpers as doubly powerful figures, invested with both
+formal authority and parental authority, whereas the helpers saw themselves as
+reacting to situational contingencies to do favors for subordinates in need. Our results
+point to an emergent understanding of discrepant interpretations. Employees treat
+caring as part of the managers’ role that requires no reciprocation, whereas managers
+see such help-giving as discretionary extra-role behavior that requires reciprocated
+commitment. Discrepant expectations concerning emotion helping leads to positive
+outcomes (e.g., managers being attributed leadership qualities by subordinates) but
+also negative outcomes (e.g., managers feeling disappointed at the lack of reciprocity).
+We contribute an emergent model of discrepant interpretations concerning emotion
+helping with implications for research on leadership, emotion management, and
+critical theory.
+The provision of emotion help is the subject of
+continuing debate between labor and management
+concerning who should be in control of the process
+(Bacharach, Bamberger, & Sonnenstuhl, 1996: 481).
+Paralleling this controversy, there are widely dif-
+fering views among researchers concerning man-
+agement provision of emotional help to employees.
+Critical theorists argue that traditionally private as-
+pects of life—such as emotions—should not be sub-
+sumed under the managerial gaze (Bolton, 2005).
+But a variety of approaches derived from social
+exchange theory (Blau, 1964; Lawler & Thye, 1999)
+suggest that the provision of emotion help is part of
+an exchange arrangement by which employees re-
+ciprocate increased commitment, performance, or
+personal favors. Thus, social exchange researchers
+concerned with employee-organizational relation-
+ships suggest that a caring attitude toward employ-
+ees enhances employees’ affective commitment to
+their organization (Tsui, Pearce, Porter, & Tripoli,
+1997). Similarly, recent extensions to leader-mem-
+ber exchange (LMX) theory show that a supervisor
+who establishes a supportive relationship with key
+subordinates through the provision of emotional
+and other kinds of support generates organizational
+commitment on the part of the employees which, in
+turn, is expected to lead to in-role and extra-role
+increases in employee performance (Eisenberger et
+We thank Peter Bamberger for his consistently helpful
+guidance throughout the review process, and three re-
+viewers for their insightful comments. Prior versions of
+this article benefited from comments from Sally Maitlis
+and Hugh Willmott, to whom we extend heartfelt thanks.
+The article was also improved through presentations at
+the University of Alberta (2007), the Academy of Man-
+agement meeting (2008), OTREG at the University of
+Cambridge (2010), and the organizational behavior read-
+ing group at the University of Cambridge (2010).
+334
+Copyright of the Academy of Management, all rights reserved. Contents may not be copied, emailed, posted to a listserv, or otherwise transmitted without the copyright holder’s express
+written permission. Users may print, download, or email articles for individual use only.2013
+Toegel, Kilduff, and Anand
+al., 2010). Further, supervisors who provide sup-
+port to their subordinates can, according to LMX
+theory, expect their subordinates to reciprocate by
+doing favors for the supervisors (Wayne, Shore, &
+Liden, 1997).
+Although the importance of social exchange in
+the context of emotion help and other forms of
+prosocial and organizational citizenship behaviors
+(OCBs) between managers and subordinates is well
+established (Organ, 1988), questions concerning
+why and how managers engage in the process of
+helping subordinates with their negative emotions
+remain to be answered. The process of exchange
+does not adequately explain why supervisors
+would overcome the general human tendency of
+avoiding people perceived to be suffering from neg-
+ative emotions (see the discussion in Hareli and
+Rafaeli [2008: 46]), given that such help is often
+taken for granted by recipients (George & Brief,
+1992: 311), and given that supervisors who provide
+such help are reported to suffer detrimental per-
+sonal and career consequences (Frost, 2003).
+Our contribution is to build from case research
+toward an emergent model of discrepant interpre-
+tations concerning managerial emotion helping in
+organizations. We identify different types of emo-
+tion help and describe how discrepant views of
+emotion helping on the part of managers and sub-
+ordinates contribute to outcomes both positive and
+negative. Drawing from a review of employee help-
+seeking research (Bamberger, 2009), we contribute
+to leadership research, research on emotion man-
+agement, and a critical theory perspective to the
+developing literature that takes a more nuanced
+approach to OCB (Bergeron, 2007; Bolino, 1999;
+Spector & Fox, 2010; Van Dyne & Ellis, 2004).
+Given competing demands on managers to con-
+trol work activity and promote employee welfare,
+our data show that managers and subordinates dis-
+agreed as to whether managerial efforts to amelio-
+rate employees’ negative emotions represented dis-
+cretionary good citizenship behavior or expected
+managerial role enactment (cf. Katz and Kahn
+[1966] on incompatible role expectations). This in-
+congruence extended to the expectation of reci-
+procity, with subordinates seeing little or no obli-
+gation to reciprocate for emotion help received,
+whereas managers expected reciprocation in the
+form of subordinate commitment and personal loy-
+alty. Representing the viewpoint of the managers,
+the CEO of the company we studied noted: “It is
+human nature, isn’t it? When you do something for
+someone, you always kind of expect to be recipro-
+335
+cated. If we go to the pub and I buy you a drink, it
+will sort of be expected that the next time around,
+you buy me one. It is in every element of our
+culture— except in the workplace. They [direct re-
+ports] don’t see that.”
+Emotional expression is a constitutive aspect of
+exchange processes (Lawler & Thye, 1999: 239), but
+between a manager and a subordinate exchange
+processes are also overlaid with differences in role
+expectations. If a manager sees provision of help as
+extra-role behavior, the manager is likely to expect
+payback in the form of specific, personally pro-
+vided help in the future, given the prevalence of
+reciprocity norms in social interaction (Cialdini,
+Vincent, Lewis, Catalan, Wheeler, & Darby, 1975).
+To the extent that employees feel themselves so-
+cially indebted to managers, they are likely to feel
+bound to the social system that provides them with
+emotion help. Thus, the provision of help by man-
+agers to employees suffering negative emotions can
+be seen as promoting dependency, particularly to
+the extent that there is likely to be ambiguity as to
+whether and when social indebtedness has been
+repaid (Gouldner, 1960: 175).
+Indeed, employees are more likely to access help
+with emotional problems, to the extent that they
+perceive that there are no expectations concerning
+immediate and direct payback to specific managers
+(Bamberger, 2009: 76 –77). Thus, the stage is set for
+managers to be disappointed by the absence of re-
+ciprocation by employees who have been helped.
+Employees in general tend to view supervisors as
+acting on behalf of the organization (Rousseau,
+1989). According to recent extensions to LMX the-
+ory, when employees identify their supervisor with
+the organization, they are likely to “attribute favor-
+able treatment by the supervisor to the organization
+and, as a result, feel obligated to the organization”
+(Eisenberger et al., 2010: 3). Thus, the supervisor is
+likely to feel disappointed if he or she is expecting
+personal reciprocity rather than a more generalized
+reciprocity toward the organization itself.
+Emotion helping by managers is puzzling from a
+theoretical point of view, given that managers pay a
+price in terms of burnout and career stagnation for
+monitoring and helping employees deal with neg-
+ative emotions (Frost, 2003). Emotion helping be-
+haviors include talking, listening, and expressing
+concern or empathy for distressed individuals (Zel-
+lars & Perrewé, 2001), and these behaviors consti-
+tute part of a larger category of discretionary ac-
+tions referred to as organizational citizenship
+behaviors (Organ, 1988, 1997). Through an analysis336
+Academy of Management Journal
+of interview data from both managers and employ-
+ees in a typical service organization, we develop a
+model of emotion helping in organizations that
+takes account of incongruence between managers
+and employees with respect to how emotion help is
+perceived and whether reciprocation is required for
+such emotion help.
+EMOTION MANAGEMENT IN
+THE SERVICE SECTOR
+In today’s workplace, most jobs involve service
+encounters, so there has been renewed attention to
+the management of emotions in person-to-person
+encounters (e.g., Grandey, 2008) and the manage-
+ment of emotional attachments by employees to
+work groups (e.g., Lawler, Thye, & Yoon, 2009).
+Such has been the “heightened enthusiasm” on the
+part of practitioners and academics concerning the
+management of emotions that there has been a
+“near explosion of research” on the topic (Elfen-
+bein, 2007: 316), and this has been paralleled by the
+provision of related leadership development and
+executive coaching courses (see Peltier [2010] for
+an overview of practitioner topics).
+In the service sector, therefore, emotional labor—
+defined as “the process of regulating both feelings
+and expressions for the organizational goals”
+(Grandey, 2000: 97)—is a major part of what is
+monitored at work by employers who are in the
+business of selling good feelings to customers
+(Hochschild, 1983). Employees are expected to reg-
+ulate their emotions, even when experiencing
+stress and exhaustion (Grandey, 2000, 2003). In-
+deed, “‘service with a smile’ is perceived as an
+in-role job requirement for those with frequent in-
+terpersonal contact” (Grandey, 2008: 247). Manag-
+ers are called upon to be alert to signs that employ-
+ees are suffering from negative emotions, and are
+asked to be prepared to “intervene effectively and
+preventively” (Ashkanasy & Daus, 2002: 80). To the
+extent that work requires emotional labor, there-
+fore, managers are likely to notice decrements in
+emotional tone on the part of employees. Managing
+subordinates’ emotions is now considered “one of
+the main ways leaders influence performance”
+(Humphrey, 2002: 497) and is seen as particularly
+useful in times of shrinking budgets, when keeping
+customers satisfied can prove challenging (Bolton,
+2005: 60).
+The increase in scholarly attention toward emo-
+tion helping in the workplace suggests that this
+seldom-observed phenomenon may be more perva-
+April
+sive than once thought. One label for such helpers
+is “toxin handler,” and the work that they do can be
+summarized as “responding compassionately to
+[colleagues experiencing emotional] pain in their
+organization” (Frost, 2003: 62). An empirical study
+of middle managers in an organization reported
+that a number of them “formed a group that at-
+tended to employees’ emotional needs” (Huy, 2005:
+310). A study of 48 senior managers in Chinese
+state-owned enterprises revealed that many of them
+used positive emotional experiences to help col-
+leagues adapt and be more productive (Krone &
+Morgan, 2000).
+Historically, it was trade unions that fostered a
+culture whereby members helped each other deal
+with problems, such as emotional distress, that af-
+fected individuals’ well-being. The mutual-aid
+logic of unionism emphasized community, family,
+and caring, and provided a vocabulary for articu-
+lating grievances against employers (Bacharach,
+Bamberger, & Sonnenstuhl, 2001). As trade union-
+ism in countries such as the US and the UK moved
+toward a logic of bureaucratized servicing of mem-
+bers through the negotiation of material gains, the
+old ethos of mutual aid has tended to decline, al-
+though there are signs of renewal in some indus-
+tries (Bacharach et al., 2001). More generally, emo-
+tional problems in the workplace have tended to
+become issues for Human Resource departments to
+deal with through such innovations as employee
+assistance programs.
+But HR departments cannot survey and control
+all the discrepant emotions emerging in the myriad
+of interactions taking place in modern service or-
+ganizations. Nor can such departments anticipate
+and deal with the spillover of negative emotions
+into the workplace from crises in the home. Emo-
+tions are created and reproduced through interac-
+tions with other people, and these emotions are
+subject to only limited control by bureaucracy
+(Lawler et al., 2009: 9 –10). Negative emotions,
+whether carried over from home or emerging in the
+workplace, threaten productivity (Latané & Arro-
+wood, 1963) and can spread across the organization
+to affect other employees’ cooperation and work
+performance (Barsade, 2002). Thus, in those organ-
+izations in which being upbeat is seen as a job
+requirement, there is likely to be active managerial
+scrutiny of employees’ emotional states to prevent
+disruption of organizational performance.
+Some managers may take on the onerous task of
+dealing with others’ negative emotions and become
+martyrs to their own altruistic tendencies, often2013
+Toegel, Kilduff, and Anand
+suffering career problems in bureaucratic organiza-
+tions ill-suited to emotional coping (Frost, 2003).
+From this “caring” perspective, managers intervene
+to help others solve their emotional problems out of
+a personal desire to ease the sufferings of col-
+leagues rather than because intervention is man-
+dated by the managerial role (e.g., Martin, Knopoff,
+& Beckman, 1998). Thus, emotion helping may be
+framed by managers as a “gift” rather than an oblig-
+atory aspect of the role (Bolton, 2005: 240).
+OVERVIEW OF EMOTION HELPING
+We used a case-based approach combined with
+intensive reading of relevant literature to investi-
+gate emotion helping in a recruiting agency. To
+structure our findings, we foreshadow here the the-
+oretical directions and questions that emerged. In
+general, we found two different interpretations
+concerning why managers engage in emotion help-
+ing. Subordinates interpreted interventions by
+managers to ameliorate others’ emotional pain as
+in-role managerial behavior, given the potential for
+negative emotions to adversely affect productivity.
+In contrast, such interventions were often seen by
+the managers themselves as extra-role behavior,
+proceeding from intentions unrelated to managerial
+role demands.
+Four questions guided our research into emotion
+helping. First, to what extent do managers actually
+incorporate the emotion-helping function in their
+repertoire of behaviors (cf. Toegel, Anand, &
+Kilduff, 2007)? A related aspect of this first ques-
+tion concerns whether some managers actively
+monitor the emotional expressions of employees
+and intervene when they notice that employees
+look upset. Or does the management of emotions
+require waiting for employees to request manage-
+rial help, given that the vast majority of helping-
+based interactions in organizations are initiated by
+someone seeking help (Bamberger, 2009: 50)? Sec-
+ond, what motivates managers to engage in the
+potentially unpleasant task of intervening in the
+management of others’ negative emotions?
+A third issue concerns whether emotion helping
+is seen as in-role or extra-role behavior by those
+providing the care and those to whom it is provided
+(cf. Dyne & LePine, 1998). Do managers and em-
+ployees differ concerning whether managers, as
+part of their jobs, are expected to engage in emotion
+management? Relatedly, does the acceptance of
+help for emotional problems require payback in the
+form of the expenditure of personal resources (cf.
+337
+Bamberger, 2009), and do managers and employees
+view this issue of reciprocity differently?
+A fourth research question was prompted by our
+emergent finding that managers and subordinates
+differed as to whether emotion help could be con-
+sidered extra-role behavior on the part of managers;
+and our finding that managers and subordinates
+also differed as to whether managerially provided
+emotion help should be reciprocated. This question
+involved investigating whether different types of
+emotion helping prompted different outcomes from
+discrepant interpretations on the part of managers
+and subordinates. Thus, we categorized different
+types of helping behaviors and examined how dis-
+crepant interpretations of the helping behaviors led
+to positive and negative outcomes.
+Given that these interrelated questions have not
+been addressed in prior theory, we build from re-
+sults toward an emergent process model of when,
+why, and how managers provide help with subor-
+dinates’ negative emotions, as well as surfacing
+both positive and negative outcomes from discrep-
+ant interpretations concerning emotion helping.
+METHODS
+Site
+We studied the head office of a recruiting agency
+specializing in providing managerial staff for retail
+outlets such as grocery stores. The company was
+founded in 1988 by an entrepreneur who left his
+job at an executive placement agency. In contrast to
+its competitors, the company emphasized both ef-
+ficiency of database management and effectiveness
+of relationship building with prospective jobseek-
+ers and the companies that hired them. Revenues
+had tripled during the most recent four-year period,
+while the number of full-time employees had dou-
+bled to 67 (38 women, 29 men). As the largest
+specialist retail recruitment agency in its market,
+the company received about 500 original résumés
+each week and was the largest classified advertiser
+in the urban area in which it was located. Employee
+turnover at the company was less than 5 percent a
+year, compared to an industry average of close to 40
+percent.
+We were fortunate in establishing strong, trusting
+relations with the members of this particular organ-
+ization, and thereby achieved unusual access to
+thoughts and feelings concerning managerial help-
+ing interventions. Such access is a prerequisite for338
+Academy of Management Journal
+case-based theory building (Eisenhardt & Graeb-
+ner, 2007).
+Procedure
+Emotion helping across ranks. We collected so-
+cial network data concerning who went to whom
+for emotion help to examine whether managers
+(relative to subordinates) were more active in the
+network. The data were collected as part of a larger
+study by means of a questionnaire sent through
+e-mail to all 67 employees. We assured respondents
+that their responses would be confidential, and we
+provided debriefing sessions following data collec-
+tion. After two follow-up reminder e-mails, all 67
+employees had responded concerning the network
+data reported here.
+To construct the emotion-helping network, we
+collected information from respondents concerning
+who helped them deal with their negative emo-
+tions. On the questionnaire, respondents were
+asked to look down an alphabetical roster of em-
+ployees and indicate the people who helped them
+deal with their negative emotions at work: “Please
+look down the alphabetical list of your fellow em-
+ployees and place a check mark to indicate all the
+names of those people who you think help you
+when you need support in times of trouble to cope
+with your personal problems and your negative
+emotions.”
+To examine the extent to which lower-level em-
+ployees tended to nominate those with higher lev-
+els of managerial responsibility as emotion helpers,
+we first used company records to categorize people
+into three categories (high, middle, low) based on
+their level of managerial responsibility. This cate-
+gorization was checked and confirmed by the com-
+pany’s CEO for accuracy. Then we calculated, for
+each category, the extent of homophily; that is, the
+extent to which people nominated same-category
+others as those who helped manage and alleviate
+their emotional distress. Of particular interest are
+the adjusted homophily scores; that is, scores ad-
+justed for the relative availability of people in dif-
+ferent categories. What may appear as a tendency
+on the part of people of a certain category to nom-
+inate people of the same category may be attribut-
+able to the proportionately higher number of peo-
+ple of that category. Adjusted homophily scores
+can range from ⫺1 (all nominations to those of a
+different category) to ⫹1 (all nominations to those
+of the same category). (See Krackhardt [1990] for an
+April
+example of this procedure, and Gower and Leg-
+endre [1986] for complete details.)
+Inductive qualitative study. In preparation for
+systematic guided questioning, we interviewed five
+employees (ranging from junior to senior, in terms
+of hierarchical levels) to learn about job tasks and
+the culture of the organization, shadowed a senior
+consultant for one workday to observe patterns of
+task-related and social interactions, observed a cus-
+tomer-handling skills training session for junior
+employees, and participated in many informal meet-
+ings and conversations across the organization.
+Of the 21 employees who worked in a managerial
+capacity (including partners, senior consultants,
+assignment managers, and supervisory administra-
+tors), we interviewed 14 (6 men, 8 women). Some
+managers were unavailable for interviews, because
+they were involved in starting up a branch of the
+firm in another city. Two individuals in the top
+management level were interviewed on two differ-
+ent occasions, once to provide an overall picture
+or “grand tour” (cf. Spradley, 1979: 86 – 87) of the
+organization’s business and its manner of function-
+ing, and a second time to talk about emotion help.
+We also interviewed the CEO multiple times. Given
+the relatively large number of subordinates, we
+used data saturation as the trigger to stop further
+data collection (Glaser & Strauss, 1967). We found
+that by the time we interviewed the 16th employee,
+much of the information was repetitive. In all, we
+interviewed 30 (14 men, 16 women) employees,
+representing 45 percent of the headquarters’
+personnel.
+Interviews lasted about an hour, on average, and
+followed a semistructured protocol (included in
+the Appendix). We used a mixture of descriptive
+and contrast questions (Spradley, 1979). We began
+with a descriptive question asking participants to
+tell us about a situation in which they experienced
+stress, anxiety, tension, or emotional pain, and then
+asked them to characterize the fellow employee or
+any other person who helped them through the
+experience (see the Appendix). We used contrast
+questions such as “Does everybody in the firm pro-
+vide such help or only some people?” We used
+emerging themes from initial interviews to guide
+data collection in subsequent ones.
+To uncover the expectations and motivations of
+organizational members requires a grounding in the
+organization’s culture to produce a first-order anal-
+ysis framed around the dominant themes expressed
+by the participants (Gioia & Chittipeddi, 1991: 435).
+A second-order commentary comes later, providing2013
+Toegel, Kilduff, and Anand
+a theoretical explanation of the themes that sur-
+faced through interviews with employees and man-
+agers. To provide the more dispassionate view re-
+quired by a second-order commentary, we followed
+prior work (e.g., Gioia, Thomas, Clark, & Chitti-
+peddi, 1994) and employed two members of the
+research team to conduct interviewers, and a third
+person to help provide a retrospective, more objec-
+tive analysis of the data.
+Analysis of interview data. Figures 1 and 2
+show the progression of the first-order analysis
+leading to emergent themes concerning incongru-
+ent expectations (Figure 1) and reciprocity (Figure
+2). We used NVivo software (Richards, 1999) to
+group together the different situations that our in-
+formants described when they needed emotion
+help, such as anxieties related to deadlines, fear of
+not meeting monthly targets, death or illness of a
+family member, or other domestic issues. We then
+assembled groupings that related to similar issues
+or relationships into broader aggregations of infor-
+mant sensemaking (see the first column in Figures
+1 and 2) and furnished these with an appropriate
+339
+informant-relevant label (e.g., first entry, first col-
+umn in Figure 1: “emotion help is not in managers’
+job description”). The next step was to compare the
+data from different interviewees and to develop a
+list of higher order analytic dimensions (Van
+Maanen, 1988), complete with descriptors that fa-
+cilitate theoretical analysis (e.g., second column in
+Figure 1: “managers perceive emotion help to be
+extra-role behavior”). Finally, we used data dis-
+plays (cf. Miles & Huberman, 1994) to create more
+general emergent themes (e.g., third column in Fig-
+ure 1: “incongruence in the expectation of emotion
+help”), useful for building the emergent theoreti-
+cal model.
+In presenting the results below, we numbered
+our interviewees and provided information on their
+rank in the organization to clarify precisely where
+information was derived from. The quotes are la-
+beled with the following categories: E-1 (employee
+1); MM-1 (middle manager 1), and HLM-1 (high-
+level manager 1). Informants that were interviewed
+in our preparatory interviews are prefixed PI-1
+(preparatory informant 1). We have provided an
+FIGURE 1
+Incongruent Expectations Concerning the Role of Emotion Help in Managerial Behavior
+First-Order Analysis: Informant
+Analytic Dimensions
+Emergent Theme
+Emotion help is not in managers’ job description
+Quote: “ Providing [emotion] help is extra, it’s not in your job description.”
+Emotion help as a voluntary, extra effort on managers’ part
+Quote: “They [direct reports] should know that what I am doing [by way
+of emotion help] is over and above my responsibilities as a manager.”
+Managers perceive
+emotion help to be
+extra-role
+behavior
+Emotion help as an expression of disposition rather a managerial
+job requirement
+Quote: “It’s not part of my job, it’s me, the way I am.”
+Emotion help is the “natural” responsibility of managers
+Quote: “The role of the managers is to support and look after their staff. This would be
+a natural thing to do.”
+Managers should provide support for work-related emotional difficulty
+Quote: “If it is a work-related emotional problem, then it is my
+manager’s job to support me.”
+Employees view
+emotion help as
+in-role behavior
+of managers
+Managers should help solve emotion-related problems
+Quote: “[As a manager] you have to be approachable so that people can come and
+say: ‘I have a problem.’ I had a manager like that before. While now, it is not really
+[like that] here anymore [with respect to my supervisor].”
+Incongruent
+expectations of
+emotion help340
+Academy of Management Journal
+April
+FIGURE 2
+Incongruent Expectations Concerning Reciprocity for Emotion Help
+First-Order Analysis: Informant Sensemaking
+Analytic Dimensions
+Emergent Theme
+Emotion help is not part of a manager’s job, hence other invokes reciprocity
+Quote: “If it is not officially part of your manager’s job to help [you] through an
+[emotionally difficult] situation, then there should be reciprocation other than
+‘Oh, it’s part of your job to help me through this.’”
+Managers expect
+Managers can instrumentally expect greater commitment
+reciprocation
+Quote: “[By providing emotion help] you would get more commitment .... through
+You build 100% loyalty and if I ask my people to do something over
+commitment and
+and above, it would be done.”
+recognition
+Recognition expected from subordinates for prosocially motivated help
+Quote: “Providing emotion help is about the [warmth] you receive.”
+No reciprocity should be expected
+Quote: “Should there be any payback [for providing emotion help]? In an ideal
+world—no.”
+Limited and specific reciprocity
+Quote: “There could be some payback on a personal level maybe. They
+[managers] should be able to talk to you, as well as you would be able
+to speak to them.”
+Incongruent
+expectations
+concerning
+reciprocity for
+emotion help
+Employees see no
+need or limited
+and specific
+obligation to
+reciprocate
+Quote: “If your manager supports you emotionally, then you might
+want to return the favor .... I am an emotion helper to my boss.”
+extensive analysis of organizational culture, so as
+to situate the results in the context of a typical,
+albeit high-performing, service company.
+RESULTS
+Company Culture
+The CEO recruited new employees through an
+assessment center that used occupational personal-
+ity questionnaires, resulting in the hiring of “very
+like-minded and likeable” people (HLM-2). Job de-
+scriptions were detailed and precise. The head of-
+fice staff (the focus of our study) worked in a series
+of town houses in a residential area of the city. All
+employees other than the CEO occupied desks in
+open-plan rooms in full view of colleagues, mean-
+ing that any behavior, including help-seeking be-
+havior, was likely to be fully exposed to others. One
+of the managers commented concerning the visibil-
+ity of workplace activity: “We all know exactly
+what each other is billing. It’s very open, there are
+financial spreadsheets we all look at, we have ac-
+cess to. Nothing is hidden” (MM-1). The atmo-
+sphere was friendly and collegial, with one em-
+ployee commenting as follows concerning social
+interaction: “A lot of friendships are formed, a lot
+of relationships are formed through the company as
+well in terms of people popping off and getting
+married” (E-14).
+Recruitment consultants interacted mainly with
+three sets of people: work-team colleagues, clients
+(i.e., representatives of retailers seeking skilled
+workers), and job candidates. A junior consultant
+said that she had become “ruthless” at “seeing
+when I can help candidates and when I can’t” (PI-
+1). A senior consultant reported that the most crit-
+ical skill that she needed was “emotional intelli-
+gence and being able to read people” (MM-7) while
+interviewing them. Emotional regulation was also
+important— consultants were expected to present
+themselves as calm and composed while interact-
+ing with clients. The CEO reinforced these expec-
+tations in training seminars by recollecting an epi-
+sode in which he “exchanged some fairly sharp
+words” with a client, and why losing control of his
+emotions in this way was detrimental to business.
+On the day of the work-shadowing, one senior con-
+sultant was observed spending about 20 minutes2013
+Toegel, Kilduff, and Anand
+repairing her make-up and grooming herself ahead
+of a luncheon meeting with a client, noting: “I’ve
+got to put my best face on” (HLM-6).
+The CEO described himself as efficient, orga-
+nized, and meticulous; this was borne out in our
+observations of him. He regarded his main achieve-
+ment as bringing a systematic approach to recruit-
+ing involving measurement, control, and testing. In
+particular, a computer program tracked precisely
+how many interviews with potential job placement
+candidates each recruitment consultant achieved:
+“The computer will spit it out. Because everything
+they [the recruiters] do goes through the system.”
+The company had no special assistance programs
+or chaplains to help employees with their emo-
+tional distress. During the first wave of interviews,
+we asked if there should be a formal role of emotion
+helper in the organization. Sixty percent of respon-
+dents disagreed. One of them commented, “If they
+[employees] can talk to whoever, it’s better than
+having to go to one person” (E-3).
+Internal promotion was carefully monitored in
+this organization. One of the employees reflected
+on the internal exams that measured promotability:
+“There is a very explicit documented process for
+the way of working. . . . There are four grades,
+A–D. . . . I’m due to take on a C grade exam next
+month. You have certain criteria which are in the
+terms and conditions which everyone is aware
+of. . . . The exam itself is a written exam and then is
+checked to see if you know what you are talking
+about” (PI-1). Another employee added, “There are
+a lot of internal courses. . . . All that time you are
+assessed and you have a weekly review meeting
+with your own mentor and you have monthly re-
+views with the divisional directors” (PI-2). Formal
+mentoring meetings focused on performance feed-
+back and organizational problem solving rather
+than on social or emotional support. Indeed, the
+CEO described how such performance feedback
+could be used to deal with “trouble makers” who
+didn’t “believe in the way we run the system”:
+We know we place roughly 10 or 11 percent of the
+people we interview. So do the math. Ten or 11
+percent of 100 candidates interviewed is more than
+10 or 11 percent of 50 candidates interviewed. It’s
+about activity. It always has been, always will be.
+Get over it. When we go back to these trouble mak-
+ers, they are the ones that want to interview less.
+They don’t believe in the way we run the system. So
+they start telling others, “Don’t do it the [company]
+way, do it this way.” We have to crush them. . . . You
+can’t win all hearts and minds. (CEO)
+341
+The CEO also commented on the importance of
+managing negative emotions in the workplace, as
+follows: “If you have negative feelings, if you got
+people working in a way that they don’t like each
+other, in a sales environment it is fatal. Then they
+work to hurt each other. That means hurting each
+others’ sales as well. . . . That needs managing very
+carefully.”
+Sources of Negative Emotion
+Our informants reported that managers had
+helped them with a variety of negative emotional
+experiences encompassing both personal and pro-
+fessional realms of life. Approximately 70 percent
+of our respondents reported that they expected
+their managers to provide them with emotion help.
+Asked to give examples of cases in which they
+needed emotional support, interviewees recounted
+times when negative emotions were prompted by
+incidents outside of work such as “a negative situ-
+ation with my husband” (MM-5) and times when
+negative emotions were prompted by work-related
+incidents such as “going through a promotion . . .
+[when] I had massive amount of client work” (MM-
+1). Respondents also mentioned job-related anxiet-
+ies concerning deadlines, not meeting monthly tar-
+gets, change of work roles, and difficult direct
+reports. Respondents reported that emotion help-
+ing was particularly evident on Mondays, at the
+time of monthly performance appraisals, and dur-
+ing the months of January and September, when
+work tended to build up. About half of the situa-
+tions reported were related to personal issues. Re-
+spondents mentioned incidents such as illness and
+death of a family member, and one employee re-
+called: “Three months ago, I split with my boy-
+friend and it was horrendous. . . . I was just falling
+apart and it was awful. I couldn’t concentrate at all”
+(E-6). Most employees were stressed at work as a
+result of both work-related problems and problems
+occurring outside the workplace. Only one inter-
+viewee said, “I don’t deal with emotional issues at
+work” (HLM-7). Later in the interview, he men-
+tioned that psychosomatic problems had driven
+him to seek outside counseling.
+Research Question 1: Emotion
+Helping across the Ranks
+Did managers incorporate emotion helping in
+their repertoire of behaviors? The results in Table
+1 show that managers did indeed incorporate emo-342
+Academy of Management Journal
+TABLE 1
+Extent of Homophily in the Provision of Emotion Help
+by Managerial Rank a
+Rank n Mean s.d.
+High level
+Middle level
+Low level 8
+13
+46 .43 (.65)
+.14 (.44)
+ⴚ.03 (.61) .17
+.18
+.18
+a
+Mean values indicate the extent to which emotion helping
+behavior was received from people of the same rank, with pos-
+itive scores indicating within-rank helping and negative scores
+indicating cross-rank helping. Bold values are adjusted to take
+account of the relative number of people in the rank, whereas
+values in parentheses are unadjusted. All means differ signifi-
+cantly from one another at p ⬍ .05.
+tion helping into their repertoire of behaviors in
+this particular organization. (Note that every man-
+ager received at least one nomination as an emotion
+helper, with one manager receiving 29 nomina-
+tions.) The values in Table 1 show, for each rank,
+the extent of homophily; that is, the extent to which
+people nominated same-rank others as those who
+helped manage and alleviate their emotional dis-
+tress. The bolded values are homophily scores ad-
+justed for the relative availability of people in dif-
+ferent ranks.
+Table 1 shows that those in the highest manage-
+rial rank tended to be helped by colleagues of the
+same rank (as shown by the positive adjusted ho-
+mophily score of .43), whereas those in the lowest
+rank (who had no managerial responsibilities)
+tended to be helped by people from other ranks (as
+indicated by the negative score of ⫺.03). People of
+middle managerial rank were similar to those of
+high rank in their likelihood to turn to those of the
+same rank for help with emotional problems, al-
+though the strength of this tendency was lower
+(adjusted homophily ⫽ .14). All of the means were
+significantly different from one another (p ⬍ .05).
+Whereas employees at the lowest level of manage-
+rial responsibility nominated managers at the high-
+est level of responsibility 36 times as emotion help-
+ers, there were only 2 nominations in the other
+direction (from the highest level to the low-
+est level).
+There was, therefore, little crosscutting recipro-
+cation with respect to emotion helping. One lower-
+level employee explained that managers tended to
+“expect reciprocation on a commitment level” (E-
+10) in return for providing emotion help, rather
+than expecting reciprocation in terms of ameliorat-
+ing managers’ negative emotions. One middle man-
+April
+ager stated that, “I hope my subordinates have said
+. . . to my boss that I have helped them” (MM-5).
+One of the few middle managers who did have a
+mutual helping relationship with his boss ex-
+plained, “I would talk about personal issues with
+[him]. We had worked together for two years and
+we had developed a friendship relation” (MM-3).
+Thus, between middle and top managers, recipro-
+cal emotion helping was possible because of an
+established friendship relation. However, the more
+usual situation was reflected in the comments of
+one of the top managers who stated that, “I don’t
+think managers expect direct reports to provide
+emotional support to them” (HLM-7).
+When was emotion help provided? Thus, in par-
+tial answer to our first research question, we found
+that 75 percent of lower-level employees and 71
+percent of middle managers reported receiving
+emotion help by those higher in the hierarchy. A
+second aspect of the first research question con-
+cerned whether managers were actively involved in
+intervening to proffer help with others’ emotional
+problems, or whether managers waited for employ-
+ees to request help. To structure the remaining
+findings concerning managerial helping behavior,
+we summarize in Figure 3 the emergent process
+model. The dotted line across the first half of the
+model separates motives and behaviors relating to
+solicited and unsolicited emotion help.
+Our data suggest that help was solicited by em-
+ployees from those managers who appeared partic-
+ularly accessible. As one subordinate stated: “The
+best thing [for managers] to do is to be approach-
+able” (E-1). One manager, who emphasized that she
+tried to motivate her subordinates when they were
+feeling down, suggested that the subordinates
+weren’t always in touch with their negative emo-
+tions, but that they approached her for clarification
+of what they were feeling: “without realizing it . . .
+they are frustrated” (MM-5).
+Some employees were reluctant to reveal how
+problems were affecting their emotions at work.
+The interview data show that 7 of the 14 managers
+were proactive in overcoming this reluctance on
+the part of employees to solicit help with emotions.
+Thus, as Figure 3 summarizes, such managers ac-
+tively scanned the workplace for signs of unhappy
+workers, as indicated by this manager:
+I can very often pre-empt things. You can see that
+someone is not very happy or is a bit quiet and then
+approach them. It’s not that everybody feels com-
+fortable with coming to you. But it’s just saying “Is
+there something wrong?” If they say “No,” that’s2013
+Toegel, Kilduff, and Anand
+343
+FIGURE 3
+Management Emotion Helping and Discrepant Role Attributions
+Why?
+Managerial
+motives for
+helping
+When?
+Prosocial and
+instrumental
+managerial
+motives
+Perceived
+accessibility
+of manager
+Managers’
+proactivity:
+•
+•
+Scans
+workplace
+for
+unhappy
+workers
+Offers to
+help those
+in distress
+Instrumental
+managerial
+motives:
+•
+•
+•
+Rational and
+self-interested
+Anticipated
+rewards
+Impression
+management
+fine; I have offered my support but they don’t want
+it. But often people don’t like to be needy. Espe-
+cially if you are introverted, you like to keep your
+emotions to yourself. (MM-3)
+Another manager explained that, “I generally go to
+people when I see they are distressed. I say, ‘let’s
+talk for a couple of minutes, let’s have a cup of tea.’
+I try not to draw attention” (HLM-1). This view was
+echoed by a senior consultant, who stated: “Most
+people prefer to feel that their manager cares for
+them and has noticed that they are not themselves
+or things are not going quite right, and just to say,
+‘Are you OK?’” (E-10). The managers who were
+active in emotion helping seemed to have their
+antennae tuned to emotional distress among their
+subordinates and initiated interactions when they
+spotted such distress. One subordinate described
+the proactivity of managerial emotion helpers as
+follows: “They push you a little bit to speak about
+it: ‘How are you? How are you feeling?’ They ask
+why I am stressed, why I am upset, and listen to my
+moaning” (E-4).
+Helping
+interaction
+takes place?
+Subordinate
+self-discloses,
+manager
+responds
+Manager
+intervenes,
+subordinate
+self-discloses
+Discrepant
+role
+attributions?
+Manager
+sees
+managerial help
+as extra-role:
+Reciprocation
+expected in the
+form of
+commitment,
+personal loyalty.
+Subordinate
+sees
+managerial help
+as in-role: Little
+or no
+reciprocation
+required.
+Manager
+intervenes,
+subordinate
+refuses help
+Research Question 2: Why Did Managers Help
+with Employees’ Negative Emotions?
+Our second research question (mirrored in the
+second heading in Figure 3) concerns the motiva-
+tions of managers for providing emotion help. Two
+basic motives of managers who acted as “emotion
+helpers” emerged from the study. First, there was a
+tendency among one set of managers to view the
+provision of emotion help in an instrumental man-
+ner. These managers thought that organizational
+and economic benefits would accrue from helping
+others cope with their negative emotions, because
+“the emotional side does affect the money, the
+sales, and the profits” and “if you provide emo-
+tional support, you’ll get a return on that” (MM-3).
+According to one of the managers:
+To a certain degree, there’s self-interest there. I don’t
+want that people leave, or I don’t want them to be
+really low or down at work, because this will have
+negative impact on me. I like to have a very positive
+environment. I want people around me to be posi-344
+Academy of Management Journal
+tive, and if people are very negative or down, it rubs
+off on everybody else. . . . (MM-5)
+Another high-ranking manager commented: “I have
+to [provide emotion help], otherwise it [negative
+emotion] will spread like fire” (HLM-7).
+Managers taking an instrumental view of emo-
+tion help expected their investment in the well-
+being of their subordinates to be reciprocated with
+commitment and recognition, as shown in Figure 2,
+which summarizes the emergent themes concern-
+ing reciprocity. A second and more prosocial mo-
+tive for emotion help characterized managers who
+expressed “curiosity” about their colleagues. Such
+managers tended to make dispositional attributions
+about themselves; for example: “[Providing emo-
+tion help] is not part of my job, it’s me, the way I
+am . . .” (MM-5). The same female manager com-
+mented that her motivation to help others through
+difficult emotions came from “being a little bit
+nosy.” She liked to know “what is going on and to
+get involved.” Another one made it clear, “It makes
+my job really interesting, because I have interest in
+people and this [type of interaction] stimulates me”
+(MM-4). As another manager stated, “You have to
+know what makes your employees tick, and it helps
+to know what happens in people’s lives outside
+work, to understand how their mind works” (MM-
+3). Managers in the social motivation group tended
+to suggest that providing emotion support to others
+was an important skill that could be used in other
+areas of life. One remarked that it was good to
+practice such supportive behavior because this
+might help the struggle to cope with “negativity in
+general.” One manager spoke about emotion help
+being in line with “the Christian spirit,” and added,
+“It’s the right thing to do” (HLM-1). To the extent
+that prosocial motives were mentioned by manag-
+ers, these tended to be associated with cases in
+which employees solicited emotion help, as indi-
+cated in Figure 3.
+Managers who expressed social rather than in-
+strumental motives, however, also nurtured the cal-
+culative expectation that they would gain some-
+thing back from the provision of emotion help—
+recognition of their efforts from subordinates. As
+one midranking manager noted:
+When . . . I have helped them [and enabled them to]
+focus [on their task], and if they start achieving
+[their job goals], what delights me is the recognition:
+Recognition in the sense that they know that I
+helped them. They have probably said something to
+my boss [about the fact] that I helped them. And
+April
+although he [my boss] might not say anything to me
+like “Thank you for talking to that person,” what I
+like about [it is] the recognition and warmth that
+you get from people. (MM-2)
+The emergent themes in Figure 2 also show a dis-
+crepancy with respect to how employees viewed
+managerial reciprocity expectations. Employees
+tended to insist they were under little or no obliga-
+tion to reciprocate managerial helping. We take up
+this incongruence between managerial and em-
+ployee expectations next.
+Research Question 3:
+Discrepant Role Expectations
+As Figure 3 shows (under the heading “Helping
+interaction takes place?”), in some cases of mana-
+gerial intervention, employees refused help, and
+therefore the process stopped. As in the example
+reported above, managers sometimes offered sup-
+port but found that their subordinates didn’t want
+it. In all other cases, the managers provided help,
+whether this was first solicited by employees
+or not.
+Did managers consider emotion helping to be
+part of their required job duties? The answer to
+the first part of our third research question is that
+managers typically regarded such activity as discre-
+tionary and outside of their mandated roles, as the
+second column in Figure 1 shows. Help with neg-
+ative emotions was not considered by the managers
+to be part of their job description but was seen as
+something “extra,” as a “voluntary” effort arising
+from an underlying disposition rather than from an
+organizational requirement. As one manager ex-
+plained concerning the tendency to provide emo-
+tion help on a discretionary basis: “My subordi-
+nates should not think that’s what I’m there for. . . .
+People in other companies don’t feel comfortable
+talking to their manager [about their emo-
+tions]” (MM-3).
+Thus, in the words of one manager, subordinates
+“should know what I am doing [by way of provid-
+ing emotion help] is over and above my responsi-
+bilities as a manager” (HLM-7). Managers perceived
+their emotion helping to be extra-role behavior. But
+this view differed from those of subordinates. As
+the bottom panel in Figure 1 shows, subordinates
+tended to see managerial interventions to provide
+emotion help as part of the “natural” responsibility
+of managers, particularly in the case of work-re-
+lated emotional problems. Thus, employees viewed2013
+Toegel, Kilduff, and Anand
+emotion help as in-role behavior on the part of
+managers. For some employees, the expectation ex-
+tended to help with emotion problems in the work-
+place that originated from difficulties outside of
+work, as the following quotation from one of the
+subordinates indicates:
+I had a big problem at home. I was feeling very
+unsettled. I had bottled up my emotions. In this
+situation when you are looking for help it tends to
+be someone . . . you consider a friend. . . . Or
+someone who is quite senior, in a supervisory role,
+and it is their duty in a sense to ask everybody
+whether they are ok and how they are coping. That’s
+their job, really. . . . They need to make sure that you
+are OK in general. This responsibility comes with
+their job. (E-4)
+Subordinates’ tendencies to see emotion help as
+expected in-role behavior on the part of managers
+was reinforced by the proactivity of some manag-
+ers. Managers who actively sought out those in
+emotional distress rather than passively waiting to
+be asked for help might have created the impres-
+sion that such emotion helping was an expected
+part of managerial job performance.
+Subordinates generally expected their managers
+to help them cope with negative emotion. A junior
+consultant remarked that “Being a manager is not
+just about setting targets—it’s about making sure
+that people achieve their highest potential. You
+can’t do that without [providing] emotional sup-
+port” (E-1). Most of the subordinates suggested they
+would “expect a sympathetic ear,” because “the
+role of the manager is to support and look after his
+staff and [providing emotion help] would be a nat-
+ural thing to do” (E-7). Some of the direct reports
+differentiated between personal and work-related
+problems, suggesting “If I have real problems at
+home, and they bring down my performance, it’s
+not my manager’s job to support me, but if they are
+work-related, then it is her job” (E-8).
+Did the receipt of emotion help require recip-
+rocation? Owing to differences in perceived role
+definitions, some subordinates felt either no need
+or limited and specific obligation to repay their
+managers for the emotion help they received (see
+summary of emergent themes in the bottom half of
+Figure 2). The former, “no obligation,” view was
+justified by the argument that managers who
+helped subordinates with their negative emotions
+were amply repaid by the organization. For exam-
+ple, one subordinate argued as follows: “[The man-
+ager] gets his bonus as a result of the work of the
+345
+team. He benefits if the team is happy and is work-
+ing well. That’s where he gets his reward from”
+(E-5). Another subordinate commented: “They
+[managers] are helping themselves,” because “the
+cost of not providing any sort of [emotional] sup-
+port is greater than the cost of providing that sup-
+port” (E-8). One of the low-ranking individuals
+reckoned, “It is less in the interest of the subordi-
+nate to help the manager, because if the team sales
+increase and the manager is happier, but my sales
+remain constant, it is a waste of my time to make
+sure that the manager is OK” (E-9).
+A subordinate of the manager with the highest
+score in the emotion-helping network gave the fol-
+lowing account: “I genuinely think that he [my
+manager] is a nice bloke. You don’t get the idea that
+he is doing it [emotion helping] from a business
+perspective. He always gave me the impression that
+he was doing it purely to help me personally. The
+business result was as a result of the fact that he
+had helped me personally, wanting to make my life
+a bit easier. Genuinely, he is that sort of guy, it’s his
+personality. A lot of people probably say that about
+him inside and outside the company” (MM-1). The
+respective manager, on the other hand, self-attrib-
+uted a more instrumental motive: “It’s in my inter-
+est to tackle this issue. I could benefit from it,
+because there could be something that could affect
+my team. I get bonuses for what we achieve”
+(HLM-1).
+Some subordinates professed a limited and spe-
+cific obligation view, expecting that the receipt of
+emotion help should be reciprocated in the same
+way. As one subordinate noted: “I am an emotional
+helper to my boss” (E-12). None of the subordinates
+interviewed mentioned owing commitment, loy-
+alty, and extra productivity that some managers
+had expected of them. But to the extent that subor-
+dinates themselves approached managers for help,
+they tended to attribute prosocial motives to the
+managers.
+Research Question 4: Patterns of Emotion Help
+and Outcomes from Discrepant Expectations
+How was help provided? Managers exhibited a
+range of helping tactics. Based on classifying man-
+agerial activities from interview reports from those
+who were helped, Table 2 shows, for each of the
+managers people mentioned as active in providing
+help, whether or not each manager engaged in lis-
+tening (representing 27% of the comments on how
+helped was provided); validating (36%); reframing346
+Academy of Management Journal
+April
+TABLE 2
+Types of Emotion Help a
+Manager Listening
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Provision of emotion help b X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+27%
+Validating: Empathy
+and Ego-Strengthening
+X
+X
+X
+X
+X
+X
+Reframing
+X
+X
+Transforming
+X
+X
+X
+X
+Advising
+X
+X
+X
+X
+X
+X
+X
+X
+X
+36%
+18%
+9%
+10%
+a
+Only those managers indicated as providing emotional help to colleagues are included in this table. “X” indicates that a manager was
+reported as providing this type of emotion help to a colleague.
+b
+The percentage of comments relating to provision of emotion help.
+(18%); transforming (9%); and advising (10%).
+Thus, to take the example of the single manager
+listed under the category “transforming through
+positivity,” three different subordinates referred to
+this particular manager as providing this kind of
+help. There were eight other comments concerning
+this tactic, but they were not associated with any
+particular individual manager.
+With respect to the first aspect of emotion help—
+listening—the interviews revealed that, irrespec-
+tive of whether emotional problems could be traced
+to personal issues or work situations, all emotion
+helpers provided a “listening ear” to those troubled
+by negative emotions. As one subordinate said
+about her manager: “Basically, he just sits there and
+listens to you” (E-5). Another one described this
+emotion helping interaction as letting people “get
+the problem off the chest” (E-4). There were also
+indications that emotion helpers sometimes role-
+modeled self-disclosure and emotion awareness, as
+reported by this subordinate: “He opened himself
+and this allowed me to open myself more and let
+out a lot of this stuff that you usually don’t talk
+about” (E-3).
+As Table 2 indicates, just under half of the help-
+ers helped validate employee emotions by provid-
+ing an empathic environment that strengthened
+self-confidence. Such helpers were described by
+employees as “big-hearted” and as “creating
+warmth.” The process of validation involved pro-
+viding reassurance concerning how individuals
+saw themselves. As the comment from one direct
+report suggests, “He gave me the confidence that I
+could cope” (MM-1).
+Those in the grip of negative emotions were (as
+Table 2 shows) encouraged by some emotion help-
+ers to “reframe” emotions through a process of re-
+flection and the reorganization of experience in
+new narratives. Reframing was described (by the
+helpers) in terms of helping people to “step away
+from their problems” (E-2), to see “both sides of the
+story” (E-11), to see “the whole picture” (E-9), “to
+refocus” (E-3), and “to come back to rational think-
+ing” (E-7). From the perspective of those suffering
+negative emotions, this emotion work was de-
+scribed as helping people “look at the problem
+from a third-party view” (E-4), “put everything in
+perspective” (E-9), and “see the wood from the
+trees” (HLM-2).
+Emotion transformation is about changing nega-
+tive emotions into positive ones. In total, 11 com-
+ments were made describing this tactic, but for 8 of
+these comments the name of the helper was not
+indicated. Three of the comments could be clearly
+attributed to HLM-1, because interviewees explic-
+itly mentioned his name. A subordinate noted that
+HLM-1 was “quite humorous and funny” (E-3), an-
+other mentioned that, “we laugh and I feel much
+better” (E-5), and a third one commented that this
+emotion helper was able to “sell ideas in a positive
+way” (E-11). Finally, the majority of the managers
+in our sample engaged in providing advice to those2013
+Toegel, Kilduff, and Anand
+suffering from negative emotions. As one manager
+described this process: “I say don’t worry about
+that—this is what you can do” (MM-6).
+Emotion helping and outcomes of discrepant
+expectations. First, we should note that managers
+viewed their helping efforts as effective in prevent-
+ing negative emotional contagion across teams, in
+promoting performance and sales, and in improv-
+ing work atmosphere. We choose not to focus on
+these outcomes, given that they have been well
+established in prior research. In keeping with our
+fourth research question, we focused on outcomes
+of discrepant expectations between managers and
+subordinates with respect to roles and reciprocity.
+Overall, two general patterns of emotion helping
+emerged from our data, as illustrated in Figure 4.
+The first, short-cut, pattern involved managers lis-
+tening to subordinates and often providing advice.
+Listening and advice giving were universally re-
+garded by subordinates as standard aspects of man-
+agers’ jobs, so the likelihood of discrepancies con-
+cerning expectations of reciprocity for such help
+was high. The second pattern of emotion helping
+followed a more elaborated route that involved not
+347
+just listening and advising, but also more extensive
+involvement that included one or more of the fol-
+lowing: validating, reframing, and transforming.
+This elaborated pattern of managerial helping was
+likely to prompt feelings of gratitude on the part of
+those receiving help. Indeed, as Figure 4 shows, the
+short-cut and elaborated patterns were distin-
+guished in that the elaborated pattern prompted
+outcomes that were in addition to those prompted
+by the short-cut pattern.
+Figure 4 summarizes our finding that both pat-
+terns of emotion helping by managers related to a
+positive outcome for managers: attributions by sub-
+ordinates of leadership qualities to managers. The
+expectation on the part of subordinates that man-
+agers should provide emotion help was related to
+the widely shared prototype of the emotion helper
+as “someone with experience and seniority” (E-4).
+One interviewee described emotion helpers as
+“more experienced and gregarious colleagues who
+are more wise about life in general” (E-2). One
+junior employee said about his manager, “I look up
+to him and see him more as a father figure” (E-3),
+whereas another employee commented concerning
+FIGURE 4
+Emergent Model of How Two Patterns of Managerial Helping Relate to Outcomes of
+Discrepant Expectations
+How is help provided?
+Outcomes of discrepant expectations?
+Positive
+Shortcut:
+•
+•
+Listening
+Advising
+Elaborated Pattern:
+• Listening
+•
+•
+• Validating
+Reframing
+Transforming
+through positivity
+•
+Advising
+Managers
+Attribution of leadership
+qualities
+Subordinates
+Emotion help without
+indebtedness
+Dark Side
+Managers
+Disappointment,
+perceived breach of reciprocal
+exchange
+Subordinates
+Distrust of managers who are
+seen as offering help as part of
+their managerial role
+Managers
+Receipt of subordinate
+expressions of gratitude, but
+only in cases where exceptional
+help is provided Managers
+Significant stress, burnout, and
+disappointment in the absence of
+reciprocity; anxiety about
+creating employee dependence
+Subordinates
+Perception of supportive
+organizational work climate Subordinates
+Worry about possible damage to
+relationships with managers348
+Academy of Management Journal
+her relationship with her manager: “She is very
+maternal” (E4). A positive outcome of the role dis-
+crepancy, then, for managers was that, because
+managerial emotion helping behaviors (whether
+short-cut or elaborated) were seen by subordinates
+as in-role, managers active in this role tended to be
+attributed qualities such as wisdom, and tended to
+be looked up to as inspiring figures.
+For subordinates, granting wisdom and parental
+qualities to managers may have helped relieve sub-
+ordinates from the necessity of repaying indebted-
+ness in other ways. Further, employees who re-
+ceived the more elaborated set of helping behaviors
+regarded the overall organizational work climate as
+supportive because of the attention their personal
+problems received from managers. For example,
+one subordinate argued as follows: “It doesn’t take
+genius to figure out that when you step into an
+office and everyone is happy, there has to be an
+emotional network in there. It’s a very open,
+friendly company. You feel like you are part of one
+small company where everyone gets on. . . . [It]
+does build relationships, it’s a very good thing”
+(E-14). Another subordinate commented: “If people
+are working in that kind of environment, they are
+probably much more likely to remain working in
+that environment” (E-9).
+There was gratitude expressed to the emotion
+helper with the most elaborated pattern (HLM-1)
+for the extensive help he provided, but such ex-
+pressions were exceptional. Thus, one of his sub-
+ordinates noted: “I have fed it back to him on a
+couple of occasions, but for the other guys, I don’t
+think I would make a conscious effort of thanking
+them for their support as such” (MM-1). Typically,
+managers and direct reports alike were aware that
+incongruent expectations and incongruent recipro-
+cation caused disappointment. Managers who pro-
+vided either the short-cut or the more elaborated
+pattern of helping tended to feel “let down and
+disappointed” (MM-3) at what they perceived to be
+breaches of expected reciprocity. For managers
+who provided only short-cut help, there was un-
+happiness at the perceived lack of gratitude. As one
+middle manager expressed it: “Managing people is
+a thankless job. I know how well thank you goes
+down, but you very rarely get it for yourself” (MM-
+3). One consequence of processing the negative
+emotions of others through the more elaborated
+pattern of helping was that “You do get stressed out
+and take it home with you. One is definitely suffer-
+ing as a result of this” (MM-2). Managers providing
+such extensive help recognized that “they could be
+April
+relied upon too heavily” which could “take its toll
+on you” (HLM-2).
+The following incident recounted by a manager
+illustrates the disappointment when subordinate
+reciprocation failed to materialize.
+There was a member of staff who was going through
+problems outside work and I spent a lot of time with
+her to try and get her through it at work as well as
+give her emotional support. And when she was turn-
+ing the corner, she said “I am leaving [the firm],”
+which was completely out of the blue to me. I must
+admit my initial reaction was “Oh, I feel really let
+down. I have put a lot of work into you as an indi-
+vidual on a personal basis.” A couple of days later
+she said, “You don’t seem very happy for me.” I
+said, “I am happy for you, but I feel actually a bit let
+down and disappointed that you resigned.” And it
+was only then that she realized, “Oh, I didn’t think
+about that,” because probably she thought it’s my
+job. . . . Direct reports sometimes do not realize [that
+it is not part of my job]. Or take it for granted. They
+do think it is part of your job. (MM-3)
+Continuing with the negative side of the ledger
+summarized in Figure 4, managers mentioned the
+tendency for employees in receipt of extensive
+emotion help (which was assumed by subordinates
+to be available as part of the managerial role) to
+become overly dependent. One manager joked that
+she had become “the agony aunt” (MM-5) for a
+couple of her direct reports. Subordinates were
+concerned about another potentially negative out-
+come: that opening up to a manager concerning
+emotional problems might damage them in the
+manager’s eyes, leading to a lowering of the subor-
+dinate-manager relationship. Managers proffering
+help were seen by subordinates quite differently
+than the managers saw themselves: not as col-
+leagues going beyond their expected roles but as
+bosses doing their jobs. This discrepancy in how
+emotion help was viewed contributed to a lack of
+trust. One of the employees, for example, explained
+that he was reluctant to approach his manager for
+any kind of emotion help because “I don’t want
+him to think that I am weak” (E-6). Given these
+discrepant views, bringing negative feelings to the
+attention of supervisors was seen by subordinates
+as fraught with risk, as one middle manager under-
+stood: “Some people might think it’s for weak peo-
+ple and they might get labeled by very narrow-
+minded managers as weak” (MM-2). A senior
+manager was concerned that emotion helping
+could lead to the impairment of relationships be-
+cause of this destruction of trust: “Some people are2013
+Toegel, Kilduff, and Anand
+very suspicious, because . . . knowing these things
+[emotional issues] is going to be a benefit [for the
+emotion helper]” (HLM-6). There was, then, evi-
+dence that employees did not wholly trust manag-
+ers to be recipients of personal information that
+might portray the employees as emotionally weak.
+Summary of Results
+Organizational members were under scrutiny not
+just from computer systems tracking the pace of
+work but also from each other, in terms of the
+monitoring of negative emotions related to both
+work and nonwork problems. Managers, as a group,
+tended to provide emotion help not only to each
+other but also to their subordinates. Managers were
+active in monitoring the emotions of subordinates
+and intervening to offer help. Managers’ motiva-
+tions were self-described as instrumental rather
+than altruistic. But managers active in the provi-
+sion of emotion help tended to conceive of such
+help as extra-role behavior “over and above” their
+duties. Managers expected employees to recipro-
+cate with commitment and personal loyalty. Sub-
+ordinates on the other hand, defined emotional
+support as managerial in-role behavior and mostly
+resisted any obligations of reciprocation. As Figure
+4 illustrates, discrepant role expectations contrib-
+ute both positive and negative outcomes. Looking
+at the positive side of the ledger, discrepant expec-
+tations tend to result in managers being attributed
+leadership qualities by subordinates who assume
+emotion-helping managers are simply exceptional
+role models. These attributions help relieve subor-
+dinates of feelings of personal indebtedness for
+help received, and help create a supportive organ-
+izational climate in cases where subordinates re-
+ceive elaborated help. On the negative side of the
+ledger, discrepant expectations are likely to leave
+managers feeling disappointed at the lack of reci-
+procity and (in the case of managers providing
+more elaborated help) feeling stressed from deliv-
+ering emotion helping in the absence of reciprocity.
+Subordinates in turn worry about possible damage
+to their relationships with managers if they receive
+emotion help from those above them in the hierar-
+chy. Subordinates also may develop dependence
+on heroic managers who provide the elaborated
+type of help but are perceived not to require
+reciprocation.
+349
+DISCUSSION
+Our analysis proceeds from bases in both critical
+theory and work psychology to forge a new under-
+standing of the micropolitics of organizational
+work. In particular, our study surfaces discrepant
+interpretations of managers’ provision of emotion
+help. To date, research has focused on antecedents
+of good citizenship behavior (e.g., Bowler & Brass,
+2006; Settoon & Mossholder, 2002; Spitzmuller,
+Van Dyne, & Ilies, 2008), with some research atten-
+tion to the consequences for those providing such
+behavior. Thus, providers of OCBs achieve higher
+performance evaluations and greater managerial re-
+ward allocations (Podsakoff, Whiting, Podsakoff, &
+Blume, 2009) but may suffer overload, stress, and
+work-family conflicts (Bolino & Turnley, 2005;
+Frost, 2003; Frost & Robinson, 1999). Research has
+neglected the possibility of incongruence between
+those providing such help and those receiving it,
+although we do know that supervisors and their
+subordinates differ concerning what is considered
+OCB on the part of subordinates (Morrison, 1994).
+What is striking in our findings is that both par-
+ties—the employees and the managers—accepted
+the necessity of controlling negative emotions for
+the good of the organization, in line with the gen-
+eral, positive-psychology emphasis on positivity
+and compassionate social relationships (Cameron,
+Dutton, & Quinn, 2003). In the open-plan offices,
+people easily monitored each other, and it was
+possible therefore for managers to notice if subor-
+dinates looked upset. The norms in this service
+culture seemed to permit managers to intervene
+without having to wait for subordinates to explic-
+itly ask for help.
+The discrepancy between employees and manag-
+ers centers on the issue of whether such managerial
+help should be considered part and parcel of the
+managerial role. The employees indicated that
+managers were attributed parental powers and seen
+as beneficent and wise guardians, whose ministra-
+tions were expected as a matter of course by needy
+recipients. Managers did not report perceiving
+themselves as parental figures but indicated that
+they responded to situational demands—such as
+the sight of a suffering employee— by going beyond
+their expected managerial responsibilities. Particu-
+larly in the case of managers who frequently inter-
+vene to offer unsolicited help, good citizenship
+behavior is likely to be viewed as part of the indi-
+vidual’s job and not as anything extra (Bergeron,
+2007; Van Dyne, Cummings, & McLean Parks,350
+Academy of Management Journal
+1995). Given that employees are typically unable to
+directly reciprocate by providing emotion help to
+managers, employees are likely to resist seeing
+emotion help as anything other than normal work-
+place interaction.
+Thus, whereas those who were helped tended to
+perceive their helpers as doubly powerful figures—
+invested both with formal authority as managers
+and with the mantle of parental authority—the
+helpers saw themselves as opportunistically react-
+ing to situational contingencies to do favors for
+subordinates in need. Exchange relationships suf-
+fer when one party fails to reciprocate (Cotterell,
+Eisenberger, & Speicher, 1992). In the case of emo-
+tion help, we found incongruence: managers ex-
+pected reciprocity in terms of commitment and loy-
+alty, but subordinates failed to recognize their
+obligation. Indeed, in the one case in which a man-
+ager went to considerable lengths to help a suffer-
+ing subordinate manage her problems outside of
+work, the subordinate responded, once the prob-
+lems were ameliorated, by promptly resigning. Em-
+ployees simply failed to acknowledge their obliga-
+tions to reciprocate the help provided by managers.
+Employees tended to interpret managers’ interven-
+tions as self-interested, and saw the provision of
+emotion help as an expected part of the manage-
+rial role.
+Our model suggests the paradox that helping be-
+havior designed to ameliorate negative emotions
+may itself generate negative emotions on the part of
+managers waiting in vain for employees to repay
+their kindness with personal loyalty. Managers in
+these high emotional labor settings may expect em-
+ployees to see their efforts as prosocial, organiza-
+tional citizenship–type behaviors and expect em-
+ployees to show gratitude. Employees, on their
+side, are likely to attribute managers’ helping be-
+haviors to the general culture of the organization
+rather than to reciprocate with loyalty to specific
+managers (Eisenberger et al., 2010). Disconfirma-
+tion of managers’ expectations can result in a range
+of negative emotions such as anxiety, insecurity,
+and helplessness (Rimé, 2007: 473). From the em-
+ployee perspective, the amelioration of negative
+emotions is likely to require much more than the
+empathic listening provided by the majority of
+managers: simply encouraging people to talk about
+their negative emotions has been shown to be “ir-
+relevant to emotional recovery” (Rimé, 2007: 470).
+Therefore, our emergent model suggests that in-
+congruence— concerning how emotion help is
+viewed and whether reciprocation is required—
+April
+fuels negative (as well as positive) outcomes in
+organizations. For managers, negative outcomes in-
+clude disappointment and increased stress,
+whereas for employees these include diminished
+trust in the supervisory process. According to our
+results, managers’ justifications for helping subor-
+dinates are overwhelmingly instrumental: to facil-
+itate sales growth and productivity. Managers ap-
+pear to be intuitively aware of results from the
+emotion management literature showing that help-
+ing employees with their emotional needs tends to
+increase employee commitment and performance
+(e.g., Armeli, Eisenberger, Fasolo, & Lynch, 1998).
+Supportive work behaviors (such as encourage-
+ment for individuals who are down) generally en-
+hance performance quality, customer satisfaction,
+and other measures of organizational effectiveness
+(see the review in Bacharach, Bamberger, and
+Vashdi [2005]). But if these supportive work behav-
+iors themselves generate negative outcomes, then
+anticipated organizational benefits may fail to
+materialize.
+Contribution to Theory and Research
+Although leadership theory has long recognized
+differences in leadership behaviors (Bedeian &
+Hunt, 2006), it has neglected the possibility of in-
+congruence between how leaders and followers
+view themselves. Thus, one contribution of our
+article is to emphasize the possibility of different
+attributions concerning the behaviors of those in
+command. From a leadership theory perspective,
+transformational leadership includes individual-
+ized consideration—attention to followers’ feelings
+and needs (Avolio & Bass, 1995). Individually con-
+siderate leaders help subordinates deal with stress
+and other emotional problems in the workplace
+(Rafferty & Griffin, 2006). As summarized in Figure
+4, employees, in insisting that emotion helping be-
+haviors are part of the managerial role, may be
+attributing managers with effective leadership
+practice, in terms of transformational leadership
+behaviors (Ashkanasy & Tse, 2000). The managers
+may see themselves as engaging in purely transac-
+tional leadership, with their emotion helping be-
+havior as something quite different—personal in-
+terventions. Ironically, managers may be denied
+personal reciprocity from grateful subordinates, be-
+cause managers are seen as effective leaders rather
+than as colleagues going beyond the bounds
+of duty.2013
+Toegel, Kilduff, and Anand
+To the extent that discrepant expectations lead
+employees to see their managers as effective, con-
+siderate leaders, the employees are likely to re-
+spond with enthusiasm to managerial goal setting,
+thus enhancing work performance. According to
+one meta-analysis, leaders who provide subordi-
+nates with individualized consideration tend to be
+seen by subordinates as charismatic (r ⫽ .85; Lowe,
+Kroeck, & Sivasubramaniam, 1996). The pro-
+nouncements of such leaders are likely to be
+viewed as visionary, their encouragement is likely
+to incite extra effort, and their teams are likely to
+perform well (Bass, Avolio, Jung, & Berson, 2003;
+Howell & Frost, 1989; Barling, Weber, & Kelloway,
+1996). Our research helps to redress the “dearth of
+conceptual and empirical research on explaining
+the relationships between these new [charismatic
+and transformational] leadership theories and
+followers’ affective states” (Avolio, Walumbwa, &
+Weber, 2009: 430).
+Discrepancies in role definitions are linked to
+individual and organizational outcomes. Incongru-
+ence in expectations can have pervasive negative
+effects on work behavior and on employees’ exit
+and loyalty behavior (Rousseau, 1995). Discrepant
+role expectations can also lead to supervisor-
+subordinate rating disagreements, with potential
+consequences for organizational effectiveness (At-
+water, Ostroff, Yammarino, & Fleenor, 1998). In-
+congruent role descriptions and the resulting dis-
+crepant expectations can also influence the quality
+of leader-member exchange relationships as a re-
+sult of perceived dissimilarity (cf. Gerstner &
+Day, 1997).
+Our article contributes to critical theory concern-
+ing supervisory control over professionals’ emo-
+tions and behaviors. Prior work has emphasized
+that in professional firms, mentors and mentees
+control each other’s behaviors and emotions. Resis-
+tance to controlling behavior surfaces in antago-
+nism to headquarters rather than to immediate su-
+pervisors (Covaleski, Dirsmith, Heian, & Samuel,
+1998). Managers, in carrying out their work roles,
+confront an inherent and perhaps inescapable am-
+bivalence, given the expectation that they will both
+monitor employee behavior and foster a supportive
+and developmental work atmosphere (Mintzberg,
+1973). The dual expectation—to control work ac-
+tivity even to the extent of crushing troublemakers,
+and to manage negative emotions so that employees
+work together and like each other— has both bene-
+fits and drawbacks for managers and for employees
+that we explored in this research. Future research
+351
+can investigate whether, in circumstances where
+emotional labor is part of work performance, there
+is likely to be a managerial emphasis on tight con-
+trol over behavior and emotions as well as an em-
+phasis on happy, cohesive, family-like together-
+ness. Given a disciplinary organizational culture,
+employees are likely to resist seeing managerial
+control efforts as simply collegial helpfulness.
+Our paper also contributes to the field of emotion
+management in organizations (see Bolton [2005] for
+a review). The emergent models in Figures 3 and 4
+represent a new understanding of the process of
+managerial intervention including likely positive
+and negative outcomes of discrepant role expecta-
+tions. Like many other work organizations, the one
+we investigated featured a culture of relatively in-
+tense control over workplace practices. Managers
+tended to be on the lookout for signs of emotional
+distress and were prepared to intervene, as neces-
+sary, in cases where upset individuals did not
+themselves request help.
+Our data revealed two main “signatures” of emo-
+tion help provision: (a) a short-cut (listening and
+giving advice), and (b) an elaborated process that
+involved not just listening but also validating, re-
+framing, or transforming. The short-cut was more
+likely to lead to discrepant expectations, in that
+employees were in no doubt that such listening and
+advising formed an integral aspect of managerial
+work, whereas in the mental accounting of manag-
+ers (cf. Thaler, 1999), even listening to and advising
+concerning emotional problems were labeled extra-
+role behaviors.
+There is a similarity between how managers
+acted in this organization and how peer counselors
+interact with coworkers in unionized organiza-
+tions, where assistance is provided out of the sight
+of supervisors even to those troubled colleagues
+who have not asked for it (Bacharach et al., 2001:
+114). The extension of managerial intervention to
+the personal aspects of people’s lives in the absence
+of any union-based resistance raises questions con-
+cerning the vulnerability of employees to manage-
+ment pressure. In situations where there are power
+differences between those helping and those being
+helped, patterns of reciprocity are likely to be dis-
+torted (Gouldner, 1960).
+Future Research
+Bureaucracy has developed to the point where
+human resource managers in large organizations try
+to anticipate and deal with many issues previously352
+Academy of Management Journal
+regarded as private matters, such as improving em-
+ployee morale (Roethlisberger & Dickson, 1939),
+providing Christmas gifts for employees’ children
+(Baron, Dobbin, & Jennings, 1986), and eliminating
+employees’ offensive body odor (De Botton, 2009).
+Future research can investigate what kinds of emo-
+tion helping on the part of the managers do, in fact,
+restore employees as productive organizational cit-
+izens and prevent emotional contamination of oth-
+ers in the organization, and whether there are un-
+anticipated consequences of such interventions.
+Our research surfaced five different types of emo-
+tion helping on offer to employees, and the typol-
+ogy matches some of the needs that prior research
+has identified as resulting from negative emotional
+experiences (Rimé, 2007: 474). A major exception
+is listening, which in itself does not turn out to be
+useful in helping people recover from negative
+emotions (Rimé, 2007: 471). Also missing from Ta-
+ble 2 is any sense that managers provide the kind of
+concrete help and assistance that prior research
+(summarized in Rimé, 2007) suggests can facilitate
+people moving beyond difficult personal situa-
+tions. What is striking in Table 2 is the prevalence
+of behaviors that are relatively superficial: listening
+and giving advice. The behaviors that really make a
+difference in helping people recover their emo-
+tional balance—social validation, social support,
+reframing, recreation of meaning, and concrete
+help and assistance (Rimé, 2007)—are much less in
+evidence on the part of managers. Future research
+can investigate whether the provision of profes-
+sional assistance programs to employees results in
+better outcomes for both employees and the com-
+pany than the relatively amateurish help provided
+by intervening managers.
+Even if minimal emotion helping does little to
+improve emotional well-being, this helping may
+bind employees to the organization by creating a
+culture in which emotion problems can be dis-
+cussed (Martin et al., 1998), or by fostering em-
+ployee indebtedness for favors received (cf. Gould-
+ner, 1960). Future research could investigate
+whether, as prior work has suggested, “the compas-
+sionate workplace may be a factor in both attracting
+and retaining staff” (Frost, Dutton, Worline, & Wil-
+son, 2000: 38). Particularly in the case of manage-
+rial help with negative emotions deriving from
+nonwork situations, employees may feel personally
+indebted and be less able to rationalize such help as
+an expected part of the managerial role.
+The employees we investigated worked in open-
+plan spaces, in which asking for help constituted a
+April
+relatively difficult act, given that it was exposed to
+public view (cf. Bamberger, 2009: 67). Even people
+who work in private offices, such as professors,
+find that processing negative emotions at work ex-
+poses them to potentially negative repercussions.
+But privacy may enable private-office workers to
+seek assistance from colleagues and be less subject
+to potentially intrusive questioning from supervi-
+sors (Frost et al., 2000). We do know that people
+who work in open-plan (relative to private) offices
+tend to suffer from decreased satisfaction and mo-
+tivation (Oldham & Brass, 1979) as well as in-
+creased emotional strain (see the review in Sutton
+and Rafaeli [1987]). Future research can explore
+whether the absence of walls and barriers enables
+social relations among employees (cf. Oldham &
+Brass, 1979: 267–268), thereby facilitating shared
+norms of resistance to expectations by managers
+concerning reciprocation for help provided.
+To the extent that activist managers generally
+listen and empathize, but neither reciprocate self-
+disclosure nor actively intervene to solve emo-
+tional problems, they may seem to play the role of
+classical therapists (Goldstein & Goldberg, 2004),
+offering little about themselves but listening care-
+fully to the concerns of their “patients.” Managers,
+according to our data, seem to be viewed akin to
+parental figures whose duties include taking care of
+the emotional needs of their dependents. Future
+research can investigate whether the discrepancy
+between the expectations of managers and subordi-
+nates concerning emotion help may be related to
+what in the psychotherapy literature is known as
+“transference”—the process by which one person
+displaces onto an authority figure thoughts, feel-
+ings, or expectations that were originally directed
+toward important people of early childhood (Gold-
+stein & Goldberg, 2004). Because of the likelihood
+of gross power differences and the potential for
+emotional and personal abuse, the maintenance of
+careful boundaries between medical practitioners
+and patients is a major consideration in emotional
+therapy (Williams & Swartz, 1998). To the extent
+that managers act as freelance therapists, this
+boundary takes on multiple dimensions, as it in-
+volves not only a therapist-patient relationship but
+also a manager-subordinate one. Employees with
+emotional problems are vulnerable to loss of self-
+esteem, especially to the extent that problems are
+deemed to be embarrassing or stigmatizing (Bam-
+berger, 2009: 65). The potential for managers to
+exploit the vulnerability of emotionally distressed
+employees is always present, given the power dif-2013
+Toegel, Kilduff, and Anand
+ference, and given the dual nature of the managerial
+role as simultaneously supervisor and therapist.
+Future research can also explore whether the per-
+vasive differences between men and women with
+respect to emotional experiences (Simon & Nath,
+2004) and emotional expressiveness (Thoits, 1989)
+affect emotion helping in organizations. Are
+women managers more likely to offer help, and are
+managers (of both sexes) more likely to offer help to
+female subordinates? Recent work demonstrates
+differences between men and women in how their
+emotional expressions are viewed by others, and
+suggests that for women, expressing sadness is
+more highly approved of than expressing anger
+(Brescoll & Uhlmann, 2008). Extending this re-
+search, based on our results, one could ask whether
+accepting help from managers might result in fe-
+male employees (relative to male employees) losing
+status.
+Organizational Implications
+How might employees protect themselves from
+the expectations on the part of managers that they
+“owe” a personal debt to those who have helped
+them with their emotional problems? The opportu-
+nity to help managers with their emotional prob-
+lems in return is likely to be unavailable, given
+status differences. Providing help, while refraining
+from requesting help, contributes to and reinforces
+the perception of high status (Flynn, Reagans,
+Amanatullah, & Ames, 2006). A positive psychol-
+ogy emphasis on the importance of emotion man-
+agement and the altruism of caring managers must
+be balanced by recognition of the dangers inherent
+in employees relying on managers for emotion help
+(Fineman, 2006). Following the logic of Figure 3,
+employees could define emotion helping as part
+and parcel of managers’ jobs— defined in such a
+way, emotion help would require no extra discre-
+tionary response by employees. To the extent that
+employees interact with managers only in the con-
+text of the workplace, and to the extent that poten-
+tial power and discretion is vested in the manage-
+rial role, employees can justify attributing
+managerial caring surveillance to the demands of
+the role rather than to the idiosyncrasies of the
+person (Turner, 1978), and thereby overcome the
+general tendency to attribute such distinctive be-
+havior to individual dispositions (cf. Ross, 1977).
+By refusing to acknowledge a reciprocal obligation
+beyond the normal work contract, employees can
+interpret the ambiguous emotion helping script to
+353
+their own advantage and refuse to let the manager
+step beyond the professional boundaries of the
+workplace.
+Given the potential problems resulting from dis-
+crepant role expectations, what should organiza-
+tions do? Managers can be educated concerning the
+wide-ranging aspects of the managerial role (cf.
+Mintzberg, 1973), and made aware that helping oth-
+ers with emotional problems is likely to be seen by
+subordinates as part and parcel of managerial work
+within the context of the organization’s overall sup-
+portive climate (cf. Eisenberger et al., 2010). The
+good news for managers should also be communi-
+cated: employees are likely to ascribe helping be-
+haviors on the part of managers to the quality of
+these managers’ leadership skills. At the same time,
+managers can be educated in the limits of their
+expertise when it comes to dealing with seriously
+upset subordinates.
+It is important to note limitations to our approach
+that can be addressed in future research endeavors.
+Recent research has indicated that handling the
+difficult emotions of others can have negative indi-
+vidual outcomes such as frustration, burnout, ill-
+ness, and failed personal and professional relation-
+ships (Frost, 2003; Kahn, 1993; Meyerson, 2000).
+As one of our informants noted, one consequence
+of processing the negative emotions of others is that
+“You do get stressed out and take it home with you.
+One is definitely suffering as a result of this.”
+Clearly, we need more research on how some of the
+downsides for managers of “toxin handling” (Frost
+& Robinson, 1999; Frost, 2003) can be mitigated.
+Further, we are not able in this research to trace
+either the positive or the negative outcomes of emo-
+tion helping interventions with respect to such as-
+pects as customer satisfaction, on the one hand, or
+employee productivity, on the other. Thus, future
+research can investigate whether the claims made
+on behalf of emotion helping are validated by re-
+sults in organization and in the marketplace.
+Conclusion
+Managers of organizations are empowered to
+control work processes in pursuit of productivity.
+Control involves monitoring, assessing, and disci-
+plining (rewarding and punishing) employees (Ed-
+wards, 1979). Thus, managers have discretion to
+intervene in many aspects of employees’ work. But
+work in modern organizations encompasses not
+just physical labor but also (in the case of service
+organizations) emotional labor (Hochschild,354
+Academy of Management Journal
+1983)—labor that involves the employment of emo-
+tions in the service of the organization. The control
+of emotional labor places managers in the position
+of having to monitor employees’ appropriate emo-
+tions and possibly intervene when emotions seem
+inappropriate. In this article, we focused on mana-
+gerial interventions to ameliorate employees’ neg-
+ative emotions. To the extent that these interven-
+tions represent efforts to control as well as to help,
+such interventions are likely to perpetuate incon-
+gruent perceptions and mixed outcomes.
+April
+ents, consequences and new insights for future re-
+search. Research in Personnel and Human Re-
+sources Management, 28: 49 –98.
+Barling, J., Weber, T., & Kelloway, E. K. 1996. Effects of
+transformational leadership training on attitudinal
+and financial outcomes: A field experiment. Journal
+of Applied Psychology, 81: 827– 832.
+Baron, J., Dobbin, F., & Jennings, P. D. 1986. War and
+peace: The evolution of modern personnel adminis-
+tration in U.S. industry. American Journal of Soci-
+ology, 92: 350 –383.
+REFERENCES Barsade, S. 2002. The ripple effect: Emotional contagion
+and its influence on group behavior. Administrative
+Science Quarterly, 47: 644 – 675.
+Armeli, S., Eisenberger, R., Fasolo, P., & Lynch, P. 1998.
+Perceived organizational support and police perfor-
+mance: The moderating influence of socioemotional
+needs. Journal of Applied Psychology, 83: 288 –297. Bass, B. M., Avolio, B. J., Jung, D. I., & Berson, Y. 2003.
+Predicting unit performance by assessing transfor-
+mational and transactional leadership. Journal of
+Applied Psychology, 88: 207–218.
+Ashkanasy, N. M., & Daus, C. S. 2002. Emotion in the
+workplace: The new challenge for managers. Acad-
+emy of Management Executive, 16(1): 76 –86. Bedeian, A., & Hunt, J. 2006. Academic amnesia and
+vestigial assumptions of our forefathers. Leadership
+Quarterly, 17: 190 –205.
+Ashkanasy, N. M., & Tse, B. 2000. Transformational lead-
+ership as management of emotion: A conceptual re-
+view. In N. Ashkanasy & C. Hartel & W. Zerbe (Eds.),
+Emotions in the workplace: Research theory and
+practice: 221–235. Westport, CT: Quorum. Bergeron, D. 2007. The paradox of organizational citizen-
+ship behavior: Good citizens at what cost? Academy
+of Management Review, 32: 1078 –1095.
+Atwater, L., Ostroff, C., Yammarino, F., & Fleenor, J.
+1998. Self-other agreement: Does it really matter?
+Personnel Psychology, 51: 577–598.
+Avolio, B. J., & Bass, B. M. 1995. Individual consideration
+viewed at multiple levels of analysis: A multi-frame-
+work for examining the diffusion of transformational
+leadership. Leadership Quarterly, 6: 188 –218.
+Avolio, B. J., Walumbwa, F. O., & Weber, T. J. 2009.
+Leadership: Current theories, research, and future
+directions. In S. T. Fiske, D. L. Schacter, & S. E.
+Taylor (Eds.), Annual review of psychology, vol. 60:
+421– 449. Palo Alto, CA: Annual Reviews.
+Bacharach, S., Bamberger, P., & Sonnenstuhl, W. J. 1996.
+The organizational transformation process: The mi-
+cropolitics of dissonance reduction and the align-
+ment of logics of action. Administrative Science
+Quarterly, 41: 477–506.
+Bacharach, S., Bamberger, P., & Sonnenstuhl, W. 2001.
+Mutual aid and union renewal: Cycles of logics of
+action. Ithaca, NY: Cornell University Press.
+Bacharach, S., Bamberger, P., & Vashdi, D. 2005. Diver-
+sity and homophily at work: Supportive relations
+among white and African-American peers. Academy
+of Management Journal, 48: 619 – 644.
+Bamberger, P. 2009. Employee help-seeking: Anteced-
+Blau, P. 1964. Exchange and power in social life. New
+York: Wiley.
+Bolino, M. C. 1999. Citizenship and impression manage-
+ment: Good soldiers or good actors? Academy of
+Management Review, 24: 82–98.
+Bolino, M. C., & Turnley, W. H. 2005. The personal costs
+of citizenship behavior: The relationship between
+employee conscientiousness and role overload, job
+stress, and work-family conflict. Journal of Applied
+Psychology, 90: 740 –748.
+Bolton, S. 2005. Emotion management in the work-
+place. London: Palgrave.
+Bowler, W. M., & Brass, D. J. 2006. Relational correlates
+of interpersonal citizenship behavior: A social net-
+work perspective. Journal of Applied Psychology,
+91: 70 – 82.
+Brescoll, V. L., & Uhlmann, E. L. 2008. Can an angry
+woman get ahead? Status conferral, gender, and ex-
+pression of emotion in the workplace. Psychological
+Science, 19: 268 –275.
+Cameron, K., Dutton, J., & Quinn, R. (Eds.). 2003. Positive
+organizational scholarship. San Francisco: Berrett-
+Koehler.
+Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J.,
+Wheeler, D., & Darby, B. L. 1975. Reciprocal conces-
+sions procedure for inducing compliance: The door-2013
+Toegel, Kilduff, and Anand
+in-the-face technique. Journal of Personality and
+Social Psychology, 31: 206 –215.
+Cotterell, N., Eisenberger, R., & Speicher, H. 1992. Inhib-
+iting effects of reciprocation wariness on interper-
+sonal relationships. Journal of Personality and So-
+cial Psychology, 62: 658 – 668.
+Covaleski, M. A., Dirsmith, M. W., Heian, J. B., & Samuel,
+S. 1998. The calculated and the avowed: Techniques
+of discipline and struggles over identity in big six
+public accounting firms. Administrative Science
+Quarterly, 43: 293–327.
+De Botton, A. 2009. The pleasures and sorrows of work.
+New York: Pantheon.
+355
+good: A conceptual analysis of the mood at work-or-
+ganizational spontaneity relationship. Psychologi-
+cal Bulletin, 112: 310 –329.
+Gerstner, C., & Day, D. V. 1997. Meta-analytic review of
+leader-member exchange theory: Correlates and con-
+struct issues. Journal of Applied Psychology, 82:
+827– 844.
+Gioia, D., & Chittipeddi, K. 1991. Sensemaking and
+sensegiving in strategic change initiation. Strategic
+Management Journal, 12: 433– 448.
+Gioia, D., Thomas, J., Clark, S., & Chittipeddi, K. 1994.
+Symbolism and strategic change in academia: The
+dynamics of sensemaking and influence. Organiza-
+tion Science, 5: 363–383.
+Dyne, L. V., & LePine, J. A. 1998. Helping and voice
+extra-role behaviors: Evidence of construct and pre-
+dictive validity. Academy of Management Journal,
+41: 108 –119. Glaser, B., & Strauss, A. 1967. The discovery of
+grounded theory: Strategies for qualitative re-
+search. Chicago: Aldine.
+Edwards, R. 1979. Contested terrain: The transforma-
+tion of the workplace in the twentieth century.
+New York: Basic. Goldstein, W. N., & Goldberg, S. T. 2004. Using the
+transference in psychotherapy. Lanham, MD: Row-
+man & Littlefield.
+Eisenberger, R., Karagonlar, G., Stinglhamber, F., Neves,
+P., Becker, T., Gonzalez-Morales, M., & Steiger-
+Mueller, M. 2010. Leader-member exchange and af-
+fective organizational commitment: The contribu-
+tion of supervisor’s organizational embodiment.
+Journal of Applied Psychology, 95: 1085–1103. Gouldner, A. 1960. The norm of reciprocity: A prelimi-
+nary statement. American Sociological Review, 25:
+161–179.
+Eisenhardt, K., & Graebner, M. 2007. Theory building
+from cases: Opportunities and challenges. Academy
+of Management Journal, 50: 25–32.
+Elfenbein, H. A. 2007. Emotion in organizations. In J. P.
+Walsh & A. P. Brief (Eds.), Academy of Manage-
+ment annals, vol. 1: 315–386. New York: Erlbaum.
+Fineman, S. 2006. Accentuating the positive? Academy
+of Management Review, 31: 306 –308.
+Flynn, F. J., Reagans, R. E., Amanatullah, E. T., & Ames,
+D. R. 2006. Helping one’s way to the top: Self-mon-
+itors achieve status by helping others and knowing
+who helps whom. Journal of Personality and Social
+Psychology, 91: 1123–1137.
+Frost, P. 2003. Toxic emotions at work: How compas-
+sionate managers handle pain and conflict. Bos-
+ton: Harvard Business School Press.
+Frost, P., Dutton, J., Worline, M., & Wilson, A. 2000.
+Narratives of compassion in organizations. In S.
+Fineman (Ed.), Emotions in organizations: 25– 45.
+London: Sage.
+Frost, P., & Robinson, S. 1999. The toxic handler: Orga-
+nizational hero and casualty. Harvard Business Re-
+view, 77(4): 96 –106.
+George, J. M., & Brief, A. P. 1992. Feeling good—Doing
+Gower, J. C., & Legendre, P. 1986. Metric and euclidean
+properties of dissimilarity coefficients. Journal of
+Classification, 3: 5– 48.
+Grandey, A. A. 2000. Emotion regulation in the work-
+place: A new way to conceptualize emotional labor.
+Journal of Occupational Health Psychology, 5: 59 –
+100.
+Grandey, A. 2003. When “the show must go on”: Surface
+acting and deep acting as determinants of emotional
+exhaustion and peer-rated service delivery. Acad-
+emy of Management Journal, 46: 86 –96.
+Grandey, A. 2008. Emotions at work: A review and re-
+search agenda. In C. Cooper & J. Barling (Eds.), The
+SAGE handbook of organizational behavior: 234 –
+261. Thousand Oaks, CA: Sage.
+Hareli, S., & Rafaeli, A. 2008. Emotion cycles: On the
+social influence of emotion in organizations. In A. P.
+Brief & B. M. Staw (Eds.), Research in organiza-
+tional behavior, vol. 28: 35–59. Greenwich, CT: JAI.
+Hochschild, A. R. 1983. The managed heart: Commer-
+cialization of human feeling. Berkeley: University
+of California Press.
+Howell, J. M., & Frost, P. J. 1989. A laboratory study of
+charismatic leadership. Organizational Behavior
+and Human Decision Processes, 43: 243–269.
+Humphrey, R. 2002. The many faces of emotional lead-
+ership. Leadership Quarterly, 13: 493–504.356
+Academy of Management Journal
+Huy, Q. N. 2005. Emotion management to facilitate stra-
+tegic change and innovation: How emotional balanc-
+ing and emotional capability work together. In
+C. E. J. Hartel, W. J. Zerbe, & N. M. Ashkanasy (Eds.),
+Emotions in organizational behavior: 295–316.
+Mahwah, NJ: Erlbaum.
+Kahn, W. A. 1993. Caring for the caregivers: Patterns of
+organizational caregiving. Administrative Science
+Quarterly, 38: 539 –563.
+Katz, D., & Kahn, R. L. 1966. The social psychology of
+organizations. New York: Wiley.
+Krackhardt, D. 1990. Assessing the political landscape:
+Structure, cognition, and power in organizations.
+Administrative Science Quarterly, 35: 342–369.
+Krone, K. J., & Morgan, J. M. 2000. Emotion metaphors in
+management: The Chinese experience. In S. Fine-
+man (Ed.), Emotion in organizations: 83–100. Lon-
+don: Sage.
+Latané, B., & Arrowood, A. 1963. Emotional arousal and
+task performance. Journal of Applied Psychology,
+47: 324 –327.
+Lawler, E., & Thye, S. 1999. Bringing emotion into social
+exchange theory. In K. S. Cook & J. Hagan (Eds.),
+Annual review of sociology, vol. 25: 217–244. Palo
+Alto, CA: Annual Reviews.
+April
+Organ, D. W. 1988. Organizational citizenship behav-
+ior: The good soldier syndrome. Lexington, MA:
+Lexington Books.
+Organ, D. W. 1997. Organizational citizenship behavior:
+It’s construct clean-up time. Human Performance,
+10: 85–97.
+Peltier, B. 2010. The psychology of executive coaching:
+Theory and application. New York: Routledge.
+Podsakoff, N. P., Whiting, S. W., Podsakoff, P. M., &
+Blume, B. D. 2009. Individual- and organizational-
+level consequences of organizational citizenship be-
+haviors: A meta analysis. Journal of Applied Psy-
+chology, 94: 122–141.
+Rafferty, A. E., & Griffin, M. A. 2006. Refining definitions
+of individualized consideration: Distinguishing de-
+velopmental leadership and supportive leadership.
+Journal of Occupational and Organizational Psy-
+chology, 79: 37– 61.
+Richards, L. 1999. Using NVivo in qualitative research.
+London: Sage.
+Rimé, B. 2007. Interpersonal emotion regulation. In J. J.
+Gross (Ed.), Handbook of emotion regulation: 466 –
+485. New York: Guilford.
+Lawler, E., Thye, S., & Yoon, J. 2009. Social commit-
+ments in a depersonalized world. New York: Sage. Roethlisberger, F., & Dickson, W. 1939. Management
+and the worker: An account of a research program
+conducted by the western electric company, Chi-
+cago. Cambridge, MA: Harvard University Press.
+Lowe, K. B., Kroeck, G. K., & Sivasubramaniam, N. 1996.
+Effectiveness correlates of transformational and
+transactional leadership: A meta-analytic review of the
+MLQ literature. Leadership Quarterly, 7: 385– 425. Ross, L. 1977. The intuitive psychologist and his short-
+comings: Distortions in the attribution process. In L.
+Berkowitz (Ed.), Advances in experimental social
+psychology: 173–220. New York: Academic.
+Martin, J., Knopoff, K., & Beckman, C. 1998. An alterna-
+tive to bureaucratic impersonality and emotional la-
+bor: Bounded emotionality at the body shop. Admin-
+istrative Science Quarterly, 43: 429 – 469.
+Meyerson, D. 2000. If emotions were honored: A cultural
+analysis. In S. Fineman (Ed.), Emotion in organiza-
+tions: 167–183. London: Sage.
+Miles, M., & Huberman, A. 1994. Qualitative data anal-
+ysis. Thousand Oaks, CA: Sage.
+Mintzberg, H. 1973. The nature of managerial work.
+New York: HarperCollins.
+Morrison, E. 1994. Role definitions and organizational
+citizenship behaviors: The importance of the em-
+ployees’ perspective. Academy of Management
+Journal, 37: 1543–1567.
+Oldham, G. R., & Brass, D. J. 1979. Employee reactions to
+an open-plan office: A naturally occurring quasi-
+experiment. Administrative Science Quarterly, 24:
+267–284.
+Rousseau, D. 1989. Psychological and implied contracts
+in organizations. Employee Rights and Responsibil-
+ities Journal, 2: 121–139.
+Rousseau, D. 1995. Psychological contracts in organiza-
+tions: Understanding written and unwritten agree-
+ments. London & New York: Sage.
+Settoon, R. P., & Mossholder, K. W. 2002. Relationship
+quality and relationship context as antecedents of
+person- and task-focused interpersonal citizenship
+behavior. Journal of Applied Psychology, 87: 255–
+267.
+Simon, R., & Nath, L. 2004. Gender and emotion in the
+U.S.: Do men and women differ in self-reports of
+feelings and expressive behavior? American Journal
+of Sociology, 109: 1137–1176.
+Spector, P. E., & Fox, S. 2010. Theorizing about the de-
+viant citizen: An attributional explanation of the
+interplay of organizational citizenship and counter-
+productive work behavior. Human Resource Man-
+agement Review, 20: 132–143.2013
+Toegel, Kilduff, and Anand
+Spitzmuller, M., Van Dyne, L., & Ilies, R. 2008. Organi-
+zational citizenship behavior: A critical review and
+extension of its nomological network. In C. Cooper &
+J. Barling (Eds.), Handbook of organizational be-
+havior: 106 –123. London: Sage.
+Spradley, J. 1979. The ethnographic interview. New
+York: Holt Rinehart & Winston.
+Sutton, R. I., & Rafaeli, A. 1987. Characteristics of work
+stations as potential occupational stressors. Acad-
+emy of Management Journal, 30: 260 –276.
+Thaler, R. 1999. Mental accounting matters. Journal of
+Behavioral Decision Making, 12: 183–206.
+Thoits, P. A. 1989. The sociology of emotions. In W. R.
+Scott & J. Blake (Eds.), Annual review of sociology,
+vol. 15: 317–342. Palo Alto, CA: Annual Reviews.
+Toegel, G., Anand, N., & Kilduff, M. 2007. Emotion help-
+ers: The role of high positive affectivity and high
+self-monitoring managers. Personnel Psychology,
+60: 337–365.
+Tsui, A. S., Pearce, J. L., Porter, L. W., & Tripoli, A. M.
+1997. Alternative approaches to the employee-organ-
+ization relationship: Does investment in employees
+pay off? Academy of Management Journal, 40:
+1089 –1121.
+Turner, R. H. 1978. The role and the person. American
+Journal of Sociology, 84: 1–23.
+Van Dyne, L., Cummings, L. L., & McLean Parks, J. 1995.
+Extra-role behaviors: In pursuit of construct and def-
+initional clarity. In L. L. Cummings & B. M. Staw
+(Eds.), Research in organizational behavior: 215–
+285. Stamford, CT: JAI.
+Van Dyne, L., & Ellis, J. B. 2004. Job creep: A reactance
+theory perspective on organizational citizenship be-
+havior as over-fulfillment of obligations. In J. A. M.
+Coyle-Shapiro, L. M. Shore, M. S. Taylor, & L. E.
+Tetrick (Eds.), The employment relationship: Ex-
+amining psychological and contextual perspec-
+tives: 182–205. Oxford, UK: Oxford University
+Press.
+Van Maanen, J. 1988. Tales of the field: On writing
+ethnography. Chicago: University of Chicago Press.
+Wayne, S., Shore, L., & Liden, R. 1997. Perceived organ-
+izational support and leader-member exchange: A
+social exchange perspective. Academy of Manage-
+ment Journal, 40: 82–111.
+Williams, J., & Swartz, M. 1998. Treatment boundaries in
+the case management relationship: A clinical case
+357
+and discussion. Community Mental Health Journal,
+34: 299 –311.
+Zellars, K. L., & Perrewé, P. L. 2001. Affective personality
+and the content of emotional social support: Coping
+in organizations. Journal of Applied Psychology,
+86: 459 – 467.
+APPENDIX
+Interview Protocol
+We try to understand how people use the support of
+others to cope with difficult emotions. I would ask you to
+think of a situation when you experienced stress, anxi-
+ety, tension or emotional pain and a colleague of yours
+helped you to cope with it.
+• Could you please describe this situation?
+• What kind of person was the emotion helper? Does
+everybody in the firm provide this kind of help or only
+some people?
+• How did X provide the emotion help you needed?
+What made you feel better?
+• Why do you think X provided the emotion help you
+needed?
+• What were the personal benefits/costs involved for X?
+• [If a manager is mentioned] Are managers expected to
+provide emotion help? Is emotion help part of their
+job? Do people “pay back” this help? In what form?
+• Do you think of yourself as an emotion helper?
+Ginka Toegel (Ginka.Toegel@imd.ch) is a professor of
+leadership at IMD, Lausanne. She received her Ph.D. in
+Psychology from Leipzig University and her Ph.D. in
+Management from London Business School. Her current
+research interests focus on emotion in organizations,
+control-related beliefs, and leadership effectiveness.
+Martin Kilduff (m.kilduff@ucl.ac.uk) is professor of or-
+ganizational behavior at University College London. He
+received his Ph.D. from Cornell University. His research
+interests include interpersonal networks, emotions, per-
+sonality, and philosophy of science.
+N. Anand (anand@imd.ch) is the Shell Professor of
+Global Leadership at IMD, Lausanne. He received his
+Ph.D. from Vanderbilt University. His research focuses
+on innovative organizational structures in professional
+firms, organizational field formation, and the use of so-
+cial networks in managing emotions.

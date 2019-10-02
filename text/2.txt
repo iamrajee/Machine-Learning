@@ -1,0 +1,2581 @@
+r Academy of Management Journal
+2016, Vol. 59, No. 6, 2132–2156.
+http://dx.doi.org/10.5465/amj.2015.0564
+ENGAGE ME: THE MATURE-AGE WORKER AND
+STEREOTYPE THREAT
+CAROL T. KULIK
+SANJEEWA PERERA
+University of South Australia
+CHRISTINA CREGAN
+University of Melbourne
+As the workforce ages, and people retire later in life, organizations will need to develop
+strategies to engage their mature-age workers. We used a stereotype threat framework to
+investigate the impact of threat-inducing (young manager, young workgroup, manual
+occupation) and threat-inhibiting (high performance practices, mature-age practices)
+contextual cues on mature-age worker engagement. A total of 666 mature-age employees
+in Australia described their work experiences in three surveys administered over a three-
+year period. Results indicated that mature-age employees who experienced stereotype
+threat in the workplace reported lower engagement 11–12 months later. All of the con-
+textual cues had an impact on stereotype threat and exerted indirect (mediated by ste-
+reotype threat) effects on engagement. However, the effects of manager age were
+moderated by organizational practices. Diversity conscious mature-age practices mod-
+erated the indirect effect of manager age, so mature-age practices were particularly
+beneficial in counteracting negative cues associated with young managers. But diversity
+blind high performance practices moderated the direct effect of manager age, so high
+performance practices were especially helpful in generating engagement among mature-
+age workers with older managers. We recommend that organizations adopt both
+diversity blind and diversity conscious practices into their diversity management
+portfolios. The two types of practices are complementary and have additive effects on
+mature-age worker engagement.
+In response to these demographic pressures, some
+countries are redefining “working age” by sys-
+tematically raising the ages at which individuals
+can access government- and employer-supported
+retirement funds (Gov. UK, n.d.; Social Security
+Administration, n.d.). Australia plans to incre-
+mentally increase the official retirement age to
+70 by 2035, making its retirement age the highest
+in the world. These changes are likely to sig-
+nificantly extend an employee’s working life
+(Gruber & Wise, 2005) but they only address part
+of the grand challenge associated with aging
+populations. “Policy changes. . .may increase the
+hiring and retention of older workers, but they
+will not necessarily engage or motivate older
+workers” (Kulik, Ryan, Harper & George, 2014:
+932, italics added).
+Engagement is “a positive, fulfilling, work-related
+state of mind” (Schaufeli, Salanova, González-Romá
+& Bakker, 2002: 74) characterized by vigor (high
+energy and motivation) and dedication (strong
+The United Nations, Department of Economic and
+Social Affairs, Population Division (2015: 1) describes
+the aging of the world’s population as “one of the most
+significant social transformations of the twenty-first
+century.” As older individuals constitute increasingly
+large shares of the total population, the societal sys-
+tems that rely on “working age” persons to support
+retirees are increasingly strained. For example, in
+1901, there were 15 people of working age to sup-
+port every Australian over 65; today there are fewer
+than five (Australian Institute of Superannuation
+Trustees–Australian Centre for Financial Studies,
+2014). In North America and most of Europe, support
+ratios are similarly low and will continue to decline.
+This research was supported by a grant from the Aus-
+tralian Research Council (Discovery 1093700). We thank
+James LeBreton, Fred Oswald, Elissa Perry, Shruti Sar-
+deshmukh, and Scott Tonidandel for their advice and
+support during the project’s design, analysis, and write-up.
+2132
+Copyright of the Academy of Management, all rights reserved. Contents may not be copied, emailed, posted to a listserv, or otherwise transmitted without the copyright holder’s express
+written permission. Users may print, download, or email articles for individual use only.2016
+Kulik, Perera, and Cregan
+identification with the work role) (Bakker, Albrecht,
+& Leiter, 2011; Mauno, Kinnunen, & Ruokolainen,
+2007). Engaged employees are not just physically
+present but “psychologically present – more atten-
+tive, integrated and focused” (He, Zhu, & Zheng,
+2014: 683). Employee engagement is an important
+predictor of employee job performance (Christian,
+Garza, & Slaughter, 2011; Ho, Wong, & Lee, 2011)
+and so both practitioners and academics are eager to
+identify the antecedents and facilitators of employee
+engagement.
+Historically, organizations have been most atten-
+tive to employee engagement in the earliest stages of
+employment (the honeymoon; Boswell, Boudreau, &
+Tichy, 2005). In fact, the highest levels of engage-
+ment may be experienced in the first six months of
+employment (Gallup, 2013). But once the active so-
+cialization period ends and the employee has settled
+into his or her role, management attention wanes (the
+hangover; Boswell et al., 2005). For younger em-
+ployees, the hangover can be transformed back to
+honeymoon with a promotion or job change. But
+older employees at the top of their career lad-
+ders have limited mobility (Gringart, Helmes, &
+Speelman, 2013; Shacklock, Fulop, & Hort, 2007)
+and face longer and longer hangovers. Fully engag-
+ing mature-age workers over their extended working
+lives will require employers to present a “different
+and distinctive value proposition” (Cappelli &
+Novelli, 2010: xix) that explicitly acknowledges
+this demographic group’s unique challenges—
+particularly the challenges generated by age stereo-
+types. Age stereotypes are notoriously persistent
+in organizations; mature-age employees are consis-
+tently perceived to be less productive than their
+younger counterparts (Posthuma & Campion, 2009).
+They are also viewed as lacking initiative, disinter-
+ested in learning or developing, and resistant to
+change (Armstrong-Stassen & Schlosser, 2008;
+Maurer, Barbeite, Weiss, & Lippstreu, 2008; Ng &
+Feldman, 2012).
+AGE STEREOTYPES IN CONTEXT
+Employee age is a continuum, but societal efforts
+to develop policy and enact legislation to manage an
+aging population are establishing mature-age
+workers as a defined “target category” with explicit
+membership criteria (Desmette & Gaillard, 2008:
+168). In Australia, where we conducted our research,
+the Australian Bureau of Statistics (ABS) adopted age
+45 as the lower boundary defining “mature-age”
+workers (ABS, 2004) and this definition diffused
+2133
+across Australian associations, government agencies,
+and employment services (Australian Chamber
+of Commerce and Industry, 2012; Australian
+Law Reform Commission, 2012, 2013; National
+Seniors Productive Ageing Center, 2012; https://au.
+oneshiftjobs.com/adage/). Public forums and news-
+paper articles regularly reference the ABS’s 451
+definition in their discussion of age stereotypes:
+“Employers regard workers as over the hill at 45,
+Age Discrimination Commissioner Susan Ryan
+said. . .People who are 45 should start thinking about
+the future. . .After 45, it’s harder and harder to find
+a job. . .” (Bita, 2014). Mature-age workers are warned
+against confirming age stereotypes through their
+own behavior: “. . .don’t fall into stereotypes of being
+grumpy, bitter and inflexible” (Hoffman, 2005).
+These societal-level communications simulta-
+neously define 451 workers as a target group af-
+fected by negative stereotypes, and indirectly (albeit
+unintentionally) reinforce those stereotypes by re-
+peating and transmitting their content (Jones &
+Carpenter, 2014).
+Stereotypes are socially shared and readily acti-
+vated (they are “in the air”; Steele, 1997), but stereo-
+type salience varies across situations and contexts.
+Members of any stereotyped group—including
+mature-age workers—actively monitor organiza-
+tional contexts for cues indicating whether they are
+likely to be evaluated in light of their group’s nega-
+tive stereotype (Walton, Murphy, & Ryan, 2015).
+Stereotype threat is a “fluid, situational threat”
+(Lamont, Swift, & Abrams, 2015: 180) that is evoked
+by subtle cues signaling that one’s identity group
+may not be valued in the immediate environment
+(e.g., being a numerical minority, reporting to
+someone who is not a member of your identity
+group, stereotypical objects in the physical décor;
+Cheryan, Plaut, Davies, & Steele, 2009; Schmader,
+Johns, & Forbes, 2008). Stereotype threat disrupts
+task performance and negatively impacts an in-
+dividual’s motivation and engagement (Roberson &
+Kulik, 2007; Shapiro & Neuberg, 2007).
+But contextual cues can also reduce stereotype
+threat: The context is “both the problem and the so-
+lution” (Kulik, 2014a: 457). Some contextual cues
+(e.g., practices that affirm one’s identity group) re-
+assure an individual that his or her group is valued
+and respected; these cues generate a sense of psy-
+chological safety in the work environment (Davies,
+Spencer, & Steele, 2005; Purdie-Vaughns, Steele,
+Davies, Ditlmann, & Crosby, 2008). Researchers have
+been urged to “focus on managerial practices that will
+create a friendlier environment and atmosphere” for2134
+December
+Academy of Management Journal
+mature-age workers (Posthuma & Campion, 2009:
+177). However, the vast majority of work on stereo-
+typing and prejudice has focused on individuals’ at-
+titudes (Fiske, 2003) and identified a narrow portfolio
+of strategies that emphasize changing managerial at-
+titudes toward mature-age workers (e.g., through di-
+versity training). Managerial attitudes, unfortunately,
+are stubbornly resistant to change (Kulik & Roberson,
+2008). A stereotype threat perspective that focuses on
+contextual variations (e.g., organizational policies
+and practices) could “effectively take the stereotype
+off the table” (Walton et al., 2015: 525) and generate
+greater engagement among mature-age workers.
+Figure 1 presents our proposed model, positioning
+stereotype threat as a central mediator in the re-
+lationship between organizational contextual cues
+and mature-age worker engagement. We investigate
+the impact of both threat-inducing and threat-
+inhibiting contextual cues, and consider the possi-
+bility that threat-inhibiting cues might mitigate the
+effects of some threat-inducing cues in the same
+work environment.
+STEREOTYPE THREAT AND THE
+MATURE-AGE WORKER
+Stereotype threat generates a physiological stress
+response and a monitoring process to detect signs of
+performance failure (Schmader & Beilock, 2012). It
+also activates coping mechanisms to manage the
+negative cognitive and emotional by-products of
+those processes (Inzlicht, Tullett, Legault, & Kang,
+2011). In threat-inducing contexts, people try to push
+negative thoughts about stereotypes out of their
+minds and deny the negative feelings they are ex-
+periencing (Inzlicht et al., 2011). But all of these
+threat responses are resource-depleting (Kang &
+Inzlicht, 2014) and divert essential cognitive and
+motivational resources from the task at hand. In his
+earliest theorizing about the effects of stereotype
+threat, Steele (1997) suggested that acute experi-
+ences with stereotype threat would generate tangible
+short-term performance deficits. But he also sug-
+gested that the chronic experience of stereotype
+threat would eventually lead to psychological dis-
+engagement from the performance domain.
+The performance decrements associated with
+acute stereotype threat have been well-documented
+for a wide range of demographic groups across a va-
+riety of performance domains (see Kalokerinos, von
+Hippel, & Zacher, 2014; Spencer, Logel, & Davies,
+2015; Walton et al., 2015 for recent reviews).
+Stereotype threat is typically manipulated in the
+laboratory by reminding participants about the
+underperformance of a particular identity group
+(e.g., Spencer, Steele, & Quinn, 1999) or by remind-
+ing participants of their membership in a stereotyped
+group before taking a difficult test (e.g., Steele &
+FIGURE 1
+Conceptual Model: The Role of Stereotype Threat
+Threat-Inhibiting
+Cues
+High Performance
+Practices
+Mature-Age
+Practices
+H3a, b
+H4a, b
+H5a, b
+Threat-Inducing
+Cues
+Young Manager
+Young Workgroup
+Manual Occupation
+H1a, H2a
+H1b, H2b
+H1c, H2c
+Stereotype
+Threat
+Engagement2016
+Kulik, Perera, and Cregan
+Aronson, 1995). For example, one of the most central
+elements in older adult stereotypes involves mem-
+ory; adults of all ages believe that memory declines
+during adulthood (Hertzog, Lineweaver, & McGuire,
+1999). When acute stereotype threat is induced in
+older adults (by exposing them to scrambled sen-
+tences containing age-stereotypic words, asking
+them to read news articles about the relationship
+between memory and aging, or emphasizing that the
+task is a memory test), they perform less well on tasks
+that involve memory (Hess & Hinson, 2006).
+The disengagement consequences of chronic ex-
+posure to stereotype threat have received signifi-
+cantly less attention despite their clear application
+to organizational settings (Block, Koch, Liberman,
+Merriweather, & Roberson, 2011; Kalokerinos et al.,
+2014). In some organizational contexts, mature-age
+employees are “constantly bombarded with cues to
+age stereotyping” (Lamont et al., 2015: 189); they
+“experience stereotype threat from the moment they
+walk in the office door each morning until they leave
+at the end of the day” (Kalokerinos et al., 2014: 384).
+The cognitive effort required to perform in an envi-
+ronment that chronically generates stereotype threat
+is taxing and fatiguing (Kang & Inzlicht, 2014). People
+who experience stereotype threat report less interest
+in the task (Smith, Sansone, & White, 2007) and as-
+sess their task experience more negatively (Adams,
+Garcia, Purdie-Vaughns, & Steele, 2006). But they
+also lose confidence in their own abilities (Koch,
+Müller, & Sieverding, 2008). The combination of de-
+creased enjoyment and diminished self-confidence
+leads threatened individuals to “disidentify” with
+achievement in the performance domain (Steele &
+Aronson, 1995; Steele, Spencer, & Aronson, 2002).
+Disidentification may be expressed through negative
+attitudes (e.g., expressing disinterest, dissatisfaction,
+or even disdain for the performance domain; Shapiro
+& Neuberg, 2007). For example, mature-age workers
+who experience more stereotype threat report more
+job dissatisfaction (von Hippel, Kalokerinos, &
+Henry, 2013). Disidentification is also likely to be
+expressed through a lack of engagement in one’s
+work. Psychological disengagement allows an indi-
+vidual to persist in the domain that generates ste-
+reotype threat without doing further damage to his or
+her self-worth (Nussbaum & Steele, 2007; Woodcock,
+Hernandez, Estrada, & Schultz, 2012).
+Threat-inducing Cues
+Stereotype threat can be induced by multiple
+contextual cues, but the literature is dominated by
+2135
+empirical investigations that focus on a single
+experimentally-manipulated cue. It is important to
+study multiple sources of stereotype threat, because
+“knowing what source of threat has the strongest
+effect on people may enable researchers and orga-
+nizations to better target stereotype threat in-
+terventions” (Xavier, Fritzsche, Sanz, & Smith, 2014:
+443). In this research, we investigate the threat-
+inducing effects of: (1) the age of the mature-age
+employee’s manager, (2) the age composition of the
+mature-age employee’s workgroup, and (3) the
+mature-age employee’s occupation. These three
+variables sensitize an employee to the possibility
+that his or her experience in the work environment
+might be contingent on his or her identity as a ma-
+ture-age worker (Purdie-Vaughns et al., 2008).
+Young managers. As the workforce ages, and
+organizations reinvent themselves through mergers
+and restructurings, mature-age workers are in-
+creasingly likely to be supervised by young managers
+(Collins, Hair, & Rocco, 2009; Shore, Cleveland, &
+Goldberg, 2003). But if powerful people in the local
+environment are not members of your own stereo-
+typed identity group, “it tells you something”
+(Steele, 2010: 141). Overall, mature-age employees
+generally prefer older supervisors (Tonks,
+Dickenson, & Nelson, 2009); they believe that older
+supervisors are fairer than younger ones (Armstrong-
+Stassen & Lee, 2009) and provide greater support
+(Tsui, Xin, & Egan, 1996). Mature-age workers are
+also likely to anticipate more stereotyping from
+a young manager than an old one, because mature-
+age people believe that young people view them as
+“boring, old, stubborn and grumpy” while over-
+looking attributes like “responsible, mature, and
+hard working” that young people actually report
+when asked to describe older people (Finkelstein,
+Ryan, & King, 2013: 652).
+Young workgroups. The number of peers who are
+members of one’s own stereotyped group is a “criti-
+cal mass” cue that can induce stereotype threat
+(Steele, 2010: 140). When an employee is the only
+member with the stereotyped identity in the work
+environment (or one of very few members with the
+stereotyped identity), the employee is more likely to
+expect to be evaluated on the basis of the stereotype
+(Avery, McKay, & Wilson, 2007; Cohen & Swim,
+1995; Niemann & Dovidio, 1998). Mature-age em-
+ployees in young workgroups might be particularly
+likely to experience stereotype threat because people
+use age to infer status (Lawrence, 1988); a mature-
+age employee surrounded by young peers violates
+status norms (Perry, Kulik, & Zhou, 1999). These2136
+Academy of Management Journal
+demographic violations of age grading (Lawrence,
+1988) can lead to older worker concerns that they
+will be perceived by their organizational colleagues
+as plateaued and induce stereotype threat.
+Manual occupations. Jobs and occupations may
+be age-typed—viewed as more or less suitable for
+workers of particular ages (Goldberg, Finkelstein,
+Perry, & Konrad, 2004; Posthuma & Campion, 2009).
+Manual laborers perform physical work that does not
+develop or require cognitive skills. Jobs that involve
+only manual labor are frequently age-typed as young
+people’s jobs; people underestimate the extent to
+which these jobs are successfully performed by older
+people (Gordon & Arvey, 1986). Both employers
+(Loretto & White, 2006) and employees (Duncan &
+Loretto, 2004) believe that age-related performance
+declines are more prevalent among manual la-
+borers than among people in other occupations
+(e.g., professional, clerical, sales, or craft occupa-
+tions) and many managers view manual labor roles
+as unsuitable for older workers (Jenkins & Poulston,
+2014). Mature-age employees in manual labor oc-
+cupations are likely to be aware of these negative age
+stereotypes. They may be particularly concerned
+about confirming those stereotypes, because manual
+labor roles offer few opportunities to compensate for
+age-related declines in fluid intelligence (novel
+problem solving abilities) with crystallized intelli-
+gence (accumulated knowledge and experiences)
+(Salthouse, 2012).
+Hypothesis 1. There will be a significant associ-
+ation between contextual cues and stereotype
+threat such that the highest levels of stereotype
+threat will be experienced by mature-age em-
+ployees (a) supervised by young managers, (b) in
+workgroups dominated by young employees,
+and/or (c) working in manual labor occupations.
+Further, because chronic exposure to stereotype
+threat initiates disidentification processes (Steele &
+Aronson, 1995; Steele et al., 2002), we expect that
+these threat-inducing contextual cues will have
+a downstream effect on the mature-age worker’s en-
+gagement. The contextual cues are ambiguous and
+require interpretation, so they sap psychological re-
+sources as the mature-age worker continuously as-
+sesses and updates the likelihood of stereotyping in
+his or her work environment (Steele, 2010: 141).
+Hypothesis 2. There will be a significant indirect
+effect of contextual cues on engagement (via
+stereotype threat) such that the lowest levels of
+engagement will be reported by mature-age
+December
+employees (a) supervised by young managers, (b)
+in workgroups dominated by young employees,
+and/or (c) working in manual labor occupations.
+Threat-inhibiting Cues
+The practices that organizations adopt are “com-
+munications from employer to employee” (Bowen &
+Ostroff, 2004: 207). These practices must be per-
+ceived and interpreted by employees in order to
+have an effect (Nishii, Lepak, & Schneider, 2008;
+Takeuchi, Chen, & Lepak, 2009). Employees are
+motivated to demonstrate positive attitudes and be-
+haviors when they perceive that their employer
+values them and their contribution (Cropanzano,
+Rupp, & Byrne, 2003; Takeuchi et al., 2009). The
+most effective signals are delivered by “bundles”
+(MacDuffie, 1995) of interrelated practices that con-
+sistently convey the organization’s values (Bowen &
+Ostroff, 2004; Ostroff & Bowen, 2016).
+Stereotype threat can simultaneously target an
+individual’s personal identity (am I personally val-
+ued in this context?) and the individual’s social
+identity (are people like me valued in this context?)
+(Derks, van Laar, & Ellemers, 2007; Shapiro &
+Neuberg, 2007; Shapiro, Williams, & Hambarchyan,
+2013). The negative effects of stereotype threat can
+therefore be countered by affirming an individual’s
+personal identity, social identity, or both. We ex-
+amine two distinct “bundles” of discretionary or-
+ganizational practices that may send affirming
+messages to mature-age employees: high perfor-
+mance practices and mature-age practices. Discre-
+tionary organizational practices demonstrate respect
+for an employee’s rights beyond those required by
+law (Koys, 1988); these practices communicate that
+the organization cares for the employee’s well-being
+(Nishii et al., 2008).
+High performance work systems are designed to
+enhance employees’ skills, motivation, and em-
+powerment (Den Hartog, Boon, Verburg, & Croon,
+2013; Gerhart, 2012; Kehoe & Wright, 2013) and so
+high performance bundles usually include practices
+that focus on training, rewards, and participation
+(Jiang, Lepak, Hu, & Baer, 2012; Sun, Aryee, & Law,
+2007). High performance practices signal an organi-
+zation’s interest in making a long-term investment in
+employees, motivating employees to reciprocate
+with higher engagement in their work roles (Gong,
+Chang, & Cheung, 2010; Sun et al., 2007).
+High performance practices are identity blind
+(Konrad & Linnehan, 1995); they apply to all em-
+ployees, regardless of age. High performance2016
+Kulik, Perera, and Cregan
+practices send signals to mature-age employees that
+the organization values them as individuals, affirm-
+ing the mature-age employee’s personal identity.
+The organization is motivated to develop their skills
+and competences and is interested in their views
+(Herrbach, Mignonac, Vandenberghe, & Negrini,
+2009; Maurer & Rafuse, 2001); these signals will
+reduce stereotype threat. In addition, we predict that
+high performance practices will have an indirect ef-
+fect on employee engagement. Alfes, Truss, Soane,
+Rees, and Gatenby (2013) demonstrated that high
+performance practices were positively associated
+with employee engagement in two organizations.
+Hypothesis 3a. There will be a significant asso-
+ciation between high performance practices and
+stereotype threat such that the lowest levels of
+stereotype threat will be experienced by mature-
+age workers whose organizations offer high
+performance practices.
+Hypothesis 4a. There will be a significant in-
+direct effect of high performance practices (via
+stereotype threat) such that the highest levels of
+engagement will be reported by mature-age
+workers whose organizations offer high perfor-
+mance practices.
+Because their identity group is not explicitly ac-
+knowledged, employees may be skeptical of affirm-
+ing messages delivered by identity blind practices
+(Plaut, Garnett, Buffardi, & Sanchez-Burks, 2011;
+Shih, Young, & Bucher, 2013). As a result, the
+affirming messages sent by high performance prac-
+tice bundles may be less effective than affirming
+messages sent by identity conscious practice bun-
+dles (Konrad & Linnehan, 1995) that explicitly target
+mature-age workers and affirm their social identity.
+Identity conscious practices deliver greater psycho-
+logical safety to members of stigmatized identity
+groups (Purdie-Vaughns et al., 2008). Identity con-
+scious practices tell employees that “people like
+them are valued and respected” (Kulik & Li, 2015:
+565). The message sent by identity conscious orga-
+nizational practices is unambiguous; the identity
+group affirmation is visible not only to the target of
+the practices (the mature-age worker) but to the
+mature-age worker’s managers and co-workers
+(Armstrong-Stassen & Schlosser, 2011).
+Supportive mature-age practices involve for-
+mally recognizing (Hennekam & Herrbach, 2013;
+Shacklock et al., 2007) and celebrating (Mountford,
+2013) mature-age worker achievements. Aging is as-
+sociated with a rising interest in helping future
+2137
+generations (Kanfer & Ackerman, 2004), so mature-
+age workers might experience opportunities to men-
+tor and develop other people as self-affirming (Kooij,
+de Lange, Jansen, & Dikkers, 2008). Placing mature-
+age employees in meaningful and visible roles
+(Shacklock et al., 2007), making explicit investments
+in mature-age worker training (Armstrong-Stassen &
+Ursel, 2009; Bal, De Jong, Jansen, & Bakker, 2012),
+and strategically redesigning jobs to reduce physical
+effort without a loss of their high status decision
+making components (Hennekam & Herrbach, 2013;
+Mountford, 2013) might all be effective strategies for
+counteracting stereotype threat.
+We predict that identity conscious mature-age
+practices will reduce stereotype threat and cultivate
+higher engagement among mature-age workers—
+above and beyond the impact of identity blind high
+performance practices (Armstrong, Flood, Guthrie,
+Liu, MacCurtain, & Mkamwa, 2010). Compared to
+younger employees, older workers express stronger
+needs for seeing their skills recognized, for being
+respected by co-workers and management, and for
+being involved in continuing education (Armstrong-
+Stassen, 2008; McEvoy & Blahna, 2001). Mature-age
+practices acknowledge these needs and send clear
+signals to mature-age employees that the organiza-
+tion is prepared to address them (Boehm, Kunze, &
+Bruch, 2014; Herrbach et al., 2009). People who
+perceive more supportive conditions to express their
+true selves at work, including their full array of per-
+sonal and social identities, tend to be engaged and
+fully invest in the work role (Kahn, 1992).
+Hypothesis 3b. There will be a significant asso-
+ciation between mature-age practices and ste-
+reotype threat such that the lowest levels of
+stereotype threat will be experienced by mature-
+age workers whose organizations offer mature-
+age practices.
+Hypothesis 4b. There will be a significant in-
+direct effect of mature-age practices on engage-
+ment (via stereotype threat) such that the
+highest levels of engagement will be reported
+by mature-age workers whose organizations offer
+mature-age practices.
+Moderating Influences
+To this point, we have considered only the main
+effects of organizational practices. However, we also
+expect that organizational practices will exhibit
+an interactive effect on some threat-inducing cues,
+particularly the cue delivered by a manager’s age.2138
+Academy of Management Journal
+Demographic cues in the organizational environ-
+ment are ambiguous (Purdie-Vaughns et al., 2008;
+Walton et al., 2015); they suggest, but do not confirm,
+that negative stereotypes may be operating in the
+organization. Employees experience a need to re-
+duce uncertainty (Bowen & Ostroff 2004; Ostroff &
+Bowen, 2016), so organizational policies and prac-
+tices can be “critical” (Steele, 2010: 147) in helping
+employees to interpret ambiguous contextual cues.
+Employees perceive managers as the implemen-
+ters of people management practices (Zohar, 2000;
+Zohar & Luria, 2004), so they interpret specific prac-
+tices as reflecting managers’ dispositional attitudes
+(e.g., viewing the manager as fair or caring; Nishii et al.,
+2008). Organization-level high performance work
+practices and other human resource management ac-
+tivities have been linked to increased trust in an orga-
+nizational leader (e.g., Zacharatos, Barling, & Iverson,
+2005) but there is no direct evidence that HRM practices
+generate trust in team members (Fulmer & Gelfand,
+2012). For example, gay and lesbian employees describe
+organizational leaders as more committed to equitable
+treatment when their organization has sexual diversity-
+affirming practices in place (Button, 2001). Similarly,
+when mature-age employees perceive that their orga-
+nization values members of their age identity group,
+they will assume that their manager shares those views.
+Affirming organizational practices “disambiguate” the
+context so that a young manager no longer generates
+a sense of threat; the demographic cue is viewed as
+“benign” (Purdie-Vaughns et al., 2008: 617).
+Hypothesis 5a. The indirect relationship between
+manager age and mature-age worker engage-
+ment will be moderated by high performance
+practices: The impact of manager age on en-
+gagement (via stereotype threat) will be weaker
+for mature-age workers whose organizations of-
+fer high performance practices.
+Hypothesis 5b. The indirect relationship be-
+tween manager age and mature-age worker en-
+gagement will be moderated by mature-age
+practices: The impact of manager age on en-
+gagement (via stereotype threat) will be weaker
+for mature-age workers whose organizations
+offer mature-age practices.
+METHODS
+Participants
+The data used in this investigation are part of
+a large national project investigating the experience
+December
+of mature-age workers in Australia. Mature-age (45
+years or older; ABS, 2004) employees were re-
+cruited using newspaper advertisements in Sydney,
+Adelaide, and Melbourne. The advertisements in-
+dicated that a university research team was “conducting
+a research project to understand the work experi-
+ences of people who are 451.” Participants com-
+pleted surveys either online or in hard copy and
+provided information about themselves, their jobs,
+and their employers. Participants received a gift
+card (AU$20) after each survey.
+A total of 1000 mature-age employees responded to
+our survey in Wave 1 (August–October 2011); 881 in
+Wave 2 (April–June 2012) and 783 in Wave 3
+(April–June 2013). We promised confidentiality but
+the surveys were not anonymous so we had contact
+details for each respondent. We made three attempts
+to contact a respondent by email and/or phone (ide-
+ally using both forms of contact) before accepting that
+a case was lost to attrition. We required that re-
+spondents be employed at the time of survey distri-
+bution. A total of 53% of the attrition between Waves
+1 and 2 and 67% of the attrition between Waves 2 and
+3 is attributable to respondents who had voluntarily
+or involuntarily resigned or retired. The remaining
+attrition reflects respondents who declined to par-
+ticipate (very rare) or who we were unable to contact.
+We compared the Wave 2 and Wave 3 samples against
+our starting sample (Wave 1, n 5 1000) across a wide
+range of demographics and found no significant dif-
+ferences. This analysis is based on 666 employees
+who participated in all three waves of data collection
+and worked for the same employer in all three waves.
+Participants were aged between 45 and 75 (mean
+53 years); 65% were male. They worked in a wide
+variety of jobs and industries with 57% employed
+in managerial, professional, technical and scientific
+jobs, and 73% employed in manufacturing, con-
+struction, and service industries. The length of time
+they had spent working in their current organization
+ranged from less than a year to 45 years (mean
+11 years).
+Contextual Predictors
+Manager age. Participants reported their manager’s
+age in Wave 2 in response to the question: “How old is
+your immediate supervisor/manager?” Participant re-
+sponses ranged from 24 to 70 years, and manager age
+was treated as a continuous variable in subsequent
+analyses.
+Workgroup age. In Wave 2, participants described
+the age composition of their immediate workgroup2016
+Kulik, Perera, and Cregan
+as: (1) mostly older (older than 45 years); (2) mostly
+younger (younger than 45 years); or (3) a mix of
+older and younger workers (Avery et al., 2007).
+We converted this categorical variable into a di-
+chotomous workgroup age variable (0 5 mostly
+older or a mix; 1 5 mostly younger).
+Occupation. Participants selected their occupa-
+tion group in Wave 2 from five options: (1) manage-
+rial, professional, technical and scientific, (2)
+clerical and secretarial, (3) sales and personal ser-
+vice, (4) craft and skilled manual, and (5) semi-
+skilled and unskilled manual. These options reflect
+the major occupational groups in the Australian and
+New Zealand Standard Classification of Occupa-
+tions (ABS, 2013). In the Australian context, “craft
+and skilled manual” occupations require training
+and credentialing (e.g., via an apprenticeship); the
+roles have both physical and cognitive components.
+Both semi-skilled and unskilled manual occupations
+are categorized as manual laborers in international
+classification systems (Erikson & Goldthorpe, 1992;
+Ganzeboom, De Graaf, & Tremain, 1992). Laborers
+“perform a variety of routine and repetitive physical
+tasks using hand and power tools and machines”
+(ABS, 2009); these occupations involve physical
+work requiring no formal cognitive training. We
+converted the categorical responses into a di-
+chotomous occupation variable (0 5 managerial,
+clerical, sales or craft/skilled manual; 1 5 semi-
+skilled and unskilled manual).
+High performance practices. High performance
+practice bundles include employee training, re-
+wards and participation (Jiang et al., 2012; Sun et al.,
+2007). Based on the literature (e.g., Datta, Guthrie, &
+Wright, 2005; Wright, Gardner, Moynihan, & Allen,
+2005) we included eight items in Wave 2 asking the
+extent to which high performance practices were
+available at the respondent’s workplace (1 5 not at
+all; 5 5 a very large extent); Cronbach’s a 5 .86. The
+items addressed training, promotion, and participa-
+tion practices; the full set of items appears in the
+Appendix.
+Mature-age practices. Based on the literature (e.g.,
+Armstrong-Stassen & Schlosser, 2011; Armstrong-
+Stassen & Templer, 2006; Crowne, Cochran, &
+Carpenter, 2014), we developed eight items for
+Wave 1 that assessed the extent to which supportive
+mature-age practices were available at the re-
+spondent’s workplace (1 5 not at all; 5 5 a very large
+extent); Cronbach’s a 5 .87. The items addressed
+age-specific training, mentoring and career man-
+agement practices; the full set of items appears in
+the Appendix.
+2139
+Mediating Variable: Stereotype Threat
+We measured stereotype threat in Wave 2. Roberson,
+Deitch, Brief, and Block (2003) drew on Steele and
+Aronson’s (1995) work in laboratory settings to de-
+velop a 5-item measure of race-based stereotype threat
+in the workplace. Consistent with Steele et al.’s (2002)
+conceptual definition of stereotype threat, all of the
+items focused on the respondent’s concerns about how
+other people in the workplace might see them (Shapiro
+& Neuberg, 2007). We modified the Roberson et al.
+(2003) items to focus on age (e.g., “Some people in my
+workplace feel I have less ability because of my age”).
+Participants responded on a scale ranging from 1 5
+strongly disagree to 5 5 strongly agree and we averaged
+the items to create an overall stereotype threat score;
+Cronbach’s a 5 .82.
+Outcome Variable: Engagement
+We measured engagement in Wave 3 using seven
+items from the Utrecht Work Engagement Scale
+(Schaufeli & Bakker, 2004). Sample items include “At
+my work, I feel bursting with energy” (vigor) and “I
+am enthusiastic about my job” (dedication). Partici-
+pants responded on a scale ranging from 1 5 strongly
+disagree to 5 5 strongly agree. The vigor and dedi-
+cation dimensions are highly inter-correlated, and
+following advice from previous research (Balducci,
+Fraccaroli, & Schaufeli, 2010; Schaufeli, Bakker, &
+Salanova, 2006), we averaged the items to create
+an overall engagement score; Cronbach’s a 5 .89.
+Control Variables
+Engagement is associated with employee age (Pitt-
+Catsouphes & Matz-Costa, 2008; Schaufeli et al.,
+2006), gender (Gallup, 2013; Schaufeli et al., 2006),
+and education and tenure (Gallup, 2013). The impact
+of high performance work practices can differ as
+a function of employee age and tenure (Macky &
+Boxall, 2008). Therefore, we included several Wave
+2 individual-level control variables: employee age
+(continuous: 45–75 years); gender (male 5 1; female 5 0);
+education (university degree 5 1; other 5 0); and
+organizational tenure (continuous: .20–45 years).
+Workgroup size may affect the impact of both di-
+versity cues and organizational practices (Boehm,
+Dwertmann, Kunze, Michaelis, Parks, & McDonald,
+2014), and high performance work practices have
+differing impact across industries (Datta et al., 2005;
+Murphy & Williams, 2010). Therefore we included
+workgroup size (2–212 employees) and industryDecember
+—
+.12**
+.13**
+.08*
+.14**
+.01
+–.01
+.08*
+We first assessed the discriminant validity of the
+multi-item measures reported by the research partici-
+pants. We used AMOS (Arbuckle, 1997) to conduct
+a confirmatory factor analysis with four latent variables
+representing high performance practices, mature-age
+practices, stereotype threat and engagement. This gen-
+erated x 2 5 1211.44 (df 5 344), p , .001. The fit indices
+showed a good fit to the data (comparative fit index
+(CFI) 5 .90; incremental fit index (IFI) 5 .90; root mean
+square error of approximation (RMSEA) 5 .06). CFI
+and IFI values that are closer to 1 reflect better-fitting
+models (Byrne, 2001) and values of .08 or less for
+RMSEA indicate good fit (Dilalla, 2000). We compared
+the four-factor model against a three-factor one (with
+a single latent variable representing both practice
+bundles). The three-factor model generated x 2 (df 5
+347) 5 2538.07, p , .001 (CFI 5 .74; IFI 5 .74; RMSEA 5
+.10), with significantly poorer fit than the four-factor
+model: Dx 2 (df 5 3) 5 1326.63, p , .001.
+Means, standard deviations and inter-correlations
+are reported in Table 1. We began our hypothesis testing
+using hierarchical multiple regression. The continuous
+variables involved in interactions (manager age, high
+performance practices and mature-age practices) were
+centered before analysis (Aiken & West, 1991).
+Table 2 (Step 1) presents the results of a regression
+equation predicting stereotype threat. Confirming
+Hypothesis 1a, the younger the manager, the higher
+the level of stereotype threat (b 5 2.01, p , .01).
+Confirming Hypotheses 1b and 1c, respondents re-
+ported higher levels of stereotype threat when they
+were part of a young workgroup (b 5 .34, p , .01)
+and worked in an unskilled manual occupation
+(b 5 .28, p , .05). Confirming Hypotheses 3a and 3b,
+the effects of both practice bundles were also significant.
+Respondents reported lower levels of stereotype threat
+when their organization made greater investment in
+high performance practices (b 5 2.11, p , .01) and
+mature-age practices (b 5 2.21, p , .01).
+RESULTS
+(manufacturing 5 1; other 5 0) as control variables.
+Finally, we also included a 3-item career encour-
+agement measure (sample item 5 “To what extent
+has a person more senior in position than yourself
+encouraged you in your career development?”;
+Cronbach’s a 5 .83) (South, Markham, Bonjean, &
+Corder, 1987; Tharenou, Latimer, & Conroy, 1994)
+because mature-age workers often receive less sup-
+port for training and development than younger
+workers (Martin, Dymock, Billett, & Johnson, 2014;
+National Seniors Productive Ageing Centre, 2011).
+Academy of Management Journal
+performance
+21402016
+2141
+Kulik, Perera, and Cregan
+We complemented our regression analysis with
+a Relative Weight Analysis (RWA) using RWA-Web
+(Tonidandel & LeBreton, 2015). RWA decomposes
+the total variance predicted in a regression model
+(i.e., the model’s R 2 ) into weights reflecting the pro-
+portional contribution of the predictor variables.
+Therefore, the relative weights can be interpreted as
+estimates of the predictors’ relative effect sizes; they
+are particularly useful in identifying which pre-
+dictors are explaining non-trivial variance in an
+outcome (even in the presence of additional, corre-
+lated predictors) (Tonidandel & LeBreton, 2015).
+Significance levels of relative weights are based on
+bootstrapping procedures with 95% bias-corrected
+and accelerated confidence intervals (CIs) using
+10,000 replications (Tonidandel & LeBreton, 2011).
+Table 3 reports the rank-ordered weights associated
+with our contextual predictors along with their CIs
+and proportional contributions to the explained
+variance in stereotype threat. The sum of the relative
+weights (RWs) (across all predictor variables in the
+equation, including controls) equals the model’s R 2
+TABLE 2
+Regression Results: Stereotype Threat
+Step 1
+Constant
+Control variables
+Employee age
+Gender (1 5 male)
+Education (1 5 univ.)
+Organizational tenure
+Workgroup size
+Industry (1 5 manuf.)
+Encouragement
+Contextual predictors
+Manager age
+Workgroup age
+(1 5 young)
+Occupation
+(1 5 manual)
+HP practices
+MA practices
+Interaction terms
+Manager age x HP
+Manager age x MA
+R 2
+Adjusted R 2
+Change in R 2
+Step 2
+1.39** (0.29) 1.35** (0.28)
+0.01*
+0.13*
+20.03
+0.01
+0.01
+20.15
+20.04 (0.01)
+(0.06)
+(0.07)
+(0.01)
+(0.01)
+(0.09)
+(0.03) 0.01**
+0.14*
+20.03
+0.01
+0.01
+20.15
+20.04 (0.01)
+(0.06)
+(0.07)
+(0.01)
+(0.01)
+(0.10)
+(0.03)
+20.01**
+0.34** (0.01)
+(0.07) 20.01**
+0.33** (0.01)
+(0.07)
+0.28* (0.11) 0.28* (0.11)
+20.11**
+20.21** (0.04)
+(0.04) 20.11**
+20.21** (0.04)
+(0.04)
+0.00
+0.01**
+0.20**
+0.18**
+0.02** (0.01)
+(0.01)
+0.19**
+0.17**
+Note: N 5 666. HP practices 5 high performance practices; MA
+practices 5 mature-age practices. Table entries are un-
+standardized regression coefficients, with standard errors in
+parentheses.
+*p , 0.05
+**p , 0.01
+(Table 2, Step 1 R 2 5 .19); we present results only for
+the predictors associated with our hypotheses. All
+five of the contextual variables exhibit significant
+RWs (i.e., their CIs do not include zero).
+The relative weights can be compared to learn
+whether particular predictors are significantly more
+important than others. A comparative analysis of the
+weights associated with our contextual variables
+demonstrated the following. First, workgroup age
+explains significantly more variance in stereotype
+threat than either manager age or occupation. Second,
+there is no significant difference in the variance
+explained by the two practice bundles (high perfor-
+mance practices and mature-age practices). Third,
+there is no significant difference between the variance
+explained by high performance practices and work-
+group age, manager age, or occupation; however,
+mature-age practices explains significantly greater
+variance than either manager age or occupation.
+Table 4 (Step 1) presents the results of a regression
+equation predicting engagement. Stereotype threat
+was negatively associated with engagement (b 5
+2.13, p , .01). Respondents reported higher levels of
+engagement when their organizations offered high
+performance practices (b 5 .07, p , .05) and mature-
+age practices (b 5 .18, p , .01). Table 5 reports the
+RWA results: rank-ordered weights along with their
+CIs and proportional contributions to the explained
+variance in engagement. The weights associated
+with stereotype threat, mature-age practices and
+high performance practices were all significant, and
+there were no significant differences among them.
+Neither the regression coefficients, nor the relative
+weights, associated with manager age, workgroup
+age, or occupation were significant. However, this
+does not rule out the possibility that these contextual
+TABLE 3
+Relative Weights: Stereotype Threat
+Relative
+Weight Confidence
+Interval % of
+Model R 2
+Workgroup age 0.051 27.11
+MA practices 0.048 HP practices 0.023 Manager age 0.017 Occupation 0.011 95% CI
+[0.0241, 0.0868]
+95% CI
+[0.0249, 0.0780]
+95% CI
+[0.0081, 0.0468]
+95% CI
+[0.0040, 0.0399]
+95% CI
+[0.0014, 0.0295]
+25.91
+12.28
+8.93
+5.67
+Note: HP practices 5 high performance practices; MA practices 5
+mature-age practices.2142
+December
+Academy of Management Journal
+TABLE 4
+Regression Results: Engagement
+Step 1
+Constant
+Control variables
+Employee age
+Gender (1 5 male)
+Education (1 5 univ.)
+Organizational tenure
+Workgroup size
+Industry (1 5 manuf.)
+Encouragement
+Contextual predictors
+Manager age
+Workgroup age
+(1 5 young)
+Occupation
+(1 5 manual)
+HP practices
+MA practices
+Mediator
+Stereotype threat
+Interaction terms
+Manager age x HP
+Manager age x MA
+R 2
+Adjusted R 2
+Change in R 2
+TABLE 5
+Relative Weights: Engagement
+Step 2
+2.91** (0.25) 2.91** (0.25)
+0.01*
+20.12*
+0.04
+0.01
+0.01
+0.02
+0.15** (0.01)
+(0.05)
+(0.06)
+(0.01)
+(0.01)
+(0.08)
+(0.03) 0.01*
+20.12*
+0.04
+0.01
+0.01
+0.02
+0.15** (0.01)
+(0.05)
+(0.06)
+(0.01)
+(0.01)
+(0.08)
+(0.03)
+20.01
+20.01 (0.01)
+(0.06) 20.01
+20.02 (0.01)
+(0.07)
+20.12 (0.10) 20.11 (0.11)
+0.07*
+0.18** (0.03)
+(0.04) 0.07*
+0.21** (0.03)
+(0.04)
+20.13** (0.03) 20.12** (0.03)
+0.01*
+20.01
+0.23**
+0.21**
+0.01* (0.01)
+(0.01)
+0.22**
+0.21**
+Note: N 5 666. HP practices 5 high performance practices; MA
+practices 5 mature-age practices. Table entries are unstandardized
+regression coefficients, with standard errors in parentheses.
+*p , 0.05
+**p , 0.01
+variables have significant indirect effects on engage-
+ment via stereotype threat: nonsignificant regression
+coefficients indicate only that the predictors (threat-
+inducing cues) do not affect the outcome (engage-
+ment) independent of the mediator’s (stereotype
+threat) effect (Hayes, 2013: 101).
+We used the PROCESS macro for SPSS (Hayes, 2013;
+Preacher, Rucker, & Hayes, 2007) and bias-corrected
+bootstrapping to test the mediational hypotheses
+expressed in Hypotheses 2a–c and 4a–b. These results
+are presented in Table 6. Confirming the hypotheses,
+all five contextual cues significantly affected mature-
+age worker engagement via stereotype threat (i.e., the
+confidence intervals do not contain zero).
+Finally, we investigated moderation of the indirect
+effects, as expressed in Hypotheses 5a (high perfor-
+mance practices) and 5b (mature-age practices).
+We constructed interaction terms and investigated
+their impact on stereotype threat (the mediator) and
+engagement (the outcome). Step 2 in Table 2 displays
+a moderating effect on stereotype threat: manager age
+x mature-age practices (b 5 .01, p , .01). In our
+Relative
+Weight Confidence
+Interval % of
+Model R 2
+MA practices 0.062 27.83
+Stereotype threat 0.034 HP practices 0.032 Occupation 0.005 Workgroup age 0.002 Manager age 0.001 95% CI
+[ 0.0359, 0.0963]
+95% CI
+[ 0.0144, 0.0639]
+95% CI
+[ 0.0137, 0.0599]
+95% CI
+[–0.0012, 0.0226]
+95% CI
+[–0.0023, 0.0139]
+95% CI
+[–0.0064, 0.0049]
+15.40
+14.31
+2.36
+1.03
+0.18
+Note: HP practices 5 high performance practices; MA practices 5
+mature-age practices.
+sample, the age of managers supervising mature-age
+workers ranged from 24 years to 70 years. Figure 2
+documents the effect of manager age at low levels of
+mature-age practices (1.24, one standard deviation
+below the mean) and high levels of mature-age
+practices (2.76, one standard deviation above the
+mean). Young managers induce more stereotype
+threat in contexts with low levels of mature-age
+practices (b 5 2.02, p , .001) but not in contexts with
+high levels of mature-age practices (b 5 .00, p 5 n.s.).
+We used PROCESS to investigate the indirect ef-
+fect of the manager age x mature-age practices
+TABLE 6
+Indirect Effects: Engagement via Stereotype Threat
+Contextual predictors
+Manager age
+Workgroup age
+(1 5 young)
+Occupation
+(1 5 manual)
+HP practices
+0.0010
+20.0431
+20.0354
+0.0132
+MA practices 0.0259
+Interactions
+Manager age x MA 0.0017
+Low MA 0.0024
+High MA 20.0009
+95% CI
+[0.0003, 0.0022]
+95% CI
+[–0.0763, 20.0186]
+95% CI
+[–0.0775, 20.0087]
+95% CI
+[0.0035, 0.0284]
+95% CI
+[0.0016, 0.0460]
+95% CI
+[–0.0034, 20.0006]
+95% CI
+[ 0.0010, 0.0047]
+95% CI
+[–0.0026, 0.0002]
+Note: HP practices 5 high performance practices; MA practices 5
+mature-age practices.2016
+2143
+Kulik, Perera, and Cregan
+FIGURE 2
+Mature-Age Practices’ Impact on Stereotype Threat
+Threat
+5
+4
+3
+Low MA Practices
+High MA practices
+2
+1
+70 Years
+24 Years
+Manager Age
+interaction on engagement; results are reported in
+Table 6. Supporting Hypothesis 5b, the PROCESS
+results indicated a significant indirect effect of the
+manager age x mature-age practices interaction:
+Young managers generate lower engagement among
+mature-age workers (via higher levels of stereotype
+threat) in contexts with low levels of mature-age
+practices; the effect of manager age is nonsignificant
+at high levels of mature-age practices.
+Disconfirming Hypothesis 5a, there was no evi-
+dence that high performance practices moderated
+the effect of manager age on stereotype threat
+(Table 2, Step 2: b 5 .00, p 5 n.s.). But high perfor-
+mance practices did moderate the direct effect of
+manager age on engagement (Table 4, Step 2: b 5 .01,
+p , .05). Figure 3 documents the effect of manager
+age at low levels of high performance practices (2.05,
+one standard deviation below the mean) and high
+levels of high performance practices (3.81, one
+standard deviation above the mean). Older managers
+generate lower levels of engagement in contexts with
+low levels of high performance practices (b 5 2.01,
+p , .05) but not in contexts with high levels of high
+performance practices (b 5 .00, p 5 n.s.).
+In additional analyses, we considered the possi-
+bility that the two practice bundles might: (a) interact
+with one another and/or (b) interact with workgroup
+age and occupation to influence stereotype threat
+and/or engagement. These non-hypothesized in-
+teractions were not significant in either analysis.
+Further, including these non-hypothesized in-
+teractions did not change the significance of the in-
+teractions reported here: The effect of manager age
+on stereotype threat is moderated by mature-age
+FIGURE 3
+High Performance Practices’ Impact on Engagement
+5
+4
+3
+Low HP Practices
+High HP Practices
+2
+1
+24 Years
+Manager Age
+70 Years2144
+Academy of Management Journal
+practices and the effect of manager age on engage-
+ment is moderated by high performance practices.
+DISCUSSION
+We adopted a stereotype threat framework to study
+mature-age worker engagement and found that
+mature-age workers who experienced stereotype
+threat in the workplace reported lower levels of en-
+gagement 11–12 months later. This finding is con-
+sistent with theory suggesting that stereotype threat
+can lead to psychological disengagement from the
+performance domain (Steele & Aronson, 1995; Steele
+et al., 2002). On a practical level, our research iden-
+tified an important (but hidden) antecedent of
+mature-age worker disengagement that can be
+addressed by organizational practices.
+We investigated three threat-inducing contextual
+cues: young manager, young workgroup, and manual
+occupation. All three cues significantly affected
+stereotype threat and indirectly affected engagement
+(via stereotype threat). We also investigated threat-
+inhibiting cues in the form of two distinct “bundles”
+of organizational practices. Both an identity blind
+high performance practice bundle and an identity
+conscious mature-age practice bundle were associ-
+ated with lower stereotype threat. Further, both
+bundles generated higher engagement among mature-
+age workers by reducing stereotype threat.
+We found that organizational practices moderated the
+relationship between manager age and engagement, but
+this moderating effect operated differently for the two
+practice bundles. Mature-age practices moderated the
+indirect effect of manager age. As predicted, the highest
+levels of stereotype threat (and the lowest levels of en-
+gagement) were experienced by mature-age workers
+with young managers in workplaces that had low levels
+of supportive mature-age practices. This finding is
+consistent with the stereotype threat framework, and
+suggests that organizations can counter negative
+demographic cues in the employee’s local work
+environment by adopting practices that affirm
+mature-age worker group identity.
+In contrast, high performance practices moderated the
+direct (non-mediated) effect of manager age; without
+high performance practices in place, older managers
+generated less engagement than younger ones. This
+finding is not predicted by the stereotype threat frame-
+work, but it might reflect the experience (and comfort
+level) that managers of different ages have with the
+management practices inherent in high performance
+work systems. Young line managers may spontaneously
+empower their employees and encourage participation
+December
+even in the absence of formal high performance practices
+(Yanadori & van Jaarsveld, 2014). Educational changes
+have encouraged later generations of leaders to be less
+prescriptive, more group-focused and more organic
+than previous ones (Gilbert, Collins, & Brenner,
+1990), and these perspectives may motivate young
+managers to empower subordinates and seek their
+input even when their workplace does not have for-
+mal high performance work practices in place.
+Aging Workforce as a Grand Challenge
+The aging of the world’s population is “one of the
+main problems of this century” (International Labour
+Organization, 2009). It affects, or will affect, both de-
+veloped and developing countries (United Nations,
+Department of Economic and Social Affairs,
+Population Division, 2015). Maintaining employ-
+ment of mature-age workers beyond traditional re-
+tirement ages is widely seen as an important part of
+the solution (Organisation for Economic Co-operation
+and Development [OECD], 2006). But employers have
+been slow to respond to this grand challenge. In
+Australia, 44% of employers are unprepared for the
+impact of an ageing workforce (Chandler Macleod,
+2013). The Society for Human Resource Management
+(SHRM) reaches a similarly pessimistic conclusion
+about U.S. employers: only 36% of the HR pro-
+fessionals SHRM surveyed had examined their poli-
+cies and practices in light of an aging workforce
+(Gurchiek, 2015). These statistics suggest that orga-
+nizations may be blindsided by this grand challenge.
+Eventually, organizations will look to the manage-
+ment research literature for advice and tools.
+Policies designed to keep mature-age people working
+longer should first focus management researchers’ at-
+tention on the high end of the mature-age continuum,
+and motivate us to identify strategies for keeping em-
+ployees engaged in their work as they near, and pass,
+traditional retirement ages. Unfortunately, management
+research has historically focused more on the negative
+workplace factors that motivate older workers to exit
+than on the positive workplace factors that encourage
+older worker retention and engagement (Armstrong-
+Stassen & Schlosser, 2011). Management researchers
+also need to attend to the low end of the mature-age
+continuum. Societal efforts to develop policy and
+enact legislation around mature-age workers are
+creating an explicit identity group and simulta-
+neously stigmatizing that group’s members by re-
+peatedly exposing negative employer attitudes
+(Desmette & Gaillard, 2008). The public perception
+of a mature-age worker “is getting younger. . .in2016
+Kulik, Perera, and Cregan
+five-yearly increments. . .forget 65 think 50 or even
+45” (Brice, 2016). Our research definitions of the
+“mature-age” worker will need updating if we are to
+fully understand the impact of social policy.
+Further, this grand challenge cannot be fully
+addressed if management researchers rely on tradi-
+tional research frameworks. Previous research on
+mature-age workers has emphasized two primary
+perspectives (Perry, Dokko, & Golom, 2012). One
+perspective, the discrimination and fairness per-
+spective, focuses on age stereotypes’ influence on
+employer decisions (Perry, 1997). This perspective
+has spawned training initiatives that encourage
+decision-makers to recognize and suppress their
+stereotypes; initiatives that have had limited success
+(Kulik & Roberson, 2008) and unintended conse-
+quences (Kulik, Perry, & Bourhis, 2000). The other
+perspective, the relational demography perspective
+(Tsui & Gutek, 1999; Tsui & O’Reilly, 1989), predicts
+that both older and younger workers will display more
+positive employee attitudes in work environments
+composed of similar-aged coworkers. But researchers
+have demonstrated asymmetrical effects for older and
+younger workers (e.g., Chattopadhyay, 1999) and
+concluded that “similarity alone may be insufficient
+for. . .engagement” (Avery et al., 2007: 1544).
+The stereotype threat framework may help man-
+agement researchers to identify a “fresh portfolio of
+strategies that organizations can use to attract, mo-
+tivate, and retain older workers” (Kulik, 2014a: 460).
+Organizations are naturally “saturated” (Purdie-
+Vaughns et al., 2008: 628) with cues that might in-
+duce stereotype threat. For example, mature-age
+employees can find themselves in significantly
+younger workgroups or supervised by significantly
+younger managers as a function of organizational
+restructurings. But even benign cues can generate
+stereotype threat among mature-age employees, and
+reduce their engagement. The unique value of the
+stereotype threat framework is that it highlights
+contextual cues as inducing and inhibiting stereo-
+type threat; i.e., the workplace context may generate
+both the problem and the solution (Kulik, 2014a).
+We encourage management researchers to view this
+grand challenge as an unprecedented opportunity to
+impact managerial practice and design organiza-
+tional contexts that successfully engage a large—and
+growing—segment of the workforce.
+Theoretical Contributions
+This research makes two distinct contributions to
+the management literature. First, the research makes
+2145
+a contribution to the small but growing literature on
+stereotype threat in the workplace. Stereotype threat
+has received a great deal of research attention, but the
+empirical database has focused on a limited range of
+participants (emphasizing college students) and
+outcomes (emphasizing academic performance and
+performance on laboratory tasks) (Block et al., 2011;
+von Hippel, Issa, Ma, & Stokes, 2011; von Hippel
+et al., 2013). In an extensive meta-analysis summa-
+rizing the effect of stereotype threat on the perfor-
+mance of women and racial minorities, Nguyen and
+Ryan (2008) report an overall effect size of d 5 .26;
+focusing specifically on the effect of age-related
+threat on performance, Lamont et al. (2015) report
+d 5 .28. Responding to these “robust” (Spencer et al.,
+2015: 14.4) effects of acute stereotype threat, some
+authors have highlighted a “pressing need” to study
+the outcomes of chronic stereotype threat
+(Woodcock et al., 2012: 644). However, the “moder-
+ate to small” (Spencer et al., 2015: 14.4) size of acute
+stereotype threat effects in the laboratory has led
+other authors to speculate that chronic stereotype
+threat effects “would be difficult to isolate” in orga-
+nizational contexts, so stereotype threat has “limited
+usefulness” to organizational researchers (Streets &
+Major, 2014: 447). In fact, the correlation we ob-
+served between stereotype threat and engagement
+(r 5 .26) converts to d 5 .54, a medium effect size
+(Cohen, 1988); even a conservative semi-partial
+correlation (r 5 .13) controlling for other individual
+and organizational effects on engagement (Table 4)
+converts to d 5 .26 and compares well with effects
+observed in the laboratory. Further, stereotype threat
+effects in organizations may have a ripple effect. The
+persistent extra pressure experienced by members of
+stereotyped groups in high-threat environments may
+eventually undermine their sense of well-being and
+happiness and even contribute to physical health
+problems (Steele, 2010: 127). Stereotype threat has
+been associated with inflammation processes (John-
+Henderson, Rheinschmidt, Mendoza-Denton, &
+Francis, 2014) that are implicated in several chronic
+diseases including diabetes, cardiovascular disease,
+and depression.
+Second, this research makes a contribution to the
+literature focusing on diversity management. Re-
+searchers frequently highlight the challenges of
+a diverse workforce, emphasizing that managerial
+practices can make the difference in whether di-
+versity benefits or disrupts organizational perfor-
+mance (Jehn & Bezrukova, 2004; Kulik & Roberson,
+2008). But there has been considerable debate about
+whether organizations are best served by an identity2146
+Academy of Management Journal
+blind or an identity conscious approach to diversity
+management. Some authors have argued that an
+identity conscious strategy will produce better, more
+sustainable, long-range outcomes than an identity
+blind one (Ely & Thomas, 2001); others have argued
+for equifinality, suggesting that either diversity
+management approach will be effective as long as it is
+consistent with the organization’s culture (Thomas &
+Gabarro, 1999). Unfortunately, there is very little
+research contrasting “plain vanilla people manage-
+ment” practices against practices that focus on par-
+ticular demographic groups (Kulik, 2014b: 136). Our
+research suggests that the identity blind and identity
+conscious practice bundles operate independently
+and additively to influence mature-age worker en-
+gagement. Derks et al. (2007) use the term “double
+valuation” to describe the value of having one’s in-
+dividual and group identity simultaneously affirmed
+by an organization; our results demonstrate the
+“double valuation” effect the practice bundles can
+have on engagement.
+Practical Contributions
+Practitioners recognize the value of employee en-
+gagement as an antecedent of employee performance
+and organizational productivity (Christian et al.,
+2011; Ho et al., 2011). A fully engaged employee
+delivers the full value of his or her salary; a dis-
+engaged or semi-engaged employee might deliver
+only 60–80% (Jones, 2012). Other sources suggest
+that an organization loses $3,400 for every $10,000
+of a disengaged employee’s salary (Coffman &
+Gonzalez-Molina, 2002; Haydon, 2013). The aver-
+age salary in Australia in 2014 was nearly AU
+$80,000 (Ma, 2014), so a single disengaged employee
+could cost his or her employer AU$16,000–32,000
+each year. However, the cost of disengagement may
+be even higher for a mature-age employee, whose
+years of experience are likely to place him or her at
+the high end of organizational pay scales.
+Our research demonstrates that stereotype threat is
+significantly related to engagement. Therefore,
+managers concerned about engaging their mature-
+age workers first need to recognize the cues that in-
+duce stereotype threat. Young managers, young
+workgroups, and manual occupations all generate
+stereotype threat. The RWA demonstrates that all
+three of these contextual variables (manager age,
+workgroup age composition, and occupation) ac-
+count for significant variance in stereotype threat,
+but workgroup age composition accounts for the
+largest share. Colleagues’ ages are visible to a mature-
+December
+age employee throughout the workday, so ongoing
+interactions with young coworkers are likely to
+repeatedly activate age-related stereotype threat
+(Kalokerinos et al., 2014). Trying to eliminate all
+threat-inducing cues from the work environment is
+a “futile exercise” (Davies et al., 2005: 278). An un-
+skilled manual occupation cannot easily be trans-
+formed into a professional one and equal opportunity
+regulations constrain a manager’s ability to use age as
+a criterion in workgroup or supervisory assignments.
+Still, managers can and should be aware of the risks
+associated with threat-inducing cues in their local
+work contexts. For example, young and expanding
+firms tend to employ lower proportions of older
+workers than older, well-established firms (Schøne,
+2009), so managers in recently-established firms
+might need to be especially vigilant about avoiding
+age-discriminatory hiring practices and actively re-
+cruit mature-age workers.
+Further, managers can adopt practices that deliver
+identity-affirming cues to mature-age workers and
+inhibit stereotype threat. In our research, both high
+performance and mature-age practices were associ-
+ated with lower stereotype threat. Our RWA showed
+no statistically significant difference in the contribu-
+tions made by the two practice bundles. But only
+mature-age practices (not high performance practices)
+exhibited a significantly higher weight than manager
+age and occupation. And only mature-age practices
+interacted with manager age to counteract the negative
+cues sent by young managers. In general, therefore,
+mature-age practices were more effective than high
+performance practices in reducing stereotype threat.
+Our hypotheses focused on the indirect effects of
+the practice bundles on engagement via stereotype
+threat, but the results demonstrated that both high
+performance practices and mature-age practices
+also have direct effects on engagement. High per-
+formance practices were particularly beneficial in
+maintaining engagement among mature-age workers
+with managers at the older end of the age continuum.
+Both practice bundles influence engagement di-
+rectly and indirectly, but mature-age practices are
+more effective through an indirect pathway (via ste-
+reotype threat) and high performance practices are
+more effective through a direct pathway (direct ef-
+fects on engagement). Our findings demonstrate that
+there is considerable value in adopting management
+practices that engage mature-age workers, a large and
+growing proportion of the workforce in many coun-
+tries. Over four million people in the Australian la-
+bor force are aged 45 years or older (ABS, 2010);
+mature-age workers account for about 40% of the2016
+Kulik, Perera, and Cregan
+total Australian workforce (Busyatwork, 2015).
+Even small effects have “enormous” implications
+when they affect large numbers of people (Aguinis,
+2004: 143).
+Given our evidence that high performance prac-
+tices and mature-age practices both deliver benefits,
+organizations should consider adopting both types
+of practices. Rather than viewing identity blind and
+identity conscious practices as an either/or choice (a
+“fork in the road,” Kulik & Li, 2015), organizations
+might instead think of identity conscious practice
+bundles as supplementing their diversity blind
+practice portfolio. Firms that invest heavily in
+training and participation (part of the high perfor-
+mance bundle) may be more likely to become aware
+of, and motivated to address, the needs of particular
+demographic groups. We demonstrated that identity
+blind and identity conscious practices have in-
+dependent effects on individual-level outcomes
+(engagement) but these practice bundles may also
+have independent effects at other levels of analysis.
+Armstrong et al. (2010) found that organizations
+offering identity conscious diversity practices
+benefited from higher labor productivity and work-
+place innovation, and lower voluntary employee
+turnover—these benefits were above and beyond the
+effects of traditional high performance practices.
+Unfortunately, identity conscious practices are
+not common. Armstrong-Stassen and Cattaneo
+(2010) report that Canadian organizations have few
+practices in place to address older workers’ needs
+and preferences and our own data demonstrated that
+identity conscious mature-age practices were less
+common than identity blind high performance ones.
+Further, identity conscious practices may be viewed
+as discretionary, jettisoned when organizational re-
+sources and budgets are slashed. Armstrong-Stassen
+and Cattaneo (2010) found that organizations that
+had downsized were significantly less likely to have
+human resource practices tailored to the needs of
+older workers and had a less supportive training and
+development climate for older workers. In the ab-
+sence of formal practices, important issues may go
+unaddressed, because managers do not spontane-
+ously take responsibility for age issues in the work-
+place (Furunes, Mykletun, & Solem, 2011).
+Limitations and Future Research Directions
+In this research, we were able to enlist the help of
+a large and diverse sample of mature-age workers.
+We asked the employees to report on both the prac-
+tices operating in their organizations and on their
+2147
+psychological experiences. Self-report is unavoid-
+able for measures of stereotype threat, because only
+employees can report on their own psychological
+states (Chan, 2009). Employees and managers are
+both able to report on workplace practices, but these
+two parties can disagree on the practices operating
+in their own organizations (Nishii & Wright, 2008).
+Therefore, some researchers have urged for more
+attention to be given to employee reports of practices
+(Nishii et al., 2008); employee perceptions “matter
+more” than manager perceptions because they are
+more closely linked to employee experience (Den
+Hartog et al., 2013: 1642). However, future research
+should replicate our findings using manager and
+employee reports of organizational practices. Multi-
+source research would provide greater confidence
+that the high performance and mature-age practices
+adopted by organizations are interpreted by em-
+ployees as affirming signals, so that the practices
+have their intended effects (Nishii et al., 2008;
+Takeuchi et al., 2009).
+Our research contrasted the effects of identity blind
+high performance practices and identity conscious
+mature-age practices. The items included in our mature-
+age practices “bundle” were drawn from the literature
+(e.g., Armstrong-Stassen & Schlosser, 2011; Armstrong-
+Stassen & Templer, 2006; Crowne et al., 2014) and
+loaded cleanly onto a single underlying factor. How-
+ever, other researchers have suggested that mature-age
+practices might be appropriately grouped into several
+distinct sub-categories: development (e.g., training);
+accommodation (e.g., flexible schedules); and exit
+routes (part-time employment) (Herrbach et al., 2009;
+Kooij, Jansen, Dikkers, & de Lange, 2014; van Dalen,
+Henkens, & Wang, 2014). These practice bundles reflect
+different organizational strategies to managing mature-
+age workers (e.g., upskilling for retention or encourag-
+ing early partial or complete exits) and they may appeal
+to mature-age workers at different chronological ages,
+career stages, and organizational levels (Kooij, Guest,
+Clinton, Knight, Jansen, & Dikkers, 2013). Further,
+some practice bundles (in particular, accommodation
+in the form of flexible schedules or job redesign)
+may unintentionally stigmatize mature-age workers
+as having unique needs because of declining skills
+and performance (Herrbach et al., 2009). We encour-
+age researchers to consider a wide range of organi-
+zational practices and their impact on mature-age
+practices.
+We focused specifically on organization level
+practices as threat-inhibiting cues. However, there
+may be other organizational sources that provide
+mature-age workers with a sense of psychological2148
+December
+Academy of Management Journal
+safety and security. Our research suggests that line
+managers impact stereotype threat passively, as
+a result of the inadvertent signals sent by their own
+demographic characteristics. Line managers may
+also actively inhibit stereotype threat, because some
+(not all) line managers offer mature-age workers so-
+cial support and access to tangible resources (Leisink
+& Knies, 2011). But the extent to which line managers
+provide this support is dependent on the manager’s
+abilities and motivation (Leisink & Knies, 2011), so
+it will be difficult for an organization to maintain
+mature-age worker engagement across changes in
+supervision. Viewed through a stereotype threat
+lens, relying on line managers to reduce stereotype
+threat is a well-intentioned but risky recommenda-
+tion. It is not only members of low-status or disad-
+vantaged identity groups who experience stereotype
+threat; anyone can experience stereotype threat if
+they become aware of negative stereotypes about
+their identity group (Frantz, Cuddy, Burnett, Ray, &
+Hart, 2004; Roberson & Kulik, 2007). Warning
+a young manager about how he or she might be per-
+ceived by mature-age subordinates, and encouraging
+that manager to actively affirm their mature-age
+subordinates, could ironically evoke stereotype
+threat in the manager. Therefore, future research
+should directly compare the relative effectiveness of
+organization-level and dyad-level strategies for re-
+ducing stereotype threat among mature-age workers.
+Our mature-age workers responded to three sur-
+veys over a three-year period. This design gives us
+confidence that the organizational practices mea-
+sured in Waves 1 and 2 contributed to the mature-age
+workers’ engagement measured 1–2 years later.
+Temporal separation of predictors and outcomes
+reduces concerns about common method variance
+associated with single-source data and attitude–
+attitude relationships (Podsakoff, MacKenzie, Lee, &
+Podsakoff, 2003). Unfortunately, limitations on sur-
+vey length meant that high performance practices
+and stereotype threat had to be measured in the same
+wave (Wave 2). Common method variance might
+have contributed to observed associations between
+the high performance practice bundle and stereotype
+threat, although it is unlikely to have had an impact
+on the practice x manager age interaction effects
+(Siemsen, Roth, & Oliveira, 2010). We encourage
+future research to adopt a longitudinal perspective
+that goes beyond temporal separation to measure
+practices, stereotype threat, and engagement
+multiple times. This would give us a better un-
+derstanding of how the impact of organizational
+practices on stereotype threat, and engagement,
+might accumulate (or fade) over time (Biggs, Brough,
+& Barbour, 2014; Kulik, 2014b). Research suggests
+that employee reports of engagement are stable over
+two years (Mauno et al., 2007), and so it is important
+to learn how susceptible engagement levels might be
+to changes in organizational practices. Our study
+also relied on perceptual measures of manager age
+and workgroup age composition. These measures
+align well with stereotype threat theory, because
+threat is aroused by the mature-age employees’ per-
+ception and interpretation of contextual cues (Steele,
+2010). However, we nonetheless encourage future
+research to gather objective information on work-
+group age composition and manager age from com-
+pany records, in order to investigate their impact on
+stereotype threat (Avery et al., 2007). A continuous
+measure of workgroup age composition might enable
+researchers to identify compositional “tipping
+points” at which a workgroup is most likely to evoke
+stereotype threat in a mature-age worker.
+Finally, we focused on engagement in our research.
+We chose this outcome because policy changes
+impacting the “working age” will keep mature-age
+people in the workplace longer. Mature-age people
+today are experiencing improved health and ex-
+tended longevity, but less access to retirement
+funding—they must continue working (Shultz &
+Wang, 2011). They have fewer options to change
+jobs, so they are more likely to continue working even
+in a dissatisfying environment (Gringart et al., 2013;
+Shacklock et al., 2007). Eventually, however, the
+disidentification evoked by stereotype threat might
+generate physical disengagement in the form of ab-
+senteeism or exit (Block et al., 2011; Kalokerinos et al.,
+2014). Future research should investigate these be-
+havioral indicators of disengagement along with other
+outcomes predicted by a stereotype threat framework.
+For example, stereotype threat should lower work
+performance, and this might be visible in the perfor-
+mance appraisals received by mature-age workers.
+The psychological stress associated with stereotype
+threat might have an impact on health outcomes,
+particularly depression and other mental outcomes,
+among mature-age workers (Jackson, 2013).
+REFERENCES
+Adams, G., Garcia, D. M., Purdie-Vaughns, V., & Steele,
+C. M. 2006. The detrimental effects of a suggestion of
+sexism in an instruction situation. Journal of Exper-
+imental Social Psychology, 42: 602–615.
+Aguinis, A. 2004. Regression analysis for categorical
+moderators. New York: Guilford Press.2016
+Kulik, Perera, and Cregan
+2149
+Aiken, L. S., & West, S. G. 1991. Multiple regression: Testing
+and interpreting interactions. Thousand Oaks: Sage. September 2010. Catalogue no. 4102.0. Canberra,
+ACT: Australian Bureau of Statistics.
+Alfes, K., Truss, C., Soane, E. C., Rees, C., & Gatenby, M.
+2013. The relationship between line manager behavior,
+perceived HRM practices, and individual performance:
+Examining the mediating role of engagement. Human
+Resource Management, 52: 839–859. Australian Bureau of Statistics (ABS). 2013. ANZSCO—
+Australian and New Zealand standard classification
+of occupations, 2013, version 1.2. Catalogue no.1220.0.
+Canberra, ACT: Australian Bureau of Statistics.
+Arbuckle, J. L. 1997. Amos users’ guide: Version 3.6.
+Chicago, IL: Small Waters Corporation.
+Armstrong, C., Flood, P. C., Guthrie, J. P., Liu, W., MacCurtain, S.,
+& Mkamwa, T. 2010. The impact of diversity and equality
+management on firm performance: Beyond high perfor-
+mance work systems. Human Resource Management,
+49: 977–998.
+Armstrong-Stassen, M. 2008. Human resource practices for
+mature workers—And why aren’t employers using
+them? Asia Pacific Journal of Human Resources, 46:
+334–352.
+Armstrong-Stassen, M., & Cattaneo, J. 2010. The effect of
+downsizing on organizational practices targeting older
+workers. Journal of Management Development, 29:
+344–363.
+Armstrong-Stassen, M., & Lee, S. H. 2009. The effect of
+relational age on older Canadian employees’ percep-
+tions of human resource practices and sense of worth
+to their organization. International Journal of Human
+Resource Management, 20: 1753–1769.
+Armstrong-Stassen, M., & Schlosser, F. 2008. Benefits of
+a supportive development climate for older workers.
+Journal of Managerial Psychology, 23: 419–437.
+Armstrong-Stassen, M., & Schlosser, F. 2011. Perceived
+organizational membership and the retention of older
+workers. Journal of Organizational Behavior, 32:
+319–344.
+Armstrong-Stassen, M., & Templer, A. J. 2006. The response
+of Canadian public and private sector human resource
+professionals to the challenge of the aging workforce.
+Public Personnel Management, 35: 247–260.
+Armstrong-Stassen, M., & Ursel, N. D. 2009. Perceived or-
+ganizational support, career satisfaction, and the re-
+tention of older workers. Journal of Occupational
+and Organizational Psychology, 82: 201–220.
+Australian Chamber of Commerce and Industry 2012.
+Employ outside the box: The business case for
+recruiting and retaining mature age workers. Retrieved
+from https://www.acci.asn.au/resources/employ-
+outside-box-business-case-recruiting-and-retaining-
+mature-age-workers.
+Australian Institute of Superannuation Trustees–
+Australian Centre for Financial Studies 2014. In-
+voluntary retirement: Characteristics and implications.
+Retrieved from http://www.australiancentre.com.au/
+sites/default/files/NewsDocs/Involuntary%20Retirees_
+Research%20Report_Final%20(1).pdf.
+Australian Law Reform Commission 2012. Age barriers to
+work: Terms of reference. Retrieved from http://www.
+alrc.gov.au/inquiries/age-barriers-work/terms-reference.
+Australian Law Reform Commission 2013. Access all ages—
+Older workers and Commonwealth laws: Final report.
+Retrieved from http://www.alrc.gov.au/sites/default/
+files/pdfs/publications/whole_final_report_120_.pdf.
+Avery, D. R., McKay, P. F., & Wilson, D. C. 2007. Engaging
+the aging workforce: The relationship between per-
+ceived age similarity, satisfaction with coworkers, and
+employee engagement. The Journal of Applied Psy-
+chology, 92: 1542–1556.
+Bakker, A. B., Albrecht, S. L., & Leiter, M. P. 2011. Key
+questions regarding work engagement. European Jour-
+nal of Work and Organizational Psychology, 20: 4–28.
+Bal, P. M., De Jong, S. B., Jansen, P. G. W., & Bakker, A. B.
+2012. Motivating employees to work beyond retirement:
+A multi-level study of the role of I-deals and unit cli-
+mate. Journal of Management Studies, 49: 306–331.
+Balducci, C., Fraccaroli, F., & Schaufeli, W. B. 2010. Psy-
+chometric properties of the Italian version of the
+Utrecht Work Engagement Scale (UWES-9). European
+Journal of Psychological Assessment, 26: 143–149.
+Australian Bureau of Statistics (ABS). 2004. Mature age
+workers—Australian social trends. Catalogue no.
+4102.0. Canberra, ACT: Australian Bureau of Statistics. Biggs, A., Brough, P., & Barbour, J. P. 2014. Relationships of
+individual and organizational support with engage-
+ment: Examining various types of causality in a three-
+wave-study. Work and Stress, 28: 236–254.
+Australian Bureau of Statistics (ABS) 2009. ANZSCO
+Australian and New Zealand standard classifica-
+tion of occupations, first edition, revision 1. Cata-
+logue no.1220.0. Canberra, ACT: Australian Bureau
+of Statistics. Bita, N. 2014. “Past it” over 45s told to retrain. The Australian,
+July 23. Retrieved from http://www.theaustralian.com.
+au/national-affairs/past-it-over-45s-told-to-retrain/news-
+story/4f1e8bb2ca1c8892f41bb7f83e7541f5?sv5cf5938e
+8b1dbc2ccfd489d5bf214b7.
+Australian Bureau of Statistics (ABS). 2010. Older people
+and the labour market—Australian social trends Block, C. J., Koch, S. M., Liberman, B. E., Merriweather,
+T. J., & Roberson, L. 2011. Contending with stereotype2150
+Academy of Management Journal
+December
+threat at work: A model of long-term responses. The
+Counseling Psychologist, 39: 570–600. Journal of Personality and Social Psychology, 97:
+1045–1060.
+Boehm, S. A., Dwertmann, D. J., Kunze, F., Michaelis, B.,
+Parks, K. M., & McDonald, D. P. 2014. Expanding in-
+sights on the diversity climate–performance link: The
+role of workgroup discrimination and group size.
+Human Resource Management, 53: 379–402. Christian, M. S., Garza, A. S., & Slaughter, J. E. 2011. Work
+engagement: A quantitative review and test of its
+relations with task and contextual performance.
+Personnel Psychology, 64: 89–136.
+Boehm, S. A., Kunze, F., & Bruch, H. 2014. Spotlight on
+age-diversity climate: The impact of age-inclusive HR
+practices on firm-level outcomes. Personnel Psy-
+chology, 67: 667–704.
+Boswell, W. R., Boudreau, J. W., & Tichy, J. 2005. The
+relationship between employee job change and job
+satisfaction: The honeymoon–hangover effect. The
+Journal of Applied Psychology, 90: 882–892.
+Bowen, D. E., & Ostroff, C. 2004. Understanding HRM-firm
+performance linkages: The role of the “strength” of the
+HRM system. Academy of Management Review, 29:
+203–221.
+Brice, J. 2016. In the modern workplace, age 50 is consid-
+ered old. Age, March 2. Retrieved from http://www.
+theage.com.au/comment/time-to-rectify-costly-age-
+discrimination-in-the-workforce-20160301-gn73jq.html.
+Busyatwork 2015. Australia’s top 3 employers of mature-
+age workers. October 13. Retrieved from http://www.
+busyatwork.com.au/blog/australia-s-top-3-employers-
+of-mature-age-workers.
+Button, S. B. 2001. Organizational efforts to affirm sexual
+diversity: A cross-level examination. The Journal of
+Applied Psychology, 86: 17–28.
+Byrne, B. M. 2001. Structural equation modeling with
+AMOS. Mahwah, NJ: Erlbaum.
+Cappelli, P., & Novelli, W. D. 2010. Managing the older
+worker: How to prepare for the new organizational
+order. Boston, MA: Harvard Business Review Press.
+Chan, D. 2009. So why ask me? Are self-report data really
+that bad? In C. E. Lance & R. J. Vandenberg (Eds.),
+Statistical and methodological myths and urban
+legends: 309–332. New York: Routledge.
+Chandler Macleod 2013. Coming of age: The impacts of an
+aging workforce on Australian business. Retrieved from
+http://www.chandlermacleod.com/media/chandler-
+macleod-2013/files%20for%20content%20copying/
+005315-desktop-cm1278_05_13_whitepaper_coming_
+of_age_lr.pdf.
+Coffman, C., & Gonzalez-Molina, G. 2002. Follow this
+path: How the world’s greatest organizations drive
+growth by unleashing human potential. New York:
+Warner Books Inc.
+Cohen, J. 1988. Statistical power analysis for the behav-
+ioural sciences. Hillsdale, NJ: Erlbaum.
+Cohen, L. L., & Swim, J. K. 1995. The differential impact of
+gender ratios on women and men: Tokenism, self-
+confidence, and expectations. Personality and Social
+Psychology Bulletin, 9: 876–884.
+Collins, M. H., Hair, J. F., & Rocco, T. S. 2009. The older-
+worker–younger-supervisor dyad: A test of the reverse
+Pygmalion effect. Human Resource Development
+Quarterly, 20: 21–41.
+Cropanzano, R., Rupp, D. E., & Byrne, Z. S. 2003. The re-
+lationship of emotional exhaustion to work attitudes, job
+performance, and organizational citizenship behaviors.
+The Journal of Applied Psychology, 88: 160–169.
+Crowne, K. A., Cochran, J., & Carpenter, C. E. 2014. Older-
+worker-friendly policies and affective organizational
+commitment. Organizational Management Journal,
+11: 62–73.
+Datta, D. K., Guthrie, J. P., & Wright, P. M. 2005. Human
+resource management and labor productivity: Does
+industry matter? Academy of Management Journal,
+48: 135–145.
+Davies, P. G., Spencer, S. J., & Steele, C. M. 2005. Clearing
+the air: Identity safety moderates the effects of ste-
+reotype threat on women’s leadership aspirations.
+Journal of Personality and Social Psychology, 88:
+276–287.
+Den Hartog, D., Boon, C., Verburg, R. M., & Croon, M. A.
+2013. HRM, communication, satisfaction, and per-
+ceived performance: A cross-level test. Journal of
+Management, 39: 1637–1665.
+Derks, B., van Laar, C., & Ellemers, N. 2007. The beneficial
+effects of social identity protection on performance
+motivation of members of devalued groups. Social
+Issues and Policy Review, 1: 217–256.
+Chattopadhyay, P. 1999. Beyond direct and symmetrical
+effects: The influence of demographic dissimilarity on
+organizational citizenship behavior. Academy of
+Management Journal, 42: 274–287. Desmette, D., & Gaillard, M. 2008. When a “worker” be-
+comes an “older worker”: The effects of age-related
+social identity on attitudes towards retirement and
+work. Career Development International, 13: 168–
+185.
+Cheryan, S., Plaut, V. C., Davies, P. G., & Steele, C. M.
+2009. Ambient belonging: How stereotypical cues
+impact gender participation in computer science. Dilalla, L. F. 2000. Structural equation modeling: Uses and
+issues. In H. E. A. Tinsley & S. D. Brown (Eds.),
+Handbook of applied multivariate statistics and2016
+Kulik, Perera, and Cregan
+mathematical modelling: 439–464. San Diego, CA:
+Academic Press.
+Duncan, C., & Loretto, W. 2004. Never the right age? Gender
+and age-based discrimination in employment. Gen-
+der, Work and Organization, 11: 95–115.
+Ely, R. J., & Thomas, D. A. 2001. Cultural diversity at work:
+The effects of diversity perspectives on work group
+processes and outcomes. Administrative Science
+Quarterly, 46: 229–273.
+2151
+Gong, Y., Chang, S., & Cheung, S. Y. 2010. High perfor-
+mance work system and collective OCB: A collective
+social exchange perspective. Human Resource Man-
+agement Journal, 20: 119–137.
+Gordon, R. A., & Arvey, R. D. 1986. Perceived and actual
+ages of workers. Journal of Vocational Behavior,
+28: 21–28.
+Gov. UK. n.d. The new state pension. Retrieved from
+https://www.gov.uk/new-state-pension/eligibility.
+Erikson, R., & Goldthorpe, J. H. 1992. The constant flux: A
+study of class mobility in industrial societies. Oxford:
+Clarendon. Gringart, E., Helmes, E., & Speelman, C. 2013. Develop-
+ment of a measure of stereotypical attitudes towards
+older workers. Australian Psychologist, 48: 110–118.
+Finkelstein, L. M., Ryan, K. M., & King, E. B. 2013. What do
+the young (old) people think of me? Content and ac-
+curacy of age-based metastereotypes. European
+Journal of Work and Organizational Psychology, 22:
+633–657. Gruber, J., & Wise, D. 2005. Social security programs and
+retirement around the world: Fiscal implications.
+Retrieved from http://www.nber.org/papers/w11290.
+Fiske, S. T. 2003. The discomfort index: How to spot a re-
+ally good idea whose time has come. Psychological
+Inquiry, 14: 203–208.
+Frantz, C. M., Cuddy, A. J., Burnett, M., Ray, H., & Hart, A.
+2004. A threat in the computer: The race implicit as-
+sociation test as a stereotype threat experience. Per-
+sonality and Social Psychology Bulletin, 30:
+1611–1624.
+Fulmer, C. A., & Gelfand, M. J. 2012. At what level (and in
+whom) we trust: Trust across multiple organizational
+levels. Journal of Management, 38: 1167–1230.
+Furunes, T., Mykletun, R. J., & Solem, P. E. 2011. Age
+management in the public sector in Norway: Ex-
+ploring managers’ decision latitude. International
+Journal of Human Resource Management, 22:
+1232–1247.
+Gallup 2013. State of the American workplace: Employee
+engagement insights for U.S. business leaders. Re-
+trieved from http://www.gallup.com/services/178514/
+state-american-workplace.aspx.
+Ganzeboom, B. G., De Graaf, P. M., & Tremain, D. J. 1992. A
+standard international socio-economic index of oc-
+cupational status. Social Science Research, 21: l–56.
+Gerhart, B. 2012. Construct validity, causality, and policy
+recommendations: The case of high performance work
+practices systems. Human Resource Management
+Review, 22: 157–160.
+Gilbert, G. R., Collins, R. W., & Brenner, R. 1990. Age and
+leadership effectiveness: From the perceptions of
+the follower. Human Resource Management, 29:
+187–196.
+Goldberg, C. B., Finkelstein, L. M., Perry, E. L., & Konrad,
+A. M. 2004. Job and industry fit: The effects of age and
+gender matches on career progress outcomes. Journal
+of Organizational Behavior, 25: 807–829.
+Gurchiek, K. 2015. Survey: Many organizations un-
+prepared for aging workforce. Retrieved from https://
+www.shrm.org/resourcesandtools/hr-topics/talent-
+acquisition/pages/hr-aging-workforce.aspx.
+Haydon, R. 2013. Show me the money: The ROI of em-
+ployee engagement. DecisionWise, June 10. Retrieved
+from https://www.decision-wise.com/show-me-the-
+money-the-roi-of-employee-engagement/.
+Hayes, A. F. 2013. Introduction to mediation, moderation,
+and conditional process analysis: A regression-
+based approach. New York: Guilford.
+He, H., Zhu, W., & Zheng, X. 2014. Procedural justice and
+employee engagement: Roles of organizational iden-
+tification and moral identity centrality. Journal of
+Business Ethics, 122: 681–695.
+Hennekam, S., & Herrbach, O. 2013. HRM practices and
+low occupational status older workers. Employee
+Relations, 35: 339–355.
+Herrbach, O., Mignonac, K., Vandenberghe, C., & Negrini, A.
+2009. Perceived HRM practices, organizational com-
+mitment, and voluntary early retirement among late-
+career managers. Human Resource Management, 48:
+895–915.
+Hertzog, C., Lineweaver, T. T., & McGuire, C. L. 1999. Be-
+liefs about memory and aging. In T. M. Hess &
+F. Blanchard-Fields (Eds.), Social cognition and ag-
+ing: 43–68. New York: Academic Press.
+Hess, T. M., & Hinson, J. T. 2006. Age-related variation in
+the influences of aging stereotypes on memory in
+adulthood. Psychology and Aging, 21: 621–625.
+Ho, V., Wong, S., & Lee, C. 2011. A tale of passion: Linking
+job passion and cognitive engagement to employee
+work performance. Journal of Management Studies,
+48: 26–41.
+Hoffman, L. 2005. Hard sell for the mature-aged. The
+Weekend Australian, April 2/3, p.1, CareerOne
+section.2152
+Academy of Management Journal
+International Labour Organization 2009. Ageing societies:
+The benefits, and the costs, of living longer. Retrieved
+from http://www.ilo.org/global/publications/world-
+of-work-magazine/articles/WCM_041965/lang–en/
+index.htm.
+Inzlicht, M., Tullett, A. M., Legault, L., & Kang, S. K. 2011.
+Lingering effects: Stereotype threat hurts more than
+you think. Social Issues and Policy Review, 5:
+227–256.
+Jackson, M. A. 2013. Counseling older workers confronting
+ageist stereotypes and discrimination. In P. Brownell
+and J. J. Kelly (Eds.), Ageism and mistreatment of
+older workers: Current reality, future solutions:
+135–144. Dordrecht: Springer Science1Business
+Media B.V.
+Jehn, K. A., & Bezrukova, K. 2004. A field study of group
+diversity, workgroup context, and performance.
+Journal of Organizational Behavior, 25: 703–729.
+Jenkins, A., & Poulston, J. 2014. Managers’ perceptions of
+older workers in British hotels. Equality, Diversity
+and Inclusion. International Journal (Toronto, Ont.),
+33: 54–72.
+Jiang, K., Lepak, D., Hu, J., & Baer, J. 2012. How does human
+resource management influence organizational out-
+comes? A meta-analytic investigation of mediating
+mechanisms. Academy of Management Journal, 55:
+1264–1294.
+John-Henderson, N. A., Rheinschmidt, M. L., Mendoza-
+Denton, R., & Francis, D. D. 2014. Performance and
+inflammation outcomes are predicted by different
+facets of SES under stereotype threat. Social Psycho-
+logical & Personality Science, 5: 301–309.
+Jones, D. 2012. The dollars and sense of employee en-
+gagement. TalentSpace [Blog post], March 6. Re-
+trieved from http://www.halogensoftware.com/blog/
+the-dollars-and-sense-of-employee-engagement.
+Jones, K. S., & Carpenter, N. C. 2014. Toward a sociocul-
+tural psychological approach to examining stereotype
+threat in the workplace. Industrial and Organiza-
+tional Psychology: Perspectives on Science and
+Practice, 7: 429–433.
+Kahn, W. A. 1992. To be fully there: Psychological pres-
+ence at work. Human Relations, 45: 321–349.
+Kalokerinos, E. K., von Hippel, C., & Zacher, H. 2014. Is
+stereotype threat a useful construct for organizational
+psychology research and practice? Industrial and
+Organizational Psychology: Perspectives on Sci-
+ence and Practice, 7: 381–402.
+Kanfer, R., & Ackerman, P. L. 2004. Aging, adult develop-
+ment, and work motivation. Academy of Manage-
+ment Review, 29: 440–458.
+Kang, S. K., & Inzlicht, M. 2014. Stereotype threat spillover:
+Why stereotype threat is more useful for organizations
+December
+than it seems. Industrial and Organizational Psy-
+chology: Perspectives on Science and Practice, 7:
+452–456.
+Kehoe, R., & Wright, P. M. 2013. The impact of high per-
+formance human resource practices on employees’
+attitudes and behaviors. Journal of Management, 39:
+366–391.
+Koch, S.C., Müller, S.M., & Sieverding, M. 2008. Women
+and computers: Effects of stereotype threat on attri-
+bution of failure. Computers & Education, 51: 1795–
+1803.
+Konrad, A. M., & Linnehan, F. 1995. Race and sex
+differences in line managers’ reactions to equal em-
+ployment opportunity and affirmative action in-
+terventions. Group & Organization Management, 20:
+409–439.
+Kooij, D., de Lange, A., Jansen, P., & Dikkers, J. 2008. Older
+workers’ motivation to continue to work: Five mean-
+ings of age. Journal of Managerial Psychology, 23:
+364–394.
+Kooij, D., Guest, D. E., Clinton, M., Knight, T., Jansen, P., &
+Dikkers, J. 2013. How the impact of HR practices on
+employee well-being and performance changes with
+age. Human Resource Management Journal, 23: 18–35.
+Kooij, D., Jansen, P., Dikkers, J., & de Lange, A. 2014.
+Managing aging workers: A mixed methods study on
+bundles of HR practices for aging workers. In-
+ternational Journal of Human Resource Manage-
+ment, 25: 2192–2212.
+Koys, D. J. 1988. Human resource management and a cul-
+ture of respect: Effects on employees’ organizational
+commitment. Employee Responsibilities and Rights
+Journal, 1: 57–68.
+Kulik, C. T. 2014a. Spotlight on the context: How a stereo-
+type threat framework might help organizations to
+attract and retain older workers. Industrial and Or-
+ganizational Psychology: Perspectives on Science
+and Practice, 7: 456–461.
+Kulik, C. T. 2014b. Working below and above the line: The
+research-practice gap in diversity management. Hu-
+man Resource Management Journal, 24: 129–144.
+Kulik, C. T., & Li, Y. 2015. The fork in the road: Diversity
+management and organizational justice. In M. L.
+Ambrose & R. S. Cropanzano (Eds.), The Oxford
+handbook of justice in work organizations: 561–575.
+Oxford: Oxford University Press.
+Kulik, C. T., Perry, E. L., & Bourhis, A. C. 2000. Ironic
+evaluation processes: Effects of thought suppression
+on evaluations of older job applicants. Journal of
+Organizational Behavior, 21: 689–711.
+Kulik, C. T., & Roberson, L. 2008. Diversity initiative ef-
+fectiveness: What organizations can (and cannot) ex-
+pect from diversity recruitment, diversity training,2016
+Kulik, Perera, and Cregan
+2153
+and formal mentoring programs. In A. P. Brief (Ed.),
+Diversity at work: 265–317. Cambridge: Cambridge
+University Press. Mountford, H. 2013. I’ll take care of you: The use of sup-
+portive work practices to retain older workers. Asia
+Pacific Journal of Human Resources, 51: 272–291.
+Kulik, C. T., Ryan, S., Harper, S., & George, G. 2014. From
+the editors: Aging populations and management.
+Academy of Management Journal, 57: 929–935. Murphy, K. S., & Williams, J. A. 2010. Human resource
+management high-performance work practices and
+contextual setting: Does industry matter? A compari-
+son of the US restaurant sector to the manufacturing
+industry. Journal of Foodservice Business Research,
+13: 283–303.
+Lamont, R. A., Swift, H. J., & Abrams, D. 2015. A review and
+meta-analysis of age-based stereotype threat: Negative
+stereotypes, not facts, do the damage. Psychology and
+Aging, 30: 180–193.
+Lawrence, B. S. 1988. New wrinkles in the theory of age:
+Demography, norms, and performance ratings. Academy
+of Management Journal, 31: 309–337.
+Leisink, P. L. M., & Knies, E. 2011. Line managers’ support
+for older workers. International Journal of Human
+Resource Management, 22: 1902–1917.
+Loretto, W., & White, P. 2006. Employers’ attitudes, prac-
+tices and policies towards older workers. Human
+Resource Management Journal, 16: 313–330.
+Ma, W. 2014. How does your salary stack up against the rest
+of Australia? September 2. Retrieved from http://
+www.news.com.au/finance/work/careers/how-does-
+your-salary-stack-up-against-the-rest-of-australia/news-
+story/72b44644b531ad10bc1a8051f016ac6c.
+MacDuffie, J. P. 1995. Human resource bundles and
+manufacturing performance: Organizational logic
+and flexible production systems in the world auto
+industry. Industrial & Labor Relations Review, 48:
+197–221.
+Macky, K., & Boxall, P. 2008. Employee experiences of
+high-performance work systems: An analysis of sec-
+toral, occupational, organisational and employee
+variables. New Zealand Journal of Employment
+Relations, 33: 1–18.
+Martin, G., Dymock, D., Billett, S., & Johnson, G. 2014. In
+the name of meritocracy: Managers’ perceptions of
+policies and practices for training older workers.
+Ageing and Society, 34: 992–1018.
+Mauno, S., Kinnunen, U., & Ruokolainen, M. 2007. Job
+demands and resources as antecedents of work en-
+gagement: A longitudinal study. Journal of Voca-
+tional Behavior, 70: 149–171.
+Maurer, T. J., Barbeite, F. G., Weiss, E. M., & Lippstreu, M.
+2008. New measures of stereotypical beliefs about
+older workers’ ability and desire for development.
+Journal of Managerial Psychology, 23: 395–418.
+Maurer, T., & Rafuse, N. 2001. Learning not litigating:
+Managing employee development and avoiding
+claims of age discrimination. The Academy of Man-
+agement Executive, 15: 110–121.
+McEvoy, G. M., & Blahna, M. J. 2001. Engagement or dis-
+engagement? Older workers and the looming labor
+shortage. Business Horizons, 44: 46–52.
+National Seniors Productive Ageing Centre 2011. The el-
+ephant in the room: Age discrimination in employ-
+ment. Retrieved from http://nationalseniors.com.au/
+be-informed/research/publications/elephant-room-age-
+discrimination.
+National Seniors Productive Ageing Centre 2012. Barriers
+to mature age employment: Final report of the con-
+sultative forum on mature age participation. Retrieved
+from https://docs.employment.gov.au/system/files/
+doc/other/finalreport.pdf.
+Ng, T. W. H., & Feldman, D. C. 2012. Evaluating six com-
+mon stereotypes about older workers with meta-
+analytical data. Personnel Psychology, 65: 821–858.
+Nguyen, H. H. D., & Ryan, A. M. 2008. Does stereotype
+threat affect test performance of minorities and
+women? A meta-analysis of experimental evidence.
+The Journal of Applied Psychology, 93: 1314–1334.
+Niemann, Y. F., & Dovidio, J. F. 1998. Relationship of solo
+status, academic rank, and perceived distinctiveness
+to job satisfaction of racial/ethnic minorities. The
+Journal of Applied Psychology, 83: 55–71.
+Nishii, L., Lepak, D., & Schneider, B. 2008. Employee at-
+tributions of the “why” of HR practices: Their effects
+on employee attitudes and behaviours, and customer
+satisfaction. Personnel Psychology, 61: 503–545.
+Nishii, L. H., & Wright, P. 2008. Variability within organi-
+zations: Implications for strategic human resource
+management. In D. B. Smith (Ed.), The people make
+the place: 225–248. Mahwah, NJ: Erlbaum.
+Nussbaum, A. D., & Steele, C. M. 2007. Situational disen-
+gagement and persistence in the face of adversity.
+Journal of Experimental Social Psychology, 43:
+127–134.
+Organisation for Economic Co-operation and Development
+(OECD) 2006. Live longer, work longer. Retrieved from
+http://www.oecd.org/els/emp/livelongerworklonger.
+htm.
+Ostroff, C., & Bowen, D. 2016. Reflections on the 2014
+Decade Award: Is there strength in the construct of HR
+system strength? Academy of Management Review,
+41: 196–214.
+Perry, E. L. 1997. A cognitive approach to understanding
+discrimination: A closer look at applicant gender and2154
+Academy of Management Journal
+age. Research in Personnel and Human Resources
+Management, 15: 175–240.
+Perry, E. L., Dokko, G., & Golom, F. 2012. The aging worker
+and person-environment fit. In J. W. Hedge &
+W. C. Borman (Eds.), Oxford handbook of work and
+aging: 187–212. Oxford, UK: Oxford University Press.
+Perry, E. L., Kulik, C. T., & Zhou, J. 1999. A closer look at the
+effects of subordinate–supervisor age differences.
+Journal of Organizational Behavior, 20: 341–357.
+Pitt-Catsouphes, M., & Matz-Costa, C. 2008. The multi-
+generational workforce: Workplace flexibility and
+engagement. Community Work & Family, 11:
+215–229.
+Plaut, V. C., Garnett, F. G., Buffardi, L. E., & Sanchez-Burks,
+J. 2011. What about me? Perceptions of exclusion and
+whites’ reactions to multiculturalism. Journal of
+Personality and Social Psychology, 101: 337–353.
+Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., & Podsakoff,
+N. P. 2003. Common method biases in behavioural
+research: A critical review of the literature and rec-
+ommended remedies. The Journal of Applied Psy-
+chology, 88: 879–903.
+Posthuma, R. A., & Campion, M. A. 2009. Age stereotypes
+in the workplace: Common stereotypes, moderators,
+and future research directions. Journal of Manage-
+ment, 35: 158–188.
+Preacher, K. J., Rucker, D. D., & Hayes, A. F. 2007.
+Addressing moderated mediation hypotheses: The-
+ory, methods, and prescriptions. Multivariate Be-
+havioral Research, 42: 185–227.
+Purdie-Vaughns, V., Steele, C. M., Davies, P. G., Ditlmann,
+R., & Crosby, J. R. 2008. Social identity contingencies:
+How diversity cues signal threat or safety for African
+Americans in mainstream institutions. Journal of
+Personality and Social Psychology, 94: 615–630.
+Roberson, L., Deitch, E. A., Brief, A. P., & Block, C. J.
+2003. Stereotype threat and feedback seeking in the
+workplace. Journal of Vocational Behavior, 62:
+176–188.
+Roberson, L., & Kulik, C. T. 2007. Stereotype threat at work.
+The Academy of Management Perspectives, 21:
+24–40.
+Salthouse, T. 2012. Consequences of age-related cogni-
+tive declines. Annual Review of Psychology, 63:
+201–226.
+Schaufeli, W. B., & Bakker, A. B. 2004. Utrecht Work En-
+gagement Scale: Preliminary manual: Retrieved from
+http://www.wilmarschaufeli.nl/publications/Schaufeli/
+Test%20Manuals/Test_manual_UWES_English.pdf.
+Schaufeli, W. B., Bakker, A., & Salanova, M. 2006. The
+measurement of work engagement with a short ques-
+tionnaire: A cross-national study. Educational and
+Psychological Measurement, 66: 701–716.
+December
+Schaufeli, W. B., Salanova, M., González-Romá, V., & Bakker,
+A. B. 2002. The measurement of engagement and
+burnout: A two sample confirmatory factor analytic
+approach. Journal of Happiness Studies, 3: 71–92.
+Schmader, T., & Beilock, S. 2012. An integration of pro-
+cesses that underlie stereotype threat. In M. Inzlicht &
+T. Schmader (Eds.), Stereotype threat: Theory, pro-
+cess, and application: 34–50. New York: Oxford
+University Press.
+Schmader, T., Johns, M., & Forbes, C. 2008. An integrated
+process model of stereotype threat effects on perfor-
+mance. Psychological Review, 115: 336–356.
+Schøne, P. 2009. New technologies, new work practices
+and the age structure of the workers. Journal of Pop-
+ulation Economics, 22: 803–826.
+Shacklock, K., Fulop, L., & Hort, L. 2007. Managing older
+worker exit and re-entry practices: A revolving door?
+Asia Pacific Journal of Human Resources, 45: 151–
+167.
+Shapiro, J. R., & Neuberg, S. L. 2007. From stereotype threat
+to stereotype threats: Implications of a multi-threat
+framework for causes, moderators, mediators, conse-
+quences, and interventions. Personality and Social
+Psychology Review, 11: 107–130.
+Shapiro, J. R., Williams, A. M., & Hambarchyan, M. 2013.
+Are all interventions created equal? A multi-threat
+approach to tailoring stereotype threat interventions.
+Journal of Personality and Social Psychology, 104:
+277–288.
+Shih, M., Young, M. J., & Bucher, A. 2013. Working to
+reduce the effects of discrimination: Identity man-
+agement strategies in organizations. The American
+Psychologist, 68: 145–157.
+Shore, L. M., Cleveland, J. N., & Goldberg, C. B. 2003. Work
+attitudes and decisions as a function of manager age
+and employee age. The Journal of Applied Psychol-
+ogy, 88: 529–537.
+Shultz, K. S., & Wang, M. 2011. Psychological perspectives
+on the changing nature of retirement. The American
+Psychologist, 66: 170–179.
+Siemsen, E., Roth, A., & Oliveira, P. 2010. Common method
+bias in regression models with linear, quadratic, and
+interaction effects. Organizational Research Methods,
+13: 456–467.
+Smith, J. L., Sansone, C., & White, P. H. 2007. The stereo-
+typed task engagement process: The role of interest
+and achievement motivation. Journal of Educational
+Psychology, 99: 99–114.
+Social Security Administration n.d. Retirement planner:
+Benefits by year of birth. Retrieved from https://www.
+ssa.gov/planners/retire/agereduction.html.2016
+Kulik, Perera, and Cregan
+South, S. J., Markham, W. T., Bonjean, C. M., & Corder, J.
+1987. Sex differences in support for organizational
+advancement. Work and Occupations, 14: 261–285.
+Spencer, S. J., Logel, C., & Davies, P. G. 2015. Stereotype
+threat. Annual Review of Psychology, 67: 14.1–14.23.
+Spencer, S. J., Steele, C. M., & Quinn, D. M. 1999. Stereo-
+type threat and women’s math performance. Journal
+of Experimental Social Psychology, 35: 4–28.
+Steele, C. M. 1997. A threat in the air: How stereotypes
+shape intellectual identity and performance. The
+American Psychologist, 52: 613–629.
+Steele, C. M. 2010. Whistling Vivaldi: How stereotypes
+affect us and what we can do. New York: W. W.
+Norton & Company Inc.
+Steele, C. M., & Aronson, J. 1995. Stereotype threat and the
+intellectual test performance of African Americans.
+Journal of Personality and Social Psychology, 69:
+797–811.
+Steele, C. M., Spencer, S. J., & Aronson, J. 2002. Contending
+with group image: The psychology of stereotype and
+social identity threat. Advances in Experimental
+Social Psychology, 34: 379–440.
+Streets, V. N., & Major, D. A. 2014. The limited utility
+of stereotype threat research in organizational set-
+tings. Industrial and Organizational Psychology:
+Perspectives on Science and Practice, 7: 447–449.
+Sun, L. Y., Aryee, S., & Law, K. S. 2007. High-performance
+human resource practices, citizenship behavior and
+organizational performance: A relational perspective.
+Academy of Management Journal, 50: 558–577.
+Takeuchi, R., Chen, G., & Lepak, D. P. 2009. Through the
+looking glass of a social system: Cross-level effects of
+high-performance work systems on employees’ atti-
+tudes. Personnel Psychology, 62: 1–29.
+Tharenou, P., Latimer, S., & Conroy, D. 1994. How do you
+make it to the top? An examination of influences on
+women’s and men’s managerial advancement. Acad-
+emy of Management Journal, 37: 899–931.
+Thomas, D. A., & Gabarro, J. J. 1999. Breaking through:
+The making of minority executives in corporate
+America. Boston, MA: Harvard Business Press.
+Tonidandel, S., & LeBreton, J. M. 2011. Relative impor-
+tance analysis: A useful supplement to regression an-
+alyses. Journal of Business and Psychology, 26: 1–9.
+Tonidandel, S., & LeBreton, J. M. 2015. RWA-Web: A free,
+comprehensive, web-based, and user-friendly tool for
+relative weight analyses. Journal of Business and
+Psychology, 30: 207–216.
+Tonks, G., Dickenson, K., & Nelson, L. 2009. Miscon-
+ceptions and realities: The working relationships of
+older workers and younger managers. Research and
+Practice in Human Resource Management, 17: 36–54.
+2155
+Tsui, A. S., & Gutek, B. A. 1999. Demographic differences
+in organizations. Lanham, MD: Lexington Books.
+Tsui, A. S., & O’Reilly, C. A. 1989. Beyond simple de-
+mographic effects: The importance of relational de-
+mography in supervisor-subordinate dyads. Academy
+of Management Journal, 32: 402–423.
+Tsui, A. S., Xin, K. R., & Egan, T. D. 1996. Relational de-
+mography: The missing link in vertical dyad linkage.
+In S. L. Jackson & M. N. Ruderman (Eds.), Diversity in
+work teams: Research paradigms for a changing
+workplace: 97–129. Washington, DC: APA.
+United Nations, Department of Economic and Social
+Affairs, Population Division 2015. World population
+ageing. Retrieved from http://www.un.org/en/
+development/desa/population/publications/pdf/ageing/
+WPA2015_Report.pdf.
+van Dalen, H. P., Henkens, K., & Wang, M. 2014. Recharging
+or retiring older workers? Uncovering the age-based
+strategies of European employers. The Gerontologist,
+55: 814–824.
+von Hippel, C., Issa, M., Ma, R., & Stokes, A. 2011. Ste-
+reotype threat: Antecedents and consequences for
+working women. European Journal of Social Psy-
+chology, 41: 151–161.
+von Hippel, C., Kalokerinos, E. K., & Henry, J. D. 2013.
+Stereotype threat among older employees: Relation-
+ship with job attitudes and turnover intentions. Psy-
+chology and Aging, 28: 17–27.
+Walton, G. M., Murphy, M. C., & Ryan, A. M. 2015.
+Stereotype threat in organizations: Implications for
+equity and performance. Annual Review of Organi-
+zational Psychology and Organizational Behavior,
+2: 523–550.
+Woodcock, A., Hernandez, P. R., Estrada, M., & Schultz, P. W.
+2012. The consequences of chronic stereotype threat:
+Domain disidentification and abandonment. Journal of
+Personality and Social Psychology, 103: 635–646.
+Wright, P. M., Gardner, T. M., Moynihan, L. M., & Allen,
+M. R. 2005. The relationship between HR practices
+and firm performance: Examining causal order. Per-
+sonnel Psychology, 58: 409–446.
+Xavier, L. F., Fritzsche, B. A., Sanz, E. J., & Smith, N. A.
+2014. Stereotype threat: How does it measure up? In-
+dustrial and Organizational Psychology: Perspec-
+tives on Science and Practice, 7: 438–447.
+Yanadori, Y., & van Jaarsveld, D. D. 2014. The relationships
+of informal high performance work practices to job
+satisfaction and workplace profitability. Industrial
+Relations, 53: 501–534.
+Zacharatos, A., Barling, J., & Iverson, R. D. 2005. High-
+performance work systems and occupational safety.
+The Journal of Applied Psychology, 90: 77–93.2156
+December
+Academy of Management Journal
+Zohar, D. 2000. A group-level model of safety climate:
+Testing the effect of group climate on microaccidents
+in manufacturing jobs. The Journal of Applied Psy-
+chology, 85: 587–596.
+Zohar, D., & Luria, G. 2004. Climate as a social-cognitive
+construction of supervisory safety practices: Scripts as
+proxy for behavioral patterns. The Journal of Applied
+Psychology, 89: 322–333.
+Carol T. Kulik (carol.kulik@unisa.edu.au) is a research
+professor at the University of South Australia Business
+School. She received her PhD from the University of Illi-
+nois at Urbana-Champaign. Her research examines how
+human resource management interventions influence the
+fair treatment of people in organizations. Current projects
+investigate organizational strategies for improving the
+employment of people with disabilities, closing the gender
+pay gap, and reducing stereotype threat among mature-age
+workers.
+Sanjeewa Perera (sanjee.perera@unisa.edu.au) is a lec-
+turer at the University of South Australia Business School.
+She received her PhD from the University of South Aus-
+tralia. Her research interests include emotion in the
+workplace and workforce diversity. Current projects ex-
+amine stereotype threat among mature-age workers and
+jobseekers, and emotion management of family business
+co-workers.
+Christina Cregan (ccregan@unimelb.edu.au) is a professor
+of employment relations in the Department of Manage-
+ment and Marketing at the University of Melbourne. She
+received her PhD from the London School of Economics.
+Her research interests are concerned with disadvantaged
+groups in the labor market. Current projects examine im-
+migrant garment homeworkers, layoff survivors, and peo-
+ple with disabilities.
+APPENDIX
+HIGH PERFORMANCE PRACTICES
+To what extent are these practices used at your work-
+place (1 5 not at all; 5 5 a very large extent)?
+(1) Qualified employees have the opportunity to be
+promoted to positions of greater pay and/or
+responsibility
+(2) The workplace conducts extensive recruiting to
+fill open positions
+(3) Attitude surveys are regularly administered to
+identify and correct employee morale problems
+(4) The workplace offers programs to encourage
+employee participation and input (e.g., quality
+circles, problem-solving groups, or roundtable
+discussions)
+(5) Employees have access to a formal grievance
+and/or complaint resolution system
+(6) Employees receive information about the work-
+place’s financial performance
+(7) Employees receive information about the work-
+place’s strategic plans
+(8) The workplace offers extensive company-
+specific training in how to perform tasks or
+jobs
+MATURE-AGE PRACTICES
+To what extent are these practices used at your work-
+place (1 5 not at all; 5 5 a very large extent)?
+(1) Opportunities for mature-age employees to take
+on challenging and meaningful new roles or
+work assignments
+(2) Reverse-mentoring programs that team mature-
+age workers with more junior staff members to
+facilitate skill upgrading
+(3) Monitoring the skills of mature-age workers and
+providing training to upgrade and maintain
+skills
+(4) The opportunity to have your job redesigned or
+to transfer to a less stressful/strenuous job
+(5) Incentives to mentor others (e.g., reduced work-
+load, additional compensation)
+(6) Performance-related feedback specifically rele-
+vant to mature-age employees
+(7) Phased retirement programs that allow em-
+ployees to ease into retirement
+(8) Alternate career paths specially focusing on
+mature-age employees

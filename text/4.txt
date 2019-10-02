@@ -1,0 +1,2151 @@
+Motive, Opportunity, Choice, and Corporate Illegality
+Author(s): Marie A. McKendall, John A. Wagner and III
+Source: Organization Science, Vol. 8, No. 6 (Nov. - Dec., 1997), pp. 624-647
+Published by: INFORMS
+Stable URL: http://www.jstor.org/stable/2635160
+Accessed: 25-01-2018 04:20 UTC
+REFERENCES
+Linked references are available on JSTOR for this article:
+http://www.jstor.org/stable/2635160?seq=1&cid=pdf-reference#references_tab_contents
+You may need to log in to JSTOR to access the linked references.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+http://about.jstor.org/terms
+INFORMS is collaborating with JSTOR to digitize, preserve and extend access to Organization
+Science
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMotive, Opportunity, Choice,
+and Corporate Illegality
+Marie A. McKendall * John A. Wagner, III
+Grand Valley State University, 236 Lake Huron Hall, Allendale, Michigan 49401
+Michigan State University, Department of Management, East Lansing, Michigan 48824
+W hat pathological conditions breed illegal corporate actions? This research probes the linkages
+between individual-level, organization-level, and industry-level antecedents of violations of U.S.
+environmental laws. The authors conclude that such violations spring from an intricate pattern of motive,
+opportunity, and choice.
+Alan Meyer
+phenomena.... We [organization theorists] should be directing
+Abstract
+Research on corporate illegality spans several distinct literatures
+and defies ready integration. This article helps to overcome
+those problems. Analysis of data from 80 U.S. industrial or-
+ganizations indicates that lower industry profitability is asso-
+our efforts to understanding massive dysfunctions at the macro
+level, not just explaining order and congruence.... We need to
+develop a theory of error, pathology, and disequilibrium in or-
+ganization.
+Pondy and Mitroff 1979, pp. 11-17
+ciated with higher frequencies of detected serious violations of
+federal environmental laws. Organizational profitability, indus- Of the different kinds of macro dysfunctions of potential
+try concentration, organization size, structural complexity, or- interest to organization theorists, one that appears com-
+mon in incidence and consequential in effect is corporate
+illegality. Corporate illegality consists of actions (of
+omission or commission) by any individual or group
+within a business organization that violate an administra-
+tive, civil, or criminal law, and for which the organization
+is the primary intended beneficiary (Baucus 1994,
+Schrager and Short 1978, Shover 1978). Although no one
+knows the full extent of corporate illegality, the available
+evidence suggests that a significant number of large
+manufacturing firms routinely violate federal laws. Some
+of this evidence comes from classic research by Clinard
+et al. (1979), who studied enforcement actions by 24 fed-
+eral agencies against the 582 largest publicly owned cor-
+porations actions during 1975 and 1976. The findings in-
+dicated that manufacturing firms incurred an average of
+4.8 enforcement actions during the observation period,
+and that 40% engaged in repeated violations. Similarly,
+a study of Fortune 500 companies showed that 20% of
+the sampled firms had been convicted or penalized for
+serious violations of federal law between 1970 and 1980
+(Thornburg 1991). Additional evidence continues to ap-
+pear in the many reports of corporate wrongdoing pub-
+lished in the business and popular press (e.g., Byrne 1995,
+Harr 1995, Nocera 1995).
+ganizational decentralization, and ethical climate join this vari-
+able in statistical interactions also associated with detected
+instances of serious environmental violations. However, none
+of those variables are found to be associated with the incidence
+of detected nonserious violations. These results provide quali-
+fied support for a model of corporate illegality in which illegal
+behaviors are attributable to the interactive effects of motive,
+opportunity, and choice. They suggest that illegal corporate ac-
+tivities resist simple explanation, and that future research on
+corporate illegality should concentrate on further development
+of multivariable models.
+(Corporate Illegality; Organizational Dysfunction; En-
+vironmental Laws; TOBIT Regression Analysis; Multi-
+variable Model)
+One of the striking differences between organizational behavior
+and organization theory is that organizational behavior (the mi-
+cro branch of organization studies) defines much of its research
+effort in terms of dysfunctions of the system.... But organi-
+zation theory as a field is currently so preoccupied with explain-
+ing order that it has not yet discovered these most interesting
+1047-7039/97/0806/06241$05.00
+624 ORGANIZATION SCIENCE/NOl. 8, No. 6, November-December 1997
+Copyright ? 1997, Institute for Operations Research
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+and the Management SciencesMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Compelling evidence also has been reported on the
+costs of corporate illegality. Such costs include financial
+costs; deaths, disabilities, illnesses, and injuries to em-
+ployees and consumers; the short- and long-term effects
+of pollution on health and the environment; and the de-
+pletion of natural resources (e.g., Baucus 1994, Clinard
+et al. 1979, Finney and Lesieur 1982, Geis 1985, Schrager
+and Short 1978). They also include less direct but perhaps
+more consequential social costs, such as the possible de-
+cline of societal morals precipitated by illegal corporate
+actions (Szwajkowski 1986). In response to increasing
+public awareness of these direct and indirect costs, in
+1991 the U.S. Congress enacted the Congressional Sen-
+tencing Guidelines which established mandatory fines of
+up to $290 million for corporations convicted of viola-
+tions of federal law (Kaplan 1991). Clearly, the U.S. gov-
+ernment and the society it represents attach great impor-
+tance to curbing the occurrence and costs of illegal
+corporate activities.
+Despite the need to understand and control corporate
+illegality, relevant research is fragmented. It spans a va-
+riety of fields in law and in the social and behavioral
+sciences and is relatively sparse. Clinard et al. (1979)
+noted that the few published quantitative studies were
+very narrow in scope and pertained almost exclusively to
+antitrust violations. Szwajkowski (1986) later echoed this
+observation, lamenting the near absence of systematic
+empirical research. Subsequently, several empirical stud-
+ies have been published (e.g., Baucus and Near 1991,
+Cochran and Nigh 1987, Dalton and Kesner 1988, Hill et
+al. 1992) and a few conceptual analyses have appeared
+(e.g., Baucus 1994, Finney and Lesieur 1982). Nonethe-
+A Theory of Corporate Illegality
+What prompts individuals and groups to perpetrate illegal
+acts in the name of and for the benefit of corporate or-
+ganizations? Several researchers (Baucus 1994, Coleman
+1987, Finney and Lesieur 1982, Szwajkowski 1986,
+Vaughn 1982) have offered theories to explain corporate
+illegality. Although these theories are not in complete
+concurrence, the major hypothesized constructs and pro-
+cess can be summarized as follows. Corporations operate
+in an environment of goal directedness, competition, and
+performance pressures. Factors external and internal to
+each organization combine to create a tension or motive
+to engage in illegal activities as a way of achieving or-
+ganizational objectives and ensuring organizational sur-
+vival. In the presence of motivation, additional factors,
+again both internal and external, operate to create the op-
+portunity to engage in illegal activities. Whether motive
+and opportunity will actually influence intentional illegal
+behavior depends on choice, which is shaped by the pres-
+ence of effective controls that function to prevent cor-
+porate illegality.
+As suggested by this synopsis, most conceptual models
+of corporate illegality are complex and interactive. How-
+ever, most empirical research has tested only for simple,
+zero-order effects. Although we do not totally dismiss the
+predictive efficacy of main-effect relationships-in fact,
+we advance a collection of zero-order hypotheses on the
+way to proposing hypotheses about higher-order relation-
+ships-we suggest that illegality arises primarily from the
+first- and second-order combined effects of variables that
+provide motive, opportunity, and choice.
+less, considerable additional investigation is needed to Motive
+establish a well-articulated body of research. Motive reflects the processes and factors that arouse and
+The purpose of our article is to contribute to progress direct behavior. It is often characterized as arising from
+in that direction by reporting the results of a multivariable unfulfilled needs, desires, or deficiencies that spur cor-
+analysis of seven covariates thought to be associated with rective actions. Applied to corporate illegality, the con-
+corporate illegality. We examined several previously un- cept of motive represents the reasons for or purposes of
+tested variables, including organizational complexity and illegal activities; it serves as an answer to questions of
+ethical climate. Our work also departed from the norm by "why?" In research on corporate illegality, investigation
+focusing on violations of environmental regulations into motive has focused on the importance of economic
+rather than antitrust infractions, which are more com- well-being in business organizations. Studies have typi-
+monly analyzed in research on corporate illegality, and cally addressed the hypotheses that financial pressures
+by including and separately testing administrative actions stemming from low industry or organizational profit-
+in addition to the various sorts of civil and criminal in- ability motivate organizational members to acquire nec-
+fractions usually assessed in illegality research. Finally, essary resources, improve competitive position, or cut
+ours is one of the few studies to assess interaction effects critical costs through illegal actions.
+thought to occur among the kinds of variables examined Industry Profitability. Researchers have often hy-
+in this and prior research. As a result, our research pro- pothesized that firms operating in industries with low
+vides grounding evidence for a more complex model of profit margins have greater difficulty meeting perfor-
+corporate illegality than has been assessed in empirical mance goals and have fewer slack resources to use to
+research to date. comply with legal regulations (e.g., Baucus 1994, Clinard
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+625MARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+et al. 1979, Finney and Lesieur 1982, Staw and Industry Concentration. One possible origin of op-
+Szwajkowski 1975). Correspondingly, evidence on the portunity is industry concentration, the degree to which
+relationship between industry profitability and corporate an industry is dominated by a few companies. Industry
+illegality lends fairly consistent support to the notion that concentration has been studied primarily in relation to
+illegal actions occur less often in industries with higher antitrust violations, and there are competing hypotheses
+profits (Asch and Seneca 1976, Palmer 1972, Simpson about its likely effects. From one point of view, high con-
+1986, Staw and Szwajkowski 1975). In what is com- centration may make illegality more feasible because col-
+monly regarded as the most comprehensive study of cor- lusion is easier among small numbers of firms (Clinard
+porate illegality, Clinard et al. (1979) found that, although et al. 1979) and because the larger firms most often found
+the effects were small, firms operating in industries with in concentrated industries are sometimes able to influence
+larger profit margins did violate the law less frequently regulatory agencies. Several studies seem to support this
+than firms in less profitable industries. Consistent with hypothesis (Clinard et al. 1979, Hay and Kelley 1974,
+this finding, we hypothesized as follows.
+HYPOTHESIS 1. Lower industry profitability is asso-
+ciated with greater corporate illegality.
+Leonard and Weber 1970). Conversely, other researchers
+have suggested that moderate to lower levels of concen-
+tration are more conducive to illegality, because scrutiny,
+detection, publicity, and retaliation are less likely in a
+Organizational Profitability. The motive to engage in diffused industry (e.g., Szwajkowski 1986). A few studies
+illegality has also been attributed to concerns about or- have supported this line of thinking (Burton 1966, Riedel
+ganizational profitability, and financial strain within a 1968). However, in contrast to both of these viewpoints,
+firm has been hypothesized to be a major motivational one study of the relationship between industry concentra-
+factor. Initial studies typically showed a significant neg- tion and corporate illegality failed to find any statistically
+ative relationship between firm profitability and corporate significant effects at all (Posner 1970).
+illegality (Asch and Seneca 1976, Cochran and Nigh As industry concentration research has focused almost
+1987, Lane 1953, Staw and Szwajkowski 1975). How- exclusively on antitrust violations, it seems questionable
+ever, later studies that have included broader categories whether any sort of relationship is likely between industry
+of violations have failed to produce confirmatory evi- concentration and other types of corporate illegality. Nev-
+dence (Baucus and Near 1991, Hill et al. 1992, Yeager ertheless, because Clinard et al. (1979) did find general
+1981). The benchmark study by Clinard et al. (1979) indications that high concentration might be correlated
+found that firms with profit problems violated the law with several types of violations, we decided to assess the
+more frequently, but that profitable firms also had many following hypothesis.
+violations. Despite the conflicting evidence, the most re-
+cent models of corporate illegality still propose a negative
+relationship between firm profitability and corporate vi-
+olations (Baucus 1994, Coleman 1987). For our study,
+we hypothesized as follows.
+HYPOTHESIS 2. Lower organizational profitability is
+associated with greater corporate illegality.
+HYPOTHESIS 3. Higher levels of industry concentra-
+tion are associated with greater corporate illegality.
+Organization Size. Researchers have also suggested
+that opportunity originates in various internal, structural
+attributes of organizations. Most thoroughly studied
+among these attributes is organization size, usually de-
+fined as the number of members in the organization; the
+Opportunity organization's sales, gross revenues, or net profits; the
+Whereas motive refers to the arousal of behavior, oppor- organization's capacity to render services; or the quantity
+tunity means the presence of a favorable combination of of assets held by the firm (Gooding and Wagner 1985).
+circumstances that makes a particular course of action As suggested by Yeager (1986), an important way in
+possible. The opportunity to engage in corporate illegality which larger size might afford greater opportunity for cor-
+arises when the conditions needed to carry out illegal acts porate illegality is through its provision of the slack re-
+are present and when individuals and groups can break sources necessary to absorb legal expenses, court fees,
+laws and expect, with reasonable confidence, to avoid de- punitive awards, and similar costs of illegality. Accord-
+tection or significant retribution. Hence, research on op- ingly, larger firms should not be as fearful of the conse-
+portunity explores which factors or combinations of fac- quences of illegality as smaller ones. Larger firms, how-
+tors will provide sufficient ease, anonymity, or rewards ever, are also more likely to have the resources necessary
+to be conducive to corporate illegality. These factors in- to meet regulations without undue distress, and thus
+clude industry concentration, organization size, struc- might be less inclined to break the law (Yeager 1986).
+tural complexity, and organizational decentralization. Moreover, large size may make firms more visible and
+626
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+their actions may therefore be more likely to be detected of subunits, levels of hierarchy, and number of operating
+and prosecuted. sites increase (Hall 1991, Price and Mueller 1986).
+Adding confusion to the issue of the effects of orga- Complexity defined in this way provides the opportu-
+nization size is a controversy about whether the relation- nity for illegality because of the problems it causes in
+ship between size and violations should be assessed as a coordination, communication, and managerial control
+proportionate or an absolute relationship. Researchers fa- (Finney and Lesieur 1982). In particular, complexity im-
+voring a proportionate measure argue that larger firms are pedes information flows, reducing top managers' knowl-
+involved in more activities, so violations should be ex- edge about daily operations (Donaldson 1982, Jackall
+amined in terms of the number per unit size of the cor- 1988, Stone 1975). The reduction of information flows
+poration (Clinard et al. 1979, Hill et al. 1992). Others may lead to deliberate lawbreaking if it makes illegalities
+(e.g., Dalton and Kesner 1988) contend that absolute easier to hide. Fragmented communication may also lead
+measures are more appropriate because they reflect the to unintentional violations of the law if people lack the
+direct effects hypothesized by most researchers. Using an information necessary to make consciously lawful deci-
+absolute measure, several researchers have found a pro- sions.
+nounced positive relationship between organization size Several case studies have uncovered anecdotal evi-
+and corporate illegality (Asch and Seneca 1976, Baucus dence supporting a relationship between complexity and
+and Near 1991, Cochran and Nigh 1987, Dalton and illegality (Herling 1962, Ungar 1972, Vandivier 1972). In
+Kesner 1988, Perez 1978). Using a proportionate mea- addition, Cochran and Nigh (1987) examined the rela-
+sure, Clinard et al. (1979) found that larger firms had tionship between illegality and complexity, and found
+about the same number of violations per standard unit of positive results. However, they defined complexity in an
+size ($100 million in sales) as smaller firms, and Hill et unusual way as firm size, firm growth, product diversifi-
+al. (1992) found a relationship between size and illegality cation, and percentage of assets abroad. Therefore, large-
+for some types of violations, but not for others.
+Considering the two approaches together, we see that
+findings based on proportional measures generally sub-
+stantiate the presence of a monotonic relationship be-
+tween size and illegality, and this same relationship is
+detected as a positive relationship in research based on
+absolute measures. In keeping with the most recent re-
+search on the subject (Hill et al. 1992), we used a pro-
+portionate measure. We posited a positive relationship to
+avoid proposing a test of the null hypothesis.
+HYPOTHESIS 4. Larger organizational size is associ-
+ated with greater corporate illegality.
+Structural Complexity. Complexity is a second struc-
+tural characteristic hypothesized to act as a source of op-
+portunity and contribute to corporate illegality
+sample quantitative research has yet to examine this re-
+lationship in sufficient detail. Using the traditional defi-
+nition of complexity, we hypothesized that:
+HYPOTHESIS 5. Greater structural complexity is as-
+sociated with greater corporate illegality.
+Organizational Decentralization. Decentralization, a
+third structural characteristic considered in research on
+corporate illegality, refers to the locus and dispersion of
+decision making in an organization. In a centralized or-
+ganization, decision making is the sole prerogative of up-
+per managers. In contrast, decision making in a decen-
+tralized organization is dispersed downward and outward
+among the membership. Decentralization (reduced cen-
+tralization) of decision making provides the opportunity
+to pursue corporate illegality because it allows more peo-
+ple the freedom to decide what to do. Tied with this
+(Braithwaite 1985, Clinard and Yeager 1980, Donaldson greater freedom to decide and enact is a tendency toward
+1982, Finney and Lesieur 1982). Structural complexity is diffusion of responsibility that occurs when many people
+the degree of spread and segmentation in an organiza-
+tion's structure, reflecting the combined effects of hori-
+zontal, vertical, and spatial differentiation. Horizontal dif-
+are perceived to be responsible for making and imple-
+menting a particular decision. According to Clinard et al.
+(1979), illegality becomes increasingly likely as these
+ferentiation arises as complex work is decomposed into conditions promote the abdication of personal responsi-
+networks of interdependent jobs. Vertical differentiation bility.
+develops as direct supervision is needed to coordinate or- To date, only one study (Hill et al. 1992) has examined
+ganizational behavior. Spatial differentiation occurs as an the relationship between organizational decentralization
+organization' s operations become geographically dis- and corporate illegality, and it produced no significant
+persed. By definition, greater differentiation of any type results. Nonetheless, because speculation about this vari-
+produces greater structural complexity, and the most able has always been intense, we examined the relation-
+complex structures incorporate all three types. An orga- ship again, using a more comprehensive measure and hy-
+nization therefore becomes more complex as its number pothesizing as follows.
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+627MARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+HYPOTHESIS 6. Greater organizational decentrali-
+1983, Molander 1987, Weller 1988). Other recommen-
+zation is associated with greater corporate illegality. dations are that training programs, workshops, and dis-
+Choice ethics and legality a routine aspect of organizational life
+cussion groups should be used to make discussions about
+If both motive and opportunity are present, the choice to (Eckner 1983, Waters and Bird 1987), and that this focus
+engage in illegality generally depends on the degree to on ethics should be emphasized and reinforced by top
+which evaluative preferences favor or disfavor illegal be- managers through policy statements and speeches
+haviors (e.g., Baucus 1994, Finney and Lesieur 1982). On (Laczniak 1983). Additional ethical practices commonly
+the commonplace assumption that bad people do bad advocated include mechanisms for reporting legal-ethical
+things, research on choice first assessed the effects of violations, social audits, and the incorporation of ethics
+various psychological factors and personal values. De- into selection, performance appraisal, discipline, and job
+spite many attempts (Bromberg 1965, Cohen et al. 1956, analysis procedures (Buchholz 1989, Goddard 1988,
+Spelling 1944, Spencer 1965, Sutherland 1949), early in- Laczniak 1983, Molander 1987). Finally, experts assert
+vestigators failed to uncover personal characteristics that
+could differentiate consistently between offenders and
+nonoffenders. Researchers thus concluded that personal
+characteristics provide little or no insight into choice
+(Conklin 1977, Geis 1985), and they speculated that so-
+cietal norms and related organizational characteristics
+might be important determinants of choice (Coleman
+1987, Ermann and Lundman 1982a).
+Over the last two decades, therefore, concern has es-
+calated rapidly about the ethical climate of organizations,
+defined as "the prevailing perceptions of typical organi-
+zational practices and procedures that have ethical con-
+tent" (Victor and Cullen 1988, p. 101). It is commonly
+thought that because the law is an expression of a broad
+moral consensus (Finney and Lesieur 1982), an organi-
+zation's ethical climate will serve as modifier of motive
+and opportunity, either prompting or discouraging orga-
+nizations from engaging in illegal behavior (Buchholz
+1989, Clinard and Yeager 1980, Ermann and Lundman
+1982b, Stone 1975, Victor and Cullen 1988, Waters 1978,
+Waters and Bird 1987). This line of reasoning reflects
+Sutherland's (1949) early thesis that proclivities toward
+illegality are likely to be influenced by organizational
+norms that stipulate expectations about legal compliance.
+Many recommendations have been offered as to how
+organizations can stimulate a positive ethical climate.
+Widespread agreement is evident on the importance of
+establishing ethical codes that affirm legality (Feinberg
+and Serlen 1988, Laczniak 1983, Mathews 1987,
+Molander 1987, Sanderson and Varner 1984). Experts of-
+ten state that effective codes of ethics must specify sanc-
+tions and enforcement provisions as well as means of in-
+vestigation and detection (Buchholz 1989, Molander
+that top managers must address the potential for conflicts
+between profits or productivity and legal constraints so
+that employees become aware that such conflicts are not
+automatically resolved in favor of the former (Molander
+1987, Waters and Bird 1987).
+Despite the practical importance accorded to ethical
+climate, research examining the relationship between eth-
+ical climate and corporate illegality has consisted mainly
+of a few case analyses and field interviews (e.g., Ermann
+and Lundman 1982a, b; Jackall 1988). In one such study,
+Clinard (1983) interviewed 64 retired managers from
+Fortune 500 corporations and reported that the behavior
+and philosophy of top managers was mentioned most of-
+ten as the reason for acts of illegality. Hill et al. (1992)
+found that companies that considered only rate of return
+when evaluating divisional performance had a higher
+level of legal violations. The only large-scale empirical
+study in the area of ethical climate was done by Mathews
+(1987), who content analyzed 212 firms' ethical codes to
+determine the effect of codes on illegality. Somewhat sur-
+prisingly, the study showed little relationship between
+ethical codes and corporate illegality, leading Mathews
+to speculate that the link between words and behaviors
+must be demonstrated by top managers for codes to ef-
+fectively curb illegal activity.
+Researchers routinely assert that ethical climate is
+likely to exert a strong influence on illegality (e.g.,
+Yeager 1986). However, in light of Mathews' (1987)
+findings, further empirical investigation is required before
+such statements can be accepted as valid. Hence, we hy-
+pothesized as follows.
+HYPOTHESIS 7. A weaker ethical climate is associ-
+ated with greater corporate illegality.
+1987, Weller 1988), that ethical codes should be con- Multivariable Effects
+structed and updated through participatory processes that Although researchers have sometimes proposed that fac-
+involve employees at all levels (Feinberg and Serlen tors promoting illegality do so by exerting complex, mul-
+1988), and that codes should be publicized and commu- tivariable effects (e.g., Baucus 1994, Clinard and Yeager
+nicated regularly (Gross and Shichman 1987, Laczniak 1980, Vaughn 1982), early empirical investigations of
+628
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+corporate illegality typically employed case analysis, HYPOTHESIS 8c. The relationship between industry
+mean comparisons, or correlational designs to draw con- profitability and corporate illegality is strengthened by
+clusions about elementary relationships, and more recent larger organization size.
+studies have used regression methods to assess the si-
+multaneous zero-order effects of collections of industry
+characteristics and organizational attributes. Throughout
+this research, which is summarized in Table 1, results
+HYPOTHESIS 8d. The relationship between organi-
+zational profitability and corporate illegality is strength-
+ened by larger organization size.
+have shown some evidence of statistically significant ef- HYPOTHESIS 8e. The relationship between industry
+fects, but many theorized relationships have failed to re- profitability and corporate illegality is strengthened by
+ceive empirical support. Findings of statistical nonsignif- greater structural complexity.
+icance are especially prevalent in later, more rigorous
+studies. They suggest that there are only a few statistically
+significant zero-order relationships. However, such re-
+sults may be due in part to the particular industries, or-
+ganizations, covariates, or types of laws and illegality ex-
+HYPOTHESIS 8f. The relationship between organiza-
+tional profitability and corporate illegality is strength-
+ened by greater structural complexity.
+HYPOTHESIS 8g. The relationship between industry
+amined in the research. It therefore seems premature to profitability and corporate illegality is strengthened by
+give up completely on industry characteristics and orga- higher organizational decentralization.
+nizational attributes as zero-order covariates of corporate
+illegality without first considering additional multivari-
+able evidence. Further research, such as the study re-
+ported here, seems necessary before definitive conclu-
+sions can be reached.
+Beyond these basic effects, the three-way model we
+propose indicates that interactions among variables in the
+categories of motive, opportunity, and choice could have
+noteworthy effects on illegal activity. Consistent with this
+model, Coleman (1987) and Vaughn (1982) argued that
+the motivation to commit an illegal act must be examined
+in the context of opportunity, for it is opportunity that
+makes an aroused behavioral option actionable. By this
+logic, cautious conjecture suggests that motive and op-
+portunity might combine to influence illegality in a man-
+ner such that relationships between motivational factors
+(industry profitability, organizational profitability) and il-
+legal activities are moderated by the influence of oppor-
+HYPOTHESIS 8h. The relationship between organi-
+zational profitability and corporate illegality is strength-
+ened by higher organizational decentralization.
+Finney and Lesieur (1982) further theorized that
+whether criminogenic tensions or conditions will result
+in criminal acts depends on the presence and strength of
+effective social controls. This idea suggests that variables
+we have identified as offering motive or choice might
+interact in a manner such that relationships between mo-
+tivational factors (industry profitability, organizational
+profitability) and illegality are influenced by the effects
+of choice (ethical climate), and, in addition, that the pre-
+dicted negative zero-order effects of choice on illegality
+might also carry over as negative moderator effects, thus
+attenuating relationships between motivation and illegal-
+ity. Stemming from this possibility are two hypotheses
+about first-order interactions between motive and choice.
+tunity factors (industry concentration, organization size, HYPOTHESIS 9a. The relationship between industry
+structural complexity, organizational decentralization). profitability and corporate illegality is weakened by a
+Also suggested is the possibility that opportunity factors, stronger ethical climate.
+all of which are predicted to have positive zero-order ef-
+fects, might likewise exert positive moderator effects and
+increase the strength of basic relationships between mo-
+tivation and illegality. Hence, the following eight hy-
+HYPOTHESIS 9b. The relationship between organi-
+zational profitability and corporate illegality is weakened
+by a stronger ethical climate.
+potheses pertain to first-order interactions between the Also implied by Finney and Lesieur (1982) is the pos-
+two motive and four opportunity factors considered in our sibility that opportunity could interact with choice in a
+manner such that relationships between opportunity fac-
+study.
+HYPOTHESIS 8a. The relationship between industry
+profitability and corporate illegality is strengthened by
+higher industry concentration.
+tors (industry concentration, organization size, structural
+complexity, organizational decentralization) and illegal-
+ity are moderated by evaluative preferences originating
+in choice (ethical climate). Suggested by this possibility
+HYPOTHESIS 8b. The relationship between organi- are four hypotheses related to first-order interactions be-
+zational profitability and corporate illegality is strength- tween the four opportunity variables and the single choice
+ened by higher industry concentration. variable we have described.
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+629MARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Table 1 Research Chronology: Major Studies of Corporate Illegality*
+Predictor
+Statistical
+Study Category Hypothesis Sample Technique Illegality Type
+Lane(1953) Motive Employment over Time(+) 275 Firms Not Specified Antitrust, Court Cases
+Firm Size (0)
+Opportunity Geographic Location (+) Labor Relations, Court
+Cases
+Burton (1966) Opportunity Industry Concentration 127 Cases Chi-square Antitrust, Court Cases
+(+ at low-moderate levels)
+Riedel (1968) Oppurtunity Industry Concentration Not Available Not Available Antitrust, Court Cases
+(+ at moderate levels)
+Posner (1970) Opportunity Industry Concentration (0) 1,551 Cases Not Specified Antitrust, Court Cases
+Palmer (1972) Motive Industry Profit (-) 74 Cases Z-statistic Antitrust, Court Cases
+Opportunity Industry Concentration (+)
+Hay and Kelley (1974) Opportunity Industry Concentration(+) 65 Cases Not Specified Antitrust, Court Cases
+Fewness of Numbers (+)
+Product Homogeneity (+)
+Staw and Szwajkowski Motive Industry Profit (-) 105 Cases Z-statistic Unfair Trade, Court
+(1975)
+Firm
+Profit
+(-)
+Cases
+Firm Profit per Industry (0)
+Asch and Seneca Motive Firm Profit(-) 101 Firms Regression Antitrust, Court Cases
+(1976)
+Firm
+Size
+(+)
+Industry Concentration (?)
+Clinard et al. (1979)** Motive Firm Profit (-) 582 Firms Stepwise Administrative,
+Industry Profit (-) Regression Environmental,
+Firm
+Firm
+Growth
+Labor
+Rate
+(0)
+Intensity
+Financial,
+(+)
+Labor,
+Manufacturing,
+Unfair Trade, Court
+and Agency
+Cases***
+Opportunity Greater Market Power (-)
+Diversification (0)
+Capital Invested Abroad (-)
+Firm Size (0)
+Simpson (1986) Motive Firm Profit (0) 52 Firms Time Series Antitrust, Court Cases
+Industry Profit (-) Analysis/
+Stock
+Price
+(+)
+Regression
+Unemployment (+)
+Cochran and Nigh Motive Firm Profit (-) 434 Firms Regression Clinard et al. Data,
+(1987)
+Industry
+Profit
+Firm
+(0)
+Serious
+Liquidity
+(0)
+Violations
+Only
+Opportunity Firm Size (+)
+Firm Diversification (0)
+Firm Growth (+)
+Firm Multinationality (0)
+Mathews (1987) Choice Ethical Codes (0) 485 Firms Regression Consumer, Court and
+Agency Cases
+Environmental, Court
+and Agency Cases
+Dalton and Kesner Opportunity Firm Size(+) 384 Firms Contingency Unfair Trade, Court
+(1988)
+Analysis
+Cases
+630 ORGANIZATION SCIENCE/VOl. 8, NO. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Table 1 Continued
+Predictor
+Statistical
+Study Category Hypothesis Sample Technique Illegality Type
+Baucus and Near Motive Firm Profit (0) 141 Cases Event History Product Liability, Court
+(1991)
+Low
+Firm
+Slack
+(0)
+Analysis/
+Cases
+Scarce Environment (?) Stepwise
+Regression
+Opportunity Heterogenous Environment (0) Antitrust, Court Cases
+Firm
+Size
+Dynamic
+(+)
+Discrimination,
+Environment
+(+)
+Court
+Cases
+Industry (+)
+Choice Prior Violations (+)
+Hill et al. (1992) Motive Firm Profit (0) 174 Firms Regression OSHA, Court and
+Agency Cases***
+Opportunity Firm Size (0/+) Environmental,
+Firm
+Diversification
+(0)
+Court
+Cases***
+Decentralization (0)
+Choice Evaluation Criteria (+)
+Incentive Systems (0)
+*The well-known case/industry studies of Leonard and Weber (1970), Sonnenfeld and Lawrence (1978), Waters (1978), and Vaughn (1983)
+are not included in the table because they did not involve the testing of specific hypotheses.
+**Because the Clinard et al. study was so extensive, only the general findings are reported. Several of the hypotheses tested produced
+exceptions for a particular violation type.
+'This study used a proportionate violation measure.
+HYPOTHESIS lOa. The relationship between industry strength of first-order interactions between motive and
+concentration and corporate illegality is weakened by a opportunity variables. In light of the eight interactions
+stronger ethical climate. between motive and opportunity specified in H8a through
+HYPOTHESIS lOb. The relationship between organi-
+zation size and corporate illegality is weakened by a
+stronger ethical climate.
+H8h, we assessed the following hypotheses.
+HYPOTHESIS 1 la. Stronger ethical climate attenuates
+the interactive effect of industry profitability and industry
+HYPOTHESIS 10c. The relationship between struc-
+tural complexity and corporate illegality is weakened by
+a stronger ethical climate.
+HYPOTHESIS lOd. The relationship between organi-
+zational decentralization and corporate illegality is
+weakened by a stronger ethical climate.
+Considered together, the statements of Coleman
+concentration on illegality.
+HYPOTHESIS 1 lb. Stronger ethical climate attenuates
+the interactive effect of organizational profitability and
+industiy concentration on illegality.
+HYPOTHESIS 1 ic. Stronger ethical climate attenuates
+the interactive effect of industry profitability and orga-
+nization size on illegality.
+(1987), Vaughn (1982), and Finney and Lesieur (1982) HYPOTHESIS 1 l d. Stronger ethical climate attenuates
+also support speculation about our three-way model, that the interactive effect of organizational profitability and
+is, that the influence of opportunity and motive might be organization size on illegalitv.
+altered by the presence and effects of choice. If this
+speculation is correct, ethical climate should exert im-
+portant second-order effects on interactions between mo-
+tive and opportunity. In particular, in a manner reflecting
+the attenuating effects hypothesized to occur in zero- and
+HYPOTHESIS 1 le. Stronger ethical climate attenu-
+ates the interactive effect of industry profitability and
+structural complexity on illegality.
+HYPOTHESIS 1 lf. Stronger ethical climate attenuates
+first-order relationships, second-order effects exerted by the interactive effect of organizational profitability and
+choice (ethical climate) seem most likely to affect the structural complexity on illegality.
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+631MARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+HYPOTHESIS 11g. Stronger ethical climate attenu-
+ates the interactive effect of industry profitability and or-
+ganizational decentralization on illegality.
+HYPOTHESIS 1 lh. Stronger ethical climate attenu-
+ates the interactive effect of organizational profitability
+and organizational decentralization on illegality.
+(the usual period required to process and publicize a vi-
+olation ranges from about one month to two years).
+Environmental violations are under the jurisdiction of
+two federal agencies, the Environmental Protection
+Agency (EPA) and the U.S. Coast Guard. The EPA has
+four major functions; it administers federal environmental
+laws, sets standards, ensures compliance, and performs
+Thus far, Hill et al. (1992) are the only researchers to supportive research (Steiner and Steiner 1988). The
+have tested interaction hypotheses, and they found no agency oversees the following major areas of legislation:
+support for the presence of higher-order relationships. Be- air quality, water quality, solid and toxic waste disposal,
+cause of the absence of additional empirical evidence, toxic chemicals, radiation, and noise pollution. Our study
+further grounding seems necessary before meaningful included all enforcement actions under the jurisdiction of
+conclusions can be reached about interaction effects. To the EPA.
+provide this empirical grounding, we considered addi- The U.S. Coast Guard is responsible for maritime law
+tional evidence about the main effects exerted by covar- enforcement. Among its responsibilities is the control and
+iates acting as sources of motive, opportunity, or choice, prevention of water pollution. The agency monitors
+but also examined the possibility that interactions among dumping and spills from vessels and the release of pol-
+motive, opportunity, and choice variables might have sta- lutants into the water from land-based companies. Our
+tistically significant effects beyond those attributable to study included only violations committed by land-based
+zero-order relationships. companies.
+After deciding that a violation has taken place, an
+agency can initiate administrative, civil, or criminal pro-
+Method ceedings against a company. Seven enforcement out-
+To begin analysis, we first needed an operational defini- comes are possible: warnings, recalls, agency and court
+tion of corporate illegality. Prior research has provided orders, injunctions, monetary fines, and criminal prose-
+several alternatives, as researchers have examined such cution of officers. Most studies of corporate illegality
+illegal activities as antitrust violations (Clinard et al. have used only court cases, which reflect civil and crim-
+1979, Simpson 1986), various other unfair market prac- inal enforcement proceedings. Commonly accepted defi-
+tices (Hay and Kelley 1974, Staw and Szwajkowski nitions of corporate illegality, however, specify that it in-
+1975), OSHA violations (Hill et al. 1992), and employ- volves any action punishable by administrative, civil, or
+ment discrimination (Baucus and Near 1991). We con- criminal law (Clinard et al. 1979, Reiss and Biderman
+sidered each of those alternatives, but ultimately decided 1980, Schrager and Short 1978, Yeager 1986). Therefore,
+to focus our attention on violations of U.S. environmental our study included administrative, civil, and criminal vi-
+laws. Choosing to study environmental violations enabled olations.
+us to add further generalizability to the growing body of Like all research on corporate illegality, our study used
+knowledge about corporate illegality, because few studies a measure of illegality that reflected only violations that
+have addressed environmental laws. Environmental vio- had been detected and reported publicly. Hence, the vi-
+lations also seemed an attractive operational definition olation counts assessed in our analyses were probably un-
+because of the public availability of data about relevant derstated, possibly increasing the conservatism of our
+indictments and convictions, coupled with the fact that analyses and statistical conclusions. Clinard et al. (1979)
+environmental laws are among the ones most frequently estimated that such understatement may approach 25% to
+violated by U.S. firms.
+33% of the actual level of illegality. However, as Clinard
+In deciding on this operational definition, we chose to and Yeager (1980) maintained, there is no reason to sus-
+collect data on violations that had occurred during the pect that undetected violations differ in make-up from
+five-year period from 1983 through 1987. By collecting ones that are detected. If this is true, understatement is
+data on five years of occurrences, we were able to en- unlikely to create major systematic biases in research
+hance variation in our criterion variable relative to that such as ours.
+which would have been captured in a study of shorter
+duration. Moreover, by ending our period of observation Sample
+in 1987, five years before the date of initial data analysis, Focusing on violations of environmental laws necessarily
+we were able to compensate for typical lags in the pub- restricted our sampling activities to the population of pub-
+lication of information about environmental violations licly held manufacturing companies located in the United
+632
+ORGANIZATION SCIENCENVol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+States, because environmental laws are generally aimed of 80. Assessment of size, as measured by number of
+at curtailing pollution produced by manufacturing opera- employees, showed that larger firms were more likely to
+tions, and public ownership necessitates the open disclo- respond to our questionnaires. However, assessment of
+sure of otherwise unavailable information about several industry and proportionate number of violations did not
+of the variables included in the study. To assemble our reveal evidence of differences that might produce serious
+sample we consulted the 1988 edition of Ward's Business response bias.
+Directory, which provides an annual listing of the largest
+1,000 public corporations in the United States. We nar- Use of Key Informants
+rowed the list by removing all non-manufacturing orga- We used a combination of survey and archival data in
+nizations (companies whose primary SIC code was out- constructing measures of our independent variables. In
+side the 2,000-3,999 classification). Next, we eliminated gathering questionnaire information on some of the
+companies that had changed to private ownership and organization-level covariates, we used key (single) in-
+companies that had been absorbed by another firm during formants rather than corroborative (multiple) informants.
+the 1983-1987 period. Finally, we also removed com- By definition, informants, whose role is to report on or-
+panies whose activities were particularly dispersed (i.e., ganizational (or other aggregate) processes, events, and
+less than 50% of the firm's business was conducted by outcomes, differ from respondents, who are providers of
+the parent organization or a single subsidiary) because information about personal feelings, opinions, and behav-
+dispersion made it impossible to track violation data with iors. Accordingly, respondents should be sampled ran-
+acceptable accuracy. The final sample consisted of 359 domly, to catch variance in the responses of a represen-
+organizations. tative sample of individuals, whereas informants should
+Within a one-month period, two different question-
+be sampled according to expertise, with more expert in-
+naires were sent to key informants in each of the 359 dividuals being preferred over less knowledgeable alter-
+organizations. One survey measured ethical climate and natives (Seidler 1974).
+was sent to a key informant in the human resource de- Among informants, another important consideration is
+partment. For this survey, informants' names were ac- the type of question being asked and information being
+quired from annual reports and several human resource requested (e.g., Pennings 1973, Sathe 1978). Question-
+directories. A second key informant received another naire procedures ask informants for their perceptions of
+mailed questionnaire that asked for information about or opinions about organization-level phenomena, typi-
+structural complexity and decentralization. These names cally by using Likert agree-disagree items to elicit re-
+were obtained from the executives and officers section of sponses. Multiple informants should be polled to ensure
+1987 annual reports. A measurement appendix of the the collection of a representative cross section of expert
+items in these questionnaires can be obtained from the opinions (Kumar et al. 1993). Institutional procedures
+(which can involve questionnaire administration, despite
+authors.
+We used separate questionnaires for three reasons.
+contrary connotations) ask informants to report specific
+First, both surveys were quite long, and combining them facts or demographic information, for instance, the num-
+into one questionnaire would have resulted in an instru- ber of years a firm has been in business or the number of
+ment of formidable length. Second, collecting data from levels in an organization's hierarchy. Here it is more im-
+multiple sources eliminated common-source artifacts that portant to identify the most expert individuals and limit
+might otherwise have distorted our findings (Crampton data collection procedures accordingly. If one individual
+and Wagner 1994). Third, the two questionnaires sought is clearly more expert than others, or if several individuals
+substantially different types of information, and we rea- have precisely the same sort of expertise, sampling can
+soned that different people would be most able to provide be limited to a single key informant (Heide and John
+accurate responses. In case our identification of key in- 1990, Provan and Skinner 1989). Our use of institutional
+formants proved faulty, each survey was preceded by a measures to collect factual information justified our use
+written request that it be forwarded to a more qualified of single key informants.
+Table 2 summarizes salient characteristics of the key
+expert if necessary.
+Informants in 121 firms (34%) returned completed, us-
+informants who provided data for the study. In most in-
+able ethical climate questionnaires, and informants in 207 stances, top managers completed the structure question-
+firms (58%) returned completed, usable structure ques- naire and human resource personnel completed the ethical
+tionnaires. The number of firms with complete responses climate questionnaire. However, differences in rank and
+to both questionnaires was 81 (23%), from which we function are evident among the informants who re-
+dropped one extreme outlier and created a final sample sponded to each questionnaire. Apparently, the locus of
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+633MARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Table 2 Characteristics of Key Informants and Violation Frequency by Sample
+Initial Returns Final Sample
+Structure Ethics Structure Ethics
+Questionnaire Questionnaire Questionnaire Questionnaire
+Characteristic
+Organizational
+Official
+(n
+Tenure
+=
+207)
+(n
+(years)
+=
+120)
+19.5
+(n
+=
+14.6
+80)
+(n
+18.4
+=
+80)
+16.2
+Title
+President, Executive, Group or Senior VP; Corporate Officer 43% 3% 35% 4%
+Vice
+President
+Executive
+HR
+Director
+or
+38%
+Manager
+General
+Counsel
+Ethics
+Other
+Number
+or
+25%
+Director
+-
+11%
+Attorney
+-
+13%
+Violations
+relevant expertise differed among organizations, and
+22%
+16%
+Specialist
+of
+36%
+6%
+-
+-
+20%
+4,130
+20%
+11%
+16%
+7%
+27%
+9%
+-
+-
+17%
+8%
+13%
+1,731
+the number of violations per firm by firm size (number
+many initial recipients followed our suggestion to for- of employees) to conform with measurement suggestions
+ward our questionnaire to someone more expert than by Clinard et al. (1979) and Hill et al. (1992). This pro-
+themselves.
+cedure produced two criterion variables for each of our
+sample firms: the number of serious violations per 1,000
+Measures
+Corporate Illegality. We obtained information about
+enforcement actions from government documents and
+1OK reports. To acquire government documents, we sent
+Freedom of Information requests to the Environmental
+Protection Agency (EPA) and the U.S. Coast Guard En-
+vironmental Division. Both furnished extensive printouts
+of all enforcement actions that had taken place between
+1983 and 1987.
+The second source of data about environmental viola-
+tions, corporate 10K reports, was requested and obtained
+by mail from firms that responded to both of our ques-
+tionnaires. The 1OK reports proved to be especially useful
+in providing verification of environmental cases that
+ended in litigation.
+From those two sources of data, we identified 5,080
+violations attributable to our initial sample, 4,130 attrib-
+employees and the number of nonserious violations per
+1,000 employees.
+Industry Profitability. Using data obtained from Dun
+and Bradstreet's Industry Norms and Key Business Ra-
+tios, we measured industry profitability as the five-year
+(1983-1987) average return on assets for the four-digit
+SIC industry in which the firm did the largest share of its
+business.
+Firm Profitability. Using annual reports and Dun and
+Bradstreet data, we calculated firm profitability as the dif-
+ference between a firm's average return on assets (ROA)
+and its industry's average ROA during the five year pe-
+riod (1983-1987). This approach controlled for differ-
+ences among industries that might otherwise have con-
+tributed to exogenous variation in our profitability
+measure.
+utable to firms that returned one or both of our question- Industry Concentration. Our measure of industry
+naires, and 1,731 attributable to the 80 organizations in- concentration was based on data published by the Bureau
+cluded in our final sample. Of the 1,731 enforcement of the Census and employed the Herfindahl-Hirshman in-
+actions against the firms in our final sample, 1,575 were dex, a figure calculated by squaring and summing the
+administrative actions and 156 were court proceedings. market shares of the 50 largest firms in an industry.
+We designated the court proceedings as serious violations Organization Size. Using data from annual reports
+and the administrative cases as nonserious violations (this and Moody's Industrial News Reports, we measured or-
+differentiation of degree is consistent with conceptual dis- ganization size as the average sales (in millions) for each
+cussions by Clinard et al. (1979), Finney and Lesieur firm during the period 1983-1987. This measure captured
+(1982), and other experts on illegality). We then stan- prospective differences in resource flows and availability
+dardized both types of violation data by proportionalizing discussed in the literature on illegality and enabled us to
+634
+ORGANIZATION SCIENCENVol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+consider a size covariate despite our decision to stan-
+manufacturing processes are more polluting than others,
+dardize our illegality measures (with an employee mea- and that environmental violations would therefore cluster
+sure of size). in some industries rather than being evenly distributed
+Structural Complexity. Four questions on our struc- across industries. An examination of our proportionate
+tural questionnaire asked for information about vertical violation measures seemed to affirm this possibility. To
+differentiation, horizontal differentiation, and spatial dif- control for potential industry effects, we constructed a
+ferentiation. We verified as many of these responses as measure to designate an industry as a high violator. First,
+possible by comparing them with information obtained we averaged the size-proportionate numbers of violations
+from lOKs, which contain details about number of sites (combining both serious and nonserious violations)
+and divisions. We then added the responses about the across the entire collection of 80 firms in our sample to
+three types of differentiation together to yield a complex- produce an overall mean. Next, we clustered the 80 firms
+ity index for each organization (Hall 1991, Price and into industry groups based on two-digit SIC codes. Then,
+Mueller 1986).
+within each two-digit industry group, we compared each
+Decentralization. Data about the degree of decentral-
+member firm's size-proportioned number of violations
+ization were collected with a questionnaire adaptation of with the overall (sample-wide) mean. We designated as
+the interview schedule used in the initial Aston study of high-violation industries those industry groups in which
+structure (Pugh et al. 1968). Forty-six questions asked more than half the member firms had violation levels
+informants to report the lowest hierarchical level respon- above the overall mean. Using this approach, we found
+sible for making various kinds of decisions. Informants the paper, chemical, petroleum, and primary metals in-
+registered their answer to each question on a six-point dustries to be atypically high violators. We factored out
+scale (nonmanagerial employee = 0, nonmanagerial staff these effects by using a dummy variable (0, 1) that scored
+= 1, lower management = 2, middle management = 3, 1 for any firm in SIC codes 26, 28, 29, or 33. Although
+top management = 4, CEO = 5, board = 6). Responses less complete in effect than entering a dummy variable
+were added together, yielding a range of possible cen- for each of the industries in our sample, this approach
+tralization scores of 0 to 276. Summed scale scores were enabled us to correct for major industry differences with-
+then reversed to yield a measure of decentralization such out consuming a large number of statistical degrees of
+that larger numbers indicated higher decentralization. freedom.
+Items in this scale produced an alpha coefficient of 0.81. Table 3 reports the means, standard deviations, and in-
+Ethical Climate. Data about ethical climate were ob- tercorrelations for the variables included in our study. Be-
+tained by a 47-item mailed questionnaire based on the cause our questionnaires measuring covariates were
+ethical practices questionnaire developed by Bentley Col- mailed and answered after 1987 but our criterion variable
+lege's Center for Business Ethics. The 47 items yielded measurement spanned the time period 1983 through
+a total possible score ranging from 0 to 65. We interpreted 1987, our questionnaires contained three questions to
+higher scores on the 65-point scale as indicative of help us assess potential temporal artifacts that might un-
+stronger levels of ethical climate. Items in this scale pro- dermine cross-sectional conclusions. The structure ques-
+duced an alpha coefficient of 0.80. tionnaire had two questions that asked whether the infor-
+Industry Control. It is logical to assume that some
+mant's firm had significantly changed its hierarchical
+Table 3 Means, Standard Deviations, and Intercorrelations of Major Variables
+Variable
+Mean
+SD
+1
+2
+3
+4
+5
+6
+7
+8
+1. Serious Violations 0.08 0.12
+2. Nonserious Violations 0.94 1.72 0.33
+3. Industry Profitability 6.79 4.23 -0.23 -0.26
+4. Organizational Profitability 0.15 7.32 0.42 0.04 -0.40
+5. Industry Concentration 830 694 - 0.16 -0.12 - 0.16 - 0.07
+6. Organization Size 6,147 13,450 -0.05 - 0.02 - 0.22 0.11 0.35
+7. Structural Complexity 75 57 -0.07 -0.14 0.03 -0.02 0.10 0.39
+8. Organizational Decentralization 155 17 0.24 - 0.02 - 0.12 0.15 0.07 -0.13 -0.12
+9. Ethical Climate 25 14 -0.23 -0.10 -0.09 0.07 0.07 0.20 0.23 -0.16
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997 635
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+structure or its dispersion of decision making between in the manner recommended by Stone and Hollenbeck
+1983 and the date of data collection. In addition, the (1989).
+ethics questionnaire had one question that asked whether To facilitate interpretation and hypothesis assessment,
+the ethical practices and emphasis on ethics in the orga- we plotted all interactions revealed to be statistically sig-
+nization had changed between 1983 and the date of data nificant (plotting procedures consisted of forming sub-
+collection. The responses were dummy coded, with zero group samples of firms classified according to median
+representing no change and one indicating that a change splits on relevant covariate and moderator variables, com-
+had taken place, for use in determining whether timing puting a mean level of serious or nonserious illegality for
+issues might have consequential empirical effects. each subgroup, and using the subgroup means to graph
+Design and Procedure interactions as described by Kerlinger (1986)). Predicted
+first-order interactions involved changes in zero-order re-
+Our study was designed as a cross-sectional analysis that
+lationships between individual covariates and either se-
+incorporated hierarchical regression procedures, allowing
+rious or nonserious violations attributable to changes in
+us to isolate and analyze main and interaction effects rela-
+tive to the two criterion variables, serious violations and first-order moderator variables. Each plot of one of these
+nonserious violations (Cohen and Cohen 1983). Because interactions consisted of two lines, one for the zero-order
+violation data of both types were truncated at zero (37 of relationship between covariate and illegality under "low"
+the firms in our sample registered no serious violations first-order moderator conditions and the other for the
+during the five-year period, and 12 had no nonserious same zero-order relationship under "high" first-order
+violations), we employed a TOBIT regression model that moderator conditions. Within these plots, first-order mod-
+uses maximum likelihood estimation and adjusts regres- erator effects occurred as differences in the slopes of the
+sion coefficients to reflect limitations of range in the cri- two lines, with positive first-order moderation (i.e., the
+terion variable (Maddala 1982). In the two resulting hi- strengthening effect predicted in H8a through H8h) evi-
+erarchical TOBIT regressions, we entered different denced as greater slope in the line representing "high"
+categories of variables in a sequence of steps, performing first-order moderator conditions and negative first-order
+a TOBIT regression analysis at each step and observing moderation (i.e., the weakening effect predicted in H9a
+changes in explanatory power attributable to the newly and b and HlOa through d) indicated as greater slope in
+entered variables adjusted for the effects of variables en- the line representing "low" first-order moderator condi-
+tered in prior steps. Entered in the first step were the tions (Cohen and Cohen 1983, Neter et al. 1985).
+dummy variable representing industry differences plus Predicted second-order interactions involved changes
+the seven covariates (industry profitability, organizational in first-order interactions associated with changes in
+profitability, industry concentration, organization size, second-order moderator variables. Each second-order in-
+structural complexity, organizational decentralization, teraction was plotted as a series of first-order interactions,
+and ethical climate) to assess zero-order, main effects. In differentiated according to "low" versus "high" second-
+a preliminary version of this step we also entered the three order moderator conditions, and second-order moderation
+dummy variables representing the absence or presence of was assessed by examining the degree of parallelism be-
+reported changes in structure, decision making, or ethical tween the two lines in each first-order plot. In particular,
+practices to assess whether such changes contributed ar-
+negative second-order moderator effects (i.e., the atten-
+tifactual effects attributable to the temporal issues dis-
+uation predicted in H1 la through h) were evidenced by
+cussed previously (after finding null effects, we removed
+greater parallelism (therefore, a weaker first-order effect)
+these three variables to reduce the complexity of our
+in the first-order interaction plotted under "high" second-
+model and control the loss of statistical degrees of free-
+order moderator conditions (Kerlinger 1986, Neter et al.
+dom). Next, in the second step of each hierarchical anal-
+1985). No positive second-order moderator effects were
+ysis, eight (motive X opportunity), two (motive X
+posited, although such effects would have been indicated
+choice), and four (opportunity X choice) interactions
+by greater parallelism in the first-order interaction plotted
+were entered to capture the effects of empirically relevant
+first-order interactions. Then, in a third step, eight (motive
+under "low" second-order moderator conditions.
+X opportunity X choice) interactions were entered to
+analyze second-order interaction effects. In this way,
+main effects were appraised without partialling out the Results
+effects of interactions, but interaction effects were as- The preliminary dummy variable analysis failed to pro-
+sessed only after partialling out the influence of main ef- duce statistically significant results, indicating that
+fects (and lower-order interaction effects, as necessary), changes in structure, decision making, and ethical climate
+636
+ORGANIZATION SCIENCE/VOl. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+that reportedly occurred in the organizations in our sam- the two types of R2 statistics yield comparable informa-
+ple during the time period captured in our measure of tion about the relative significance of changes in explan-
+illegality had no discernible effects. The dummy variables atory power that occur from one hierarchical step to the
+therefore were eliminated and temporality issues were not next. Instead of using an F test to assess the statistical
+significance of these changes in pseudo R2, TOBIT pro-
+considered further.
+The results of our hierarchical TOBIT analyses of se-
+cedures normally incorporate a chi-square test that as-
+rious and nonserious violations are reported in Tables 4 sesses whether the observed change departs from that at-
+and 5, respectively. Owing to our use of TOBIT proce- tributable to chance. Thus, our tables report the results of
+dures, each of the R2 statistics is a McFadden's pseudo
+R2, calculated by dividing the relevant constrained like- given in the tables are unstandardized weights, and t-tests
+chi-square analyses of changes in pseudo R2. Coefficients
+lihood function by the associated unconstrained likeli- are of the statistical significance of individual coeffi-
+hood function and then subtracting the result from one. cients.
+Compared to the familiar R2, the pseudo R2 grossly As indicated in Table 4, chi-square tests verified that
+understates the amount of variance in the criterion vari- all three hierarchical steps in our TOBIT analysis of
+able explained by the collection of covariates. However, serious violations produced statistically significant
+Table 4 TOBIT Hierarchical Regression Analysis: Serious Violations with Main Effects, First-order, and Second-order
+Interactions
+Step Pseudo R2 AR2 Chi Square Change Variable Coeff. T-test
+1.
+0.08**
+-
+-
+Industry
+(Control
+Variable)
+0.156069
+3.38**
+Industry Profitability (IP) -0.003045 -0.56
+Organizational Profitability (OP) 0.007695 2.82**
+Industry Concentration (IC) 0.000016 0.52
+Organization Size (OS) 0.000000 0.07
+Structural Complexity (SC) 0.000206 0.57
+Organizational Decentralization (OD) 0.001149 1.00
+Ethical Climate (EC) - 0.001103 -0.79
+2.
+0.19**
+0.11
+61.10**
+IP
+x
+OP
+OS
+OP x OS
+x
+IP
+OP
+IP
+x
+OP
+IC
+0.07
+84.58**
+IP
+x
+-0.11
+-0.07
+0.000198
+OD
+EC
+x
+-0.47
+-0.000008
+OD
+x
+0.73
+0.000000
+-0.000011
+SC
+x
+-0.77
+0.000000
+-
+SC
+x
+-0.87
+-0.000003
+x
+IP
+0.26**
+-0.000006
+IC
+IP
+OP
+3.
+IC
+x
+0.59
+0.000333
+-0.000263
+EC
+EC
+1.20
+-0.62
+0.000017
+0.000005
+0.04
+2.30*
+OS x EC -0.000000 -0.38
+SC x EC -0.000004 -0.19
+OD x
+x
+IC
+OP
+IP
+x
+OP
+IP
+OP
+IP
+OP
+x
+x
+x
+x
+IC
+x
+SC
+OD
+OD
+EC
+x
+x
+x
+x
+EC
+EC
+2.26*
+3.43**
+0.000003
+-0.000031
+EC
+2.11*
+0.000001
+0.000004
+EC
+EC
+x
+-3.38**
+0.000001
+EC
+x
+OS
+SC
+-0.000265
+EC
+OS
+x
+x
+EC
+x
+2.52*
+-2.37*
+-0.000018
+-0.000052
+-0.000006
+-1.33
+-2.18*
+-0.43
+*p 0.05.
+**p 0.01.
+ORGANIZATION SCIENCE/VOl. 8, No. 6, November-December 1997 637
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Table 5 TOBIT Hierarchical Regression Analysis: Nonserious Violations with Main Effects, First-order, and Second-order
+Interactions
+Step Pseudo R2 AR2 Chi Square Change Variable Coeff. T-test
+1.
+0.07**
+-
+-
+Industry
+(Control
+Variable)
+1.576050
+3.36**
+Industry Profitability (IP) -0.096391 -1.75
+Organizational Profitability (OP) - 0.010110 - 0.73
+Industry Concentration (IC) 0.000094 0.77
+Organization Size (OS) 0.000001 0.10
+Structural Complexity (SC) - 0.003893 - 1.04
+Organizational Decentralization (OD) - 0.007701 - 0.65
+Ethical Climate (EC) -0.003785 -0.26
+2.
+0.09**
+0.02
+26.50
+IP
+x
+OP
+IP
+IP
+x
+OP
+0.02
+32.04
+IP
+OD
+x
+IP
+0.11**
+SC
+x
+OP x EC
+IC x EC
+OS x EC
+SC x
+x
+x
+IC
+OP
+IP
+OP
+IP
+x
+x
+OP
+IP
+x
+OP
+x
+-0.26
+-0.001264 -0.27
+0.000014
+-0.000001
+OS x
+x
+SC
+OD
+OD
+0.49
+-0.44
+0.000195
+-0.001133
+x
+x
+-0.15
+-0.001410
+EC
+OS
+SC
+x
+-0.23
+-0.16
+EC
+IC
+x
+0.97
+-0.000346
+EC
+x
+x
+0.26
+0.001210
+-0.000476
+EC
+OD
+0.84
+0.000003 -0.000652
+OD
+x
+0.66
+-0.01
+0.000011
+OS
+SC
+x
+IP
+-0.000000
+OS
+x
+OP
+0.000061
+IC
+x
+OP
+3.
+IC
+x
+0.58
+-1.14
+0.000007
+EC
+EC
+EC
+EC
+0.60
+-0.000001
+0.000000
+-0.19
+0.22
+-0.000003 -1.51
+-0.000127 -0.66
+x EC 0.000270 1.37
+x EC 0.000168 0.50
+0.000130 0.58
+x
+EC
+*p 0.05.
+**p 0.01.
+increases in explained effects. In the first hierarchical
+interactions, shown in Figure 1, support HlOa and HiOd:
+step, t-tests of the main effects of the seven covariates stronger ethical climate attenuated the effects of industry
+indicated that organizational profitability, a motive factor, concentration and decentralization, respectively (num-
+formed a positive, statistically significant association with bers reported in the plots are subgroup means on our pro-
+corporate illegality, in contrast to the negative relation- portional measure of serious illegality). The plot in Figure
+ship proposed in Hi. A t-test of the effects of our industry 1B also reveals evidence of a positive zero-order rela-
+control variable also showed evidence of a positive, sta- tionship between decentralization and illegality under
+tistically significant relationship. No other statistically conditions characterized by a weak ethical climate, pro-
+significant zero-order relationships were detected. viding limited evidence consistent with H6. However, the
+The second hierarchical step of our analysis of serious plot in Figure 1A indicates negative zero-order relation-
+violations, which assessed the 14 first-order interactions ships between industry concentration and illegality under
+designated in H8a through H1Od, indicated that two of conditions of both weak and strong ethical climate, in
+the 14 interactions, those between industry concentration contrast to the positive association predicted in H3.
+and ethical climate and between decentralization and eth- Results of the third hierarchical step of the TOBIT re-
+ical climate, were statistically significant. Plots of these gression analysis of serious violations indicated that six
+638
+ORGANIZATION SCIENCE/VOl. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Figure 1 Plots of First-order Interactions: Serious Violations organizational decentralization X ethical climate, pro-
+A. Industrial Concentration (IC) x Ethical Climate (EC) vide evidence that stronger ethical climate attenuated
+first-order interactions, thus supporting H llb and H 1g.
+In addition, in all six plots, stronger ethical climate gen-
+High
+erally attenuated the main effects of motive and oppor-
+tunity factors as implied by H lla through Hl le and
+H1 lg.
+.136
+In contrast to these generally supportive findings, the
+results of our hierarchical TOBIT analysis of nonserious
+0)
+violations, shown in Table 5, indicated that only the first
+step produced statistically significant increases in explan-
+.077
+.045
+Low EC
+Low
+High
+Low
+EC
+.040
+High
+Industry Concentration
+atory effect, and that this outcome could be attributed
+directly to the industry control variable included in this
+step of the analysis. For instances of nonserious corporate
+illegality, then, none of our hypotheses are supported.
+Discussion
+In a hierarchical design such as ours, analysis at each step
+incorporates as control factors all variables entered during
+B. Org'l Decentralization (OD) x Ethical Climate (EC)
+prior steps and establishes contingency conditions that
+bound the effects of lower-order relationships. For these
+reasons, it is often suggested that interpretation of ob-
+served effects should focus primarily on the results of the
+High
+final hierarchical step that shows evidence of overall sta-
+.128
+Low EC
+tistical significance (e.g., Cohen and Cohen 1983,
+Kerlinger 1986). Not coincidentally, the final statistically
+significant step in our analysis of serious violations con-
+co
+cerned the second-order interactions between motive, op-
+a)
+portunity, and choice covariates specified in our three-
+.061
+.055
+way model of corporate illegality. Hence, we focus our
+-
+Low
+Low
+High
+EC
+.042
+High
+Org'l Decentralization
+discussion on the six interactions shown in this step to be
+statistically significant.
+Considering first the zero-order relationships within
+these interactions, we see in Table 6 that the main effects
+of each of the seven covariates may be either positive or
+negative, depending on the contingent effects of other
+interacting variables. Industry profitability, organiza-
+tional profitability, and ethical climate appear to have the
+of the eight second-order interactions between motive,
+opportunity, and choice factors were statistically signifi-
+cant. As reported in Table 4, these interactions included hypothesized zero-order effects more often than not,
+those between industry profitability, industry concentra- often as they support them, and industry concentration
+tion, and ethical climate; organizational profitability, and organization size tend to form relationships with il-
+structural complexity and decentralization form relation-
+ships with illegality that oppose hypothesized effects as
+industry concentration, and ethical climate; industry prof- legality opposite those predicted in our zero-order hy-
+itability, organization size, and ethical climate; organi- potheses. In general, however, with the exception of or-
+zational profitability, organization size, and ethical cli-
+mate; industry profitability, structural complexity, and
+ethical climate; and industry profitability, decentraliza- zero-order relationships between corporate illegality and
+tion, and ethical climate. Plots of the six interactions, in- that our study does not provide evidence of the sort of
+ganization size, no clear picture emerges of any of the
+the seven covariates. This finding leads us to conclude
+cluding the plots in Figure 2, indicate that two of the noncontingent zero-order effects necessary to accept Hi
+interactions, organizational profitability x industry con- through H7 as unequivocal predictions of empirical ef-
+centration X ethical climate and industry profitability x fects. In turn, this conclusion implies that the finding of
+ORGANIZATION SCIENCE/VOl. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+639MARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Figure 2 Plots of Second-order Interactions: Serious Violations
+E.
+A. Industry Profitability (IP) x Industry Concentration (IC) x Ethical Climate
+(EC) Industry
+Profitability
+(IP
+Weak Ethical Climate Strong Ethical Climate
+Weak Ethical Climate Strong Ethical Climate
+High
+High
+.163
+.147
+2:1 ~~~~~~~~~~~~~~.136
+.19
+a\
+.113
+Low IC
+Lowac
+.013 High SC
+.070
+.044
+Low
+.046
+Low
+High
+.043
+High
+IC
+037
+High
+Low
+IC
+Low
+.037 ~~~~~~.027
+Low
+High
+Industry
+B.
+IC
+Low
+High
+.036
+1
+Low
+Low
+High
+SC
+.034
+High
+Industry
+Profitability
+Organizational
+.039
+Profitabili
+F. Industry Profitability (IP) x Org'l
+Decentralization x
+(OD) x Ethical
+Climate (EC)
+Profitability
+(OP)
+Industry
+Weak Ethical Climate Strong Ethical Climate
+Co
+Weak Ethical Climate Strong Ethical Climate
+.193
+Low IC
+High
+High
+.140
+High CZ
+ao
+Low
+a .074
+.1
+.102
+IC
+it
+_
+.080
+.07
+Low
+High
+IC High
+IC
+.028
+.030
+Low
+High
+Low
+Low
+.. 0 Low CZ
+Low
+Low
+High
+Organizational
+CZ
+High
+.030
+High
+Low
+CZ
+.022
+High
+Organizational Profitability
+Profitability
+the first step of our analysis, namely, the unexpected posi-
+C.
+Industry
+tive relationship between organizational profitability and
+serious violations,
+is a x
+consequence
+of higher-order con-
+Profitability
+(IP)
+Organizational
+Weak Ethical Climate Strong Ethical Climate
+High
+.113
+=
+08
+.116
+.0987 Low OS
+High High OS
+.037
+Low
+Low
+.042
+High
+Low
+Low
+.032
+High
+Industry
+D.
+High OS
+OS
+is the possibility that the zero-order associations de-
+scribed and assessed in previous research have failed to
+Profitability
+Organizational
+capture the true etiology of serious corporate illegality.
+First-order relationships
+embedded
+the six statisti-
+Profitability
+(OP)
+x in
+Organization
+Weak Ethical Climate Strong Ethical Climate
+cally significant second-order interactions are also subject
+to contingency effects, as reported in Table 7, and are
+High
+therefore ambiguous. At this order of interaction, most
+interpretive ambiguity grows out of disordinality, signi-
+.135
+Lo WOS
+0)
+_118High
+High 05
+~~~~~~~~.118
+OS
+Low
+OS
+fied in interaction plots by crossed lines. In the right-hand
+plot in Figure 2A, for instance, the effects of high industry
+profitability (in the presence of a strong ethical climate)
+.0
+Low .050 .060 .039gigh OS
+Low
+High
+Low
+High
+Organizational
+640
+S
+tingencies and thus fails to characterize fully the true ef-
+fects. It also supports the more general suggestion that
+the various zero-order effects discovered in prior research
+on corporate illegality, which have differed markedly
+from one study to another, probably originated in unex-
+amined higher-order relationships. The implication is that
+these higher-order relationships may well be the origin of
+heretofore unexplained interstudy variation. Also implied
+both depress and enhance the effects of industry concen-
+tration because of the disordinal relationships between
+on the one hand and
+Profitability
+low and high industry concentration
+ORGANIZATION SCIENCENVOl. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Table 6 Contingent Zero-order Effects in Second-order Interactions: Serious Violations
+Hypothesized
+Hypothesis Covariate Effect Supportive Contingencies Nonsupportive Contingencies
+1 Industry Profitability Negative Low and high industry concentration High industry concentration with
+with weak ethical climate strong ethical climate
+Low industry concentration with Low structural complexity with weak
+strong ethical climate ethical climate
+Small and large organization size with
+weak and strong ethical climate
+High structural complexity with weak
+ethical climate
+Low and high structural complexity
+with strong ethical climate
+2 Organizational Profitability Negative High industry concentration with Low industry concentration with weak
+weak and strong ethical climate and strong ethical climate
+Large organization size with strong Small and large organization size with
+ethical climate weak ethical climate
+Low decentralization with weak Small organization size with strong
+ethical climate ethical climate
+Low and high decentralization with
+strong ethical climate
+3 Industry Concentration Positive High industry profitability with strong Low industry profitability with weak
+ethical climate and strong ethical climate
+Low organizational profitability with High industry profitability with weak
+strong ethical climate ethical climate
+Low organizational profitability with
+weak ethical climate
+High organizational profitability with
+weak and strong ethical climate
+4 Organization Size Positive Low and high industry profitability
+with weak and strong ethical
+climate
+Low and high organizational
+profitability with weak and strong
+ethical climate
+5 Structural Complexity Positive Low industry profitability with weak Low industry profitability with strong
+ethical climate ethical climate
+High industry profitability with strong High industry profitability with weak
+ethical climate ethical climate
+6 Organizational Positive Low and high industry profitability Low and high industry profitability
+Decentralization with weak ethical climate with strong ethical climate
+Table continues on following page.
+ORGANIZATION SCIENCE/VO1. 8, No. 6, November-December 1997 641
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Table 6 Continued
+Hypothesized
+Hypothesis Covariate Effect Supportive Contingencies Nonsupportive Contingencies
+7 Ethical Climate Negative Low industry profitability with low and High industry profitability with high
+high industry concentration industry concentration
+High industry profitability with low High organizational profitability with
+industry concentration high industry concentration
+Low organizational profitability with Low industry profitability with small
+low and high industry organization size
+concentration Low industry profitability with low
+High organizational profitability with structural complexity
+low industry concentration Low and high industry profitability
+Low industry profitability with large with low organizational
+organization size decentralization
+High industry profitability with small
+and large organization size
+Low and high organizational
+profitability with small and large
+organization size
+Low industry profitability with high
+structural complexity
+High industry profitability with low
+and high structural complexity
+Low and high industry profitability
+with high organizational
+decentralization
+serious corporate illegality on the other. Disordinality of Second-order effects are considerably less vague be-
+this sort characterizes nearly half of the first-order inter- cause, as indicated in Figure 2, in every instance of sta-
+actions subsumed within the six statistically significant tistically significant interaction, ethical climate reduces
+three-way relationships. Nevertheless, amid the ambigu- first-order associations between serious corporate
+ity we can discern three general trends. First, interaction illegality and the relevant pairings of motive and oppor-
+effects involving pairs of motive and opportunity covar- tunity covariates. These pairings are industry profitability
+iates are at least as likely to be negative as positive under
+the contingency conditions exerted by the second-order
+factors examined, despite predictions of positive effects
+in H8a through H8e and H8g. Second, first-order effects
+involving pairs of motive and choice covariates are some-
+what more likely to be negative than positive, in a manner
+generally consistent with the directional predictions of
+H9a and H9b. Third, interaction effects involving pairs
+of opportunity and choice covariates are mostly negative
+as predicted by HlOa through HIOd, although not always
+so. These three trends provide support for our motive-
+opportunity-choice model, primarily in the form of con-
+tingent evidence of the kinds of choice-related interac-
+and industry concentration, organizational profitability
+and industry concentration, industry profitability and or-
+ganization size (subject to the high level of illegality
+found under conditions of low industry profitability, low
+organization size, and strong ethical climate), and indus-
+try profitability and structural complexity (subject to the
+high level of illegality found under conditions of low in-
+dustry profitability, low structural complexity, and strong
+ethical climate). For instances of serious corporate ille-
+gality, general support for our three-way model of motive,
+opportunity, and choice is thus provided.
+Subject to the fact that this support is qualified (due to
+the detection of two statistically nonsignificant interac-
+tions during second-order analyses), the results of our
+tions predicted in relevant hypotheses of first-order study indicate that factors in and around organizations
+effects, but also in a sense of boundedness due to the create a motive or tension to engage in serious illegal
+failure to find evidence consistently supportive of our mo- activities. In concert with this motivation, additional fac-
+tive X opportunity predictions. tors, again both internal and external, operate to create
+642
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Table 7 Contingent First-order Effects in Second-order Interactions: Serious Violations
+Hypothesized
+Hypothesis Covariate Effect Supportive Contingencies Nonsupportive Contingencies
+8a Industry Profitability Positive High industry profitability with strong Weak ethical climate
+Industry Concentration ethical climate Low industry profitability with strong
+ethical climate
+8b Organizational Profitability Positive Low organizational profitability with Weak ethical climate
+Industry Concentration strong ethical climate High organizational profitability with
+strong ethical climate
+8c Industry Profitability Positive High industry profitability with strong Weak ethical climate
+Organization Size ethical climate Low industry profitability with strong
+ethical climate
+8d Organizational Profitability Positive Low and high organizational
+Organization
+Size
+profitability
+with
+weak
+and
+strong
+ethical climate
+8e Industry Profitability Positive Low industry profitability with weak Low industry profitability with strong
+Structural Complexity ethical climate ethical climate
+High industry profitability with strong High industry profitability with weak
+ethical climate ethical climate
+8g Industry Profitability Positive Weak ethical climate Strong ethical climate
+Organizational Decentralization
+9a Industry Profitability Negative Low industry concentration High industry concentration with high
+Ethical Climate High industry concentration with low industry profitability
+industry profitability Small organization size with low
+Small organization size with high industry profitability
+industry profitability Low structural complexity with low
+Large organization size industry profitability
+Low structural complexity with high Low decentralization
+industry profitability
+High structural complexity
+High decentralization
+9b Organizational Profitability Negative Low industry concentration High industry concentration with high
+Ethical Climate High industry concentration with low organizational profitability
+organizational profitability
+Low and high organization size
+10a Industry Concentration Negative Low industry profitability High industry profitability with high
+Ethical Climate High industry profitability with low industry concentration
+industry concentration High organizational profitability with
+Low organizational profitability high industry concentration
+High organizational profitability with
+low industry concentration
+10b Organizational Size Negative Low and high industry profitability
+Ethical Climate Low and high organizational
+profitability
+lOc Structural Complexity Negative Low industry profitability with high Low industry profitability with low
+Ethical Climate structural complexity structural complexity
+High industry profitability
+10d Organizational Negative Low and high industry profitability Low and high industry profitability
+Decentralization with high decentralization with low decentralization
+Ethical Climate
+ORGANIZATION SCIENCE/VOl. 8, NO. 6, November-December 1997 643
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+which they do business. In particular, the role of structural
+the opportunity to engage in serious illegal activities. Fi-
+nally, the ultimate effects of motive and oppoirtunity de- characteristics such as organization size, structural com-
+pend on the shaping influence of choice. In this way, se- plexity, and organizational decentralization in influencing
+rious corporate illegality is related to the interactive the incidence of serious corporate illegality might seem
+to support the draconian suggestion that organizations
+effects of motive, opportunity, and choice.
+For nonserious violations, a considerably different pic-
+found guilty of serious violations should be forced to en-
+ture emerges. Neither the motive, nor the opportunity, nor gage in massive restructuring. In a similar vein, the ef-
+the choice factors examined, considered individually or fects of industry characteristics, including profitability
+collectively, have utility as predictors of nonserious, ad- and concentration, on serious illegality might contribute
+ministrative actions. Apparently, in contrast to serious vi- to campaigns to sanction or control especially unlawful
+olations, nonserious violations do not originate in the vo- industries. However, either of those actions would ignore
+lition and intentions of violators, nor are they modified the finding that the effects of structural and industrial co-
+by violators' concerns about possible detection, nor are variates can be moderated within organizations by ethical
+they shaped by normative frameworks and sanctions (cf. interventions. A less severe action, and one that may be
+Baucus 1994). Instead, membership in an industry char- just as effective, is to anticipate the effects of industrial
+acterized by greater than average levels of illegality better and structural characteristics, and to establish strong eth-
+predicts the frequency of successful administrative ical climates in organizations before those characteristics
+charges brought against a firm. Speculation guided by the contribute to the emergence of serious illegality. Indeed,
+institutional perspective on organizations (e.g., Meyer the noticeable effects of ethical climate in the first-order
+and Rowan 1977, Meyer et al. 1981, Scott 1995) suggests and second-order interactions we investigated appear to
+that this pattern might originate more in the behaviors and
+refute the argument that developing ethical procedures in
+interests of regulators than in the intentions and activities
+organizations is a useless endeavor (Magnet 1986,
+of regulated firms. Perhaps regulatory organizations with
+Molander 1987). An ethical emphasis that incorporates
+charters to administer environmental laws confront issues
+codes, training, communication, and processes appears to
+of self-legitimation on a regular basis, and must focus
+be a feasible way of counterbalancing the effects of mo-
+efforts and attention on providing justification for contin- tive and opportunity factors.
+uation of their charters, funding, and so forth. For each Our results also have implications for researchers. Re-
+such regulator, a potent source of justification is the rec- search on corporate illegality is still in its infancy, and
+ord of successful administrative actions by its agents. much work remains to be done. With few exceptions
+Such success might be secured most easily by pursuing
+firms in industries with a record of prior convictions, as
+both incriminating physical evidence and supportive pub-
+lic perceptions would be readily obtainable. Administra-
+tive actions also avoid the costs to the regulator of court
+(e.g., Baucus and Near 1991, Clinard et al. 1979, Cochran
+and Nigh 1987, Hill et al. 1992), major studies of ille-
+gality have focused exclusively on antitrust violations and
+unfair market practices. Until researchers begin to
+broaden their analyses by investigating other types of il-
+prosecution, making them the preferred alternative for all legality-labor law infractions, employment discrimina-
+but the most publicly visible and flagrantly intentional
+cases. It follows, then, that industry membership is in
+tion, occupational safety violations, product liability, and
+consumer fraud, to name but a few possibilities-we will
+theory a significant predictor of a particular firm' s record
+not know whether the concept of corporate illegality is
+of nonserious violations due to institutional considera-
+truly unitary, and therefore explainable by a single gen-
+tions.
+It is also possible, however, that our failure to find sta-
+eral model, or a multidimensional construct requiring var-
+ied explanations. The few studies assessing more than one
+tistically significant relationships for nonserious illegality
+violation type (Baucus and Near 1991, Clinard et al.
+is a consequence of sample size limitations. Especially in
+1979, Hill et al. 1992) have found generally common pre-
+our assessments of first-order and second-order effects,
+dictors across violation types, but have also uncovered
+the 80 cases in our study afforded little in the way of
+some variation in predictors for different violation cate-
+statistical power, biasing our findings in the direction of gories. This variation provides sufficient reason to call
+statistical nonsignificance. Whether an institutional ex-
+for additional research on the dimensionality of corporate
+planation or a statistical limitation underlies our results
+illegality.
+requires further investigation.
+Our findings substantiate the importance of conducting
+multivariable research on corporate illegality. Weighing
+Implications
+the evidence from our study and others suggests that cer-
+Our results have important implications for managers of
+contemporary organizations, and for the societies in
+644
+tain forms of illegality may be explained best in terms of
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+an intricate pattern of motive, opportunity, and choice.
+Information obtained from case studies, interview anal-
+yses, and the few large-sample quantitative analyses of
+corporate illegality points to a variety of prospective
+sources of either motive, opportunity, or choice. How-
+ever, few studies have assessed combinations of these
+source variables in multivariable models of illegality, and
+ours is the first study to consolidate inquiry into the joint
+influence of zero-order, first-order, and second-order ef-
+fects. If research on organizations is to develop a
+grounded theory of dysfunction, as called for by Pondy
+and Mitroff (1979), our findings strongly suggest that it
+will be multivariable in form.
+Coleman, J. W. (1987), "Toward an Integrated Theory of White Collar
+Crime," American Journal of Sociology, 93, 406-439.
+Conklin, J. (1977), Illegal But Not Criminal, Englewood Cliffs, NJ:
+Prentice Hall.
+Crampton, S. M. and J. A. Wagner, III (1994), "Percept-Percept Infla-
+tion in Microorganizational Research: An Investigation of Prev-
+alence and Effect," Journal of Applied Psychology, 79, 67-76.
+Dalton, D. and I. Kesner (1988), "On the Dynamics of Corporate Size
+and Illegal Activity: An Empirical Assessment," Journal of Busi-
+ness Ethics, 7, 861-870.
+Donaldson, T. (1982), Corporations and Morality, Englewood Cliffs,
+NJ: Prentice Hall.
+Eckner, J. (1983), "Integrity Awareness Training for Managers," Train-
+ing and Development Journal, 37, 46-49.
+Ermann, M. and R. Lundman (1982a), "Corporate Violations of the
+Acknowledgments
+Corrupt Practices Act," in H. Edelhertz and T. Overcast (Eds.),
+Data analyzed in this study were collected for the first author's doctoral White Collar Crime: An Agenda for Research, Lexington, MA:
+dissertation. She thanks Richard Block, James Roper, and Dale Wilson Lexington Books.
+for the helpful guidance they offered during the dissertation process.
+and (1982b), Corporate Deviance, New York: Holt, Rine-
+hart and Winston.
+References
+Asch, P. and J. Seneca (1976), "Is Collusion Profitable?" Review of
+Economics and Statistics, 58, 1-12.
+Baucus, M. S. (1994), "Pressure, Opportunity, and Predisposition: A
+Multivariate Model of Corporate Illegality," Journal of Manage-
+ment, 20, 699-721.
+and J. P. Near (1991), "Can Illegal Corporate Behavior Be Pre-
+dicted? An Event History Analysis," Academy of Management
+Journal, 34, 9-36.
+Braithwaite, J. (1985), "White Collar Crime," in R. Turner and J. Short
+(Eds.), Annual Review of Sociology, Los Angeles, CA: Annual
+Reviews, Inc.
+Bromberg, W. (1965), Crime and the Mind: A Psychiatric Analysis of
+Crime and Punishment, New York: Macmillan.
+Buchholz, R. (1989), Fundamental Concepts and Problems in Business
+Ethics, Englewood Cliffs, NJ: Prentice Hall.
+Burton, J., Jr. (1966), "An Economic Analysis of Sherman Act Crim-
+inal Cases," in J. Clabault and J. Burton, Jr. (Eds.), Sherman Act
+Indictments 1955-1965: A Legal and Economic Analysis, New
+York: Federal Legal Publications.
+Byrne, J. A. (1995), "Informed Consent," Business Week, October 2,
+Feinberg, S. and B. Serlen (1988), "The Crisis in Business Ethics,"
+Corporate Accounting, 6, 36-39.
+Finney, H. C. and H. R. Lesieur (1982), "A Contingency Theory of
+Organizational Crime," in S. B. Bacharach (Ed.), Research in the
+Sociology of Organizations: A Research Annual, Greenwich, CT:
+JAI Press.
+Geis, G. (1985), "Criminological Perspectives on Corporate Regula-
+tion: A Review of Recent Research," in B. Fisse and P. French
+(Eds.), Corrigible Corporations and Unruly Law, San Antonio,
+TX: Trinity University Press.
+Goddard, R. (1988), "Are You an Ethical Manager?" Personnel Jour-
+nal, 67, 3, 38-47.
+Gooding, R. Z. and J. A. Wagner, III (1985), "A Meta-Analytic Review
+of the Relationship Between Size and Performance: The Produc-
+tivity and Efficiency of Organizations and Their Subunits," Ad-
+ministrative Science Quarterly, 30, 462-481.
+Gross, W. and S. Shichman (1987), "How to Grow an Organizational
+Culture," Personnel, 64, 52-56.
+Hall, R. H. (1991), Organizations: Structure and Process, Englewood
+Cliffs, NJ: Prentice Hall.
+Harr, J. (1995), A Civil Action, New York: Random House.
+104-116.
+Clinard, M. (1983), Corporate Ethics and Crime: The Role of Middle
+Management, Beverly Hills, CA: Sage.
+and P. Yeager (1980), Corporate Crimne, New York: Free Press.
+, J. Brissette, K. Petrashek, and E. Harries (1979), Illegal
+Corporate Behavior, Washington, DC: National Institute of Law
+Enforcement and Criminal Justice.
+Cochran, P. and D. Nigh (1987), "Illegal Corporate Behavior and the
+Question of Moral Agency," in W. Frederick (Ed.), Research in
+Hay, G. and D. Kelley (1974), "An Empirical Survey of Price Fixing
+Conspiracies," Journal of Law and Economics, 19, 13-39.
+Heide, J. B. and G. John (1990), "Alliances in Industrial Purchasing:
+The Determinants of Joint Action in Buyer-Seller Relationships,"
+Journal of Mar*eting Research, 27, 24-36.
+Herling, J. (1962), The Great Price Conspiracy, Washington, DC:
+Robert E. Luce, Inc.
+Hill, C. W. L., P. C. Kelley, B. R. Agle, M. A. Hitt, and R. E. Hoskisson
+Corporate Social Performance and Policy, Greenwich, CT: JAI (1992), "An Empirical Examination of the Causes of Corporate
+Press. Wrongdoing in the United States," Human Relations, 45, 1055-
+Cohen, A., A. Lindesmith, and K. Schuessler (1956), The Sutherland
+Papers, Bloomington, IN: Indiana University Press.
+Cohen, J. and P. Cohen (1983), Applied Multiple Regression/Corre-
+1076.
+Industry Norms and Key Business Ratios (1983-1987), New York: Dun
+& Bradstreet Credit Services.
+lation Analysis for the Behavioral Sciences, Hillsdale, NJ: Jackall, R. (1988), Moral Mazes, New York: Oxford University Press.
+Lawrence Erlbaum. Kaplan, J. (1991), "The Corporate Sentencing Guidelines: Making
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+645MARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+Compliance Programs Effective," Corporate Conduct Quarterly,
+1, 1-3.
+Reiss, A. and A. Biderman (1980), Data Sources on White-CollarLaw-
+Breaking, Washington, DC: National Institute of Justice.
+Kerlinger, F. N. (1986), Foundations of Behavioral Research, 3d ed.,
+New York: Holt, Rinehart and Winston.
+Kumar, N., L. W. Stem, and J. C. Anderson (1993), "Conducting In-
+terorganizational Research Using Key Informants," Academy of
+Management Journal, 36, 1633-1651.
+Laczniak, G. (1983), "Business Ethics: A Manager's Primer," Business,
+33, 1, 23-29.
+Riedel, M. (1968), "Corporate Crime and Interfirm Organization: A
+Study of Penalized Sherman Act Violations," Graduate Sociology
+Club Journal, 8, 74-97.
+Sanderson, G. and I. Vamer (1984), "What's Wrong with Corporate
+Codes of Conduct?" Management Accounting, 66, 28-31.
+Sathe, V. (1978), "Institutional Versus Questionnaire Measures of Or-
+ganizational Structure," Academy of Management Journal, 21,
+Lane, R. (1953), "Why Businessmen Violate the Law," Journal of
+Criminal Law, Criminology, and Police Science, 44, 151-165.
+Leonard, W. N. and M. G. Weber (1970), "Automakers and Dealers:
+A Study of Criminogenic Market Forces," Law and Society Re-
+view, 4, 407-424.
+Maddala, G. (1982), Limited Dependent and Qualitative Variables in
+Econometrics, Cambridge, UK: Cambridge University Press.
+Magnet, M. (1986), "The Decline and Fall of Business Ethics," For-
+tune, 114, 13, 65-72.
+Mathews, M. (1987), "Codes of Ethics: Organizational Behavior and
+Misbehavior," in W. Frederick (Ed.), Research in Corporate So-
+cial Performance and Policy, Greenwich, CT: JAI Press.
+Meyer, J. W. and B. Rowan (1977), "Institutionalized Organizations:
+Formal Structure as Myth and Ceremony," American Journal of
+Sociology, 83, 340-363.
+, W. R. Scott, and T. E. Deal (1981), "Institutional and Technical
+Sources of Organizational Structure: Explaining the Structure of
+Educational Organizations," in H. D. Stein (Ed.), Organization
+and Human Services, Philadelphia, PA: Temple University Press.
+Molander, E. (1987), "A Paradigm for Design, Promulgation, and En-
+forcement of Ethical Codes," Journal of Business Ethics, 6, 619-
+227-238.
+Schrager, L. and J. Short, Jr. (1978), "Toward a Sociology of Orga-
+nizational Crime," Social Problems, 25, 407-419.
+Scott, W. R. (1995), Institutions and Organizations, Thousand Oaks,
+CA: Sage.
+Seidler, J. (1974), "On Using Informants: A Technique for Collecting
+Quantitative Data and Controlling Measurement Error in Orga-
+nization Analysis," American Sociological Review, 39, 816-831.
+Shover, N. (1978), "Defining Organizational Crime," in D. Ermann and
+R. Lundman (Eds.), Corporate and Governmental Deviance, New
+York: Oxford University Press.
+Simpson, S. S. (1986), "The Decomposition of Antitrust: Testing a
+Multi-Level, Longitudinal Model of Profit-Squeeze," American
+Sociological Review, 51, 859-875.
+Sonnenfeld, F. and P. Lawrence (1978), "Why Do Companies Suc-
+cumb to Price Fixing?" Harvard Business Review, 56, 4, 145-
+157.
+Spelling, L. (1944), "Specific War Crimes," Journal of Criminal Law
+and Criminology, 34, 303-3 10.
+Spencer, J. (1965), "White Collar Crime," in E. Glover, H. Mannheim,
+and E. Miller (Eds.), Criminology in Transition, London: Tavi-
+631.
+Moody's Industrial News Reports (1983-1987), New York: Moody's
+stock.
+Staw, B. M. and E. Szwajkowski (1975), "The Scarcity-Munificence
+Investors Service.
+Neter, J., W. Wasserman, and M. H. Kutner (1985), Applied Linear Component of Organizational Environments and the Commission
+Statistical Models: Regression, Analysis of Variance, and Exper- of Illegal Acts," Administrative Science Quarterly, 20, 345-354.
+imental Designs, Homewood, IL: Irwin.
+Nocera, J. (1995), "Fatal Litigation," Fortune, October 16, 60-82.
+Palmer, J. (1972), "Some Economic Conditions Conducive to Collu-
+sion," Journal of Economic Inquiry, 6, 29-38.
+Pennings, J. (1973), "Measures of Organizational Structure: A Meth-
+odological Note," American Journal of Sociology, 79, 686-704.
+Perez, J. (1978), "Corporate Criminality: A Study of One Thousand
+Largest Industrial Corporations in the USA," unpublished doc-
+toral dissertation, University of Pennsylvania.
+Pondy, L. R. and I. I. Mitroff (1979), "Beyond Open System Models
+of Organization," in B. M. Staw (Ed.), Research in Organiza-
+tional Behavior, Greenwich, CT: JAI Press.
+Posner, R. (1970), "A Statistical Study of Antitrust Enforcement,"
+Journal of Law and Economics, 13, 365-420.
+Price, J. L. and C. W. Mueller (1986), Handbook of Organizational
+Measurement, Marshfield, MA: Pitman.
+Provan, K. G. and S. J. Skinner (1989), "Interorganizational Depen-
+dence and Control as Predictors of Opportunism in Dealer-
+Supplier Relationships," Academy of Management Journal, 32,
+sions of Organizational Structure," Administrative Science Quar-
+646
+New York: Random House.
+Stone, C. D. (1975), Where the Law Ends: The Social Control of Cor-
+porate Behavior, New York: Harper & Row.
+Stone, E. F. and J. R. Hollenbeck (1989), "Clarifying Some Contro-
+versial Issues Surrounding Statistical Procedures for Detecting
+Moderator Variables: Empirical Evidence and Related Matters,"
+Journal of Applied Psychology, 74, 3-10.
+Sutherland, E. (1949), White Collar Crime, New York: Dryden.
+Szwajkowski, E. (1986), "The Myths and Realities of Research on
+Organizational Misconduct," in W. Frederick (Ed.), Research in
+Corporate Social Performance and Policy, Greenwich, CT: JAI
+Press.
+Thornburg, D. (1991), "Criminal Enforcement of Environmental Laws:
+A National Priority," George Washington Law Review, 59, 778.
+Ungar, S. J. (1972), "Get Away with What You Can," in R. L.
+Heilbroner (Ed.), In the Name of Profit, New York: Doubleday.
+Vandivier, K. (1972), "Why Should My Conscience Bother Me?" in
+R. L. Heilbroner (Ed.), In the Name of Profit, New York: Dou-
+202-212.
+Pugh, D., D. Hickson, C. R. Hinings, and C. Turner (1968), "Dimen-
+terly, 13, 65-105.
+Steiner, G. and J. Steiner (1988), Business, Government, and Society,
+bleday.
+Vaughn, D. (1982), "Toward Understanding Unlawful Organizational
+Behavior," Michigan Law Review, 80, 1377-1402.
+ORGANIZATION SCIENCE/Vol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/termsMARIE A. MCKENDALL AND JOHN A. WAGNER, III Motive, Opportunity, Choice
+(1983), Controlling Unlawful Organizational Behavior: Social
+Structure and Corporate Misconduct, Chicago, IL: University of
+Chicago Press.
+and F. Bird (1987), "The Moral Dimensions of Organizational
+Culture," Journal of Business Ethics, 6, 15-22.
+Weller, S. (1988), "The Effectiveness of Corporate Codes of Ethics,"
+Victor, B. and J. Cullen (1988), "The Organizational Bases of Eth-
+ical Work Climates," Administrative Science Quarterly, 33,
+101-125.
+Journal of Business Ethics, 7, 389-396.
+Yeager, P. (1981), "The Politics of Corporate Social Control: The Fed-
+eral Response to Water Pollution," unpublished doctoral disser-
+Ward's Business Directory of U.S. Private Comnpanies (1988), Bel-
+mont, CA: Information Access Company.
+Waters, J. (1978), "Catch 20.5: Corporate Morality as an Organiza-
+tional Phenomenon," Organizational Dynamics, 6, 4, 3-19.
+tation, University of Wisconsin, Madison.
+(1986), "Analyzing Corporate Offenses," in W. Frederick (Ed.),
+Research in Corporate Social Performance and Policy, Green-
+wich, CT: JAI Press.
+Accepted by Alan Meyer; received October 1994. This paper has been with the authors for two revisions.
+ORGANIZATION SCIENCENVol. 8, No. 6, November-December 1997
+This content downloaded from 78.201.239.33 on Thu, 25 Jan 2018 04:20:44 UTC
+All use subject to http://about.jstor.org/terms
+647
